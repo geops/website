@@ -3,16 +3,22 @@ title: Webkarten und Bahnhofpläne der SBB
 summary: Einheitliche Karten und Bahnhofpläne für den gesamten öffentlichen
   Verkehr in der Schweiz.
 slug: webkarten-und-bahnhofplaene
+contactTitle: ""
+contactSubtitle: Wollen Sie ihren Kunden eine ansprechende Karte zum Thema
+  Mobilität bereitstellen? Dann sprechen Sie uns an. Bei den Themen Webkarten
+  und Datenintegrationen helfen wir von geOps Ihnen gern weiter. Bei Fragen zu
+  den Themen graphische Gestaltung und Print-Produktion ist unser ARGE-Partner
+  \[evoq](https://evoq.ch) der richtige Ansprechpartner.
 frontpage: false
 frontpageTitle: Webkarten und Bahnhofpläne
 ---
 Unter dem Namen Trafimage wird das um­fassendste Kartenwerk des öffentlichen Ver­kehrs in der Schweiz mit den Strecken­netzen aller Ver­kehrs­mittel bereitgestellt. Im [System Trafimage](http://trafimage.ch/) werden jährlich über 300 Karten für die SBB publiziert – von der grossen Übersichtskarte für die Reisenden bis hin zur internen Stromnetzkarte. Trafimage steht allen offen und wird insbesondere von anderen öV-Unternehmen, z.B. Postauto oder BLS, aber auch von Behörden oder Verbänden wie dem VöV rege genutzt. Die Karten gibt es sowohl als Print Plakate als auch in digitaler Form. Die digitalen Karten findet man auf Stelen im Bahnhof, auf Monitoren im Zug, eingebunden in SBB-Webseiten und in vereinter Form im [Trafimage Webkartenportal](https://maps.trafimage.ch/).
 
-<iframe src="https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=911407.59&y=5936816.15&z=9" width="100%" height="700" title="Tacker Webkarten Portal"></iframe>
+<iframe src="https://maps2.trafimage.ch/ch.sbb.infrastruktur?disabled=header,footer" width="100%" height="700" title="Tacker Webkarten Portal"></iframe>
 
 Eine weitere wichtige Komponente von Trafimage sind die Bahnhofpläne. In mehr als 100 Bahnhöfen der SBB helfen die Print-Plakate der Trafimage Bahnhofpläne den Reisenden bei der Orientierung. Die 35 grössten Schweizer Stationen sind mit den besonders leicht verständlichen und ansprechenden dreidimensionalen Bahnhofplänen ausgestattet. Neben den gedruckten Plakaten gibt es sie auch als [Interaktiven Bahnhofplan](https://plans.trafimage.ch/) im Web, auf Mobile und auf digitalen Stelen im Bahnhof.
 
-<iframe src="https://plans.trafimage.ch/zuerich-hb?layer=zurich_aussenplan&x=683159.61&y=248087.52&z=19.102218578087573" width="100%" height="700" title="Tacker Webkarten Portal"></iframe>
+<iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="700" title="Tacker Webkarten Portal"></iframe>
 
 ## Immer auf dem aktuellsten Stand
 
@@ -31,9 +37,3 @@ Die SBB informiert ihre Kunden auf grossen Generalanzeigern über Einschränkung
 ## Karten und Pläne für den gesamten öffentlichen Verkehr
 
 Um ein einheitliches Erscheinungsbild des öffentlichen Verkehrs in der Schweiz zu gewährleisten, sind die im System Trafimage für die SBB produzierten Karten und Pläne auch für andere Anbieter frei verfügbar. So lassen sich weitere informative Karten und Pläne rund um das Thema Mobilität aus den vorhandenen Karten ableiten. Anpassungen sind im Rahmen des Copyrights erlaubt und mit einfachen Online-Werkzeugen möglich. Eigene redaktionelle Inhalte können mit unserem Redaktionstool in den Karten ergänzt werden.
-
-Wollen Sie ihren Kunden eine ansprechende Karte zum Thema Mobilität bereitstellen? Dann sprechen Sie uns an.
-
-\>> Bei den Themen Webkarten und Datenintegrationen helfen wir von geOps Ihnen gern weiter.
-
-\>> Bei Fragen zu den Themen graphische Gestaltung und Print-Produktion ist unser ARGE-Partner evoq der richtige Ansprechpartner.
