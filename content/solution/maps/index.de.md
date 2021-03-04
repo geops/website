@@ -21,19 +21,19 @@ Neben einem für die allgemeine Orientierung übersichtlichen und informativen D
 * Hausnummern sowie Zu- und Durchgänge als Orientierungspunkte für die Tür-zu-Tür-Navigation 
 * Für die barrierefreie Navigation wichtige Elemente wie Lifte und Rolltreppen
 
-![](/images/solution/maps/travic.png)
+![Travic](/images/solution/maps/travic.png "Travic")
 
 ## Flexibel mit Vector Tiles
 
 Unsere Karten basieren auf MapBox Vector Tiles. Diese Technologie erlaubt hochperformante Kartendarstellungen und ermöglicht unbegrenzte Möglichkeiten für das Styling und die Interaktivität der Karten. Mit den gleichen Grundlagen können die Karten ganz unterschiedlich aussehen und optimal an Ihr Corporate Design oder Ihren speziellen Anwendungsfall angepasst werden.
 
-![](/images/solution/maps/map_raster.png)
+![Karten](/images/solution/maps/map_raster.png "Karten")
 
 ## Sicher und schnell
 
 Für die Auslieferung der Karten an Ihre Anwendung nutzen wir einen etablierten Workflow. Ausgehend von unserer Datenbank, in der die verschiedenen Datenquellen integriert werden, werden Vector Tiles gerechnet und für das Internet aufbereitet. Sämtliche Karten stehen Ihnen über ein globales Content Delivery Network zur Verfügung, was hohe Übertragungsgeschwindigkeiten und geringe Latenzzeiten garantiert – egal wo auf der Welt Sie die Karten nutzen. In Ihrer Anwendung können Sie die Karten mit wenig Programmieraufwand über bewährte Software-Bibliotheken nutzen. Und sollten doch einmal klassische Rasterkarten benötigt werden, lassen sich auch die in zahlreichen Varianten bereitstellen.
 
-![](/images/solution/maps/maps_grafik.png)
+![Workflow](/images/solution/maps/maps_grafik.png "Workflow")
 
 ## Interessiert?
 
