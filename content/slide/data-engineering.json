@@ -1,11 +1,11 @@
 {
   "en": {
-    "title": "Data Engineering",
-    "summary": "Collecting and diving into data, producing maps and insights",
+    "title": "Collecting and diving into data, producing maps and insights",
+    "summary": "",
     "image": "/images/slide/data-engineering/berg_bahn.jpg"
   },
   "de": {
-    "title": "Data Engineering",
-    "summary": "Daten verstehen, analysieren und präsentieren"
+    "title": "Daten verstehen, analysieren und präsentieren",
+    "summary": ""
   }
 }
