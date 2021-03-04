@@ -1,6 +1,7 @@
 ---
 title: Webkarten und Bahnhofpläne der SBB
-summary: Einheitliche Karten und Bahnhofpläne für den gesamten öffentlichen.
+summary: Einheitliche Karten und Bahnhofpläne für den gesamten öffentlichen
+  Verkehr in der Schweiz.
 slug: webkarten-und-bahnhofplaene
 frontpage: false
 frontpageTitle: Webkarten und Bahnhofpläne
@@ -26,8 +27,6 @@ Die Inhalte zahlreicher thematischer SBB-Karten werden mit unserem Redaktionstoo
 Das GeoCMS Bahnhofpläne ist die zentrale Plattform für die Pflege von Angebotsinformationen der 35 grössten Schweizer Bahnhöfe. Öffnungszeiten, Logos, Bilder und andere Inhalte werden von den SBB-Immobilienbewirtschaftern und unserem ARGE-Partner evoq im GeoCMS verwaltet. Die Daten bilden die Grundlage für online und offline Pläne und für die Angebotsseiten auf [www.sbb.ch](http://www.sbb.ch/).
 
 Die SBB informiert ihre Kunden auf grossen Generalanzeigern über Einschränkungen im Bahnverkehr. Zu jeder Störung werden Ort, Dauer, Hinweise und mögliche alternative Verbindungen in Cartaro erfasst und über eine Schnittstelle als für den jeweiligen Monitor optimierte Grafik exportiert.
-
-![](/images/solution/webkarten-und-bahnhofplaene/moco_bern_rechts_web.jpg)
 
 ## Karten und Pläne für den gesamten öffentlichen Verkehr
 

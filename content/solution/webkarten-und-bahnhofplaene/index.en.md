@@ -1,7 +1,6 @@
 ---
 title: SBB web maps and train station maps
-summary: Uniform maps and station plans for the entire public
-  Traffic in Switzerland.
+summary: Uniform maps and station plans for the entire public transport in Switzerland.
 cover: /images/solution/webkarten-und-bahnhofplaene/iabp-02.png
 pageCover: /images/solution/webkarten-und-bahnhofplaene/iabp-02.png
 slug: webkarten-und-bahnhofplaene
@@ -16,11 +15,11 @@ frontpageTitle: Webkarten und Bahnhofpläne
 ---
 Under the name Trafimage, the most comprehensive map of public transport in Switzerland is made available with the route networks of all modes of transport. In the [Trafimage system](http://trafimage.ch/), over 300 maps for the SBB are published annually - from the large overview map for travelers to the internal electricity network map. Trafimage is open to everyone and is used in particular by other public transport companies, e.g. PostBus or BLS, but also by authorities or associations such as the VöV. The cards are available both as print posters and in digital form. The digital maps can be found on steles in the train station, on monitors in the train, integrated into SBB websites and in a combined form in the [Trafimage web map portal](https://maps.trafimage.ch/).
 
- **Integrated web map tracker** 
+<iframe src="https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=911407.59&y=5936816.15&z=9" width="100%" height="700" title="Tacker Webkarten Portal"></iframe>
 
 Another important component of Trafimage are the station plans. In more than 100 SBB train stations, the Trafimage train station maps print posters help travelers find their way around. The 35 largest Swiss stations are equipped with particularly easy-to-understand and appealing three-dimensional station plans. In addition to the printed posters, they are also available as an [interactive train station map](https://plans.trafimage.ch/) on the web, on mobile and on digital steles in the train station.
 
- **Integrated station map** 
+<iframe src="https://plans.trafimage.ch/zuerich-hb?layer=zurich_aussenplan&x=683159.61&y=248087.52&z=19.102218578087573" width="100%" height="700" title="Tacker Webkarten Portal"></iframe>
 
 ## Always up to date
 
@@ -35,8 +34,6 @@ The contents of numerous thematic SBB cards are updated with our Cartaro editing
 The GeoCMS train station plans is the central platform for the maintenance of information about the offers of the 35 largest Swiss train stations. Opening times, logos, images and other content are managed by the SBB real estate managers and our ARGE partner evoq in GeoCMS. The data form the basis for online and offline plans and for the offer pages on [www.sbb.ch](http://www.sbb.ch/).
 
 The SBB informs its customers about restrictions in rail traffic on large general advertisements. For each malfunction, the location, duration, information and possible alternative connections are recorded in Cartaro and exported via an interface as graphics optimized for the respective monitor.
-
-![](/images/solution/webkarten-und-bahnhofplaene/moco_bern_rechts_web.jpg)
 
 ## Maps and plans for all public transport
 
