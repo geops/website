@@ -9,7 +9,7 @@ contactSubtitle: Do you want to provide your customers with an appealing map on
   the subject of mobility? Then contact us. We at geOps are happy to help you
   with the topics of web maps and data integration. If you have any questions
   about graphic design and print production, our ARGE partner
-  \[evoq](https://evoq.ch) is the right contact.
+  [evoq](https://evoq.ch) is the right contact.
 weight: 3
 tags:
   - iabp
@@ -28,7 +28,7 @@ Another important component of Trafimage are the station plans. In more than 100
 
 ## Always up to date
 
-The Trafimage maps are complex products in which geodata from different sources and current timetable information flow. The resulting current network is processed with GIS tools developed by geOps and graphically optimized by means of generalization. The data integration from different sources takes place automatically and is constantly being expanded and further optimized. To display departure times and visualize the SBB's punctuality, both web maps and the interactive station map access our real-time service with current train positions and delay information. The freely available data not only cover Switzerland but all of Europe.
+The Trafimage maps are complex products in which geodata from different sources and current timetable information flow. The resulting current network is processed with GIS tools developed by geOps and graphically optimized by means of generalization. The data integration from different sources takes place automatically and is constantly being expanded and further optimized. To display departure times and visualize the SBB's punctuality, both web maps and the interactive station map access our real-time service with current train positions and [delay information](https://confluence.geops.ch/pages/createpage.action?spaceKey=GEOPSWEB2021&title=Link&linkCreation=true&fromPageId=58329126). The freely available data not only cover Switzerland but all of Europe.
 
 ## Editorial submitted content
 
