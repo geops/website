@@ -3,6 +3,12 @@ title: Webkarten und Bahnhofpläne der SBB
 summary: Einheitliche Karten und Bahnhofpläne für den gesamten öffentlichen
   Verkehr in der Schweiz.
 slug: webkarten-und-bahnhofplaene
+contactTitle: ""
+contactSubtitle: Wollen Sie ihren Kunden eine ansprechende Karte zum Thema
+  Mobilität bereitstellen? Dann sprechen Sie uns an. Bei den Themen Webkarten
+  und Datenintegrationen helfen wir von geOps Ihnen gern weiter. Bei Fragen zu
+  den Themen graphische Gestaltung und Print-Produktion ist unser ARGE-Partner
+  \[evoq](https://evoq.ch) der richtige Ansprechpartner.
 frontpage: false
 frontpageTitle: Webkarten und Bahnhofpläne
 ---
@@ -31,9 +37,3 @@ Die SBB informiert ihre Kunden auf grossen Generalanzeigern über Einschränkung
 ## Karten und Pläne für den gesamten öffentlichen Verkehr
 
 Um ein einheitliches Erscheinungsbild des öffentlichen Verkehrs in der Schweiz zu gewährleisten, sind die im System Trafimage für die SBB produzierten Karten und Pläne auch für andere Anbieter frei verfügbar. So lassen sich weitere informative Karten und Pläne rund um das Thema Mobilität aus den vorhandenen Karten ableiten. Anpassungen sind im Rahmen des Copyrights erlaubt und mit einfachen Online-Werkzeugen möglich. Eigene redaktionelle Inhalte können mit unserem Redaktionstool in den Karten ergänzt werden.
-
-Wollen Sie ihren Kunden eine ansprechende Karte zum Thema Mobilität bereitstellen? Dann sprechen Sie uns an.
-
-\>> Bei den Themen Webkarten und Datenintegrationen helfen wir von geOps Ihnen gern weiter.
-
-\>> Bei Fragen zu den Themen graphische Gestaltung und Print-Produktion ist unser ARGE-Partner evoq der richtige Ansprechpartner.
