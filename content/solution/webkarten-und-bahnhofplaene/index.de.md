@@ -22,15 +22,15 @@ Eine weitere wichtige Komponente von Trafimage sind die Bahnhofpläne. In mehr a
 
 ## Immer auf dem aktuellsten Stand
 
-Die Trafimage-Karten sind komplexe Produkte, in welche Geodaten unterschiedlicher Quellen und aktuelle Fahrplaninformationen einfliessen. Das so entstehende aktuelle Netz wird mit von geOps entwickelten GIS-Werkzeugen aufbereitet und mittels Generalisierung graphisch optimiert. Die Datenintegration aus unterschiedlichen Quellen erfolgt automatisch und wird stetig ausgebaut und weiter optimiert.  Für die Anzeige von Abfahrtszeiten und für die Visualisierung der Pünktlichkeit der SBB greifen sowohl Webkarten als auch der Interaktive Bahnhofplan auf unseren Realtime-Service mit aktuellen Zugpositionen und Verspätungsinformationen zu [Link](https://confluence.geops.ch/pages/createpage.action?spaceKey=GEOPSWEB2021&title=Link&linkCreation=true&fromPageId=58329126). Die frei verfügbaren Daten decken nicht nur die Schweiz sondern ganz Europa ab.
+Die Trafimage-Karten sind komplexe Produkte, in welche Geodaten unterschiedlicher Quellen und aktuelle Fahrplaninformationen einfliessen. Das so entstehende aktuelle Netz wird mit von geOps entwickelten GIS-Werkzeugen aufbereitet und mittels Generalisierung graphisch optimiert. Die Datenintegration aus unterschiedlichen Quellen erfolgt automatisch und wird stetig ausgebaut und weiter optimiert.  Für die Anzeige von Abfahrtszeiten und für die Visualisierung der Pünktlichkeit der SBB greifen sowohl Webkarten als auch der Interaktive Bahnhofplan auf unseren Realtime-Service mit aktuellen Zugpositionen und Verspätungsinformationen zu. Die frei verfügbaren Daten decken nicht nur die Schweiz sondern ganz Europa ab.
 
 ## Redaktionell angereicherte Inhalte
 
-Basierend auf unserem [GeoCMS Cartaro](https://confluence.geops.ch/pages/createpage.action?spaceKey=GEOPSWEB2021&title=GeoCMS+Cartaro&linkCreation=true&fromPageId=58329126) entwickelt und betreibt geOps die Redaktionstools für Karten, Bahnhofpläne und Kundeninformation der SBB.
+Basierend auf unserem [GeoCMS Cartaro](/solution/cartaro) entwickelt und betreibt geOps die Redaktionstools für Karten, Bahnhofpläne und Kundeninformation der SBB.
 
 Die Inhalte zahlreicher thematischer SBB-Karten werden mit unserem Redaktionstool Cartaro gepflegt. Unter anderem die Karten zum Reisen mit eingeschränkter Mobilität und zu den Bauprojekten der SBB basieren auf Cartaro. Auch Fachabteilungen der SBB nutzen unser Redaktionstool, um z.B. schweizweit immer den richtigen Anlageverantwortlichen eines Streckenabschnittes zu finden.
 
-Das GeoCMS Bahnhofpläne ist die zentrale Plattform für die Pflege von Angebotsinformationen der 35 grössten Schweizer Bahnhöfe. Öffnungszeiten, Logos, Bilder und andere Inhalte werden von den SBB-Immobilienbewirtschaftern und unserem ARGE-Partner evoq im GeoCMS verwaltet. Die Daten bilden die Grundlage für online und offline Pläne und für die Angebotsseiten auf [www.sbb.ch](http://www.sbb.ch/).
+Das GeoCMS Bahnhofpläne ist die zentrale Plattform für die Pflege von Angebotsinformationen der 35 grössten Schweizer Bahnhöfe. Öffnungszeiten, Logos, Bilder und andere Inhalte werden von den SBB-Immobilienbewirtschaftern und unserem ARGE-Partner evoq im GeoCMS verwaltet. Die Daten bilden die Grundlage für online und offline Pläne und für die Angebotsseiten auf [www.sbb.ch](https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/bahnhof-bern/geschaefte/shop-detail.html/geo-blumen-ackermann-6448).
 
 Die SBB informiert ihre Kunden auf grossen Generalanzeigern über Einschränkungen im Bahnverkehr. Zu jeder Störung werden Ort, Dauer, Hinweise und mögliche alternative Verbindungen in Cartaro erfasst und über eine Schnittstelle als für den jeweiligen Monitor optimierte Grafik exportiert.
 
