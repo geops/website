@@ -35,8 +35,6 @@ The GeoCMS train station plans is the central platform for the maintenance of in
 
 The SBB informs its customers about restrictions in rail traffic on large general advertisements. For each malfunction, the location, duration, information and possible alternative connections are recorded in Cartaro and exported via an interface as graphics optimized for the respective monitor.
 
-![](/images/solution/webkarten-und-bahnhofplaene/moco_bern_rechts_web.jpg)
-
 ## Maps and plans for all public transport
 
 In order to ensure a uniform appearance of public transport in Switzerland, the maps and plans produced in the Trafimage system for SBB are also freely available to other providers. In this way, further informative maps and plans relating to the topic of mobility can be derived from the existing maps. Adjustments are permitted within the scope of the copyright and can be made with simple online tools. Your own editorial content can be added to the cards with our editorial tool.
