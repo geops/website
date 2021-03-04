@@ -5,7 +5,7 @@ summary: Die Zufriedenheit unserer Kunden und des gesamten geOps-Teams liegen
   Kundenanforderungen zu erfüllen und gleichzeitig bei vielen Projekten den
   Überblick nicht zu verlieren, setzen wir bei geOps verschiedene Methoden des
   agilen Projektmanagements ein und kombinieren diese dynamisch miteinander.
-author: Julia Knödler
+author: Mario Härtwig
 cover: /images/blog/scrum-agilitat-bei-geops/AF2I9594.jpg
 created: 2020-09-18
 slug: scrum-agilitat-bei-geops
