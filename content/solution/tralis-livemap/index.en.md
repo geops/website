@@ -23,7 +23,7 @@ published: true
 ---
 LiveMaps show the positions of public transport vehicles on a map.
 
-In the basic version, the vehicle positions are extrapolated on the basis of the  **target timetable** , i.e. the medium- and long-term planned timetable offer. Train delays, cancellations or diversions are ignored. The resulting representations are therefore only suitable to a limited extent as traveler information. However, they can provide a good overview of what public transport is actually offering. These approaches are also popular with planners and decision-makers, as there is also the option of visualizing various planning scenarios. Our [globally available representation of public transport](https://tracker.geops.ch/?z=6&s=1&x=1150450.8381&y=6451274.7870&l=transport) is largely based on target data.
+In the basic version, the vehicle positions are extrapolated on the basis of the **target timetable** , i.e. the medium- and long-term planned timetable offer. Train delays, cancellations or diversions are ignored. The resulting representations are therefore only suitable to a limited extent as traveler information. However, they can provide a good overview of what public transport is actually offering. These approaches are also popular with planners and decision-makers, as there is also the option of visualizing various planning scenarios. Our [globally available representation of public transport](https://tracker.geops.ch/?z=6&s=1&x=1150450.8381&y=6451274.7870&l=transport) is largely based on target data.
 
 ![](/images/solution/tralis-livemap/tracker-worldwide.png)
 
@@ -33,16 +33,6 @@ A good example of such a LiveMap is the \[Swiss Federal Railways SBB punctuality
 
 ![](/images/solution/tralis-livemap/livemap.jpg)
 
-
-
 LiveMaps develop the greatest added value when, in addition to the target timetable and the forecast deviations, the actual position of the vehicles is taken into account. Our TRALIS system is able to combine these three sources of information. Vehicle positions from GPS receivers or other positioning systems not only serve to display the position of the vehicles on the map as precisely as possible, but they are also used to validate the forecasts from the control center. Unrealistic forecasts can be identified using travel times. If the minimum travel time known in the system to the stop is longer than the forecast, the forecast arrival time can be corrected upwards. On the other hand, the system must rely on the forecasts from the control centers if the control centers predict a later point in time for arrival than can be expected based on the driving time alone. Because only the overview from the control center knows the possible obstacles and restrictions that lie in front of the located vehicle.
 
 Our LiveMaps can be used for visualization and planning with a low demand for up-to-dateness as well as for highly precise systems for traveler information.
-
-## Technologies
-
-* JavaScript with React, OpenLayers, Web Socket
-* App integration with WebViews
-* Backend with Python (including asyncio, aioredis, websocket), PostGIS and Redis Cache
-* NetEx / SIRI compatible interfaces and datastores
-* Infrastructure on AWS with auto-scaling
