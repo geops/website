@@ -10,10 +10,14 @@ Ohne Fahrplandaten geht im öffentlichen Verkehr nichts. Richtig nützlich werde
 ![Moco](/images/solution/transit-data-hub/sbb.jpg "Moco")
 
 * **Reisenden- und Störungs-Information** – Grundlage für genaue Reisendeninformation in Echtzeit
-* **Live Maps** – Fahrzeugpositionen auf Basis von Soll- und Echtzeitdaten
-* **Analysen und Statistiken** – Erreichbarkeits-Potentiale, Pünktlichkeits-Statistiken, Fahrleistungen
-* **Konverter** – Umwandlung zwischen verschiedenen proprietären und offenen Formaten wie GTFS
-* **Anreicherung** – Anreicherung von Fahrplandaten mit Routenverläufen (Shapes) oder Echtzeitdaten
+
+  **Live Maps** – Fahrzeugpositionen auf Basis von Soll- und Echtzeitdaten
+
+  **Analysen und Statistiken** – Erreichbarkeits-Potentiale, Pünktlichkeits-Statistiken, Fahrleistungen
+
+  **Konverter** – Umwandlung zwischen verschiedenen proprietären und offenen Formaten wie GTFS
+
+  **Anreicherung** – Anreicherung von Fahrplandaten mit Routenverläufen (Shapes) oder Echtzeitdaten
 
 ## Interessiert? 
 
