@@ -1,0 +1,11 @@
+{
+  "name": "Friedjoff Trautwein",
+  "photo": "/images/person/friedjoff-trautwein.jpg",
+  "position": {
+    "de": "Full Stack-Entwickler, UX",
+    "en": "Full Stack Developer, UX"
+  },
+  "email": "friedjoff.trautwein@geops.de",
+  "telephone": "+49 761 458 925 18",
+  "github": "friedjoff"
+}

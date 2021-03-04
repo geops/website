@@ -1,0 +1,174 @@
+{
+  "en": {
+    "contact": {
+      "title": "Contact"
+    },
+    "applicationTeaser": {
+      "action": "Apply",
+      "title": "initiative application",
+      "subtitle": "Didn't find a suitable position? Then do not hesitate to send us an unsolicited application! We are always interested in exciting applications."
+    },
+    "blog": {
+      "header": "News about projects and technologies as well as the work at geOps."
+    },
+    "privacy": {
+      "path": "/privacy",
+      "translationPath": "/datenschutz",
+      "title": "Privacy"
+    },
+    "imprint": {
+      "path": "/imprint",
+      "translationPath": "/impressum",
+      "title": "Imprint"
+    },
+    "newsletterTeaser": {
+      "title": "Always up to date",
+      "subtitle": "... with our geOps newsletter.",
+      "action": "Subscribe"
+    },
+    "relatedList": {
+      "solution": "Solution",
+      "title": "More on this topic"
+    },
+    "about": {
+      "title": "About geOps",
+      "we": "Who we are",
+      "work": "How we work",
+      "tech": "Technologies"
+    },
+    "careerTeaser": {
+      "title": "Working at geOps",
+      "subtitle": "The latest technologies, exciting projects and a great team.",
+      "action": "Jobs"
+    },
+    "openSourceTeaser": {
+      "title": "Open Source - what else",
+      "text": "Our projects consistently rely on open source components. With open source we develop the best solution for our customers, offer attractive prices and give the freedom to get everything out of a product. We regularly give developments back to the community from our projects.",
+      "action": "Learn more"
+    },
+    "contactPerson": {
+      "title": "Questions?",
+      "subtitle": "Get in contact with us"
+    },
+    "frontpage": {
+      "listTitle": "Insights"
+    },
+    "solution": {
+      "header": "Our solutions",
+      "text": "Our apps and information systems intelligently link factual data with geodata and maps. The bandwidth ranges from data analysis and visualization to information systems and business solutions to complete server infrastructures. In technical terms, our focus is on the environment, mobility, public transport and logistics. Our services include IT consulting, software development, system operation and the provision of web services.",
+      "title": "Solutions"
+    },
+    "website": {
+      "down": "down",
+      "up": "up",
+      "more": "Learn more",
+      "readMore": "read more",
+      "readingTime": "reading time ›",
+      "telephone": "Telephone",
+      "writtenBy": "written by {{author}}"
+    },
+    "jobList": {
+      "title": "Open positions",
+      "action": "Apply"
+    },
+    "aboutTeaser": {
+      "title": "We map the future",
+      "text": "Modern web applications based on geographic and real-time data are the core competence of geOps. Our specialist areas are public transport, mobility, logistics and the environment. When selecting technologies, we have a clear focus on open source."
+    },
+    "team": {
+      "title": "Our team",
+      "text": "Computer science, physics, environmental sciences, design: our multidisciplinary team combines enthusiasm for open source and the joy of new challenges. With our bundled expertise, we have been realizing innovative IT projects that have impressed our customers for 20 years."
+    },
+    "career": {
+      "path": "/career",
+      "translationPath": "/karriere",
+      "title": "Career"
+    }
+  },
+  "de": {
+    "contact": {
+      "title": "Kontakt"
+    },
+    "applicationTeaser": {
+      "action": "Bewerben",
+      "title": "Initiativbewerbung",
+      "subtitle": "Keine passende Stelle gefunden? Dann zögern Sie nicht, sich initiativ bei uns zu bewerben! Wir sind immer an spannenden Bewerbungen interessiert."
+    },
+    "blog": {
+      "header": "Neues über Projekte und Technologien sowie die Arbeit bei geOps."
+    },
+    "privacy": {
+      "path": "/datenschutz",
+      "translationPath": "/privacy",
+      "title": "Datenschutz"
+    },
+    "imprint": {
+      "path": "/impressum",
+      "translationPath": "/imprint",
+      "title": "Impressum"
+    },
+    "newsletterTeaser": {
+      "title": "Immer auf dem Laufenden",
+      "subtitle": "... mit unserem geOps Newsletter.",
+      "action": "Abonnieren"
+    },
+    "relatedList": {
+      "solution": "Lösung",
+      "title": "Mehr zum Thema"
+    },
+    "about": {
+      "title": "Über geOps",
+      "we": "Wer wir sind",
+      "work": "Wie wir arbeiten",
+      "tech": "Technologien"
+    },
+    "careerTeaser": {
+      "title": "Arbeiten bei geOps",
+      "subtitle": "Neuste Technologien, spannende Projekte und ein tolles Team.",
+      "action": "Zu den Stellen"
+    },
+    "openSourceTeaser": {
+      "title": "Open Source – was sonst?",
+      "text": "Unsere Projekte setzen durchweg auf Open Source Komponenten. Mit Open Source entwickeln wir für unsere Kunden die beste Lösung, bieten attraktive Preise und geben die Freiheit, alles aus einem Produkt herauszuholen. Von unseren Projekten geben wir regelmässig Entwicklungen an die Community zurück. ",
+      "action": "Mehr erfahren"
+    },
+    "contactPerson": {
+      "title": "Interessiert?",
+      "subtitle": "Nehmen Sie kontakt mit uns auf."
+    },
+    "frontpage": {
+      "listTitle": "Einblicke"
+    },
+    "solution": {
+      "header": "Unsere Lösungen",
+      "text": "Unsere Apps und Informationssysteme verknüpfen Sachdaten auf intelligente Weise mit Geodaten und Karten. Die Bandreite reicht dabei von der Datenanalyse und -visualisierung über Auskunftssysteme und Geschäftslösungen bis hin zu kompletten Server-Infrastrukturen. Fachlich liegen unsere Schwerpunkte in den Bereichen Umwelt, Mobilität, öffentlicher Verkehr und Logistik. Unsere Leistungen umfassen IT-Beratung, Software-Entwicklung, Systembetrieb und die Bereitstellung von Webdiensten.",
+      "title": "Lösungen"
+    },
+    "website": {
+      "down": "runter",
+      "up": "hoch",
+      "more": "Mehr erfahren",
+      "readMore": "weiterlesen",
+      "readingTime": "Lesezeit",
+      "telephone": "Telefon",
+      "writtenBy": "geschrieben von {{author}}"
+    },
+    "jobList": {
+      "title": "Offene Stellen",
+      "action": "Bewerben"
+    },
+    "aboutTeaser": {
+      "title": "We map the future",
+      "text": "Moderne Web-Applikationen auf Basis von Geo- und Echtzeitdaten sind die Kernkompetenz von geOps. Unsere fachlichen Schwerpunkte sind öffentlicher Verkehr, Mobilität, Logistik und Umwelt. Bei der Auswahl von Technologien setzen wir einen klaren Fokus auf Open Source."
+    },
+    "team": {
+      "title": "Unser Team",
+      "text": "Informatik, Physik, Umweltwissenschaften, Design: Unser multidisziplinäres Team vereint die Begeisterung für Open Source und die Freude an neuen Herausforderungen. Mit unserer gebündelten Kompetenz realisieren wir seit 20 Jahren innovative IT-Projekte, die unsere Kunden begeistern."
+    },
+    "career": {
+      "path": "/karriere",
+      "translationPath": "/career",
+      "title": "Karriere"
+    }
+  }
+}

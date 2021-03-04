@@ -1,0 +1,10 @@
+{
+  "name": "Fabian Merthin",
+  "photo": "/images/person/fabian-merthin.jpg",
+  "position": {
+    "de": "Full Stack-Entwickler, Data Management",
+    "en": "Full stack developer, data management"
+  },
+  "email": "Fabian.merthin@geops.de",
+  "telephone": "+49 761 458 925 27"
+}

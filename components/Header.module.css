@@ -1,0 +1,13 @@
+.headerContainer {
+  --header-height: 112px;
+}
+
+@media (min-width: 1024px) {
+  .headerContainer {
+    height: var(--header-height) !important;
+  }
+
+  .aboutNavigation {
+    top: var(--header-height);
+  }
+}

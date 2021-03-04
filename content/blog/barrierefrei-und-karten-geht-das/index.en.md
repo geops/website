@@ -1,0 +1,25 @@
+---
+title: Barrierefrei und Karten - geht das?
+summary: In der realen Welt werden immer mehr Zugänge barrierefrei gestaltet.
+  Doch wie sieht es im digitalen Umfeld aus? Gerade im Bereich von digitalen
+  Karten und Plänen, die per se grafische Elemente für den Zugang zu
+  Informationen  voraussetzen, ist die Gewährleistung von Barrierefreiheit eine
+  grosse Herausforderung.
+cover: /images/blog/barrierefrei-und-karten-geht-das/AutonomesReisen.1488198485597.jpeg
+created: 2017-05-21
+slug: barrierefrei-und-karten-geht-das
+tags:
+  - maps
+  - developers
+published: true
+---
+
+Wie können Blinde in der digitalen Welt Karten lesen? Wie können Analphabeten sich mit Karten orientieren? Wie können motorisch eingeschränkte Menschen interaktive Karten bedienen? Wie können Sehbehinderte Farben und Signaturen in Karten unterscheiden?
+
+Ein herausragender Ansatz, auch Blinden einen Zugang zur geografischen Welt zu geben, ist der aufwändig hergestellte [Schweizer Blindenatlas](https://www.nzz.ch/panorama/weltneuheit-fuer-sehbehinderte-wie-blinde-die-schweiz-ertasten-koennen-ld.144979). In der Welt des Internets sind andere Massnahmen notwendig, um Menschen mit Behinderungen nicht komplett von der Nutzung von Karten und Plänen auszuschliessen. Hier ist ein Augenmerk auf die Gestaltung mit kontrastreichen Farben und deutlichen Symbolen erforderlich. Die Bedienung der Karte muss auch ohne Maus alleine mit der Tastatur möglich sein, und über die Karte abfragbare Informationen dürfen nicht nur angezeigt sondern müssen auch vorgelesen werden.
+
+Im Zuge des Relaunch ihrer Website kam die SBB ihrer [gesetzlichen Verpflichtung](https://stories.sbb.ch/vier-koepfe-und-eine-neue-website/2017/04/10/) nach, den Zugang zu allen Informationen barrierefrei zur Verfügung zu stellen. In diesem Rahmen haben wir auch die [Interaktiven Bahnhofpläne](http://plans.trafimage.ch/) (z.B. für [Olten](http://plans.trafimage.ch/olten)) und die [Webkarten](https://maps.trafimage.ch) überarbeitet. Statt mit der Maus kann man nun auch mittels Tabulator-, Pfeil- und Enter-Tasten durch die Karten und Pläne navigieren. Der Fokus von Elementen wird dabei klar angezeigt. Neben den Menüs und Buttons rund um die Karten sind damit auch die Features in den Karten mit der Tastatur erreichbar. Alle Inhalte können nun von Screen Readern vorgelesen werden. Ausserdem wurde die Farbgebung, inbesondere der Icons für hohe Kontraste optimiert.
+
+Im Gegensatz zu normalen Websites stösst man bei digitalen Karten und Plänen allerdings schneller an Grenzen. Hauptziel von Karten ist die grafische Wiedergabe von räumlichen Informationen. Blinden kann man damit nur sehr eingeschränkt gerecht werden. Navigieren sie durch den Interaktiven Bahnhofplan, werden ihnen zwar die Features vorgelesen, sie können jedoch nicht erkennen, wo sie sich befinden. Um diese Einschränkung etwas zu lindern, werden im Falle der Bahnhofpläne ergänzend auch textliche Informationen generiert, die den Weg zu einem Angebot im Bahnhof beschreiben (z.B. Erdgeschoss - Querhalle West wie bei der [Angebotsseite der Migros in Zürich HB](https://www.sbb.ch/de/meta/shop-detail.html/geo-migros-8e04)). Die Grundlage der meisten Karten, wie auch die des Interaktiven Bahnhofplans, sind Rasterbilder. Die Beschriftung ist häufig Teil der Kachelbilder und kein richtiger Text, den man mit Maus oder Tastatur ansteuern und vorlesen lassen könnte. Die Beschriftung bleibt Sehbehinderten damit häufig verborgen. Auch die Navigation mit der Tastatur ist im Vergleich zur Nutzung der Maus eine grosse Einschränkung. Gerade bei informationsreichen Karten ist es sehr mühsam, eine Detailinformation zu erhalten, da alle Features in der Karte in einer vorgegebenen Reihenfolge (in der Regel von oben links nach unten rechts sortiert) iteriert werden müssen und nicht das gewünschte Objekt gezielt angeklickt werden kann. Nicht zuletzt erschwert das unterschiedliche Verhalten der Browser und Betriebssystem die Entwicklung barrierefreier Zugänge. Dieses Problem, mit dem man in der Webentwicklung ohnehin immer zu kämpfen hat, wird im Kontext der Barrierefreiheit verschärft, da die Harmonisierungen bei der Behandlung von Tastaturevents und beim Zusammenspiel mit Screenreadern noch nicht sehr weit fortgeschritten ist.
+
+Trotz der gegebenen Einschränkungen und Schwierigkeiten bei der Entwicklung zeigen die von uns entwickelten Karten und Pläne, dass weitgehende Barrierefreiheit auch für grafische Karten und Pläne möglich ist und bei öffentlichen Websites unbedingt berücksichtigt werden sollte.

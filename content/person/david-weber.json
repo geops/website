@@ -1,0 +1,10 @@
+{
+  "name": "David Weber",
+  "photo": "/images/person/david-weber.jpg",
+  "position": {
+    "de": "Linux-Administrator, DevOps",
+    "en": "Linux administrator, DevOps"
+  },
+  "email": "david.weber@geops.de",
+  "telephone": "+49 761 458 925 30"
+}
