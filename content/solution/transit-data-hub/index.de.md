@@ -11,13 +11,13 @@ Ohne Fahrplandaten geht im öffentlichen Verkehr nichts. Richtig nützlich werde
 
 * **Reisenden- und Störungs-Information** – Grundlage für genaue Reisendeninformation in Echtzeit
 
-  **Live Maps** – Fahrzeugpositionen auf Basis von Soll- und Echtzeitdaten
+*  **Live Maps** – Fahrzeugpositionen auf Basis von Soll- und Echtzeitdaten
 
-  **Analysen und Statistiken** – Erreichbarkeits-Potentiale, Pünktlichkeits-Statistiken, Fahrleistungen
+*  **Analysen und Statistiken** – Erreichbarkeits-Potentiale, Pünktlichkeits-Statistiken, Fahrleistungen
 
-  **Konverter** – Umwandlung zwischen verschiedenen proprietären und offenen Formaten wie GTFS
+*  **Konverter** – Umwandlung zwischen verschiedenen proprietären und offenen Formaten wie GTFS
 
-  **Anreicherung** – Anreicherung von Fahrplandaten mit Routenverläufen (Shapes) oder Echtzeitdaten
+*  **Anreicherung** – Anreicherung von Fahrplandaten mit Routenverläufen (Shapes) oder Echtzeitdaten
 
 ## Interessiert? 
 

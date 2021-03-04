@@ -20,13 +20,13 @@ Nothing works in public transport without timetable data. However, the data in t
 
 * **Traveler and fault information**  - Basis for accurate traveler information in real time
 
-  **Live Maps**  - vehicle positions based on target and real-time data
+*  **Live Maps**  - vehicle positions based on target and real-time data
 
-  **Analyzes and statistics**  - availability potentials, punctuality statistics, driving performance
+*  **Analyzes and statistics**  - availability potentials, punctuality statistics, driving performance
 
-  **Converter**  - Conversion between various proprietary and open formats such as GTFS
+*  **Converter**  - Conversion between various proprietary and open formats such as GTFS
 
-  **Enrichment**  - Enrichment of timetable data with routes (shapes) or real-time data
+*  **Enrichment**  - Enrichment of timetable data with routes (shapes) or real-time data
 
 ## Interested?
 
