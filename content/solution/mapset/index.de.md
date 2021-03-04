@@ -14,6 +14,6 @@ mapset ist weltweit nutzbar und wird im Abo-Modell vertrieben. Für die Schweiz 
 
 ![Beispielplan](/images/solution/mapset/liestal_plan_editor.png "Beispielplan")
 
-Über unsere Twitter-Accounts @mapsetch und @mapsetio werden wir Sie über Neuigkeiten auf dem Laufenden halten. Auch mit unseren Newslettern für [mapset.ch](http://mapset.ch/) und [mapset.io](http://mapset.io/) informieren wir Sie über Neuerungen und berichten über Erfahrungen anderer Unternehmen mit mapset.
+Über unsere Twitter-Accounts [@mapsetch](https://twitter.com/mapsetch) und [@mapsetio](https://twitter.com/mapsetio) werden wir Sie über Neuigkeiten auf dem Laufenden halten. Auch mit unseren Newslettern für [mapset.ch](http://mapset.ch/) und [mapset.io](http://mapset.io/) informieren wir Sie über Neuerungen und berichten über Erfahrungen anderer Unternehmen mit mapset.
 
 Bei Fragen oder Anregungen setzen Sie sich gerne mit uns in Verbindung. Sie erreichen uns unter [support@mapset.ch](mailto:support@mapset.ch) bzw. [support@mapset.io](mailto:support@mapset.io) oder telefonisch unter +41 61 588 05 05.
