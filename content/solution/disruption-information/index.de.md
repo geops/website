@@ -1,11 +1,11 @@
 ---
-title: Störfall- und Baustellenkommunikation
+title: Störfall- und Baustellen­kommuni­kation
 summary: >
   Wenn im öffentlichen Verkehr nicht alles rund läuft, ist eine schnelle und
   transparente Information der Reisenden entscheidend.
 slug: disruption-information
 frontpage: false
-frontpageTitle: Störfall- und Baustellenkommunikation
+frontpageTitle: Störfall- und Baustellen­kommuni­kation
 published: false
 ---
 Je besser das Angebot im öffentlichen Verkehr ist, umso höher ist das Risiko für Störungen. Dichte Taktfolgen, kurze Kupplungs- und Umstiegszeiten, eine stark belastete Infrastruktur und die Notwendigkeit von Baumassnahmen machen das System anfällig. Einschränkungen im Betriebsablauf, egal ob geplant oder ungeplant, sind daher unvermeidlich. Umso wichtiger ist es, den Reisenden umfassende, zielgerichtete Informationen über Abweichungen und alternative Reisemöglichkeiten zu bieten. 

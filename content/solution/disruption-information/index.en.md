@@ -12,7 +12,7 @@ tags:
   - disruptions
   - railreplacement
 frontpage: false
-frontpageTitle: Störfall- und Baustellenkommunikation
+frontpageTitle: Störfall- und Baustellen­kommuni­kation
 frontpageImage: /images/solution/disruption-information/moco.jpg
 frontpageWeight: 7
 gridImage: /images/solution/disruption-information/baustellenkommunikation.png
