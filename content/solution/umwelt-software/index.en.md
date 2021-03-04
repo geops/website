@@ -25,8 +25,6 @@ The federal law on environmental protection obliges the Swiss cantons and federa
 
 Not only all the relevant data for assessment and monitoring can be recorded with it. Thanks to the integrated geodata processing, the perimeters of the locations can be precisely digitized and displayed on various maps within Altlast4Web without the need for additional GIS software.
 
-![](/images/solution/umwelt-software/altlast4web.jpg)
-
 In addition, Altlast4Web contains a complete business control. Any processes can be modeled and transactions and pending tasks based on them can be handled. Individualized report templates allow the creation of data sheets and serial letters, either ad hoc or as an integrated step in the business process.
 
 Numerous export options are available for data exchange. On the one hand, exports can be configured according to individual requirements and output in various geodata formats or in tabular form as EXCEL or PDF. On the other hand, Altlast4Web offers model-compliant exports in Interlis format, with which the requirements of the KbS as a geographic base data set or the requirements of the cadastre of public law restrictions (ÖREB) are met.
