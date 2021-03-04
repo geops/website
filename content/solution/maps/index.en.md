@@ -31,19 +31,19 @@ In addition to a clear and informative design for general orientation, the follo
 * House numbers as well as entrances and passages as orientation points for door-to-door navigation
 * Elements that are important for barrier-free navigation, such as lifts and escalators
 
-![](/images/solution/maps/travic.png)
+![Travic](/images/solution/maps/travic.png "Travic")
 
 ## Flexible with Vector Tiles
 
 Our maps are based on MapBox Vector Tiles. This technology enables high-performance map displays and enables unlimited possibilities for the styling and interactivity of the maps. With the same basics, the cards can look very different and be optimally adapted to your corporate design or your special application.
 
-![](/images/solution/maps/map_raster.png)
+![Maps](/images/solution/maps/map_raster.png "Maps")
 
 ## Safe and fast
 
 We use an established workflow to deliver the cards to your application. Based on our database, in which the various data sources are integrated, Vector Tiles are calculated and prepared for the Internet. All cards are available to you via a global content delivery network, which guarantees high transmission speeds and low latency times - no matter where in the world you use the cards. You can use the cards in your application with little programming effort using tried and tested software libraries. And should classic raster maps be needed, they can also be provided in numerous variants.
 
-![](/images/solution/maps/maps_grafik.png)
+![Workflow](/images/solution/maps/maps_grafik.png "Workflow")
 
 ## Interested?
 
