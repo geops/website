@@ -18,7 +18,7 @@ Unter dem Namen Trafimage wird das um­fassendste Kartenwerk des öffentlichen V
 
 Eine weitere wichtige Komponente von Trafimage sind die Bahnhofpläne. In mehr als 100 Bahnhöfen der SBB helfen die Print-Plakate der Trafimage Bahnhofpläne den Reisenden bei der Orientierung. Die 35 grössten Schweizer Stationen sind mit den besonders leicht verständlichen und ansprechenden dreidimensionalen Bahnhofplänen ausgestattet. Neben den gedruckten Plakaten gibt es sie auch als [Interaktiven Bahnhofplan](https://plans.trafimage.ch/) im Web, auf Mobile und auf digitalen Stelen im Bahnhof.
 
-<iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="700" title="Tacker Webkarten Portal"></iframe>
+<iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="700" title="Traifmage Webkartenportal"></iframe>
 
 ## Immer auf dem aktuellsten Stand
 

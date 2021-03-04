@@ -24,7 +24,7 @@ Under the name Trafimage, the most comprehensive map of public transport in Swit
 
 Another important component of Trafimage are the station plans. In more than 100 SBB train stations, the Trafimage train station maps print posters help travelers find their way around. The 35 largest Swiss stations are equipped with particularly easy-to-understand and appealing three-dimensional station plans. In addition to the printed posters, they are also available as an [interactive train station map](https://plans.trafimage.ch/) on the web, on mobile and on digital steles in the train station.
 
-<iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="700" title="Tacker Webkarten Portal"></iframe>
+<iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="700" title="Trafimage web map portal"></iframe>
 
 ## Always up to date
 
