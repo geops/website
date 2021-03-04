@@ -2,8 +2,8 @@
 title: Incident and construction site communication
 summary: If everything does not run smoothly in public transport, it is crucial
   that travelers are informed quickly and transparently.
-cover: /images/solution/disruption-information/stoerfall.png
-pageCover: /images/solution/disruption-information/stoerfall.png
+cover: /images/solution/disruption-information/moco.jpg
+pageCover: /images/solution/disruption-information/moco.jpg
 slug: disruption-information
 color: "#353535"
 weight: 8
@@ -13,7 +13,7 @@ tags:
   - railreplacement
 frontpage: false
 frontpageTitle: Störfall- und Baustellenkommunikation
-frontpageImage: /images/solution/disruption-information/stoerfall.png
+frontpageImage: /images/solution/disruption-information/moco.jpg
 frontpageWeight: 7
 gridImage: /images/solution/disruption-information/baustellenkommunikation.png
 published: false
