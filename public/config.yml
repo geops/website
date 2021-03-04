@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: geops/website
+  branch: main
   # name: git-gateway
 
 # Used for testing.
