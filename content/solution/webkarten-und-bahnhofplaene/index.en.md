@@ -1,7 +1,6 @@
 ---
 title: SBB web maps and train station maps
-summary: Uniform maps and station plans for the entire public
-  Traffic in Switzerland.
+summary: Uniform maps and station plans for the entire public transport in Switzerland.
 cover: /images/solution/webkarten-und-bahnhofplaene/iabp-02.png
 pageCover: /images/solution/webkarten-und-bahnhofplaene/iabp-02.png
 slug: webkarten-und-bahnhofplaene
