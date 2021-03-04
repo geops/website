@@ -15,8 +15,6 @@ Das Bundesgesetz über den Umweltschutz verpflichtet die Schweizer Kantone und B
 
 Nicht nur alle für die Beurteilung und Überwachung relevanten Sachdaten können damit erfasst werden. Dank der integrierten Geodaten-Bearbeitung lassen sich innerhalb von Altlast4Web, ohne Notwendigkeit weiterer GIS-Software, die Perimeter der Standorte präzise digitalisieren und auf verschiedenen Karten anzeigen.
 
-![](/images/solution/umwelt-software/altlast4web.jpg)
-
 Daneben enthält Altlast4Web eine komplette Geschäftskontrolle. Es lassen sich beliebige Prozesse modellieren und darauf basierende Geschäfte und Pendenzen abwickeln. Individualisierte Berichtsvorlagen erlauben die Erstellung von Datenblättern und Serienbriefen, entweder ad hoc oder als integrierter Schritt im Geschäftsablauf.
 
 Für den Datenaustausch stehen zahlreiche Exportmöglichkeiten zur Verfügung. Einerseits lassen sich Exporte nach individuellen Anforderungen konfigurieren und in verschiedenen Geodaten-Formaten oder in Tabellenform als EXCEL oder als PDF ausgeben. Andererseits bietet Altlast4Web modellkonforme Exporte im Interlis-Format, mit denen die Anforderungen an den KbS als Geobasisdatensatz oder die Anforderungen des Katasters öffentlich-rechtlicher Beschränkungen (ÖREB) erfüllt werden.
