@@ -3,10 +3,11 @@ title: Routing
 summary: Mit unserem Routing-Dienst finden Sie die Wege und Linienverläufe für
   Fahrzeuge des öffentlichen Verkehrs, für PKW und LKW sowie für Fussgänger.
 slug: routing
-contactTitle: Interessiert?!
+contactTitle: Interessiert?
 contactSubtitle: Testen Sie die Leistungen des Routings mit
   unserer [Demo](https://geops.github.io/geops-routing-demo/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293).
   Welche Möglichkeiten sich für Ihre eigene Anwendung bieten, können Sie auch in
+  unserem [Developer Portal](https://developer.geops.io/) erkunden.
 frontpage: false
 ---
 ## Genau für Alles
