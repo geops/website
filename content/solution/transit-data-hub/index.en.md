@@ -16,13 +16,17 @@ frontpageImage: /images/solution/transit-data-hub/datendrehscheibe.png
 ---
 Nothing works in public transport without timetable data. However, the data in the target timetable only becomes really useful if a large number of additional data is intelligently linked to the timetable. Real-time data, fault information, detailed information on the stops, the routes of the journeys - these and more data are collected in the data hub and intelligently linked with one another. Our data hub is a system that grows continuously with the requirements. The basis are data structures that are aligned with the VDV and NetEx standards in order to be able to cover the many requirements of an information system for traffic. In accordance with the breadth of information in the data hub, the possible applications are also very diverse.
 
-![](/images/solution/transit-data-hub/sbb.jpg)
+![Moco](/images/solution/transit-data-hub/sbb.jpg "Moco")
 
 * **Traveler and fault information**  - Basis for accurate traveler information in real time
-* **Live Maps**  - vehicle positions based on target and real-time data
-* **Analyzes and statistics**  - availability potentials, punctuality statistics, driving performance
-* **Converter**  - Conversion between various proprietary and open formats such as GTFS
-* **Enrichment**  - Enrichment of timetable data with routes (shapes) or real-time data
+
+*  **Live Maps**  - vehicle positions based on target and real-time data
+
+*  **Analyzes and statistics**  - availability potentials, punctuality statistics, driving performance
+
+*  **Converter**  - Conversion between various proprietary and open formats such as GTFS
+
+*  **Enrichment**  - Enrichment of timetable data with routes (shapes) or real-time data
 
 ## Interested?
 
