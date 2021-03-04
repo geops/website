@@ -10,13 +10,10 @@ import getContentBySlug from "../../lib/getContentBySlug";
 import getRelatedContentList from "../../lib/getRelatedContentList";
 import markdownToHtml from "../../lib/markdownToHtml";
 
-const person = ch;
-
 export default function Solution({ related, solution }) {
   if (!solution) {
     return null;
   }
-  person.email = solution.contactEmail || ch.email;
 
   return (
     <Layout
@@ -25,7 +22,11 @@ export default function Solution({ related, solution }) {
     >
       <PageCover alt={`${solution.title} Cover`} src={solution.pageCover} />
       <Article body={solution.body} title={solution.title} />
-      <ContactPerson person={person} />
+      <ContactPerson
+        person={{ ...ch, email: solution.contactEmail || ch.email }}
+        subtitle={solution.contactSubtitle}
+        title={solution.contactTitle}
+      />
       <RelatedList dark list={related} />
     </Layout>
   );
@@ -47,6 +48,9 @@ export async function getStaticProps(context) {
 
   const solution = getContentBySlug(language, "solution", context.params.slug);
   solution.body = await markdownToHtml(solution.body);
+  if (solution.contactSubtitle) {
+    solution.contactSubtitle = await markdownToHtml(solution.contactSubtitle);
+  }
 
   const related = getRelatedContentList(language, solution);
 

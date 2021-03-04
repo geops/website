@@ -6,7 +6,7 @@ const arrowDown = {
   borderTopWidth: "32px",
 };
 
-export default function ContactPerson({ person }) {
+export default function ContactPerson({ person, subtitle, title }) {
   const { language, t } = useI18n();
   return (
     <section className="bg-gray-lighter container mx-auto my-32 p-8 pb-0 lg:max-w-screen-lg">
@@ -16,8 +16,15 @@ export default function ContactPerson({ person }) {
         }`}
       >
         <div>
-          <h1>{t("contactPerson.title")}</h1>
-          <h2 className="mt-1 text-2xl">{t("contactPerson.subtitle")}</h2>
+          <h1>{title || t("contactPerson.title")}</h1>
+          {subtitle ? (
+            <div
+              className="mt-2 font-extrabold prose prose-2xl text-gray-darker"
+              dangerouslySetInnerHTML={{ __html: subtitle }}
+            />
+          ) : (
+            <h2 className="mt-2 text-2xl">{t("contactPerson.subtitle")}</h2>
+          )}
           <p className="my-8 md:mb-0">
             {person.name && (
               <>

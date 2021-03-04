@@ -456,6 +456,17 @@ collections:
         hint: "Default email address info@geops.ch will be used if empty."
         name: "contactEmail"
         required: false
+      - label: "Contact Title"
+        hint: "Defaults to translation for 'contactPerson.title' if empty."
+        name: "contactTitle"
+        i18n: true
+        required: false
+      - label: "Contact Subtitle"
+        hint: "Defaults to translation for 'contactPerson.subtitle' if empty."
+        name: "contactSubtitle"
+        i18n: true
+        required: false
+        widget: "markdown"
       - label: "Weight"
         hint: "Lower weight will float to the top of lists."
         name: "weight"
