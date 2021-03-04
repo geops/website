@@ -7,6 +7,14 @@
 /node/213 /en/about
 /karriere/privacy-policy /en/privacy
 /solutions /solution
+/sbahnm-live /solution/tralis-livemap
+/mapset /solution/mapset
+/moco /solution/disruption-information
+/sts-app /solution/webkarten-und-bahnhofplaene
+/lösungen/karten-des-öv /solution/webkarten-und-bahnhofplaene
+/lösungen/bahnhofpläne /solution/webkarten-und-bahnhofplaene
+/geoportal /solution/webkarten-und-bahnhofplaene
+/altlast4web /solution/umwelt-software
 /about/team /about
 
 /node/70 /blog/verstarkung-mit-patrick-brosi
@@ -250,3 +258,4 @@
 /blog/werkzeuge-für-schönere-python-projekte /blog/werkzeuge-fur-schonere-python-projekte
 /node/243 /blog/neue-funktionen-in-mapset
 /blog/neue-funktionen-mapset /blog/neue-funktionen-in-mapset
+/blog/ärzte-ohne-grenzen-2020 /blog/aerzte-ohne-grenzen-2020
