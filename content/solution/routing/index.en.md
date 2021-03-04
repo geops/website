@@ -39,7 +39,3 @@ Routing is used for numerous projects. For example, the routes are shown in our 
 Exact routes also have the potential to analyze the characteristics along the route. On this basis, we offer, for example, exact height profiles or counts of objects such as level crossings, traffic lights or pedestrian crossings along the route. Here we offer evaluations specifically tailored to your requirements.
 
 ![Routing](/images/solution/routing/Hoehenprofil.png "Routing")
-
-## Interested?
-
-Test the routing performance with our \[Demo] (https://geops.github.io/geops-routing-demo/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128 8.132015913583293). You can also find out which options are available for your own application in our [Developer Portal](https://developer.geops.io/).
