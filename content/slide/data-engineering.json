@@ -1,0 +1,11 @@
+{
+  "en": {
+    "title": "Data Engineering",
+    "summary": "Collecting and diving into data, producing maps and insights",
+    "image": "/images/slide/data-engineering/data_engineering_2.png"
+  },
+  "de": {
+    "title": "Data Engineering",
+    "summary": "Daten verstehen, analysieren und präsentieren"
+  }
+}

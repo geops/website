@@ -1,0 +1,18 @@
+---
+title: geops.ch von DNS-Hijacking Vorfall bei Gandi betroffen
+summary: ""
+slug: geopsch-von-dns-hijacking-vorfall-bei-gandi-betroffen
+---
+Am 7. Juli gab es einen Vorfall beim DNS-Registrar [Gandi](https://www.gandi.net/), bei dem die Nameserver von insgesamt 751 Domains ausgetauscht wurden. Gandi schreibt in ihrem [Incident Report](https://news.gandi.net/en/2017/07/report-on-july-7-2017-incident/) davon, dass die Änderung durch einen "unautorsierten Zugriff bei einem ihrer technischen Provider" vollzogen wurde. Der Vorfall ereignete sich um 13:00 MESZ. Gandi bestätigte den Vorfall wenig später per Twitter, und meldete um ca. 16:00, dass alle unautorisierten Änderungen zurückgesetzt wurden ([Timeline](https://news.gandi.net/en/2017/07/report-on-july-7-2017-incident/)).
+
+Ziel des Hijackings war offenbar die Verbreitung von Malware, wie die für .ch-Domains zuständige Registry switch.ch in einem [Blogeintrag](https://securityblog.switch.ch/2017/07/07/94-ch-li-domain-names-hijacked-and-used-for-drive-by/) analysierte. Wie dem Blogeintrag zu entnehmen ist, wurden auf diese Weise "gekaperte" (hijacked) Domains auf ein "Traffic Distribution Network" umgeleitet, und von dort aus in manchen Fällen zu einer Webseite, die versuchte, Besucher mit einer Malware zu infizieren. Von diesem Hijacking war auch die bei Gandi registrierte Domain geops.ch betroffen. Wir konnten nachvollziehen, dass die geOps Webseite (http://geops.ch) von der Umleitung auf das Traffic Distribution Network betroffen war.
+
+Auf eine andere Art von dem Vorfall betroffen waren Dienste, die von geops im Auftrag von Kunden unter der Domain trafimage.ch gehostet werden, darunter das [Trafimage Webkartenportal](https://maps.trafimage.ch/), und die [Bahnhofpläne auf der SBB-Webseite](https://www.sbb.ch/de/bahnhof-services/bahnhoefe/bahnhof-bern.html). Diese Webseiten und Dienste waren jedoch nicht von der Weiterleitung auf Malware-Seiten betroffen sondern in der fraglichen Zeit schlichtweg nicht erreichbar. Die Domain trafimage.ch war nicht direkt vom Hijacking betroffenen. Dass die Dienste unter dieser Domain trotzdem nicht erreichbar waren, liegt daran, dass sie über CNAME Records auf Domains unter .trafimage.geops.ch verweisen (Siehe Abschnitt "Hintergrund: DNS-Weiterleitung mit CNAME Records"). Der "falsche" DNS-Server beantwortete Anfragen nach solchen Subdomains jedoch mit "Non-Existent Domain". Durch die dezentrale Struktur des DNS-Systems, das die Antworten auf DNS-Abfragen an vielen Stellen zwischenspeichert um Last zu reduzieren, dauerte es auch nach dem Beheben des Problems durch Gandi noch ca. eine Stunde, bis die falsche Information ("Diese Domain existiert nicht") nach und nach aus den Caches verdrängt wurde.
+
+### Hintergrund: DNS-Weiterleitung mit CNAME Records
+
+Auch im DNS lassen sich Weiterleitungen einrichten. Diese funktionieren allerdings anders als HTTP-Weiterleitungen. Zum Beispiel ist maps.trafimage.ch ein sogenannter CNAME-Record, der nicht auf eine IP-Adresse, sondern auf eine andere Domain, in diesem Fall entry.trafimage.geops.ch verweist. Der name entry.trafimage.geops.ch wiederum verweist auf die IP-Adresse des für maps.trafimage.ch zuständigen Webservers. Theoretisch sind auch längere Ketten von Weiterleitungen möglich. Für Browser und Benutzer ist diese Weiterleitung völlig transparent: Sie wird aufgelöst, bevor der Browser den Request überhaupt versendet. Der Browser lässt den Namen maps.trafimage.ch vom Betriebssystem auflösen und erhält direkt die IP-Adresse zurück.
+
+### Update 11.07.2017
+
+Heute hat Gandi einen detaillierten [Incident Report](https://news.gandi.net/en/2017/07/detailed-incident-report/) veröffentlicht.

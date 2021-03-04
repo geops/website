@@ -1,0 +1,11 @@
+{
+  "name": "Dr. Alexander Held",
+  "photo": "/images/person/alexander-held.jpg",
+  "position": {
+    "de": "Backend-Entwickler",
+    "en": "Backend developer"
+  },
+  "email": "alexander.held@geops.de",
+  "telephone": "+49 761 458 925 31",
+  "github": "aheld84"
+}

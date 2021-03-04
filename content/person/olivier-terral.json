@@ -1,0 +1,11 @@
+{
+  "name": "Olivier Terral",
+  "photo": "/images/person/olivier-terral.jpg",
+  "position": {
+    "de": "Frontend-Entwickler",
+    "en": "Frontend developer"
+  },
+  "email": "olivier.terral@geops.de",
+  "telephone": "+49 761 458 925 28",
+  "github": "oterral"
+}

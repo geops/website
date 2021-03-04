@@ -1,0 +1,10 @@
+{
+  "name": "Eva Schiller",
+  "photo": "/images/person/eva-schiller.jpg",
+  "position": {
+    "de": "Frontend- und Backend-Entwicklerin",
+    "en": "Frontend and backend developer"
+  },
+  "email": "eva.schiller@geops.de",
+  "telephone": "+49 761 458 925 15"
+}

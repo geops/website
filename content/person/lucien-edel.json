@@ -1,0 +1,10 @@
+{
+  "name": "Lucien Edel",
+  "photo": "/images/person/lucien-edel.jpg",
+  "position": {
+    "de": "Frontend-Entwickler",
+    "en": "Frontend developer"
+  },
+  "email": "lucien.edel@geops.de",
+  "telephone": "+49 761 458 925 22"
+}

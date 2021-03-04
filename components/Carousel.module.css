@@ -1,0 +1,14 @@
+.carousel :global h1, .carousel :global h3{
+  text-shadow: 0 0 10px black;
+}
+
+.carousel :global .carousel__dot {
+  @apply text-2xl;
+  @apply p-1;
+}
+.carousel :global .carousel__dot::before {
+  content: "○";
+}
+.carousel :global .carousel__dot--selected::before {
+  content: "●";
+}

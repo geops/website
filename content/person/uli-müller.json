@@ -1,0 +1,11 @@
+{
+  "name": "Uli Müller ",
+  "photo": "/images/person/uli-müller.jpg",
+  "position": {
+    "de": "CEO",
+    "en": "CEO"
+  },
+  "email": "uli.mueller@geops.ch",
+  "telephone": "+41 79 925 15 37",
+  "github": "geops"
+}

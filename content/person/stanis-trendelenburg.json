@@ -1,0 +1,11 @@
+{
+  "name": "Stanis Trendelenburg",
+  "photo": "/images/person/stanis-trendelenburg.jpg",
+  "position": {
+    "de": "CTO",
+    "en": "CTO"
+  },
+  "email": "stanis.trendelenburg@geops.de",
+  "telephone": "+49 761 458 925 17",
+  "github": "trendels"
+}

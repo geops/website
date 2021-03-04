@@ -1,0 +1,537 @@
+backend:
+  name: gitlab
+  repo: geops/next-geops-website
+  auth_type: implicit
+  app_id: 04e3d49a5724b6912f1d3b11f9b9c186451c140a9eb26f3b921dcdbc48ff033b
+  api_root: https://gitlab.geops.de/api/v4
+  base_url: https://gitlab.geops.de
+  auth_endpoint: oauth/authorize
+  # name: git-gateway
+
+# Used for testing.
+# local_backend: true
+
+i18n:
+  # Required and can be one of multiple_folders, multiple_files or single_file
+  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
+  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
+  # single_file - persists a single file in `<folder>/<slug>.<extension>`
+  structure: multiple_files
+
+  # Required - a list of locales to show in the editor UI
+  locales: [en, de]
+
+  # Optional, defaults to the first item in locales.
+  # The locale to be used for fields validation and as a baseline for the entry.
+  default_locale: en
+
+media_folder: "public/images"
+public_folder: "/images"
+
+publish_mode: editorial_workflow
+
+collections:
+  - label: "Blog"
+    name: "blog"
+    folder: "content/blog"
+    path: "{{slug}}/index"
+    media_folder: "/public/images/blog/{{slug}}"
+    public_folder: "/images/blog/{{slug}}"
+    preview_path: "en/blog/{{slug}}"
+    create: true
+    i18n: true
+    slug: "{{fields.slug}}"
+    sortable_fields: ["created", "title"]
+    view_groups:
+      - label: Author
+        field: author
+      - label: Published
+        field: published
+        pattern: "false"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        i18n: true
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - label: "Cover"
+        name: "cover"
+        widget: "image"
+        required: false
+      - label: "Created"
+        name: "created"
+        widget: "date"
+        time_format: false
+        date_format: "YYYY-MM-DD"
+        format: "YYYY-MM-DD"
+      - label: "Slug"
+        hint: "The post URL (do not include folder or file extension)"
+        name: "slug"
+        pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
+        widget: "string"
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        hint: "Tags werden verwendet, um passende Inhalte im Block 'Mehr zum Thema' unter jedem Blog- und Solution-Artikel anzuzeigen (siehe auch https://jira.geops.ch/browse/GEOPSWEB-120)."
+        multiple: true
+        options:
+          [
+            "altlast4web",
+            "boden4web",
+            "cartaro",
+            "conferences",
+            "developers",
+            "disruptions",
+            "environment",
+            "geops",
+            "iabp",
+            "javascript",
+            "maps",
+            "mapset",
+            "mobility",
+            "passengerinformation",
+            "postgis",
+            "processes",
+            "python",
+            "railreplacement",
+            "realtime",
+            "routing",
+            "scrum",
+            "team",
+            "treeapp",
+            "wimo",
+          ]
+        required: false
+        widget: "select"
+      - label: "Frontpage"
+        hint: "Show on frontpage."
+        name: "frontpage"
+        widget: "boolean"
+        required: false
+      - label: "Frontpage Weight"
+        hint: "Lower weight will float to the top of frontpage list."
+        name: "frontpageWeight"
+        widget: "number"
+        required: false
+      - label: "Published"
+        name: "published"
+        widget: "boolean"
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+  - label: "Job"
+    name: "job"
+    folder: "content/job"
+    path: "{{slug}}/index"
+    media_folder: "/public/images/job/{{slug}}"
+    public_folder: "/images/job/{{slug}}"
+    preview_path: "en/career/{{slug}}"
+    create: true
+    i18n: true
+    slug: "{{fields.slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Slug"
+        hint: "The post URL (do not include folder or file extension)"
+        name: "slug"
+        pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
+        widget: "string"
+        i18n: true
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+  - label: "Page"
+    name: "page"
+    i18n:
+      structure: single_file
+    files:
+      - label: "About"
+        name: "about"
+        file: "content/page/about.json"
+        i18n: true
+        fields:
+          - { i18n: true, label: Title, name: title }
+          - { i18n: true, label: We 1, name: we1 }
+          - { i18n: true, label: We 2, name: we2 }
+          - { i18n: true, label: We 3, name: we3 }
+          - { i18n: true, label: We 4, name: we4 }
+          - { i18n: true, label: We 5, name: we5 }
+          - label: "Circle Counter"
+            name: "circleCounter"
+            widget: "object"
+            fields:
+              - { label: Year, name: year, widget: number }
+              - { label: Client, name: client, widget: number }
+              - { label: Employee, name: employee, widget: number }
+          - { i18n: true, label: Circle Years, name: circleYears }
+          - { i18n: true, label: Circle Experience, name: circleExperience }
+          - { i18n: true, label: Circle Clients, name: circleClients }
+          - { i18n: true, label: Circle Employee, name: circleEmployee }
+          - { i18n: true, label: Work, name: work }
+          - { i18n: true, label: Technology, name: tech }
+      - label: "Career"
+        name: "career"
+        file: "content/page/career.json"
+        i18n: true
+        fields:
+          - { i18n: true, label: Header Text, name: headerText }
+          - label: Summary Title
+            name: summaryTitle
+            i18n: true
+            required: false
+          - { i18n: true, label: Summary, name: summary }
+          - { i18n: true, label: Offer Title, name: offerTitle }
+          - { i18n: true, label: Offer Education, name: offerEducation }
+          - { i18n: true, label: Offer Flexible, name: offerFlexible }
+          - { i18n: true, label: Offer Additon, name: offerAdditon }
+          - { i18n: true, label: Offer Freiburg, name: offerFreiburg }
+          - { i18n: true, label: Match Title, name: matchTitle }
+          - { i18n: true, label: Match Text, name: matchText }
+      - label: "Imprint"
+        name: "imprint"
+        file: "content/page/imprint.json"
+        i18n: true
+        fields:
+          - { i18n: true, label: Content, name: body, widget: markdown }
+      - label: "Newsletter"
+        name: "newsletter"
+        file: "content/page/newsletter.json"
+        i18n: true
+        fields:
+          - { i18n: true, label: Subtitle, name: subtitle }
+          - { i18n: true, label: E-mail, name: email }
+          - { i18n: true, label: Required, name: required }
+          - { i18n: true, label: Submitted Title, name: submittedTitle }
+          - { i18n: true, label: Submitted 1, name: submitted1 }
+          - { i18n: true, label: Submitted 2, name: submitted2 }
+          - { i18n: true, label: Submitted 3, name: submitted3 }
+          - { i18n: true, label: Submitted Button, name: submittedButton }
+      - label: "Privacy"
+        name: "privacy"
+        file: "content/page/privacy.json"
+        i18n: true
+        fields:
+          - { i18n: true, label: Content, name: body, widget: markdown }
+      - label: "Translations"
+        name: "translations"
+        file: "content/page/translations.json"
+        i18n: true
+        fields:
+          - label: "About"
+            name: "about"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Title, name: title }
+              - { i18n: true, label: We, name: we }
+              - { i18n: true, label: Work, name: work }
+              - { i18n: true, label: Tech, name: tech }
+          - label: "About Teaser"
+            name: "aboutTeaser"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Title, name: title }
+              - { i18n: true, label: Text, name: text }
+          - label: "Application Teaser"
+            name: "applicationTeaser"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Action, name: action }
+              - { i18n: true, label: Title, name: title }
+              - { i18n: true, label: Subtitle, name: subtitle }
+          - label: "Blog"
+            name: "blog"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Header, name: header }
+          - label: "Career Teaser"
+            name: "careerTeaser"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Action, name: action }
+              - { i18n: true, label: Title, name: title }
+              - { i18n: true, label: Subtitle, name: subtitle }
+          - label: "Contact"
+            name: "contact"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Title, name: title }
+          - label: "Contact Person"
+            name: "contactPerson"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Title, name: title }
+              - { i18n: true, label: Subtitle, name: subtitle }
+          - label: "Frontpage"
+            name: "frontpage"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: List Title, name: listTitle }
+          - label: "Imprint"
+            name: "imprint"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Path, name: path }
+              - { i18n: true, label: Translation Path, name: translationPath }
+              - { i18n: true, label: Title, name: title }
+          - label: "Job List"
+            name: "jobList"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Title, name: title }
+              - { i18n: true, label: Action, name: action }
+          - label: "Newsletter Teaser"
+            name: "newsletterTeaser"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Action, name: action }
+              - { i18n: true, label: Title, name: title }
+              - { i18n: true, label: Subtitle, name: subtitle }
+          - label: "OpenSource Teaser"
+            name: "openSourceTeaser"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Action, name: action }
+              - { i18n: true, label: Title, name: title }
+              - { i18n: true, label: Text, name: text }
+          - label: "Privacy"
+            name: "privacy"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Path, name: path }
+              - { i18n: true, label: Translation Path, name: translationPath }
+              - { i18n: true, label: Title, name: title }
+          - label: "Related List"
+            name: "relatedList"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Solution, name: solution }
+              - { i18n: true, label: Title, name: title }
+          - label: "Solution"
+            name: "solution"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Header, name: header }
+              - { i18n: true, label: Text, name: text }
+              - { i18n: true, label: Title, name: title }
+          - label: "Team"
+            name: "team"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Text, name: text }
+              - { i18n: true, label: Title, name: title }
+          - label: "Website"
+            name: "website"
+            i18n: true
+            widget: "object"
+            fields:
+              - { i18n: true, label: Down, name: down }
+              - { i18n: true, label: Up, name: up }
+              - { i18n: true, label: More, name: more }
+              - { i18n: true, label: Read More, name: readMore }
+              - { i18n: true, label: Reading Time, name: readingTime }
+              - { i18n: true, label: Telephone, name: telephone }
+              - { i18n: true, label: Written By, name: writtenBy }
+  - label: "Person"
+    name: "person"
+    folder: "content/person"
+    identifier_field: "name"
+    media_folder: "/public/images/person"
+    public_folder: "/images/person"
+    preview_path: "en/about#team"
+    create: true
+    extension: "json"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - label: "Photo"
+        name: "photo"
+        widget: "image"
+        hint: "compressed JPEG, 600px wide, 800px heigh"
+        required: false
+      - label: "Position"
+        name: "position"
+        widget: "object"
+        fields:
+          - { label: "German", name: "de", widget: "string" }
+          - { label: "English", name: "en", widget: "string" }
+      - { label: "E-Mail", name: "email", widget: "string" }
+      - { label: "Telephone", name: "telephone", widget: "string" }
+      - { label: "GitHub", name: "github", widget: "string", required: false }
+  - label: "Slide"
+    name: "slide"
+    folder: "content/slide"
+    media_folder: "/public/images/slide/{{slug}}"
+    public_folder: "/images/slide/{{slug}}"
+    preview_path: "en"
+    create: true
+    i18n:
+      structure: single_file
+    extension: "json"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        i18n: true
+        required: false
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        hint: "compressed JPEG, 1600px wide, 1200px heigh, used as poster for video"
+      - label: "Video URL"
+        name: "video"
+        widget: "string"
+        required: false
+      - label: "Link"
+        name: "link"
+        widget: "string"
+        i18n: true
+        required: false
+  - label: "Solution"
+    name: "solution"
+    folder: "content/solution"
+    path: "{{slug}}/index"
+    media_folder: "/public/images/solution/{{dirname}}"
+    public_folder: "/images/solution/{{dirname}}"
+    preview_path: "en/solution/{{slug}}"
+    create: true
+    i18n: true
+    slug: "{{fields.slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        i18n: true
+      - label: "Cover"
+        hint: "Image used for related list items."
+        name: "cover"
+        widget: "image"
+        required: false
+      - label: "Page Cover"
+        hint: "Image used for solution page cover."
+        name: "pageCover"
+        widget: "image"
+        required: false
+      - label: "Slug"
+        hint: "The post URL (do not include folder or file extension)"
+        name: "slug"
+        pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
+        widget: "string"
+        i18n: true
+      - label: "Grid Background Color"
+        name: "color"
+        default: "white"
+        hint: "CSS color value used for grid tile background. Use 'white' for dark text color."
+        widget: "string"
+      - label: "Contact Email"
+        hint: "Default email address info@geops.ch will be used if empty."
+        name: "contactEmail"
+        required: false
+      - label: "Weight"
+        hint: "Lower weight will float to the top of lists."
+        name: "weight"
+        widget: "number"
+      - label: "Tags"
+        name: "tags"
+        hint: "Tags werden verwendet, um passende Inhalte im Block 'Mehr zum Thema' unter jedem Blog- und Solution-Artikel anzuzeigen (siehe auch https://jira.geops.ch/browse/GEOPSWEB-120)."
+        multiple: true
+        options:
+          [
+            "altlast4web",
+            "boden4web",
+            "cartaro",
+            "conferences",
+            "developers",
+            "disruptions",
+            "environment",
+            "geops",
+            "iabp",
+            "javascript",
+            "maps",
+            "mapset",
+            "mobility",
+            "passengerinformation",
+            "postgis",
+            "processes",
+            "python",
+            "railreplacement",
+            "realtime",
+            "routing",
+            "scrum",
+            "team",
+            "treeapp",
+            "wimo",
+          ]
+        required: false
+        widget: "select"
+      - label: "Frontpage"
+        hint: "Show on frontpage."
+        name: "frontpage"
+        widget: "boolean"
+      - label: "Frontpage Title"
+        name: "frontpageTitle"
+        widget: "string"
+        i18n: true
+        required: false
+      - label: "Frontpage Image"
+        name: "frontpageImage"
+        widget: "image"
+        hint: "Optimized image used for frontpage list."
+        required: false
+      - label: "Frontpage Weight"
+        hint: "Lower weight will float to the top of frontpage list."
+        name: "frontpageWeight"
+        widget: "number"
+        required: false
+      - label: "Grid Image"
+        name: "gridImage"
+        widget: "image"
+        hint: "Optimized image used for grid tiles."
+        required: false
+      - label: "Logo"
+        name: "logo"
+        widget: "image"
+        hint: "Optimized logo image used for grid tiles."
+        required: false
+      - label: "Published"
+        name: "published"
+        widget: "boolean"
+        required: false
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        i18n: true

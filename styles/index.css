@@ -1,0 +1,64 @@
+@tailwind base;
+
+/* Import Lato font family from Typekit because open source version is missing font weights. */
+@import url("https://use.typekit.net/not7ezq.css");
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+body {
+  @apply leading-9 text-xl;
+  font-family: "Lato";
+}
+
+button:focus {
+  @apply outline-none;
+}
+
+h1,
+h2,
+h3 {
+  @apply font-bold;
+}
+
+h1,
+.prose h1 {
+  @apply font-black leading-snug text-4xl md:text-5xl;
+}
+
+h2,
+.prose h2 {
+  @apply font-extrabold text-3xl;
+}
+
+h3,
+.prose h3 {
+  @apply font-extrabold text-2xl;
+}
+
+.prose a {
+  @apply no-underline text-green;
+}
+
+.prose ul > li::before {
+  @apply bg-blue top-4;
+}
+
+p,
+li {
+  @apply text-lg leading-9;
+}
+
+/* Scroll offset for navigation anchors to avoid header from covering the anchor. */
+#we::before,
+#work::before,
+#team::before,
+#tech::before {
+  content: "";
+  @apply block -mt-32 h-32 invisible;
+}
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
