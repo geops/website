@@ -23,9 +23,9 @@ export default function ContactPerson({ person, subtitle, title }) {
               dangerouslySetInnerHTML={{ __html: subtitle }}
             />
           ) : (
-            <h2 className="mt-2 text-2xl">{t("contactPerson.subtitle")}</h2>
+            <h2 className="mt-4 text-2xl">{t("contactPerson.subtitle")}</h2>
           )}
-          <p className="my-8 md:mb-0">
+          <p className="my-4 md:mb-0">
             {person.name && (
               <>
                 <strong>{person.name}</strong>

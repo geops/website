@@ -7,7 +7,6 @@ contactTitle: Interessiert?!
 contactSubtitle: Testen Sie die Leistungen des Routings mit
   unserer [Demo](https://geops.github.io/geops-routing-demo/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293).
   Welche Möglichkeiten sich für Ihre eigene Anwendung bieten, können Sie auch in
-  unserem [Developer Portal](https://developer.geops.io/) erkunden.
 frontpage: false
 ---
 ## Genau für Alles
@@ -20,8 +19,16 @@ Das Routing ist auf unsere Karten angepasst. Für lange Strecken, die in kleinma
 
 Eine Anwendung des Routings findet sich in unserem weltweiten Tracker wieder, bei dem für alle Fahrzeuge die Routen als Trajektorien berechnet werden.
 
+![](/images/solution/mapset/wkp.jpg)
+
 Das Routing ist für zahlreiche Projekte im Einsatz. Zum Beispiel werden die Routenverläufe in unserem [Echtzeit-Tracker](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=925472&y=5920000&z=9) darüber berechnet. Die Schweizerische Bundesbahn SBB nutzt das Routing für Züge, Trams, Busse und Seilbahnen, um den Reisenden detaillierte Infos zum Verlauf der Reiseroute anzuzeigen. Auch in [mapset](https://mapset.io/) steht das Routing zur Verfügung, um das Einzeichnen von Fusswegen in den Plan zu vereinfachen.
 
 ## Wo entlang und wie
 
 Genaue Routen haben auch das Potential für Analysen der Charakteristika entlang der Route. Auf dieser Basis bieten wir zum Beispiel exakte Höhenprofile oder Zählungen von Objekten wie Bahnübergänge, Ampeln oder Fussgängerquerungen entlang der Route. Hier bieten wir spezifisch auf Ihre Anforderungen angepasste Auswertungen.
+
+![](/images/solution/mapset/Hoehenprofil.png)
+
+## Interessiert? 
+
+Testen Sie die Leistungen des Routings mit unserer [Demo](https://geops.github.io/geops-routing-demo/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293). Welche Möglichkeiten sich für Ihre eigene Anwendung bieten, können Sie auch in unserem [Developer Portal](https://developer.geops.io/) erkunden.
