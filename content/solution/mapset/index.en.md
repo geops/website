@@ -6,6 +6,16 @@ cover: /images/solution/mapset/gruppe-57.png
 pageCover: /images/solution/mapset/twitter_banner.jpg
 slug: mapset
 color: "#1789C9"
+contactSubtitle: >-
+  We will keep you up to date on the latest news via our Twitter accounts
+  [@mapsetch](https://twitter.com/mapsetch) and
+  [@mapsetio](https://twitter.com/mapsetio). We also use our newsletters for
+  [mapset.ch](http://mapset.ch/) and [mapset.io](http://mapset.io/) to inform
+  you about innovations and report on the experiences of other companies with
+  mapset.
+
+
+  If you have any questions or suggestions, please do not hesitate to contact us. You can reach us at [support@mapset.ch](support@mapset.ch) or [support@mapset.io](<mailto: support@mapset.io>) or by phone on +41 61 588 05 05.
 weight: 9
 tags:
   - mapset
@@ -26,7 +36,3 @@ Would you like to make current and attractive information about public transport
 mapset can be used worldwide and is sold as a subscription. For Switzerland, information on prices, how it works and the advantages of mapset is available at [mapset.ch](http://mapset.ch/). Other countries can find everything worth knowing at [mapset.io](http://mapset.io/). On both sides you have the opportunity to try out mapset in a non-binding demo and to test it extensively.
 
 ![](/images/solution/mapset/liestal_plan_editor.png)
-
-We will keep you up to date on the latest news via our Twitter accounts [@mapsetch](https://twitter.com/mapsetch) and [@mapsetio](https://twitter.com/mapsetio). We also use our newsletters for [mapset.ch](http://mapset.ch/) and [mapset.io](http://mapset.io/) to inform you about innovations and report on the experiences of other companies with mapset.
-
-If you have any questions or suggestions, please do not hesitate to contact us. You can reach us at [support@mapset.ch](support@mapset.ch) or [support@mapset.io](<mailto: support@mapset.io>) or by phone on +41 61 588 05 05.
