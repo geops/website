@@ -180,7 +180,7 @@ export default function Header({ translationPath }) {
             </ul>
             {/* -------- Desktop Translation Navigation -------- */}
             <div className="flex items-center">
-              <div className="border-gray-lighter border-l space-x-2 h-8 px-8 text-gray">
+              <div className="border-gray-lighter border-l space-x-2 h-8 px-8 mb-1 text-gray">
                 {language === "de" ? (
                   <strong>DE</strong>
                 ) : (
