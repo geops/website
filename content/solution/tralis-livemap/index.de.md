@@ -4,6 +4,9 @@ summary: LiveMaps zeigen die Positionen von Fahrzeugen des öffentlichen Verkehr
   auf einer Karte. Neben der Kartendarstellung entstehen mit der Verarbeitung
   der Fahrzeugpositionen präzise Prognosen für Reisende.
 slug: tralis-livemap
+contactSubtitle: Unsere LiveMaps können für Visualisierung und Planung mit einem
+  geringen Anspruch an Aktualität ebenso genutzt werden wie für hoch präzise
+  Systeme für die Reisendeninformation.
 frontpageTitle: Tralis Livemap
 published: true
 ---
@@ -20,5 +23,3 @@ Ein gutes Beispiel für eine solche LiveMap ist die [Pünktlichkeitskarte der S
 ![](/images/solution/tralis-livemap/livemap.jpg)
 
 Den grössten Mehrwert entfalten LiveMaps, wenn zusätzlich zum Soll-Fahrplan und den prognostizierten Abweichungen die tatsächliche Position der Fahrzeuge berücksichtigt wird. Unser System TRALIS ist in der Lage, diese drei Informationsquellen miteinander zu kombinieren. Fahrzeugpositionen aus GPS-Empfängern oder anderen Ortungssystemen dienen dabei nicht nur dazu, die Position der Fahrzeuge auf der Karte möglichst präzise anzuzeigen, sondern sie werden auch dazu verwendet, die Prognosen aus der Leitstelle zu validieren. Unrealistische Prognosen lassen sich über die Fahrzeiten identifizieren. Ist die im System bekannte, minimale Fahrzeit bis zum Halt länger als die Prognose kann die prognostizierte Ankunftszeit nach oben korrigiert werden. Andererseits muss das System auf die Prognosen aus den Leitstellen vertrauen, wenn die Leitstellen für Ankunft einen späteren Zeitpunkt prognostizieren als sich alleine auf Basis der Fahrzeit erwarten lässt. Denn nur der Überblick aus der Leitstelle kennt die möglichen Hindernisse und Einschränkungen, die vor dem georteten Fahrzeug liegen.
-
-Unsere LiveMaps können für Visualisierung und Planung mit einem geringen Anspruch an Aktualität ebenso genutzt werden wie für hoch präzise Systeme für die Reisendeninformation.
