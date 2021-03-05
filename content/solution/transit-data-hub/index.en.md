@@ -6,6 +6,9 @@ cover: /images/solution/transit-data-hub/datendrehscheibe.png
 pageCover: /images/solution/transit-data-hub/datendrehscheibe.png
 slug: transit-data-hub
 color: "#549413"
+contactSubtitle: The list of possible applications only contains examples of the
+  numerous possibilities that are available with the data turntable. Talk to us
+  and we are sure that we can also meet your requirements.
 weight: 10
 tags:
   - mobility
@@ -19,15 +22,7 @@ Nothing works in public transport without timetable data. However, the data in t
 ![Moco](/images/solution/transit-data-hub/sbb.jpg "Moco")
 
 * **Traveler and fault information**  - Basis for accurate traveler information in real time
-
-*  **Live Maps**  - vehicle positions based on target and real-time data
-
-*  **Analyzes and statistics**  - availability potentials, punctuality statistics, driving performance
-
-*  **Converter**  - Conversion between various proprietary and open formats such as GTFS
-
-*  **Enrichment**  - Enrichment of timetable data with routes (shapes) or real-time data
-
-## Interested?
-
-The list of possible applications only contains examples of the numerous possibilities that are available with the data turntable. Talk to us and we are sure that we can also meet your requirements.
+* **Live Maps**  - vehicle positions based on target and real-time data
+* **Analyzes and statistics**  - availability potentials, punctuality statistics, driving performance
+* **Converter**  - Conversion between various proprietary and open formats such as GTFS
+* **Enrichment**  - Enrichment of timetable data with routes (shapes) or real-time data
