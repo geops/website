@@ -3,8 +3,10 @@ title: Maps
 summary: Karten für Mobilität und öffentlichen Verkehr.
 slug: maps
 contactSubtitle: >-
-  In unserem Developer Portal und unter mobility-toolbox.js finden Sie weitere
-  Anleitungen und Programmierbeispiele zur Nutzung der Karten.
+  In unserem [Developer Portal](https://developer.geops.io/) und unter
+  [mobility-toolbox-js](https://mobility-toolbox-js.geops.io/) finden Sie
+  weitere Anleitungen und Programmierbeispiele zur Nutzung der Karten. Gern
+  konzipieren wir für Sie Ihre individuelle Lösung.
 
 
   Kontaktieren Sie uns und wir geben Ihnen gerne alle weiteren Informationen.
