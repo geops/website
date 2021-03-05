@@ -1,9 +1,7 @@
 ---
 title: User Testing in Adobe XD
 summary: Was User Testing mit deinem neuen Herd zu tun hat, erklären wir hier.
-created: 2021-03-04
 slug: user-testing-adobe-xd
-published: true
 ---
 Ein Prototyp sollte von potentiellen Nutzern getestet werden. Sonst bekommt man ein tolles Design ohne die richtige Nutzerführung. Das wäre etwa so wie ein toller neuer Herd, bei dem man die Knöpfe nicht finden kann.
 
