@@ -1,19 +1,18 @@
 ---
 title: Livemap
-summary: >-
-  LiveMaps show the positions of public transport vehicles on a map. In addition
-  to the map display, the processing of the vehicle positions creates precise
-  forecasts for travelers.
-
-
-  Contact us.
+summary: LiveMaps show the positions of public transport vehicles on a map. In
+  addition to the map display, the processing of the vehicle positions creates
+  precise forecasts for travelers.
 cover: /images/solution/tralis-livemap/sbahnm1.jpg
 pageCover: /images/solution/tralis-livemap/sbahnm1.jpg
 slug: tralis-livemap
 color: "#4B6881"
-contactSubtitle: Our LiveMaps can be used for visualization and planning with a
-  low demand for up-to-dateness as well as for highly precise systems for
-  traveler information.
+contactSubtitle: >-
+  Our LiveMaps can be used for visualization and planning with a low demand for
+  up-to-dateness as well as for highly precise systems for traveler information.
+
+
+  Contact us.
 weight: 4
 tags:
   - passengerinformation

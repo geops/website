@@ -1,16 +1,16 @@
 ---
 title: Livemap
-summary: >-
-  LiveMaps zeigen die Positionen von Fahrzeugen des öffentlichen Verkehrs auf
-  einer Karte. Neben der Kartendarstellung entstehen mit der Verarbeitung der
-  Fahrzeugpositionen präzise Prognosen für Reisende.
+summary: LiveMaps zeigen die Positionen von Fahrzeugen des öffentlichen Verkehrs
+  auf einer Karte. Neben der Kartendarstellung entstehen mit der Verarbeitung
+  der Fahrzeugpositionen präzise Prognosen für Reisende.
+slug: tralis-livemap
+contactSubtitle: >-
+  Unsere LiveMaps können für Visualisierung und Planung mit einem geringen
+  Anspruch an Aktualität ebenso genutzt werden wie für hoch präzise Systeme für
+  die Reisendeninformation.
 
 
   Nehmen Sie Kontakt mit uns auf.
-slug: tralis-livemap
-contactSubtitle: Unsere LiveMaps können für Visualisierung und Planung mit einem
-  geringen Anspruch an Aktualität ebenso genutzt werden wie für hoch präzise
-  Systeme für die Reisendeninformation.
 frontpageTitle: Tralis Livemap
 published: true
 ---
