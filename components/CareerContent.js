@@ -35,7 +35,7 @@ export default function CareerContent({ content }) {
           </div>
         </div>
         <h2>{content.matchTitle}</h2>
-        <p>{content.matchText}</p>
+        <p dangerouslySetInnerHTML={{ __html: content.matchText }} />
       </div>
     </div>
   );
