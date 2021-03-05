@@ -194,7 +194,7 @@ collections:
           - { i18n: true, label: Offer Additon, name: offerAdditon }
           - { i18n: true, label: Offer Freiburg, name: offerFreiburg }
           - { i18n: true, label: Match Title, name: matchTitle }
-          - { i18n: true, label: Match Text, name: matchText }
+          - { i18n: true, label: Match Text, name: matchText, widget: markdown }
       - label: "Imprint"
         name: "imprint"
         file: "content/page/imprint.json"
