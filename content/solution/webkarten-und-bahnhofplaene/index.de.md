@@ -8,7 +8,8 @@ contactSubtitle: Wollen Sie ihren Kunden eine ansprechende Karte zum Thema
   Mobilität bereitstellen? Dann sprechen Sie uns an. Bei den Themen Webkarten
   und Datenintegrationen helfen wir von geOps Ihnen gern weiter. Bei Fragen zu
   den Themen graphische Gestaltung und Print-Produktion ist unser ARGE-Partner
-  [evoq](https://evoq.ch) der richtige Ansprechpartner.
+  <a href="https://evoq.ch" target="_blank">evoq</a> der richtige
+  Ansprechpartner.
 frontpage: false
 frontpageTitle: Webkarten und Bahnhofpläne
 ---
