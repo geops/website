@@ -6,8 +6,10 @@ pageCover: /images/solution/maps/maps1.png
 slug: maps
 color: "#1789C9"
 contactSubtitle: >-
-  In our developer portal and under mobility-toolbox.js you will find further
-  instructions and programming examples for using the cards.
+  In our [developer portal](https://developer.geops.io/) and under
+  [mobility-toolbox-js](https://mobility-toolbox-js.geops.io/) you will find
+  further instructions and programming examples for using the cards. We will
+  also be happy to design an individual solution for you.
 
 
   Contact us and we will be happy to give you all further information.
