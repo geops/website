@@ -45,15 +45,19 @@ _![](/images/blog/interpolation-von-hohenprofilen/formula.png)_
 
 Da ein Streckenverlauf aus vielen Punkten bestehen kann (z.B. _N_\= 10000), kommt hierfür [NumPy](https://numpy.org/) zum Einsatz. Für alle, die NumPy noch nicht kennen, hier ein kleiner Code-Schnipsel als Appetit-Anreger für eine Möglichkeit, wie man viele Bilinearformen in einem Rutsch auswerten kann, ohne eine langsame Python-Schleife zu verwenden:
 
-```python
-numpy.einsum(
-    "im,imn,in->i",  # sum (a_im * M_imn * b_in) over m and n, but not i
-    a_im,  # datastructure containing multiple vectors
-    M_imn,  # multiple matrices
-    b_in,  # multiple vectors
-    out=coords[:, 2],  # write output directly to z-component of coordinates
-)
-```
+`numpy.einsum(`
+
+`"im,imn,in->i",` `# sum (a_im * M_imn * b_in) over m and n, but not i`
+
+`a_im,` `# datastructure containing multiple vectors`
+
+`M_imn,` `# multiple matrices`
+
+`b_in,` `# multiple vectors`
+
+``out=coords[:, `2`],`` `# write output directly to z-component of coordinates`
+
+`)`
 
 Der Flaschenhals ist hierbei letztendlich die Datenbank-Abfrage, welche zum Erzeugen der Eingangs-Vektoren und -Matrizen verwendet wird.
 
@@ -85,15 +89,15 @@ Unser Bauchgefühl sagt uns: Irgendwie müssen unnötige Steigungen vermieden we
 
 Die numerische Lösung hiervon ist mit Numpy ein Einzeiler:
 
-```python
-# h: vector of unknown elevations
-# matrix A and vector x depend on edge lengths, graph topology and known elevations
-h = numpy.linalg.solve(A, x)
-```
+`# h: vector of unknown elevations`
+
+`# matrix A and vector x depend on edge lengths, graph topology and known elevations`
+
+`h``=``numpy.linalg.solve(A, x)`
 
 Für die Verarbeitung der Graphen kommt [NetworkX](https://networkx.org/) zum Einsatz.
 
-Damit haben wir also alle Komponenten beisammen, um für einen gegebenen Streckenverlauf ein Höhenprofil entlang der verwendeten Infrastruktur des Verkehrsmittels zu erzeugen. In Abbildung 1 ist ein nach dieser Methodik erzeugtes Höhenprofil beispielhaft dargestellt. Wer es selbst einmal ausprobieren möchte, kann dies in unserer [Routing-Demo](https://routing-demo.geops.io/) tun: Start und Ziel wählen und dann auf Route information klicken.
+Damit haben wir also alle Komponenten beisammen, um für einen gegebenen Streckenverlauf ein Höhenprofil entlang der verwendeten Infrastruktur des Verkehrsmittels zu erzeugen. In Abbildung 1 ist ein nach dieser Methodik erzeugtes Höhenprofil beispielhaft dargestellt. Wer es selbst einmal ausprobieren möchte, kann dies in unserer [Routing-Demo](https://geops.github.io/geops-routing-demo/) tun: Start und Ziel wählen und dann auf Route information klicken.
 
 Die Methode ließe sich sogar dahingehend erweitern, dass nicht nur die Eingänge als Knoten bekannter Höhe verwendet werden. Ist mehr über einen bestimmten Tunnel oder eine bestimmte Brücke bekannt (z.B. die Höhe an einem Scheitelpunkt), so kann diese Information ebenfalls in das lineare Gleichungssystem einfließen.
 
