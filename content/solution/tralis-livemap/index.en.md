@@ -7,6 +7,12 @@ cover: /images/solution/tralis-livemap/sbahnm1.jpg
 pageCover: /images/solution/tralis-livemap/sbahnm1.jpg
 slug: tralis-livemap
 color: "#4B6881"
+contactSubtitle: >-
+  Our LiveMaps can be used for visualization and planning with a low demand for
+  up-to-dateness as well as for highly precise systems for traveler information.
+
+
+  Contact us.
 weight: 4
 tags:
   - passengerinformation
@@ -33,6 +39,4 @@ A good example of such a LiveMap is the \[Swiss Federal Railways SBB punctuality
 
 ![](/images/solution/tralis-livemap/livemap.jpg)
 
-LiveMaps develop the greatest added value when, in addition to the target timetable and the forecast deviations, the actual position of the vehicles is taken into account. Our TRALIS system is able to combine these three sources of information. Vehicle positions from GPS receivers or other positioning systems not only serve to display the position of the vehicles on the map as precisely as possible, but they are also used to validate the forecasts from the control center. Unrealistic forecasts can be identified using travel times. If the minimum travel time known in the system to the stop is longer than the forecast, the forecast arrival time can be corrected upwards. On the other hand, the system must rely on the forecasts from the control centers if the control centers predict a later point in time for arrival than can be expected based on the driving time alone. Because only the overview from the control center knows the possible obstacles and restrictions that lie in front of the located vehicle.
-
-Our LiveMaps can be used for visualization and planning with a low demand for up-to-dateness as well as for highly precise systems for traveler information.
+LiveMaps develop the greatest added value when, in addition to the target timetable and the forecast deviations, the **actual position of the vehicles** is taken into account. Our TRALIS system is able to combine these three sources of information. Vehicle positions from GPS receivers or other positioning systems not only serve to display the position of the vehicles on the map as precisely as possible, but they are also used to validate the forecasts from the control center. Unrealistic forecasts can be identified using travel times. If the minimum travel time known in the system to the stop is longer than the forecast, the forecast arrival time can be corrected upwards. On the other hand, the system must rely on the forecasts from the control centers if the control centers predict a later point in time for arrival than can be expected based on the driving time alone. Because only the overview from the control center knows the possible obstacles and restrictions that lie in front of the located vehicle.
