@@ -12,7 +12,7 @@ contactSubtitle: >-
   mapset.
 
 
-  Bei Fragen oder Anregungen setzen Sie sich gerne mit uns in Verbindung. Sie erreichen uns unter [support@mapset.ch](mailto:support@mapset.ch) bzw. [support@mapset.io](mailto:support@mapset.io) oder telefonisch unter +41 61 588 05 05.
+  Bei Fragen oder Anregungen setzen Sie sich gerne mit uns in Verbindung.
 frontpageTitle: mapset
 published: true
 ---
