@@ -21,6 +21,8 @@ frontpageTitle: Maps
 frontpageImage: /images/solution/maps/maps.png
 gridImage: /images/solution/maps/maps.png
 ---
+
+
 Digital, interactive maps have always been at the center of our activities. Even before Google Maps existed, we produced the first web maps. With regard to the technologies used as well as the map content, we have continuously developed our offer. As part of customer projects, we are constantly creating new, specialized maps on various thematic areas. In addition, we offer maps that are specially optimized for aspects of public transport and mobility using standardized services. In addition to top performance, these cards are always up-to-date. You can use these cards for your application even without your own server infrastructure.
 
 ## Optimized for public transport
@@ -50,3 +52,7 @@ Our maps are based on MapBox Vector Tiles. This technology enables high-performa
 We use an established workflow to deliver the cards to your application. Based on our database, in which the various data sources are integrated, Vector Tiles are calculated and prepared for the Internet. All cards are available to you via a global content delivery network, which guarantees high transmission speeds and low latency times - no matter where in the world you use the cards. You can use the cards in your application with little programming effort using tried and tested software libraries. And should classic raster maps be needed, they can also be provided in numerous variants.
 
 ![Workflow](/images/solution/maps/maps_grafik.png "Workflow")
+
+<img src="/images/solution/maps/map.png" alt="interactive train station map" class="max-w-sm mx-auto lg:hidden"></iframe>
+
+<img src="/images/solution/maps/map_grafik.png" alt="interactive train station map" class="max-w-sm mx-auto sm:hidden"></iframe>
