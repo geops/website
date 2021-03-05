@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ["./components/**/*.js", "./pages/**/*.js"],
+  purge: ["./components/**/*.js", "./content/**/*.md", "./pages/**/*.js"],
   theme: {
     colors: {
       blue: {
@@ -28,7 +28,7 @@ module.exports = {
         "application-teaser": "url('/images/application-teaser.jpg')",
       },
       height: {
-        'h-128': '32rem'
+        "h-128": "32rem",
       },
     },
   },
