@@ -21,12 +21,12 @@ frontpageTitle: Webkarten und Bahnhofpläne
 Under the name Trafimage, the most comprehensive map of public transport in Switzerland is made available with the route networks of all modes of transport. In the [Trafimage system](http://trafimage.ch/), over 300 maps for the SBB are published annually - from the large overview map for travelers to the internal electricity network map. Trafimage is open to everyone and is used in particular by other public transport companies, e.g. PostBus or BLS, but also by authorities or associations such as the VöV. The cards are available both as print posters and in digital form. The digital maps can be found on steles in the train station, on monitors in the train, integrated into SBB websites and in a combined form in the [Trafimage web map portal](https://maps.trafimage.ch/).
 
 <iframe src="https://maps2.trafimage.ch/ch.sbb.infrastruktur?disabled=header,footer,menu" width="100%" height="700" title="Trafimage web map portal" class="hidden lg:block"></iframe>
-<img src="/images/solution/webkarten-und-bahnhofplaene/webkartenportal.png" alt="Trafimage web map portal" class="max-w-sm mx-auto lg:hidden"></iframe>
+<img src="/images/solution/webkarten-und-bahnhofplaene/webkartenportal.png" alt="Trafimage web map portal" class="w-full mx-auto lg:hidden"></iframe>
 
 Another important component of Trafimage are the station plans. In more than 100 SBB train stations, the Trafimage train station maps print posters help travelers find their way around. The 35 largest Swiss stations are equipped with particularly easy-to-understand and appealing three-dimensional station plans. In addition to the printed posters, they are also available as an [interactive train station map](https://plans.trafimage.ch/) on the web, on mobile and on digital steles in the train station.
 
 <iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="700" title="interactive train station map" class="hidden lg:block"></iframe>
-<img src="/images/solution/webkarten-und-bahnhofplaene/bahnhofplan.png" alt="interactive train station map" class="max-w-sm mx-auto lg:hidden"></iframe>
+<img src="/images/solution/webkarten-und-bahnhofplaene/bahnhofplan.png" alt="interactive train station map" class="w-full mx-auto lg:hidden"></iframe>
 
 ## Always up to date
 
