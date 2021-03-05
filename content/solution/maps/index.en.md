@@ -2,7 +2,7 @@
 title: Maps
 summary: Maps for mobility and public transport.
 cover: /images/solution/maps/maps1.jpg
-pageCover: /images/solution/maps/maps1.jpg
+pageCover: /images/solution/maps/maps1.png
 slug: maps
 color: "#1789C9"
 contactSubtitle: >-
