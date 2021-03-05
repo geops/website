@@ -10,7 +10,7 @@ export default function RelatedList({ dark, list }) {
         <h2 className="text-center mb-16">{t("relatedList.title")}</h2>
         <div className="grid gap-16 lg:grid-cols-2">
           {list.map((item) => (
-            <RelatedListItem item={item} key={item.slug} />
+            <RelatedListItem dark={dark} item={item} key={item.slug} />
           ))}
         </div>
       </div>
