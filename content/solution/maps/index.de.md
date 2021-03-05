@@ -40,7 +40,3 @@ Unsere Karten basieren auf MapBox Vector Tiles. Diese Technologie erlaubt hochpe
 Für die Auslieferung der Karten an Ihre Anwendung nutzen wir einen etablierten Workflow. Ausgehend von unserer Datenbank, in der die verschiedenen Datenquellen integriert werden, werden Vector Tiles gerechnet und für das Internet aufbereitet. Sämtliche Karten stehen Ihnen über ein globales Content Delivery Network zur Verfügung, was hohe Übertragungsgeschwindigkeiten und geringe Latenzzeiten garantiert – egal wo auf der Welt Sie die Karten nutzen. In Ihrer Anwendung können Sie die Karten mit wenig Programmieraufwand über bewährte Software-Bibliotheken nutzen. Und sollten doch einmal klassische Rasterkarten benötigt werden, lassen sich auch die in zahlreichen Varianten bereitstellen.
 
 ![Workflow](/images/solution/maps/maps_grafik.png "Workflow")
-
-<img src="/images/solution/maps/map.png" alt="map_workflow" class="max-w-sm mx-auto lg:hidden">
-
-<img src="/images/solution/maps/map_grafik.png" alt="map_workflow" class="max-w-sm mx-auto class="hidden lg:block"">
