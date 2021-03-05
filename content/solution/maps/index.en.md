@@ -21,8 +21,6 @@ frontpageTitle: Maps
 frontpageImage: /images/solution/maps/maps.png
 gridImage: /images/solution/maps/maps.png
 ---
-
-
 Digital, interactive maps have always been at the center of our activities. Even before Google Maps existed, we produced the first web maps. With regard to the technologies used as well as the map content, we have continuously developed our offer. As part of customer projects, we are constantly creating new, specialized maps on various thematic areas. In addition, we offer maps that are specially optimized for aspects of public transport and mobility using standardized services. In addition to top performance, these cards are always up-to-date. You can use these cards for your application even without your own server infrastructure.
 
 ## Optimized for public transport
@@ -53,6 +51,6 @@ We use an established workflow to deliver the cards to your application. Based o
 
 ![Workflow](/images/solution/maps/maps_grafik.png "Workflow")
 
-<img src="/images/solution/maps/map.png" alt="interactive train station map" class="max-w-sm mx-auto lg:hidden"></iframe>
+<img src="/images/solution/maps/map.png" alt="map_workflow" class="max-w-sm mx-auto lg:hidden">
 
-<img src="/images/solution/maps/map_grafik.png" alt="interactive train station map" class="max-w-sm mx-auto sm:hidden"></iframe>
+<img src="/images/solution/maps/map_grafik.png" alt="map_workflow" class="max-w-sm mx-auto class="hidden lg:block"">
