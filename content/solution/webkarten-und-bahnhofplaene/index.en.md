@@ -17,7 +17,7 @@ tags:
   - passengerinformation
 frontpage: false
 frontpageTitle: Webkarten und Bahnhofpläne
-frontpageImage: /images/solution/webkarten-und-bahnhofplaene/bahnhofplan.png
+frontpageImage: ""
 ---
 Under the name Trafimage, the most comprehensive map of public transport in Switzerland is made available with the route networks of all modes of transport. In the [Trafimage system](http://trafimage.ch/), over 300 maps for the SBB are published annually - from the large overview map for travelers to the internal electricity network map. Trafimage is open to everyone and is used in particular by other public transport companies, e.g. PostBus or BLS, but also by authorities or associations such as the VöV. The cards are available both as print posters and in digital form. The digital maps can be found on steles in the train station, on monitors in the train, integrated into SBB websites and in a combined form in the [Trafimage web map portal](https://maps.trafimage.ch/).
 
