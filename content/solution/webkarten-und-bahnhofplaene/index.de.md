@@ -16,12 +16,12 @@ frontpageTitle: Webkarten und Bahnhofpläne
 Unter dem Namen Trafimage wird das um­fassendste Kartenwerk des öffentlichen Ver­kehrs in der Schweiz mit den Strecken­netzen aller Ver­kehrs­mittel bereitgestellt. Im [System Trafimage](http://trafimage.ch/) werden jährlich über 300 Karten für die SBB publiziert – von der grossen Übersichtskarte für die Reisenden bis hin zur internen Stromnetzkarte. Trafimage steht allen offen und wird insbesondere von anderen öV-Unternehmen, z.B. Postauto oder BLS, aber auch von Behörden oder Verbänden wie dem VöV rege genutzt. Die Karten gibt es sowohl als Print Plakate als auch in digitaler Form. Die digitalen Karten findet man auf Stelen im Bahnhof, auf Monitoren im Zug, eingebunden in SBB-Webseiten und in vereinter Form im [Trafimage Webkartenportal](https://maps.trafimage.ch/).
 
 <iframe src="https://maps2.trafimage.ch/ch.sbb.infrastruktur?disabled=header,footer,menu" width="100%" height="700" title="Traifmage Webkartenportal" class="hidden lg:block"></iframe>
-<img src="/images/solution/webkarten-und-bahnhofplaene/webkartenportal.png" alt="Trafimage Webkartenportal" class="max-w-sm mx-auto lg:hidden"></iframe>
+<img src="/images/solution/webkarten-und-bahnhofplaene/webkartenportal.png" alt="Trafimage Webkartenportal" class="w-full mx-auto lg:hidden"></iframe>
 
 Eine weitere wichtige Komponente von Trafimage sind die Bahnhofpläne. In mehr als 100 Bahnhöfen der SBB helfen die Print-Plakate der Trafimage Bahnhofpläne den Reisenden bei der Orientierung. Die 35 grössten Schweizer Stationen sind mit den besonders leicht verständlichen und ansprechenden dreidimensionalen Bahnhofplänen ausgestattet. Neben den gedruckten Plakaten gibt es sie auch als [Interaktiven Bahnhofplan](https://plans.trafimage.ch/) im Web, auf Mobile und auf digitalen Stelen im Bahnhof.
 
 <iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="700" title="Interaktiven Bahnhofplan Zürich" class="hidden lg:block"></iframe>
-<img src="/images/solution/webkarten-und-bahnhofplaene/bahnhofplan.png" alt="Interaktiven Bahnhofplan Zürich" class="max-w-sm mx-auto lg:hidden"></iframe>
+<img src="/images/solution/webkarten-und-bahnhofplaene/bahnhofplan.png" alt="Interaktiven Bahnhofplan Zürich" class="w-full mx-auto lg:hidden"></iframe>
 
 ## Immer auf dem aktuellsten Stand
 
