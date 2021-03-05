@@ -7,7 +7,7 @@ contactSubtitle: >-
   Über unsere Twitter-Accounts [@mapsetch](https://twitter.com/mapsetch) und
   [@mapsetio](https://twitter.com/mapsetio) werden wir Sie über Neuigkeiten auf
   dem Laufenden halten. Auch mit unseren Newslettern
-  für [mapset.ch](http://mapset.ch/) und [mapset.io](http://mapset.io/) informieren
+  für [mapset.ch](https://geops.sh/mapset) und [mapset.io](https://geops.sh/40003911245CB34786) informieren
   wir Sie über Neuerungen und berichten über Erfahrungen anderer Unternehmen mit
   mapset.
 
