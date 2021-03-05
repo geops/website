@@ -6,9 +6,9 @@ pageCover: /images/solution/webkarten-und-bahnhofplaene/iabp-02.png
 slug: webkarten-und-bahnhofplaene
 color: "#353535"
 contactSubtitle: Do you want to provide your customers with an appealing map on
-  the subject of mobility? Then contact us. We at geOps are happy to help you
-  with the topics of web maps and data integration. If you have any questions
-  about graphic design and print production, our ARGE partner <a
+  the subject of mobility in Switzerland? Then contact us. We at geOps are happy
+  to help you with the topics of web maps and data integration. If you have any
+  questions about graphic design and print production, our ARGE partner <a
   href="https://evoq.ch" target="_blank">evoq</a> is the right contact.
 weight: 3
 tags:

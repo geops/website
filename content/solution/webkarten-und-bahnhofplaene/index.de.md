@@ -5,11 +5,11 @@ summary: Einheitliche Karten und Bahnhofpläne für den gesamten öffentlichen
 slug: webkarten-und-bahnhofplaene
 contactTitle: ""
 contactSubtitle: Wollen Sie ihren Kunden eine ansprechende Karte zum Thema
-  Mobilität bereitstellen? Dann sprechen Sie uns an. Bei den Themen Webkarten
-  und Datenintegrationen helfen wir von geOps Ihnen gern weiter. Bei Fragen zu
-  den Themen graphische Gestaltung und Print-Produktion ist unser ARGE-Partner
-  <a href="https://evoq.ch" target="_blank">evoq</a> der richtige
-  Ansprechpartner.
+  Mobilität in der Schweiz bereitstellen? Dann sprechen Sie uns an. Bei den
+  Themen Webkarten und Datenintegrationen helfen wir von geOps Ihnen gern
+  weiter. Bei Fragen zu den Themen graphische Gestaltung und Print-Produktion
+  ist unser ARGE-Partner <a href="https://evoq.ch" target="_blank">evoq</a> der
+  richtige Ansprechpartner.
 frontpage: false
 frontpageTitle: Webkarten und Bahnhofpläne
 ---
