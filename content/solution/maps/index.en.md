@@ -5,6 +5,12 @@ cover: /images/solution/maps/maps1.jpg
 pageCover: /images/solution/maps/maps1.jpg
 slug: maps
 color: "#1789C9"
+contactSubtitle: >-
+  In our developer portal and under mobility-toolbox.js you will find further
+  instructions and programming examples for using the cards.
+
+
+  Contact us and we will be happy to give you all further information.
 weight: 1
 tags:
   - maps
@@ -44,9 +50,3 @@ Our maps are based on MapBox Vector Tiles. This technology enables high-performa
 We use an established workflow to deliver the cards to your application. Based on our database, in which the various data sources are integrated, Vector Tiles are calculated and prepared for the Internet. All cards are available to you via a global content delivery network, which guarantees high transmission speeds and low latency times - no matter where in the world you use the cards. You can use the cards in your application with little programming effort using tried and tested software libraries. And should classic raster maps be needed, they can also be provided in numerous variants.
 
 ![Workflow](/images/solution/maps/maps_grafik.png "Workflow")
-
-## Interested?
-
-In our developer portal and under mobility-toolbox.js you will find further instructions and programming examples for using the cards.
-
-Contact us and we will be happy to give you all further information.
