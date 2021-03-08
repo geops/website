@@ -25,7 +25,7 @@ Eine weitere wichtige Komponente von Trafimage sind die Bahnhofpläne. In mehr a
 
 ## Immer auf dem aktuellsten Stand
 
-Die Trafimage-Karten sind komplexe Produkte, in welche Geodaten unterschiedlicher Quellen und aktuelle Fahrplaninformationen einfliessen. Das so entstehende aktuelle Netz wird mit von geOps entwickelten GIS-Werkzeugen aufbereitet und mittels Generalisierung graphisch optimiert. Die Datenintegration aus unterschiedlichen Quellen erfolgt automatisch und wird stetig ausgebaut und weiter optimiert.  Für die Anzeige von Abfahrtszeiten und für die Visualisierung der Pünktlichkeit der SBB greifen sowohl Webkarten als auch der Interaktive Bahnhofplan auf unseren Realtime-Service mit aktuellen Zugpositionen und [Verspätungsinformationen](https://confluence.geops.ch/pages/createpage.action?spaceKey=GEOPSWEB2021&title=Link&linkCreation=true&fromPageId=58329126) zu. Die frei verfügbaren Daten decken nicht nur die Schweiz sondern ganz Europa ab.
+Die Trafimage-Karten sind komplexe Produkte, in welche Geodaten unterschiedlicher Quellen und aktuelle Fahrplaninformationen einfliessen. Das so entstehende aktuelle Netz wird mit von geOps entwickelten GIS-Werkzeugen aufbereitet und mittels Generalisierung graphisch optimiert. Die Datenintegration aus unterschiedlichen Quellen erfolgt automatisch und wird stetig ausgebaut und weiter optimiert.  Für die Anzeige von Abfahrtszeiten und für die Visualisierung der Pünktlichkeit der SBB greifen sowohl Webkarten als auch der Interaktive Bahnhofplan auf unseren Realtime-Service mit aktuellen Zugpositionen und Verspätungsinformationen zu. Die frei verfügbaren Daten decken nicht nur die Schweiz sondern ganz Europa ab.
 
 ## Redaktionell angereicherte Inhalte
 
