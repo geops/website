@@ -49,7 +49,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
         {imageClassName && solution.gridImage && (
           <img
             alt={`${solution.title} Teaser`}
-            className={imageClassName}
+            className={`${imageClassName} object-contain`}
             src={solution.gridImage}
           />
         )}

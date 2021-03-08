@@ -7,7 +7,8 @@ export default function BlogListItem({ item }) {
   const { language, t } = useI18n();
   const created = new Date(item.created);
   return (
-    <article className="container mx-auto px-8 py-16 border-white border-b-2 flex items-center">
+    <Link href={`/blog/${item.slug}`}>
+    <article className="container mx-auto lg:w-4/6 px-8 py-16 border-white border-b-2 flex items-center cursor-pointer group">
       {item.cover && (
         <div className="hidden lg:block flex-none mr-8 xl:mr-16">
           <img
@@ -28,15 +29,14 @@ export default function BlogListItem({ item }) {
           <Link href={`/blog/${item.slug}`}>{item.title}</Link>
         </h1>
         <p>{item.summary}</p>
-        <Link href={`/blog/${item.slug}`}>
-          <a className="group flex items-center text-blue mt-8">
+          <a className="flex items-center text-blue mt-8">
             {t("website.readMore")}
             <div className="w-6 ml-2 mt-1 transition duration-300 transform group-hover:translate-x-2">
               <CaretIcon direction="right" />
             </div>
           </a>
-        </Link>
       </div>
     </article>
+  </Link>
   );
 }
