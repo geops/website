@@ -17,7 +17,7 @@ tags:
   - routing
   - javascript
   - realtime
-frontpage: true
+frontpage: false
 gridImage: /images/solution/routing/routing.png
 ---
 ## Exactly for everything
