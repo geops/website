@@ -10,7 +10,7 @@ frontpage: false
 ---
 Möchten Sie Ihren Kunden Informationen zu Angeboten und Dienstleistungen auf einer Webkarte zugänglich machen? Dann ist unser geographisches CMS Cartaro genau das richtige Tool für Sie. Über komfortable Erfassungsmasken können Texte, Bilder und andere Inhalte verwaltet und mit GIS-Tools auf einer Karte verortet werden. Die flexiblen Schnittstellen ermöglichen sowohl den Import bestehender Datensätze als auch den Export für Drittsysteme. Cartaro wird bereits von zahlreichen Kunden für die Verwaltung räumlicher Inhalte verwendet. Das Tool ist erweiterbar und lässt sich flexibel auf Ihre Bedürfnisse anpassen.
 
-![Erfassungsmaske](/images/solution/cartaro/iabp_mask.png "Erfassungsmaske")
+![Erfassungsmaske](/images/solution/cartaro/iabp_mask_02.png "Erfassungsmaske")
 
 ### Die wesentlichen Funktionen im Überblick
 
