@@ -7,17 +7,17 @@ pageCover: /images/solution/routing/routing_02.png
 slug: routing
 color: "#549413"
 contactTitle: Interested?
-contactSubtitle: Test the routing performance with our
-  [Demo](https://geops.github.io/geops-routing-demo/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293).
-  You can also find out which options are available for your own application in
-  our [Developer Portal](https://developer.geops.io/).
-weight: 2
+contactSubtitle: "Test the routing performance with
+  our[Demo](https://geops.github.io/geops-routing-demo/?mot=rail&resolve-hops=f\
+  alse&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.13\
+  2015913583293).\r You can also find out which options are available for your
+  own application in\r our [Developer Portal](https://developer.geops.io/)."
+weight: -1
 tags:
   - routing
   - javascript
   - realtime
-frontpage: false
-frontpageImage: /images/solution/routing/routing_02.png
+frontpage: true
 gridImage: /images/solution/routing/routing.png
 ---
 ## Exactly for everything
