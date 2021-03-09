@@ -3,7 +3,7 @@ title: Software for the environment
 summary: Our environmental software focuses on interoperability, durability and
   user-friendliness.
 cover: /images/solution/umwelt-software/treeapp.jpg
-pageCover: /images/solution/umwelt-software/altlast4web-1-.png
+pageCover: /images/solution/umwelt-software/altlast4web.jpg
 slug: umwelt-software
 color: "#1A6A70"
 weight: 5
@@ -12,7 +12,7 @@ tags:
   - environment
   - maps
 frontpage: false
-frontpageImage: /images/solution/umwelt-software/altlast4web-1-.png
+frontpageImage: /images/solution/umwelt-software/altlast4web.jpg
 gridImage: /images/solution/umwelt-software/treeapp.png
 ---
 Through the use of open interfaces and standards, our applications can be seamlessly integrated into existing systems. We rely on established open source software for development and provide our products under open source licenses. Many customers can use our software license-free and mutually benefit from the enhancements and optimizations.
