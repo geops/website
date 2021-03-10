@@ -13,8 +13,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
     imageClassName = "hidden xl:block md:max-w-md -m-2 ml-8";
     sectionClassName = "xl:col-span-2 flex";
   } else if (position === 0 || position === 7) {
-    imageClassName =
-      "hidden md:block md:max-w-md lg:max-w-xl -m-2 ml-8";
+    imageClassName = "hidden md:block md:max-w-md lg:max-w-xl -m-2 ml-8";
     sectionClassName = "md:col-span-2 flex";
   } else if (position === 1 || position === 4) {
     imageClassName = `hidden md:block -m-2 ${styles.itemWidth}`;
