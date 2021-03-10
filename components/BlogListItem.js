@@ -29,12 +29,12 @@ export default function BlogListItem({ item }) {
           <Link href={`/blog/${item.slug}`}>{item.title}</Link>
         </h1>
         <p>{item.summary}</p>
-          <a className="flex items-center text-blue mt-8">
+          <div className="flex items-center text-blue mt-8">
             {t("website.readMore")}
             <div className="w-6 ml-2 mt-1 transition duration-300 transform group-hover:translate-x-2">
               <CaretIcon direction="right" />
             </div>
-          </a>
+          </div>
       </div>
     </article>
   </Link>
