@@ -7,11 +7,13 @@ const arrowDown = {
 };
 
 export default function ContactPerson({ person, subtitle, title }) {
-  let subtitleClassName = ''
+  let subtitleClassName = "";
   if (subtitle) {
-    subtitleClassName = "my-8 font-regular prose prose-2xl text-gray-darker w-2/3 mx-auto"
+    subtitleClassName =
+      "my-8 font-regular prose prose-2xl text-gray-darker w-2/3 mx-auto";
   } else {
-    subtitleClassName = "mt-2 font-bold prose prose-2xl text-gray-darker w-2/3 mx-auto"
+    subtitleClassName =
+      "mt-2 font-bold prose prose-2xl text-gray-darker w-2/3 mx-auto";
   }
   const { language, t } = useI18n();
   return (

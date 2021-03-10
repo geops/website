@@ -15,7 +15,11 @@ export default function CaretIcon({ direction }) {
   }
   return (
     <svg className={className} viewBox="0 0 24 24">
-      <rect width="24" height="24" fill="none" /><path d="M1481.8,655.52l-7.293-7.293-7.293,7.293-1.414-1.414,8.707-8.707,8.707,8.707Z" transform="translate(-1462.507 -638.813)"/>
+      <rect width="24" height="24" fill="none" />
+      <path
+        d="M1481.8,655.52l-7.293-7.293-7.293,7.293-1.414-1.414,8.707-8.707,8.707,8.707Z"
+        transform="translate(-1462.507 -638.813)"
+      />
     </svg>
   );
 }
