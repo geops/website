@@ -2,7 +2,8 @@
   "en": {
     "title": "Collecting and analyzing data, producing maps and insights",
     "summary": "",
-    "image": "/images/slide/data-engineering/berg_bahn.jpg"
+    "image": "/images/slide/data-engineering/berg_bahn.jpg",
+    "position": 2
   },
   "de": {
     "title": "Daten verstehen, analysieren und präsentieren",

@@ -16,6 +16,7 @@ const CarouselKeyboardNavigation = dynamic(
 );
 
 export default function Carousel({ slides }) {
+  slides.sort((a,b) => (a.position - b.position))
   const containerRef = useRef(null);
   const { t } = useI18n();
   return (
@@ -25,10 +26,12 @@ export default function Carousel({ slides }) {
         <CarouselProvider
           className={`${styles.carousel}`}
           infinite
-          isPlaying
+          loop
+          playDirection="forward"
           naturalSlideWidth={1600}
           naturalSlideHeight={1200}
           totalSlides={slides.length}
+          isPlaying
         >
           <CarouselKeyboardNavigation />
           <Slider
@@ -36,10 +39,11 @@ export default function Carousel({ slides }) {
             className="bg-gray-darker h-screen overflow-hidden relative"
             classNameAnimation="transition ease-in-out duration-1000"
           >
-            {slides.map((slide, index) => (
-              <Slide index={index} key={index}>
+            {slides.map((slide) => (
+              <Slide index={slide.position} key={slide.position}>
                 {slide.video ? (
                   <video
+                    onClick={this.Touchchecker()}
                     className="h-full object-cover"
                     autoPlay
                     loop
