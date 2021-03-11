@@ -4,7 +4,7 @@ summary: Die Zahl unserer Kunden für die Software Altlast4Web wächst weiter. I
   August 2020 dürfen wir den Kanton Luzern als weiteren Kunden im produktiven
   Betrieb willkommen heissen. Die Umstellung erfolgte im ersten Halbjahr 2020 im
   Rekordtempo.
-author: Elias Englen
+author: Fabian Merthin
 cover: /images/blog/altlast4web-go-live-in-luzern/altlast4web_0_0.png
 created: 2020-11-10
 slug: altlast4web-go-live-in-luzern
