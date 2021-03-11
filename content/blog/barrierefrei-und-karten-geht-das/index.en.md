@@ -5,6 +5,7 @@ summary: In der realen Welt werden immer mehr Zugänge barrierefrei gestaltet.
   Karten und Plänen, die per se grafische Elemente für den Zugang zu
   Informationen  voraussetzen, ist die Gewährleistung von Barrierefreiheit eine
   grosse Herausforderung.
+author: Eva Schiller
 cover: /images/blog/barrierefrei-und-karten-geht-das/AutonomesReisen.1488198485597.jpeg
 created: 2017-05-21
 slug: barrierefrei-und-karten-geht-das
