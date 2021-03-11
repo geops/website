@@ -7,7 +7,7 @@ summary: Mit INTERLIS steht ein mächtiges Werkzeug für die standardisierte
   unterstützen. Der ilivalidator, der 2016 als Open Source-Software zur
   Validierung von INTERLIS-Daten erschienen ist, hat eine dieser Lücken
   geschlossen.
-author: Elias Englen
+author: Elke Erhardt
 cover: /images/blog/modellkonforme-datenprufung-mit-dem-ilivalidator/altlast4web_0.png
 created: 2019-04-16
 slug: modellkonforme-datenprufung-mit-dem-ilivalidator
