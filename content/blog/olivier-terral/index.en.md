@@ -1,7 +1,7 @@
 ---
 title: Olivier Terral
 summary: Olivier Terral verstärkt als Frontend Entwickler unser Team in Freiburg.
-author: Julia Knödler
+author: Susanne Moritz
 cover: /images/blog/olivier-terral/OlvierOnBoner_Small.jpg
 created: 2018-09-10
 slug: olivier-terral
