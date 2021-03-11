@@ -16,7 +16,7 @@ const CarouselKeyboardNavigation = dynamic(
 );
 
 export default function Carousel({ slides }) {
-  slides.sort((a,b) => (a.position - b.position))
+  slides.sort((a, b) => a.position - b.position);
   const containerRef = useRef(null);
   const { t } = useI18n();
   return (
