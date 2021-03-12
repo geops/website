@@ -3,7 +3,7 @@
     "title": "Intuitive and effective applications to make your business going",
     "summary": "",
     "image": "/images/slide/business-applications/business_solutions.jpg",
-    "position": 5
+    "weight": 5
   },
   "de": {
     "title": "Effektive und intuitive Apps für Ihren Business Case",

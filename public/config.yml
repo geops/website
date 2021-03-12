@@ -408,8 +408,8 @@ collections:
         name: "video"
         widget: "string"
         required: false
-      - label: "Position"
-        name: "position"
+      - label: "Weight"
+        name: "weight"
         widget: "number"
         required: true
         hint: "Position in Slider"

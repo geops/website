@@ -6,6 +6,7 @@ import { useI18n } from "../lib/i18n";
 
 import Button from "./Button.js";
 import CaretIcon from "./icons/CaretIcon.js";
+import CarouselAutoResumePlaying from "./CarouselAutoResumePlaying.js";
 
 import "pure-react-carousel/dist/react-carousel.es.css";
 import styles from "./Carousel.module.css";
@@ -16,7 +17,6 @@ const CarouselKeyboardNavigation = dynamic(
 );
 
 export default function Carousel({ slides }) {
-  slides.sort((a, b) => a.position - b.position);
   const containerRef = useRef(null);
   const { t } = useI18n();
   return (
@@ -26,13 +26,13 @@ export default function Carousel({ slides }) {
         <CarouselProvider
           className={`${styles.carousel}`}
           infinite
-          loop
-          playDirection="forward"
+          isPlaying
+          lockOnWindowScroll
           naturalSlideWidth={1600}
           naturalSlideHeight={1200}
           totalSlides={slides.length}
-          isPlaying
         >
+          <CarouselAutoResumePlaying />
           <CarouselKeyboardNavigation />
           <Slider
             aria-label="Slider"
@@ -40,13 +40,12 @@ export default function Carousel({ slides }) {
             classNameAnimation="transition ease-in-out duration-1000"
           >
             {slides.map((slide) => (
-              <Slide index={slide.position} key={slide.position}>
+              <Slide index={slide.weight} key={slide.weight}>
                 {slide.video ? (
                   <video
                     onClick={this.Touchchecker()}
                     className="h-full object-cover"
                     autoPlay
-                    loop
                     playsInline
                     preload="auto"
                     poster={slide.image}
