@@ -43,7 +43,8 @@ export async function getStaticProps(context) {
   });
   const slides = getContentList(language, {
     collections: ["slide"],
-    fields: ["title", "summary", "image", "link", "video"],
+    fields: ["title", "summary", "weight", "image", "link", "video"],
   });
+  slides.sort((a, b) => a.weight - b.weight);
   return { props: { language, list, slides } };
 }

@@ -2,10 +2,10 @@ backend:
   name: github
   repo: geops/website
   branch: main
-  # name: git-gateway
+  #name: git-gateway
 
 # Used for testing.
-# local_backend: true
+#local_backend: true
 
 i18n:
   # Required and can be one of multiple_folders, multiple_files or single_file
@@ -408,6 +408,11 @@ collections:
         name: "video"
         widget: "string"
         required: false
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        required: true
+        hint: "Position in Slider"
       - label: "Link"
         name: "link"
         widget: "string"

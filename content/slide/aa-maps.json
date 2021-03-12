@@ -1,7 +1,8 @@
 {
   "en": {
     "title": "High performance maps with focused content",
-    "image": "https://geops.de/images/slide/high-performance-maps-with-focused-content/maps.jpg"
+    "image": "https://geops.de/images/slide/high-performance-maps-with-focused-content/maps.jpg",
+    "weight": 1
   },
   "de": {
     "title": "Performante Karten mit relevanten Inhalten"

@@ -2,7 +2,8 @@
   "en": {
     "title": "Applications and data integration for multimodal mobility",
     "summary": "",
-    "image": "/images/slide/applications-and-data-integration-for-multimodal-mobility/mobility.jpg"
+    "image": "/images/slide/applications-and-data-integration-for-multimodal-mobility/mobility.jpg",
+    "weight": 4
   },
   "de": {
     "title": "Datenintegration und Lösungen für multimodale Mobilität",
