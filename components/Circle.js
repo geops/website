@@ -2,10 +2,10 @@ import useIntersectionOberserver from "../lib/useIntersectionOberserver";
 
 const delays = {
   0: "",
-  100: "delay-100",
-  300: "delay-300",
-  500: "delay-500",
-  700: "delay-700",
+  100: "lg:delay-100",
+  300: "lg:delay-300",
+  500: "lg:delay-500",
+  700: "lg:delay-700",
 };
 
 const sizes = {
