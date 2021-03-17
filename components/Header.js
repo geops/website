@@ -128,7 +128,7 @@ export default function Header({ translationPath }) {
                   ))}
                 </ul>
                 {/* -------- Mobile Translation Navigation -------- */}
-                <div className="border-gray border-t mx-8 py-4 space-x-2 text-gray-light text-right">
+                <div className="border-gray border-t mx-8 py-4 space-x-2 text-gray-light text-right text-lg">
                   {language === "de" ? (
                     <strong>DE</strong>
                   ) : (
@@ -180,7 +180,7 @@ export default function Header({ translationPath }) {
             </ul>
             {/* -------- Desktop Translation Navigation -------- */}
             <div className="flex items-center">
-              <div className="border-gray-lighter border-l space-x-2 h-8 px-8 mb-1 text-gray">
+              <div className="flex items-center border-gray-lighter border-l space-x-2 h-8 px-8 text-gray text-lg">
                 {language === "de" ? (
                   <strong>DE</strong>
                 ) : (

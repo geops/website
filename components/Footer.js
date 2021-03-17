@@ -6,7 +6,7 @@ export default function Footer() {
   const { t } = useI18n();
   return (
     <div className="bg-gray-darker relative">
-      <div className="container mx-auto p-4 text-gray-light">
+      <div className="container mx-auto p-4 px-8 text-gray-light text-lg">
         <Link href={t("imprint.path")}>{t("imprint.title")}</Link> |{" "}
         <Link href={t("privacy.path")}>{t("privacy.title")}</Link>
       </div>
