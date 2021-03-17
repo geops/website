@@ -46,10 +46,10 @@ h3,
 }
 
 .prose ul > li::before {
-  @apply bg-blue top-4 hidden sm:block;
+  @apply bg-blue top-4;
 }
 .prose ul > li {
-  @apply pl-0 sm:pl-8;
+  @apply pl-6 sm:pl-8;
 }
 
 /* Scroll offset for navigation anchors to avoid header from covering the anchor. */
