@@ -15,7 +15,7 @@ const sizes = {
 };
 
 export default function Circle({ children, delay = "0", size = "large" }) {
-  const contentRef = useIntersectionOberserver("opacity-0", 0.5);
+  const contentRef = useIntersectionOberserver("opacity-0 transition-none", 0);
 
   return (
     <div
