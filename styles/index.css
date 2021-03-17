@@ -8,7 +8,7 @@
 /* Stop purging. */
 
 body {
-  @apply leading-9 text-xl;
+  @apply leading-9 text-lg;
   font-family: "Lato";
 }
 
@@ -41,16 +41,15 @@ h3,
   @apply no-underline text-green;
 }
 
+.prose p {
+  @apply leading-9 text-lg;
+}
+
 .prose ul > li::before {
   @apply bg-blue top-4 hidden sm:block;
 }
 .prose ul > li {
   @apply pl-0 sm:pl-8;
-}
-
-p,
-li {
-  @apply text-lg leading-9;
 }
 
 /* Scroll offset for navigation anchors to avoid header from covering the anchor. */

@@ -16,7 +16,7 @@ export default function TeamGridItem({ person }) {
       <div className="absolute bg-gray-dark bg-opacity-80 text-white left-0 right-0 h-full p-8 transition-opacity duration-300 opacity-0 hover:opacity-100">
         <div className="absolute bottom-8">
           <strong>{person.name}</strong>
-          <p className="text-lg">
+          <p>
             {person.position[language]}
             <br />
             <br />
