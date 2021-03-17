@@ -38,7 +38,7 @@ h3,
 }
 
 .prose a {
-  @apply no-underline text-green;
+  @apply no-underline text-blue hover:text-blue-light;
 }
 
 .prose p {

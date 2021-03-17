@@ -59,25 +59,37 @@ export default function Contact() {
           Solothurnerstrasse 235 <br />
           CH-4600 Olten <br />
           <br />
-          fon <a href={`tel:${ch.telephone}`}>{ch.telephone}</a>
+          fon:{" "}
+          <a className="hover:text-green" href={`tel:${ch.telephone}`}>
+            {ch.telephone}
+          </a>
           <br />
-          mail <a href={`mailto:${ch.email}`}>{ch.email}</a>
+          mail:{" "}
+          <a className="hover:text-green" href={`mailto:${ch.email}`}>
+            {ch.email}
+          </a>
         </div>
         <div>
           <strong>geOps GmbH</strong> <br />
           Kaiser-Joseph-Str. 263 <br />
           D-79098 Freiburg <br />
           <br />
-          fon <a href="tel:+49 761 458 925 0">+49 761 458 925 0</a>
+          fon:{" "}
+          <a className="hover:text-green" href="tel:+49 761 458 925 0">
+            +49 761 458 925 0
+          </a>
           <br />
-          mail <a href="mailto:info@geops.de">info@geops.de</a>
+          mail:{" "}
+          <a className="hover:text-green" href="mailto:info@geops.de">
+            info@geops.de
+          </a>
         </div>
         <div className="mt-8 pb-8 xl:pr-32">
           <ul>
             {socialMedia.map(({ icon, href, title }) => (
               <li key={title}>
                 <a
-                  className="flex items-center space-x-2"
+                  className="flex items-center space-x-2 hover:text-green"
                   href={href}
                   target="external"
                 >
