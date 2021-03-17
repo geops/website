@@ -32,16 +32,6 @@ module.exports = {
       },
     },
   },
-  variants: {
-    extend: {
-      display: ["group-hover"],
-      inset: ["group-hover"],
-      margin: ["hover"],
-      padding: ["hover"],
-      scale: ["group-hover"],
-      translate: ["group-hover"],
-    },
-  },
   plugins: [
     require("@tailwindcss/aspect-ratio"),
     require("@tailwindcss/forms"),
