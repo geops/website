@@ -18,19 +18,19 @@ export default function CareerContent({ content }) {
         <h2 className="pb-4">{content.offerTitle}</h2>
         <div className="my-24 flex flex-wrap justify-center lg:justify-between">
           <div className="w-52 text-center">
-            <CheckmarkCircleIcon />
+            <CheckmarkCircleIcon delay="100" />
             <div className="my-4">{content.offerEducation}</div>
           </div>
           <div className="w-52 text-center">
-            <CheckmarkCircleIcon />
+            <CheckmarkCircleIcon delay="300" />
             <div className="my-4">{content.offerFlexible}</div>
           </div>
           <div className="w-52 text-center">
-            <CheckmarkCircleIcon />
+            <CheckmarkCircleIcon delay="500" />
             <div className="my-4">{content.offerAdditon}</div>
           </div>
           <div className="w-52 text-center">
-            <CheckmarkCircleIcon />
+            <CheckmarkCircleIcon delay="700" />
             <div className="my-4">{content.offerFreiburg}</div>
           </div>
         </div>

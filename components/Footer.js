@@ -6,9 +6,14 @@ export default function Footer() {
   const { t } = useI18n();
   return (
     <div className="bg-gray-darker relative">
-      <div className="container mx-auto p-4 text-gray-light">
-        <Link href={t("imprint.path")}>{t("imprint.title")}</Link> |{" "}
-        <Link href={t("privacy.path")}>{t("privacy.title")}</Link>
+      <div className="container mx-auto px-8 py-4 text-gray-light">
+        <Link href={t("imprint.path")}>
+          <a className="hover:text-green">{t("imprint.title")}</a>
+        </Link>{" "}
+        |{" "}
+        <Link href={t("privacy.path")}>
+          <a className="hover:text-green">{t("privacy.title")}</a>
+        </Link>
       </div>
     </div>
   );

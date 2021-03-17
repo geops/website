@@ -79,10 +79,10 @@ export default function Carousel({ slides }) {
           <DotGroup className="absolute right-8 bottom-32 text-white font-bold hidden lg:block" />
           <button
             aria-label={t("website.down")}
-            className="absolute w-16 bottom-28 left-1/2 focus:ring-0 text-white -ml-8 animate-pulse"
+            className="absolute w-16 bottom-32 left-1/2 focus:ring-0 text-white -ml-8 animate-pulse"
             onClick={() =>
               window.scroll({
-                top: containerRef.current.clientHeight + 28,
+                top: containerRef.current.clientHeight,
                 behavior: "smooth",
               })
             }

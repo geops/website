@@ -67,14 +67,14 @@ export default function Header({ translationPath }) {
           </button>
           {/* -------- Mobile Navigation -------- */}
           <div
-            className={`fixed inset-0 h-screen w-screen bg-gray-dark overflow-scroll lg:hidden transition-all ${
+            className={`fixed inset-0 h-full w-screen bg-gray-dark overflow-scroll lg:hidden transition-all duration-500 ${
               menuOpen ? "opacity-100" : "left-32 opacity-0 pointer-events-none"
             }`}
           >
             <div className="container mx-auto flex flex-col h-full">
               <div className="flex-none flex items-center justify-between h-16">
                 <WebsiteLink href="/">
-                  <a className="h-1/2 ml-8">
+                  <a className="h-1/2 ml-8" onClick={() => setMenuOpen(false)}>
                     <GeopsIcon className="h-full" white />
                   </a>
                 </WebsiteLink>
@@ -90,7 +90,12 @@ export default function Header({ translationPath }) {
                   {menu.map((item) => (
                     <li className="relative" key={item.href}>
                       <WebsiteLink href={item.href}>
-                        <a className="block py-4">{item.title}</a>
+                        <a
+                          className="block py-4"
+                          onClick={() => setMenuOpen(false)}
+                        >
+                          {item.title}
+                        </a>
                       </WebsiteLink>
                       {/* -------- Mobile About Navigation -------- */}
                       {item.href === "/about" && (

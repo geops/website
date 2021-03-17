@@ -16,19 +16,31 @@ export default function TeamGridItem({ person }) {
       <div className="absolute bg-gray-dark bg-opacity-80 text-white left-0 right-0 h-full p-8 transition-opacity duration-300 opacity-0 hover:opacity-100">
         <div className="absolute bottom-8">
           <strong>{person.name}</strong>
-          <p className="text-lg">
+          <p>
             {person.position[language]}
             <br />
             <br />
-            E-Mail: <a href={`mailto:${person.email}`}>{person.email}</a>
+            E-Mail:{" "}
+            <a
+              className="text-green hover:text-green-light"
+              href={`mailto:${person.email}`}
+            >
+              {person.email}
+            </a>
             <br />
             {t("website.telephone")}:{" "}
-            <a href={`tel:${person.telephone}`}>{person.telephone}</a>
+            <a
+              className="text-green hover:text-green-light"
+              href={`tel:${person.telephone}`}
+            >
+              {person.telephone}
+            </a>
             {person.github && (
               <>
                 <br />
                 GitHub:{" "}
                 <a
+                  className="text-green hover:text-green-light"
                   href={`https://github.com/${person.github}`}
                   target="external"
                 >
