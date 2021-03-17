@@ -20,7 +20,7 @@ export default function AboutContent({ content }) {
       <p>{content.we4}</p>
       <p>{content.we5}</p>
       <div className="flex flex-wrap flex-col content-center justify-center my-32 space-y-8 lg:flex-row lg:justify-between lg:space-y-0">
-        <Circle>
+        <Circle delay="300">
           <div className="text-6xl">{content.circleCounter.year}</div>
           <div className="text-3xl mt-4">
             {content.circleYears}
@@ -28,11 +28,11 @@ export default function AboutContent({ content }) {
             {content.circleExperience}
           </div>
         </Circle>
-        <Circle>
+        <Circle delay="500">
           <div className="text-6xl">{content.circleCounter.client}</div>
           <div className="text-3xl mt-4">{content.circleClients}</div>
         </Circle>
-        <Circle>
+        <Circle delay="700">
           <div className="text-6xl">{content.circleCounter.employee}</div>
           <div className="text-3xl mt-4">{content.circleEmployee}</div>
         </Circle>
