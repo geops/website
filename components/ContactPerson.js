@@ -10,16 +10,16 @@ export default function ContactPerson({ person, subtitle, title }) {
   let subtitleClassName = "";
   if (subtitle) {
     subtitleClassName =
-      "my-8 font-regular prose prose-2xl text-gray-darker w-2/3 mx-auto";
+      "my-8 font-regular prose prose-2xl text-gray-darker mx-auto";
   } else {
     subtitleClassName =
       "mt-2 font-bold prose prose-2xl text-gray-darker w-2/3 mx-auto";
   }
   const { language, t } = useI18n();
   return (
-    <section className="bg-gray-lighter container mx-auto my-32 p-8 pb-0 lg:max-w-screen-lg">
+    <section className="container mx-auto mb-24 mt-32 lg:max-w-screen-lg">
       <div
-        className={`md:flex flex-row-reverse justify-center text-center ${
+        className={`bg-gray-lighter md:flex flex-row-reverse justify-center m-8 mb-0 p-8 text-center ${
           person.photo && "md:text-left"
         }`}
       >
@@ -65,7 +65,7 @@ export default function ContactPerson({ person, subtitle, title }) {
         )}
       </div>
       <div
-        className="border-gray-lighter mx-auto relative -bottom-8 h-0 w-0"
+        className="border-gray-lighter mx-auto relative h-0 w-0"
         style={arrowDown}
       />
     </section>
