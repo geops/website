@@ -14,13 +14,17 @@ const sizes = {
   large: "w-64 h-64",
 };
 
+const hiddenClasses = "opacity-0 transition-none";
+
+const visibleClasses = "transition-opacity";
+
 export default function Circle({ children, delay = "0", size = "large" }) {
-  const contentRef = useIntersectionOberserver("opacity-0 transition-none", 0);
+  const circleRef = useIntersectionOberserver(hiddenClasses, 0, visibleClasses);
 
   return (
     <div
-      className={`bg-orange-dark rounded-full flex flex-col flex-wrap justify-center content-center mx-auto text-white font-bold text-center transform transition-opacity duration-1000 ${delays[delay]} ${sizes[size]}`}
-      ref={contentRef}
+      className={`bg-orange-dark rounded-full flex flex-col flex-wrap justify-center content-center mx-auto text-white font-bold text-center duration-1000 ${delays[delay]} ${sizes[size]}`}
+      ref={circleRef}
     >
       {children}
     </div>
