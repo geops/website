@@ -7,7 +7,7 @@ export default function FrontpageList({ list }) {
   return (
     <div className="bg-gray-darker text-gray-lighter">
       <div className="container mx-auto px-8 pb-1">
-        <h1 className="text-center pt-7 md:-mb-32">
+        <h1 className="-mb-16 md:-mb-32 md:pt-8 text-center">
           {t("frontpage.listTitle")}
         </h1>
         {list.map((item, index) => {
