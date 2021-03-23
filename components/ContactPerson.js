@@ -17,7 +17,7 @@ export default function ContactPerson({ person, subtitle, title }) {
   }
   const { language, t } = useI18n();
   return (
-    <section className="container mx-auto mb-24 mt-32 lg:max-w-screen-lg">
+    <section className="container mx-auto mb-16 mt-16 lg:mb-24 lg:mt-24 lg:max-w-screen-lg">
       <div
         className={`bg-gray-lighter md:flex flex-row-reverse justify-center m-8 mb-0 p-8 text-center ${
           person.photo && "md:text-left"
