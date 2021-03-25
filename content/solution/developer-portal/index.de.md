@@ -1,6 +1,6 @@
 ---
 title: Developer Portal
-summary: Unser Developer Portal bietet einen Baukasten aus Webdiensten und Open
+summary: Unser Developer Portal bietet einen Baukasten aus Web­diensten und Open
   Source Software für Ihre Anwendung.
 slug: developer-portal
 contactSubtitle: Alle Funktionen stehen im [Developer

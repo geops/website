@@ -1,7 +1,7 @@
 ---
 title: Software für die Umwelt
-summary: "Bei unserer Umweltsoftware stehen Interoperabilität, Langlebigkeit und
-  Nutzerfreundlichkeit im Fokus. "
+summary: "Bei unserer Umweltsoftware stehen Interoperabilität, Lang­lebigkeit
+  und Nutzer­freundlich­keit im Fokus. "
 slug: umwelt-software
 frontpage: false
 ---

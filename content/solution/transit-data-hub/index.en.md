@@ -1,6 +1,6 @@
 ---
 title: Hub for timetable and real-time data
-summary: Data integrator and data supplier, analysis pot, converter - the data
+summary: Data integrator and data supplier, analysis pot, con­verter - the data
   hub is the basis for these and more functions
 cover: /images/solution/transit-data-hub/datendrehscheibe.png
 pageCover: /images/solution/transit-data-hub/datendrehscheibe.png

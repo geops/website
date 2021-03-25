@@ -1,7 +1,7 @@
 ---
 title: Routing
-summary: Mit unserem Routing-Dienst finden Sie die Wege und Linienverläufe für
-  Fahrzeuge des öffentlichen Verkehrs, für PKW und LKW sowie für Fussgänger.
+summary: Mit unserem Routing-Dienst finden Sie die Wege und Linien­­verläufe für
+  Fahrzeuge des öffentlichen Ver­kehrs, für PKW und LKW sowie für Fuss­gänger.
 slug: routing
 contactTitle: Interessiert?
 contactSubtitle: >-
