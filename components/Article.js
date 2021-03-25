@@ -11,7 +11,7 @@ export default function Article({ author, body, created, title }) {
           <Head>
             <title>{`${title} | geOps`}</title>
           </Head>
-          <h1>{title}</h1>
+          <h1 className="pt-16 text-center">{title}</h1>
         </>
       )}
       <div dangerouslySetInnerHTML={{ __html: body }} />
