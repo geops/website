@@ -7,6 +7,18 @@
 @tailwind components;
 /* Stop purging. */
 
+@responsive {
+  .text-shadow {
+    text-shadow: 0 0 10px black;
+  }
+  .text-shadow-white {
+    text-shadow: 0 0 10px white;
+  }
+  .text-shadow-none {
+    text-shadow: none;
+  }
+}
+
 body {
   @apply leading-9 text-lg;
   font-family: "Lato";
