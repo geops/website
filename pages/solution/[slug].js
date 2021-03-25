@@ -2,7 +2,7 @@ import Article from "../../components/Article.js";
 import { ch } from "../../components/Contact.js";
 import ContactPerson from "../../components/ContactPerson.js";
 import Layout from "../../components/Layout.js";
-import PageCover from "../../components/PageCover.js";
+import PageHeader from "../../components/PageHeader.js";
 import RelatedList from "../../components/RelatedList.js";
 
 import getContentList from "../../lib/getContentList";
@@ -20,8 +20,8 @@ export default function Solution({ related, solution }) {
       description={solution.summary}
       translationPath={`/solution/${solution.translationSlug}`}
     >
-      <PageCover alt={`${solution.title} Cover`} src={solution.pageCover} />
-      <Article body={solution.body} title={solution.title} />
+      <PageHeader src={solution.pageCover} title={solution.title} />
+      <Article body={solution.body} />
       <ContactPerson
         person={{ ...ch, email: solution.contactEmail || ch.email }}
         subtitle={solution.contactSubtitle}
