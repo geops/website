@@ -1,6 +1,6 @@
 ---
 title: Webkarten und Bahnhofpläne der SBB
-summary: Einheitliche Karten und Bahnhofpläne für den gesamten öffentlichen
+summary: Einheitliche Karten und Bahnhof­pläne für den gesamten öffentlichen
   Verkehr in der Schweiz.
 slug: webkarten-und-bahnhofplaene
 contactTitle: ""

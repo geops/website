@@ -29,7 +29,7 @@ The routing is adapted to our maps. For long distances that are used in small-sc
 
 One application of routing can be found in our worldwide tracker, in which the routes are calculated as trajectories for all vehicles.
 
-![WKP Route](/images/solution/routing/wkp2.png "WKP Route")
+![WKP Route](/images/solution/routing/wkp2_n.png "WKP Route")
 
 Routing is used for numerous projects. For example, the routes are shown in our \[real-time tracker] (https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte .luftbild.group, ch.sbb.netzkarte.landeskarte, ch.sbb.netzkarte.landeskarte.grau & lang = de & layers = ch.sbb.puenktlichkeit-all & x = 925472 & y = 5920000 & z = 9) calculated above. The Swiss Federal Railways (SBB) uses the routing for trains, trams, buses and cable cars to provide travelers with detailed information on the course of the travel route. Routing is also available in [mapset](https://mapset.io/) to simplify the drawing of footpaths in the map.
 
