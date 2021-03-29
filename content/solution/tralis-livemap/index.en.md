@@ -5,6 +5,7 @@ summary: LiveMaps show the positions of public transport vehicles on a map. In
   precise forecasts for travelers.
 cover: /images/solution/tralis-livemap/sbahnm-2-.png
 pageCover: /images/solution/tralis-livemap/sbahnm-2-.png
+pageCoverMobile: /images/solution/tralis-livemap/page-cover-mobile.png
 slug: tralis-livemap
 color: "#4B6881"
 contactSubtitle: >-
