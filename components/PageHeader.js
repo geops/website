@@ -32,7 +32,13 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
             "absolute lg:static text-white lg:text-gray-darker text-shadow lg:text-shadow-none"
           }`}
         >
-          <h1 className="mt-16 mb-8 mx-auto max-w-screen-lg">{title}</h1>
+          <h1
+            className={`${
+              titleDown ? "lg:mb-8" : "mb-8"
+            } mt-16 mx-auto max-w-screen-lg`}
+          >
+            {title}
+          </h1>
           {text && <strong className="block mb-16">{text}</strong>}
         </div>
       </div>
