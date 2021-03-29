@@ -408,6 +408,11 @@ collections:
         name: "image"
         widget: "image"
         hint: "compressed JPEG, 1600px wide, 1200px heigh, used as poster for video"
+      - label: "Image Mobile"
+        name: "imageMobile"
+        widget: "image"
+        hint: "optional image for screens smaller than 1024px"
+        required: false
       - label: "Video URL"
         name: "video"
         widget: "string"
