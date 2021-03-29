@@ -1,7 +1,7 @@
 ---
 title: Drehscheibe für Fahrplan- und Echtzeitdaten
-summary: "Datenintegrator und Datenlieferant, Analyse-Topf, Konverter – die
-  Datendrehscheibe ist Basis für diese und mehr Funktionen "
+summary: "Datenintegrator und Daten­lieferant, Analyse-Topf, Konverter – die
+  Daten­dreh­scheibe ist Basis für diese und mehr Funktionen "
 slug: transit-data-hub
 contactSubtitle: Die Liste möglicher Anwendungen enthält nur Beispiele für die
   zahlreichen Möglichkeiten, die mit der Datendrehscheibe zur Verfügung stehen.
