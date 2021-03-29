@@ -11,9 +11,10 @@ export default function RelatedList({ dark, list }) {
       <div className="container mx-auto px-8 py-16 max-w-screen-lg">
         <h2 className="text-center mb-16">{t("relatedList.title")}</h2>
         <div className="grid gap-16 lg:grid-cols-2">
-          {list.map((item) => (
-            <RelatedListItem dark={dark} item={item} key={item.slug} />
-          ))}
+          {list.map((item) => {
+            const key = `${item.collection}/${item.slug}`;
+            return <RelatedListItem dark={dark} item={item} key={key} />;
+          })}
         </div>
       </div>
     </div>
