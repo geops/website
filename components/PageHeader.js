@@ -1,12 +1,16 @@
 import Head from "next/head";
 
-export default function PageHeader({ src, srcMobile, title, text }) {
+export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
   return (
     <>
       <Head>
         <title>{`${title} | geOps`}</title>
       </Head>
-      <div className="relative h-[calc(100vh-8rem)] lg:h-auto">
+      <div
+        className={`relative ${
+          titleDown === undefined && "h-[calc(100vh-8rem)] lg:h-auto"
+        }`}
+      >
         {src && (
           <picture>
             {srcMobile && (
@@ -15,12 +19,19 @@ export default function PageHeader({ src, srcMobile, title, text }) {
             <source media="(min-width: 1024px)" srcSet={src} />
             <img
               alt={`${title} Cover`}
-              className="object-cover h-full w-full"
+              className={`object-cover w-full ${
+                titleDown ? "h-[50vh]" : "h-full"
+              }`}
               src={src}
             />
           </picture>
         )}
-        <div className="absolute lg:static container mx-auto px-8 text-center flex flex-col justify-center text-white lg:text-gray-darker text-shadow lg:text-shadow-none bottom-0 top-0 left-0 right-0">
+        <div
+          className={`container mx-auto px-8 text-center flex flex-col justify-center bottom-0 top-0 left-0 right-0 ${
+            titleDown === undefined &&
+            "absolute lg:static text-white lg:text-gray-darker text-shadow lg:text-shadow-none"
+          }`}
+        >
           <h1 className="mt-16 mb-8 mx-auto max-w-screen-lg">{title}</h1>
           {text && <strong className="block mb-16">{text}</strong>}
         </div>

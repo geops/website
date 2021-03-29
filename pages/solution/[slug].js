@@ -20,7 +20,7 @@ export default function Solution({ related, solution }) {
       description={solution.summary}
       translationPath={`/solution/${solution.translationSlug}`}
     >
-      <PageHeader src={solution.pageCover} title={solution.title} />
+      <PageHeader src={solution.pageCover} title={solution.title} titleDown />
       <Article body={solution.body} />
       <ContactPerson
         person={{ ...ch, email: solution.contactEmail || ch.email }}
