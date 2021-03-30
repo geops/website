@@ -13,11 +13,11 @@ tags:
   - treeapp
 published: true
 ---
-Zu diesem Thema hat geOps für die Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft WSL eine App für Baumartenempfehlungen entwickelt, die eine Hilfestellung für Entscheidungen bei der Pflanzung und Pflege von Bäumen sein soll.
+Zu diesem Thema hat geOps für die Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft WSL eine App für Baumartenempfehlungen entwickelt, die eine Hilfestellung für Entschei­dungen bei der Pflanzung und Pflege von Bäumen sein soll.
 
 Die Grundlagen gliedern den Wald in Standortstypen, die von Waldregion und Höhenstufe des Geländes abhängen. Mit steigenden Temperaturen und weniger Niederschlag werden sich zukünftig die Höhenstufen ändern, bzw. verschieben. Die Forschung der WSL hat zwei mögliche Klimaszenarien und deren Folgen für die Höhenstufen entworfen. Mit Projektionswegen werden die Übergänge von Standortstypen nach Höhenstufe ermittelt.
 
-Die Logik aus den erarbeiteten Forschungsgrundlagen ist in einer mobil nutzbaren Webapplikation für den Waldbewirtschafter und alle anderen Interessierten nutzerfreundlich abrufbar.
+Die Logik aus den erarbeiteten Forschungsgrundlagen ist in einer mobil nutzbaren Webapplikation für den Waldbewirtschafter und alle anderen Interessierten nutzer­freundlich abrufbar.
 
 [www.tree-app.ch](http://www.tree-app.ch/)
 
