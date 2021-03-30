@@ -2,7 +2,7 @@
 title: SCRUM - Agilität bei geOps
 summary: Die Zufriedenheit unserer Kunden und des gesamten geOps-Teams liegen
   uns sehr am Herzen. Um mit qualitativ hochwertigen Produkten die
-  Kundenanforderungen zu erfüllen und gleichzeitig bei vielen Projekten den
+  Kunden&shy;anforderungen zu erfüllen und gleichzeitig bei vielen Projekten den
   Überblick nicht zu verlieren, setzen wir bei geOps verschiedene Methoden des
   agilen Projektmanagements ein und kombinieren diese dynamisch miteinander.
 author: Elke Erhardt
@@ -15,7 +15,7 @@ tags:
   - scrum
 published: true
 ---
-Die Zufriedenheit unserer Kunden und des gesamten geOps-Teams liegen uns sehr am Herzen. Um mit qualitativ hochwertigen Produkten die Kunden­anforderungen zu erfüllen und gleichzeitig bei vielen Projekten den Überblick nicht zu verlieren, setzen wir bei geOps verschiedene Methoden des agilen Projektmanagements ein und kombinieren diese dynamisch miteinander.
+Die Zufriedenheit unserer Kunden und des gesamten geOps-Teams liegen uns sehr am Herzen. Um mit qualitativ hochwertigen Produkten die Kunden&shy;anforderungen zu erfüllen und gleichzeitig bei vielen Projekten den Überblick nicht zu verlieren, setzen wir bei geOps verschiedene Methoden des agilen Projektmanagements ein und kombinieren diese dynamisch miteinander.
 
 Grössere und klar umrissene Projekte organisieren wir nach Scrum. Scrum ist bereits seit den frühen 1990er Jahren ein weit genutzter Rahmen im Projektmanagement und speziell in der Softwareentwicklung. Als Prozessrahmenwerk werden Rollen, Ereignisse und übergeordnete Regeln fest definiert, aber Freiraum für Prozesse und Techniken gegeben. Die komplexen Aufgaben werden innerhalb von kleinen Scrum Teams in sich wiederholenden Zyklen (Sprints) entwickelt. Kontinuierlich entwickelt das Team in kurzen Perioden eigenständige Teilprodukte, welche dem Kunden zeitnah präsentiert werden. Unsere als Professional Scrum Master zertifizierte Kollegin Elke sorgt dafür, dass bei unseren Scrum-Projekten nichts schief läuft.
 
