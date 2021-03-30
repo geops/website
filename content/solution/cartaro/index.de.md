@@ -15,6 +15,10 @@ Möchten Sie Ihren Kunden Informationen zu Angeboten und Dienstleistungen auf ei
 ### Die wesentlichen Funktionen im Überblick
 
 * **Datenerfassung**: Für die Verwaltung der Daten stehen in Cartaro eine Vielzahl von Eingabefeldern zur Verfügung. Mit ihnen lassen sich unter anderem Texte mit einem WYSIWYG-Editor verfassen und Bilder hochladen. Für das Durchsuchen der Datensätze steht eine performante Volltextsuche bereit. Zudem helfen Filter beim Finden relevanter Datensätze in der Karten- und Listenansicht.
-* **Verortung**: Für die Verortung der Daten stehen Werkzeuge zum Zeichen von Punkten, Linien und Flächen sowie diverse GIS-Werkzeuge zur Verfügung. Auch existierende Geodaten können in das System importiert und mit Zusatzinformationen angereichert werden. Linienbezogene Informationen, z.B. zu Schienennetzen, lassen sich anhand von Kilometrierungsinformationen ablegen.
+* **Verortung**: Für die Verortung der Daten stehen Werkzeuge zum Zeichen von Punkten, Linien und Flächen sowie diverse GIS-Werkzeuge zur Verfügung.
+
+  Auch existierende Geodaten können in das System importiert und mit Zusatzinformationen angereichert werden. Linienbezogene Infor­mationen, z.B. zu Schienen­netzen, lassen sich anhand von Kilometrie­rungs­informationen ablegen.
 * **Schnittstellen**: Die in Cartaro verwalteten Daten können über Schnittstellen abgefragt und auf diese Weise in Drittsystemen wiederverwendet werden. Für die Visualisierung der Daten in Webkarten stehen eine Vector-Tiles- und GeoJSON-Schnittstelle zur Verfügung. Zudem können die Daten im CSV- oder EXCEL-Format exportiert und importiert werden.
-* **Sicherheit**: Der Zugriff auf die Daten in Cartaro sowie die Schnittstellen lässt sich auf einzelne Nutzer oder Nutzergruppen begrenzen. Die Anmeldung erfolgt über herkömmliche Login-Masken oder mittels Single-Sign-On Verfahren.
+* **Sicherheit**: Der Zugriff auf die Daten in Cartaro sowie die Schnittstellen lässt sich auf einzelne Nutzer oder Nutzer­gruppen begrenzen.
+
+  Die Anmeldung erfolgt über herkömmliche Login-Masken oder mittels Single-Sign-On Verfahren.

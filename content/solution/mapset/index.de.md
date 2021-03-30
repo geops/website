@@ -20,6 +20,6 @@ Sie möchten Ihren Kunden aktuelle und attraktive Informationen zum öffentliche
 
 ![Erstatzplan](/images/solution/mapset/ersatzplan_k.png "Erstatzplan")
 
-mapset ist weltweit nutzbar und wird im Abo-Modell vertrieben. Für die Schweiz stehen Informationen zu Preisen, der Funktionsweise und den Vorteilen von mapset unter [mapset.ch](http://mapset.ch/) zur Verfügung. Andere Länder finden alles Wissenswerte unter [mapset.io](http://mapset.io/). Auf beiden Seiten erhalten Sie die Möglichkeit, mapset in einer Demo unverbindlich auszuprobieren und ausgiebig zu testen.
+mapset ist weltweit nutzbar und wird im Abo-Modell vertrieben. Für die Schweiz stehen Informationen zu Preisen, der Funktionsweise und den Vorteilen von mapset unter [mapset.ch](http://mapset.ch/) zur Verfügung. Andere Länder finden alles Wissenswerte unter [mapset.io](http://mapset.io/). Auf beiden Seiten erhalten Sie die Möglichkeit, mapset in einer Demo unverbindlich auszuprobieren und ausgiebig zu testen.
 
 ![Beispielplan](/images/solution/mapset/liestal_plan_editor_k.png "Beispielplan")
