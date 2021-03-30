@@ -24,11 +24,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        "career-teaser": "url('/images/career-teaser.jpg')",
-        "application-teaser": "url('/images/application-teaser.jpg')",
-      },
-      height: {
-        "h-128": "32rem",
+        "career-teaser": "url('/images/teaser/career-teaser.jpg')",
+        "application-teaser": "url('/images/teaser/application-teaser.jpg')",
       },
     },
   },

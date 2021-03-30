@@ -43,7 +43,6 @@ export default function Carousel({ slides }) {
               <Slide index={slide.weight} key={slide.weight}>
                 {slide.video ? (
                   <video
-                    onClick={this.Touchchecker()}
                     className="h-full object-cover"
                     autoPlay
                     playsInline
@@ -53,11 +52,23 @@ export default function Carousel({ slides }) {
                   />
                 ) : (
                   <div className="relative h-screen overflow-hidden">
-                    <img
-                      alt={slide.title}
-                      className="object-cover h-full w-full"
-                      src={slide.image}
-                    />
+                    <picture>
+                      {slide.imageMobile && (
+                        <source
+                          media="(max-width: 1023px)"
+                          srcSet={slide.imageMobile}
+                        />
+                      )}
+                      <source
+                        media="(min-width: 1024px)"
+                        srcSet={slide.image}
+                      />
+                      <img
+                        alt={slide.title}
+                        className="object-cover h-full w-full"
+                        src={slide.image}
+                      />
+                    </picture>
                     <div className="absolute inset-0 flex flex-col space-y-8 items-center justify-center">
                       <h1 className="break-words text-white text-center max-w-screen-sm leading-normal text-shadow -mt-16">
                         {slide.title}

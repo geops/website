@@ -42,7 +42,7 @@ export default function AboutContent({ content }) {
       <img
         alt={t("about.work")}
         className="py-16"
-        src="/images/about-text.jpg"
+        src="/images/page/about/text.jpg"
       />
       <h2 id="tech">{t("about.tech")}</h2>
       <p>{content.tech}</p>

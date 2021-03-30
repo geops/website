@@ -4,6 +4,7 @@ summary: With Cartaro we offer a content management system with which spatial
   data can be managed and published.
 cover: /images/solution/cartaro/cartaro_01.png
 pageCover: /images/solution/cartaro/cartaro_01.png
+pageCoverMobile: /images/solution/cartaro/page-cover-mobile.png
 slug: cartaro
 color: "#C8716A"
 contactEmail: ""

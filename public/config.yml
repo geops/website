@@ -138,6 +138,10 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        i18n: true
       - label: "Slug"
         hint: "The post URL (do not include folder or file extension)"
         name: "slug"
@@ -404,6 +408,11 @@ collections:
         name: "image"
         widget: "image"
         hint: "compressed JPEG, 1600px wide, 1200px heigh, used as poster for video"
+      - label: "Image Mobile"
+        name: "imageMobile"
+        widget: "image"
+        hint: "optional image for screens smaller than 1024px"
+        required: false
       - label: "Video URL"
         name: "video"
         widget: "string"
@@ -446,6 +455,11 @@ collections:
         hint: "Image used for solution page cover."
         name: "pageCover"
         widget: "image"
+        required: false
+      - label: "Page Cover Mobile"
+        name: "pageCoverMobile"
+        widget: "image"
+        hint: "Image used for solution page cover on screens smaller than 1024px."
         required: false
       - label: "Slug"
         hint: "The post URL (do not include folder or file extension)"

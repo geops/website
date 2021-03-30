@@ -4,9 +4,13 @@
       "title": "Contact"
     },
     "applicationTeaser": {
-      "action": "Apply",
-      "title": "initiative application",
-      "subtitle": "Didn't find a suitable position? Then do not hesitate to send us an unsolicited application! We are always interested in exciting applications."
+      "action": "more information",
+      "title": "Jobs",
+      "subtitle": "Open positions at geOps",
+      "text": "Then apply now!",
+      "altTitle": "Didn't find a suitable position?",
+      "altText": "Then do not hesitate to send us an unsolicited application! We are always interested in exciting applications.",
+      "altAction": "apply proactively"
     },
     "blog": {
       "header": "News about projects and technologies as well as the work at geOps."
@@ -67,10 +71,6 @@
       "telephone": "Telephone",
       "writtenBy": "written by {{author}}"
     },
-    "jobList": {
-      "title": "Open positions",
-      "action": "Apply"
-    },
     "aboutTeaser": {
       "title": "We map the future",
       "text": "Modern web applications based on geographic and real-time data are the core competence of geOps. Our specialist areas are public transport, mobility, logistics and the environment. When selecting technologies, we have a clear focus on open source."
@@ -90,9 +90,13 @@
       "title": "Kontakt"
     },
     "applicationTeaser": {
-      "action": "Bewerben",
-      "title": "Initiativ­bewerbung",
-      "subtitle": "Keine passende Stelle gefunden? Dann zögern Sie nicht, sich initiativ bei uns zu bewerben! Wir sind immer an spannenden Bewerbungen interessiert."
+      "action": "weitere Informationen",
+      "title": "Jobs",
+      "subtitle": "Offene Stellen bei geOps",
+      "text": "Dann bewerben Sie sich jetzt!",
+      "altTitle": "Keine passende Stelle gefunden?",
+      "altText": "Dann zögern Sie nicht, sich initiativ bei uns zu bewerben! Wir sind immer an spannenden Bewerbungen interessiert.",
+      "altAction": "initiativ bewerben"
     },
     "blog": {
       "header": "Neues über Projekte und Technologien sowie die Arbeit bei geOps."
@@ -152,10 +156,6 @@
       "readingTime": "Lesezeit",
       "telephone": "Telefon",
       "writtenBy": "geschrieben von {{author}}"
-    },
-    "jobList": {
-      "title": "Offene Stellen",
-      "action": "Bewerben"
     },
     "aboutTeaser": {
       "title": "We map the future",

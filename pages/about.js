@@ -11,7 +11,11 @@ import getContentList from "../lib/getContentList";
 export default function About({ content, team }) {
   return (
     <Layout description={content.we1} translationPath="/about">
-      <PageHeader src="/images/about-page.jpg" title={content.title} />
+      <PageHeader
+        src="/images/page/about/header.jpg"
+        srcMobile="/images/page/about/header-mobile.jpg"
+        title={content.title}
+      />
       <AboutContent content={content} />
       <ContactPerson person={ch} />
       <TeamGrid team={team} />

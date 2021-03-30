@@ -9,7 +9,12 @@ export default function BlogIndex({ list }) {
   const { t } = useI18n();
   return (
     <Layout description={t("blog.header")} translationPath="/blog">
-      <PageHeader src="/images/blog.jpg" title="Blog" text={t("blog.header")} />
+      <PageHeader
+        src="/images/blog/header.jpg"
+        srcMobile="/images/blog/header-mobile.jpg"
+        title="Blog"
+        text={t("blog.header")}
+      />
       <BlogList list={list} />
     </Layout>
   );
