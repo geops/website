@@ -17,7 +17,7 @@ Nicht nur alle für die Beurteilung und Überwachung relevanten Sachdaten könne
 
 Daneben enthält Altlast4Web eine komplette Geschäftskontrolle. Es lassen sich beliebige Prozesse modellieren und darauf basierende Geschäfte und Pendenzen abwickeln. Individualisierte Berichtsvorlagen erlauben die Erstellung von Daten&shy;blättern und Serienbriefen, entweder ad hoc oder als integrierter Schritt im Geschäftsablauf.
 
-Für den Datenaustausch stehen zahlreiche Exportmöglichkeiten zur Verfügung. Einerseits lassen sich Exporte nach individuellen Anforder­ungen konfigurieren und in verschiedenen Geodaten-Formaten oder in Tabellenform als EXCEL oder als PDF ausgeben. Andererseits bietet Altlast4Web modellkonforme Exporte im Interlis-Format, mit denen die Anforderungen an den KbS als Geobasisdatensatz oder die Anforder­ungen des Katasters öffentlich-rechtlicher Beschränkungen (ÖREB) erfüllt werden.
+Für den Datenaustausch stehen zahlreiche Exportmöglichkeiten zur Verfügung. Einerseits lassen sich Exporte nach individuellen Anforder&shy;ungen konfigurieren und in verschiedenen Geodaten-Formaten oder in Tabellenform als EXCEL oder als PDF ausgeben. Andererseits bietet Altlast4Web modellkonforme Exporte im Interlis-Format, mit denen die Anforderungen an den KbS als Geobasisdatensatz oder die Anforder&shy;ungen des Katasters öffentlich-rechtlicher Beschränkungen (ÖREB) erfüllt werden.
 
 ![](/images/solution/umwelt-software/grafik_bg_weis.png)
 
