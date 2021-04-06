@@ -13,7 +13,7 @@
       "altAction": "apply proactively"
     },
     "blog": {
-      "header": "News about projects and technologies as well as the work at geOps."
+      "header": "News about projects and technologies as well as work at geOps."
     },
     "privacy": {
       "path": "/privacy",
@@ -46,20 +46,20 @@
       "action": "Jobs"
     },
     "openSourceTeaser": {
-      "title": "Open Source - what else",
-      "text": "Our projects consistently rely on open source components. With open source we develop the best solution for our customers, offer attractive prices and give the freedom to get everything out of a product. We regularly give developments back to the community from our projects.",
+      "title": "Open Source - what else?",
+      "text": "Our projects consistently rely on open source components. With open source we develop the best solution for our customers, offer attractive prices and grant the freedom to get the most out of a product. We regularly hand developments back to the community by publicly exposing our projects.",
       "action": "Learn more"
     },
     "contactPerson": {
       "title": "Questions?",
-      "subtitle": "Get in contact with us"
+      "subtitle": "Get in touch with us"
     },
     "frontpage": {
       "listTitle": "Insights"
     },
     "solution": {
       "header": "Our solutions",
-      "text": "Our apps and information systems intelligently link factual data with geodata and maps. The bandwidth ranges from data analysis and visualization to information systems and business solutions to complete server infrastructures. In technical terms, our focus is on the environment, mobility, public transport and logistics. Our services include IT consulting, software development, system operation and the provision of web services.",
+      "text": "Our apps and information systems intelligently link factual data with geodata and maps. The bandwidth ranges from data analysis and visualization to information systems and business solutions to complete server infrastructures. In technical terms, our focus lies on the environment, mobility, public transport and logistics. Our services include IT consulting, software development, system operation and the provision of web services.",
       "title": "Solutions"
     },
     "website": {
@@ -71,9 +71,13 @@
       "telephone": "Telephone",
       "writtenBy": "written by {{author}}"
     },
+    "jobList": {
+      "title": " ",
+      "action": " "
+    },
     "aboutTeaser": {
       "title": "We map the future",
-      "text": "Modern web applications based on geographic and real-time data are the core competence of geOps. Our specialist areas are public transport, mobility, logistics and the environment. When selecting technologies, we have a clear focus on open source."
+      "text": "Modern web applications based on geographical and real-time data are the core competence of geOps. We specialise on public transport, mobility, logistics and the environment. When selecting technologies, we have a clear focus on open source."
     },
     "team": {
       "title": "Our team",
