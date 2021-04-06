@@ -7,8 +7,8 @@ pageCover: /images/solution/transit-data-hub/datendrehscheibe.png
 slug: transit-data-hub
 color: "#549413"
 contactSubtitle: The list of possible applications only contains examples of the
-  numerous possibilities that are available with the data turntable. Talk to us
-  and we are sure that we can also meet your requirements.
+  numerous possibilities that are available with the transit data hub. Contact
+  us and we are sure that we can also meet your requirements.
 weight: 10
 tags:
   - mobility
@@ -17,7 +17,7 @@ tags:
 frontpage: false
 frontpageImage: /images/solution/transit-data-hub/datendrehscheibe.png
 ---
-Nothing works in public transport without timetable data. However, the data in the target timetable only becomes really useful if a large number of additional data is intelligently linked to the timetable. Real-time data, fault information, detailed information on the stops, the routes of the journeys - these and more data are collected in the data hub and intelligently linked with one another. Our data hub is a system that grows continuously with the requirements. The basis are data structures that are aligned with the VDV and NetEx standards in order to be able to cover the many requirements of an information system for traffic. In accordance with the breadth of information in the data hub, the possible applications are also very diverse.
+In public transport nothing works without timetable data. However, the data in the target timetable only becomes really useful if a large number of additional data is intelligently linked to the timetable. Real-time data, disruption information, detailed information on the stops, the routes of the journeys - these and more data are collected in the data hub and intelligently linked with one another. Our data hub is a system that grows continuously with incoming requirements. The basis are data structures that are aligned with the VDV and NetEx standards in order to be able to cover the many requirements of an information system for traffic. Considering the extent of information in the data hub, the possible applications are also very diverse.
 
 ![Moco](/images/solution/transit-data-hub/sbb.jpg "Moco")
 
