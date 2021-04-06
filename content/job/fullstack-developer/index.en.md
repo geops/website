@@ -6,7 +6,6 @@ summary: You are a true all-rounder who moves confidently between database,
   developers?
 slug: fullstack-developer
 ---
-
 You are a true all-rounder who moves confidently between database, backend and client application? Are you enthusiastic about modern open source technologies and looking forward to exchanging ideas with experienced developers? Then come to the Dreiländereck and work with us on exciting customer solutions in the areas of mobility and the environment.
 
 ## What awaits you
@@ -19,7 +18,7 @@ You have extensive experience with web technologies, enjoy developing and are in
 
 ## What do we offer you?
 
-Secure job with many opportunities for development and good earning potential. Attractive additional benefits to the fixed salary (e.g. job ticket and much more). Individual promotion and further training. Flexible working with the possibility of part-time and home office. Always enough organic fruit, mineral water and organic coffee. Exciting projects for well-known companies. A collegial team (20 people) that is a pleasure to work with. Training by an experienced colleague. Modern hardware and free choice of tools. Infrastructure managed by competent admins. Office with a great view in the heart of Freiburg. Regular team events. Very good accessibility by public transport.
+Secure job with many opportunities for development and good earning potential. Attractive additional benefits to the fixed salary (e.g. job ticket and much more). Individual promotion and further training. Flexible working with the possibility of part-time and home office. Always enough organic fruit, mineral water and organic coffee. Exciting projects for well-known companies. A collegial team (20 people) with which it is a pleasure to work. Training by an experienced colleague. Modern hardware and free choice of tools. Infrastructure managed by competent admins. Office with a great view in the heart of Freiburg. Regular team events. Very good accessibility by public transport.
 
 ## That sounds like your job?
 
