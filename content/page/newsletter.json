@@ -1,26 +1,26 @@
 {
   "en": {
-    "subtitle": "Regularly valuable know-how on exciting projects and developments in the digital world",
-    "submittedTitle": "Just one more step to the newsletter.",
+    "privacy": "Your data will be treated confidentially and will not be disclosed to third parties. Your consent is voluntary. You can revoke your consent at any time, for example via the „unsubscribe“ link in the newsletter. You can find further information in the privacy policy.",
+    "subscribe": "Subscribe now",
+    "submittedButton": "Back to home page",
     "submitted1": "1. open mail in your mailbox",
     "submitted2": "2. click on the confirmation link",
+    "subtitle": "Regularly receive relevant know-how about exciting projects and developments in the digital world",
     "submitted3": "3. receive newsletter",
-    "submittedButton": "Back to home page",
-    "subscribe": "Subscribe now",
-    "privacy": "Your data will be treated confidentially and will not be disclosed to third parties. Your consent is voluntary. You can revoke your consent at any time, for example via the „unsubscribe“ link in the newsletter. You can find further information in the privacy policy.",
     "email": "E-mail",
+    "submittedTitle": "Just one more step to the newsletter.",
     "required": "required field"
   },
   "de": {
-    "subtitle": "Regelmäßig wertvolles Know-How zu spannenden Projekten und Entwicklungen der digitalen Welt",
-    "submittedTitle": "Nur noch ein Schritt zum Newsletter.",
+    "privacy": "Ihre Daten werden vertrauensvoll behandelt und nicht an Dritte weitergegeben. Ihr Einverständnis ist freiwillig. Die erteilte Einwilligung können Sie jederzeit widerrufen, etwa über den „Abmelden“-Link im Newsletter. Weitere Informationen finden Sie in der Datenschutzerklärung.",
+    "subscribe": "Jetzt abonnieren",
+    "submittedButton": "Zurück zur Startseite",
     "submitted1": "1. Mail in Ihrem Postfach öffnen",
     "submitted2": "2. Auf den Bestätigungslink klicken",
+    "subtitle": "Regelmäßig wertvolles Know-How zu spannenden Projekten und Entwicklungen der digitalen Welt",
     "submitted3": "3. Newsletter erhalten",
-    "submittedButton": "Zurück zur Startseite",
-    "subscribe": "Jetzt abonnieren",
-    "privacy": "Ihre Daten werden vertrauensvoll behandelt und nicht an Dritte weitergegeben. Ihr Einverständnis ist freiwillig. Die erteilte Einwilligung können Sie jederzeit widerrufen, etwa über den „Abmelden“-Link im Newsletter. Weitere Informationen finden Sie in der Datenschutzerklärung.",
     "email": "E-Mail",
+    "submittedTitle": "Nur noch ein Schritt zum Newsletter.",
     "required": "Pflichtfeld"
   }
 }
