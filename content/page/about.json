@@ -1,18 +1,18 @@
 {
   "en": {
-    "we1": "Intelligent web applications based on geo and real-time data with a technical focus on public transport, mobility and the environment are the core competencies of geOps.",
-    "we2": "The spectrum ranges from data analysis and visualization through information systems and business solutions to complete geodata infra­structures and data hubs. With the integration of timetable and real-time data, geOps offers passenger information systems for public transport.",
-    "we3": "When selecting technologies, we have a clear focus on open source. In addition to using open source, it goes without saying that geOps also publishes its own developments on a regular basis. We also support open source conferences, hackathons and similar events.",
+    "we1": "Intelligent web applications based on geographical and real-time data with a technical focus on public transport, mobility and the environment are the core competencies at geOps.",
+    "we2": "The spectrum ranges from data analysis and visualization through information systems and business solutions to complete geodata infra­structures and data hubs. geOps offers passenger information systems for public transport by integrating timetable and real-time data. ",
+    "we3": "When selecting technologies, we have a clear focus on open source. In addition to using open source, it goes without saying that geOps also publishes its own developed products on a regular basis. We also support open source conferences, hackathons and similar events.",
     "circleYears": "Years",
-    "we4": "geOps customers include transport companies, public administration and well-known international companies.",
+    "we4": "geOps customers include transport companies, public administration and well-known international businesses.",
     "we5": "geOps was founded in Freiburg im Breisgau in 2002 and expanded to include a branch in Switzerland in 2013. The company currently has around 20 employees. We want to continue growing and are therefore looking for reinforcements for our team.",
     "circleCounter": {
       "employee": 20,
       "year": 20,
       "client": 150
     },
-    "work": "The satisfaction of both our customers and our team is very important to us. In order to meet customer requirements with high-quality products and at the same time not to lose track of many projects, we combine various methods of agile project management. The advantages of using agile methods are transparency, flexibility, a high level of personal responsibility in the team, independence of employees and satisfied customers.",
-    "tech": "Regardless of whether it is front-end, back-end or infrastructure, we always pay attention to a good balance between being up-to-date and the stability of the technologies used. We offer our customers modern solutions and at the same time ensure the long-term maintainability of our projects. We are faster and more flexible than the really big companies and yet we don't follow every hype. All techno­logies for our projects have one thing in common: They are based on open source software. Ever since geOps was founded, we have had open source components in the field of web development and geo­data mana­gement that were on par with proprietary alternatives or that clearly exceeded them in functionality, speed and ease of use.  Of the many technologies used at geOps, the following are particularly important.",
+    "work": "The satisfaction of both our customers and our team is very important to us. In order to meet customer requirements with high-quality products and while keeping track of numerous projects, we combine various methods of agile project management. The advantages of using agile methods are transparency, flexibility, a high level of personal responsibility in the team, independence of employees and satisfied customers.",
+    "tech": "Regardless of whether it is front-end, back-end or infrastructure, our goal is to maintain a good balance between being up-to-date and the stability of the applied technologies. We offer our customers modern solutions and at the same time ensure the long-term maintainability of our projects. We are faster and more flexible than the really big companies and yet we don't follow every hype. All techno­logies for our projects have one thing in common: They are based on open source software. Since the founding of geOps we have had access to open source components in the field of web development and geo­data mana­gement that were on a par with proprietary alternatives or that clearly exceeded them in functionality, speed and ease of use. Of the many technologies used at geOps, the following are particularly important.",
     "title": "IT for the environment, mobility, public transport, maps",
     "circleClients": "Customers",
     "circleExperience": "Experience",
