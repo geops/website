@@ -14,7 +14,9 @@ export default function Teaser(props) {
         <h1 className="break-words mb-7 w-full">{props.title}</h1>
         {props.subtitle && (
           <h2
-            className={`mb-16 w-1/2 text-2xl ${props.subtitleClassName || ""}`}
+            className={`mb-16 max-w-md text-2xl ${
+              props.subtitleClassName || ""
+            }`}
           >
             {props.subtitle}
           </h2>
