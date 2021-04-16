@@ -3,6 +3,7 @@ import { CarouselProvider, DotGroup, Slider, Slide } from "pure-react-carousel";
 import { useRef } from "react";
 
 import { useI18n } from "../lib/i18n";
+import useIntersectionOberserver from "../lib/useIntersectionOberserver";
 
 import Button from "./Button.js";
 import CaretIcon from "./icons/CaretIcon.js";
@@ -17,11 +18,12 @@ const CarouselKeyboardNavigation = dynamic(
 );
 
 export default function Carousel({ slides }) {
-  const containerRef = useRef(null);
   const { t } = useI18n();
+  const containerRef = useRef(null);
+  const intersectionRef = useIntersectionOberserver("noo", 0);
   return (
     <div className="relative">
-      <div className="h-screen" />
+      <div ref={intersectionRef} className={styles.intersectionContainer} />
       <div ref={containerRef} className="fixed top-16 h-screen w-full">
         <CarouselProvider
           className={`${styles.carousel}`}
