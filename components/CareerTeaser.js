@@ -7,6 +7,7 @@ export default function CareerTeaser() {
   return (
     <Teaser
       containerClassName="bg-career-teaser bg-cover"
+      subtitleClassName="hidden md:block"
       title={t("careerTeaser.title")}
       subtitle={t("careerTeaser.subtitle")}
       action={t("careerTeaser.action")}

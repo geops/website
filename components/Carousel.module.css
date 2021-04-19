@@ -8,3 +8,11 @@
 .carousel :global .carousel__dot--selected::before {
   content: "●";
 }
+
+.intersectionContainer {
+  @apply h-screen;
+}
+
+.intersectionContainer:global(.noo + div) {
+  @apply hidden;
+}
