@@ -7,7 +7,6 @@ import useIntersectionOberserver from "../lib/useIntersectionOberserver";
 
 import Button from "./Button.js";
 import CaretIcon from "./icons/CaretIcon.js";
-import CarouselAutoResumePlaying from "./CarouselAutoResumePlaying.js";
 
 import "pure-react-carousel/dist/react-carousel.es.css";
 import styles from "./Carousel.module.css";
@@ -34,7 +33,6 @@ export default function Carousel({ slides }) {
           naturalSlideHeight={1200}
           totalSlides={slides.length}
         >
-          <CarouselAutoResumePlaying />
           <CarouselKeyboardNavigation />
           <Slider
             aria-label="Slider"
