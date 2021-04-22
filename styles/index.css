@@ -55,7 +55,9 @@ h3,
   @apply no-underline text-blue hover:text-blue-light;
 }
 
-.prose p {
+.prose p,
+.prose ol,
+.prose ul {
   @apply leading-9 text-lg;
 }
 
