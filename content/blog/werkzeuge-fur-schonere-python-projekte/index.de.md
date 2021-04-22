@@ -96,38 +96,39 @@ Da die [Website](https://pre-commit.com/) wohl immer aktueller sein wird als ein
 
 ### Unsere Beispielkonfiguration (`.pre-commit-config.yaml`):
 
-    fail_fast: true
-    repos:
-    - repo: https://github.com/pre-commit/pre-commit-hooks
-      rev: master
-      hooks:
-        - id: no-commit-to-branch
-        - id: check-merge-conflict
-        - id: check-symlinks
-        - id: mixed-line-ending
-          args: ['--fix=no']
-        - id: check-ast
-        - id: check-builtin-literals
-        - id: check-case-conflict
-        - id: check-docstring-first
-    - repo: https://github.com/asottile/pyupgrade
-      rev: master
-      hooks:
-       - id: pyupgrade
-         args: [--py37-plus]
-    - repo: local
-      hooks:
-        - id: black
-          name: black
-          entry: black
-          language: python
-          files: '.*\.py$'
-        - id: flake8
-          name: flake8
-          entry: flake8
-          language: python
-          pass_filenames: false
-    
+```yaml
+fail_fast: true
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: master
+  hooks:
+    - id: no-commit-to-branch
+    - id: check-merge-conflict
+    - id: check-symlinks
+    - id: mixed-line-ending
+      args: ['--fix=no']
+    - id: check-ast
+    - id: check-builtin-literals
+    - id: check-case-conflict
+    - id: check-docstring-first
+- repo: https://github.com/asottile/pyupgrade
+  rev: master
+  hooks:
+    - id: pyupgrade
+      args: [--py37-plus]
+- repo: local
+  hooks:
+    - id: black
+      name: black
+      entry: black
+      language: python
+      files: '.*\.py$'
+    - id: flake8
+      name: flake8
+      entry: flake8
+      language: python
+      pass_filenames: false
+```
 
 ### Lessons learned
 
