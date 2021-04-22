@@ -1,8 +1,13 @@
+import Head from "next/head";
+
 import Button from "../components/Button";
 
 export default function PageNotFound() {
   return (
     <div className="container mx-auto max-w-4xl p-2 text-center">
+      <Head>
+        <title>Page not found</title>
+      </Head>
       <svg viewBox="0 0 936.6 562.5" className="mb-8">
         <path
           className="fill-current text-gray-dark"
