@@ -52,9 +52,9 @@ export default function Contact() {
       >
         <CaretIcon direction="top" />
       </button>
-      <div className="container mx-auto px-8 pt-20 pb-10 lg:flex justify-between">
-        <h2 className="mb-8 text-4xl font-bold">{t("contact.title")}</h2>
-        <div className="mb-8">
+      <div className="container mx-auto px-8 py-16 md:py-24 md:flex justify-between">
+        <h2 className="text-4xl font-bold">{t("contact.title")}</h2>
+        <div className="mt-8 md:mt-0">
           <strong>geOps AG</strong> <br />
           Solothurnerstrasse 235 <br />
           CH-4600 Olten <br />
@@ -69,7 +69,7 @@ export default function Contact() {
             {ch.email}
           </a>
         </div>
-        <div>
+        <div className="mt-8 md:mt-0">
           <strong>geOps GmbH</strong> <br />
           Kaiser-Joseph-Str. 263 <br />
           D-79098 Freiburg <br />
@@ -84,7 +84,7 @@ export default function Contact() {
             info@geops.de
           </a>
         </div>
-        <div className="mt-8 pb-8 xl:pr-32">
+        <div className="mt-8 xl:pr-32">
           <ul>
             {socialMedia.map(({ icon, href, title }) => (
               <li key={title}>

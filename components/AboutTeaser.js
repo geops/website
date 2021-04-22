@@ -7,7 +7,7 @@ export default function AboutTeaser() {
   return (
     <div className="bg-gray-darker">
       <Teaser
-        containerClassName="bg-white max-w-screen-xl xl:rounded mx-auto relative -top-20"
+        containerClassName="bg-white max-w-screen-xl xl:rounded mx-auto relative -top-16 md:-top-24"
         title={t("aboutTeaser.title")}
         text={t("aboutTeaser.text")}
         action={t("website.more")}
