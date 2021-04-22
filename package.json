@@ -8,6 +8,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "feed": "^4.2.2",
     "gray-matter": "^4.0.2",
     "netlify-cms-app": "^2.14.46",
     "next": "^10.1.3",

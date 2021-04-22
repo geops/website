@@ -11,6 +11,8 @@ const HtmlLang = dynamic(() => import("../components/HtmlLang"), {
 });
 
 export default function Website({ Component, pageProps }) {
+  const feedBaseUrl =
+    pageProps.language === "en" ? "https://geops.de/en" : "https://geops.de";
   useAnalytics();
   return (
     <I18n language={pageProps.language}>
@@ -18,6 +20,24 @@ export default function Website({ Component, pageProps }) {
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="geOps Blog RSS Feed"
+          href={`${feedBaseUrl}/feed/rss.xml`}
+        />
+        <link
+          rel="alternate"
+          type="application/atom+xml"
+          title="geOps Blog Atom Feed"
+          href={`${feedBaseUrl}/feed/atom.xml`}
+        />
+        <link
+          rel="alternate"
+          type="application/feed+json"
+          title="geOps Blog JSON Feed"
+          href={`${feedBaseUrl}/feed/feed.json`}
         />
       </Head>
       <HtmlLang />
