@@ -78,7 +78,7 @@ export default function Contact() {
             info@geops.de
           </a>
         </div>
-        <div className="mt-8 xl:pr-32">
+        <div className="mt-8 md:mt-0 xl:pr-32">
           <ul>
             {socialMedia.map(({ icon, href, title }) => (
               <li key={title}>
