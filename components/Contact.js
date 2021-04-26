@@ -3,7 +3,6 @@ import { useI18n } from "../lib/i18n";
 import CaretIcon from "./icons/CaretIcon.js";
 import GitHubIcon from "./icons/GitHubIcon.js";
 import TwitterIcon from "./icons/TwitterIcon.js";
-import FacebookIcon from "./icons/FacebookIcon.js";
 import XingIcon from "./icons/XingIcon.js";
 import LinkedInIcon from "./icons/LinkedInIcon.js";
 
@@ -17,11 +16,6 @@ const socialMedia = [
     icon: <TwitterIcon />,
     href: "https://twitter.com/geops",
     title: "Twitter",
-  },
-  {
-    icon: <FacebookIcon />,
-    href: "https://www.facebook.com/geOpsSpatialWeb",
-    title: "Facebook",
   },
   {
     icon: <XingIcon />,
