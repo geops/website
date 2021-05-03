@@ -3,6 +3,8 @@
 /* Import Lato font family from Typekit because open source version is missing font weights. */
 @import url("https://use.typekit.net/not7ezq.css");
 
+@import "highlight.js/styles/stackoverflow-dark.css";
+
 /* Start purging... */
 @tailwind components;
 /* Stop purging. */
@@ -53,7 +55,9 @@ h3,
   @apply no-underline text-blue hover:text-blue-light;
 }
 
-.prose p {
+.prose p,
+.prose ol,
+.prose ul {
   @apply leading-9 text-lg;
 }
 

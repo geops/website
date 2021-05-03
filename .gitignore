@@ -8,3 +8,7 @@ node_modules
 
 # Next.js export
 out
+
+# Feeds generated during export
+public/feed
+public/en/feed
