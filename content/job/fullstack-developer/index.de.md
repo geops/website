@@ -14,7 +14,7 @@ Sie arbeiten im Team an der Entwicklung von attraktiven Lösungen für unsere Ku
 
 ## Qualifikationen
 
-Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Interesse an neuen Technologien. Mit modernen JavaScript-Libraries (u.a. React, MapBox GL JS und OpenLayers) sind Sie ebenso sicher wie in der objekt­orientierten Programmierung mit Python. Mit Datenbanken wie Postgre­SQL und idealerweise auch mit Geo-Operatoren in PostGIS kennen Sie sich gut aus. Bei Ihrer täglichen Arbeit nutzen Sie gängige Tools und versionieren ihren Code mit GIT. Idealerweise, aber nicht zwingend, verfügen Sie über ein abgeschlossenes Hochschulstudium in Informatik oder anderen natur- und ingenieur&shy;wissen&shy;schaft&shy;lichen Studien­gängen. Sie sind interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
+Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Interesse an neuen Technologien. Mit modernen JavaScript-Libraries (u.a. React, MapBox GL JS und OpenLayers) sind Sie ebenso sicher wie in der objekt­orientierten Programmierung mit Python. Mit Datenbanken wie Postgre­SQL und idealerweise auch mit Geo-Operatoren in PostGIS kennen Sie sich gut aus. Auf dem Server ist Linux für Sie selbstverständlich. Bei Ihrer täglichen Arbeit nutzen Sie gängige Tools und versionieren ihren Code mit GIT. Idealerweise, aber nicht zwingend, verfügen Sie über ein abgeschlossenes Hochschulstudium in Informatik oder anderen natur- und ingenieur&shy;wissen&shy;schaft&shy;lichen Studien­gängen. Sie sind interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
 
 ## Was bieten wir Ihnen?
 
