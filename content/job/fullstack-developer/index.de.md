@@ -6,7 +6,7 @@ summary: Sie sind ein echter Allrounder, der sich siegessicher zwischen
   erfahrenen Entwicklern?
 slug: fullstack-entwickler
 ---
-Sie sind ein echter Allrounder, der sich siegessicher zwischen Datenbank, Backend und Client-Anwendung bewegt? Sie begeistern sich für moderne Open Source Technologien und freuen sich auf den Austausch mit erfahrenen Entwicklern? Dann kommen Sie zu uns ins Dreiländereck und arbeiten gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) oder Olten (CH)  suchen wir ab sofort einen Full-Stack-Entwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
+Sie sind ein echter Allrounder, der sich siegessicher zwischen Datenbank, Backend und Client-Anwendung bewegt? Sie begeistern sich für moderne Open Source Technologien und freuen sich auf den Austausch mit erfahrenen Entwicklern? Dann kommen Sie zu uns ins Dreiländereck und arbeiten gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) oder Olten (CH)  suchen wir ab sofort einen Full Stack Softwareentwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
 
 ## Was Sie erwartet
 
@@ -14,7 +14,7 @@ Sie arbeiten im Team an der Entwicklung von attraktiven Lösungen für unsere Ku
 
 ## Qualifikationen
 
-Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Interesse an neuen Technologien. Mit modernen JavaScript-Libraries (u.a. React, MapBox GL JS und OpenLayers) sind Sie ebenso sicher wie in der objekt­orientierten Programmierung mit Python. Mit Datenbanken wie Postgre­SQL und idealerweise auch mit Geo-Operatoren in PostGIS kennen Sie sich gut aus. Auf dem Server ist Linux für Sie selbstverständlich. Bei Ihrer täglichen Arbeit nutzen Sie gängige Tools und versionieren ihren Code mit GIT. Idealerweise, aber nicht zwingend, verfügen Sie über ein abgeschlossenes Hochschulstudium in Informatik oder anderen natur- und ingenieur&shy;wissen&shy;schaft&shy;lichen Studien­gängen. Sie sind interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
+Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Interesse an neuen Technologien. Mit modernen JavaScript-Libraries (u.a. React, MapBox GL JS und OpenLayers) sind Sie ebenso sicher wie in der objekt­orientierten Programmierung mit Python. Mit Datenbanken wie Postgre­SQL und idealerweise auch mit Geo-Operatoren in PostGIS kennen Sie sich gut aus. Linux auf dem Server ist für Sie selbstverständlich. Bei Ihrer täglichen Arbeit nutzen Sie gängige Tools und versionieren ihren Code mit GIT. Idealerweise, aber nicht zwingend, verfügen Sie über ein abgeschlossenes Hochschulstudium in Informatik oder anderen natur- und ingenieur&shy;wissen&shy;schaft&shy;lichen Studien­gängen. Sie sind interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
 
 ## Was bieten wir Ihnen?
 
