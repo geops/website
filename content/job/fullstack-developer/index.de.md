@@ -1,5 +1,5 @@
 ---
-title: Fullstack Entwickler (m/w/d)
+title: Full Stack Entwickler (m/w/d)
 summary: Sie sind ein echter Allrounder, der sich siegessicher zwischen
   Datenbank, Backend und Client-Anwendung bewegt? Sie begeistern sich für
   moderne Open Source Technologien und freuen sich auf den Austausch mit
