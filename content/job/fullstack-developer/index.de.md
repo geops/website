@@ -10,7 +10,7 @@ Sie sind ein echter Allrounder, der sich siegessicher zwischen Datenbank, Backen
 
 ## Was Sie erwartet
 
-Sie arbeiten im Team an der Entwicklung von attraktiven Lösungen für unsere Kunden sowie an der Weiterentwicklung unserer Produkte. Zu Basis der Produkte gehören Datenbanken mit raffinierten Workflows der Datenintegration, Micro-Services zu deren Nutzung sowie Libraries, mit denen die Dienste effektiv in Anwendungen für Kunden nutzbar werden. Regelmässig haben Sie die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
+Sie arbeiten im Team an der Entwicklung von attraktiven Lösungen für unsere Kunden sowie an der Weiterentwicklung unserer Produkte. Zur Basis der Produkte gehören Datenbanken mit raffinierten Workflows der Datenintegration, Micro-Services zu deren Nutzung sowie Libraries, mit denen die Dienste effektiv in Anwendungen für Kunden nutzbar werden. Regelmässig haben Sie die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
 
 ## Qualifikationen
 
@@ -18,7 +18,7 @@ Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und I
 
 ## Was bieten wir Ihnen?
 
-Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeiten. Attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket und vieles mehr). Individuelle Förderung und Weiterbildung. Flexibles Arbeiten mit Möglichkeit für Teilzeit und Home Office. Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee. Spannende Projekte für namhafte Unternehmen. Ein kollegiales 20-köpfiges Team, mit dem das Arbeiten Freude macht. Einarbeitung durch eine/n erfahrene/n Kollegen/ in. Moderne Hardware und freie Auswahl der verwendeten Tools. Von kompetenten Admins gemanagte Infrastruktur. Büro mit super Aussicht im Herzen von Freiburg. Regelmässige Team-Events. Sehr gute Erreichbarkeit mit öffentlichen Verkehrsmitteln.
+Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeiten. Attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket und vieles mehr). Individuelle Förderung und Weiterbildung. Flexibles Arbeiten mit Möglichkeit für Teilzeit und Home Office. Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee. Spannende Projekte für namhafte Unternehmen. Ein kollegiales 20-köpfiges Team, mit dem das Arbeiten Freude macht. Einarbeitung durch eine/n erfahrene/n Kollegen/in. Moderne Hardware und freie Auswahl der verwendeten Tools. Von kompetenten Admins gemanagte Infrastruktur. Regelmässige Team-Events. Schöne, zentral gelegene Büros. Sehr gute Erreichbarkeit mit öffentlichen Verkehrsmitteln.
 
 ## Das klingt nach Ihrem Job?
 
