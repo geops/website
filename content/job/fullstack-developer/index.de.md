@@ -1,5 +1,5 @@
 ---
-title: Full Stack Entwickler (m/w/d)
+title: Linux Full Stack Entwickler (m/w/d)
 summary: Sie sind ein echter Allrounder, der sich siegessicher zwischen
   Datenbank, Backend und Client-Anwendung bewegt? Sie begeistern sich für
   moderne Open Source Technologien und freuen sich auf den Austausch mit
@@ -22,4 +22,6 @@ Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeite
 
 ## Das klingt nach Ihrem Job?
 
-Prima! Dann freuen wir uns auf Ihre Bewerbung. Im besten Fall können Sie uns bereits mit Arbeitsproben begeistern. Teilen Sie uns bitte auch mit, ab wann Sie starten können und in welchem Umfang (Voll- oder Teilzeit). Wir freuen uns auf Ihre Bewerbung!
+Prima! Dann freuen wir uns auf Ihre Bewerbung. Im besten Fall können Sie uns bereits mit Arbeitsproben begeistern. Teilen Sie uns bitte auch mit, ab wann Sie starten können und in welchem Umfang (Voll- oder Teilzeit). Wir freuen uns darauf!
+
+Senden Sie Ihre Bewerbung an [karriere@geops.ch](mailto:karriere@geops.ch). Bei Fragen kontaktieren Sie bitte unseren Geschäftsführer Uli Müller ([uli.mueller@geops.ch](mailto:uli.mueller@geops.ch), +41 79 925 15 37).

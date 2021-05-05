@@ -1,5 +1,5 @@
 ---
-title: Full Stack Developer
+title: Linux Full Stack Developer
 summary: You are a true all-rounder who moves confidently between database,
   backend and client application? Are you enthusiastic about modern open source
   technologies and looking forward to exchanging ideas with experienced
@@ -22,4 +22,6 @@ Secure job with many opportunities for development and good earning potential. A
 
 ## That sounds like your job?
 
-Great! Then we look forward to receiving your application. In the best case, you can already impress us with samples of your work. Please also let us know when you can start and to what extent (full or part time). We are looking forward to your application!
+Great! Then we look forward to receiving your application. In the best case, you can already impress us with samples of your work. Please also let us know when you can start and to what extent (full or part time). We are looking forward to it!
+
+Please send your application to [karriere@geops.ch](mailto:karriere@geops.ch). For any questions you may contact our CEO Uli Müller ([uli.mueller@geops.ch](uli.mueller@geops.ch), +41 79 925 15 37).
