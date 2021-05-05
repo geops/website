@@ -6,7 +6,7 @@ summary: Sie sind ein echter Allrounder, der sich siegessicher zwischen
   erfahrenen Entwicklern?
 slug: fullstack-entwickler
 ---
-Sie sind ein echter Allrounder, der sich siegessicher zwischen Datenbank, Backend und Client-Anwendung bewegt? Sie begeistern sich für moderne Open Source Technologien und freuen sich auf den Austausch mit erfahrenen Entwicklern? Dann kommen Sie zu uns ins Dreiländereck und arbeiten gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Olten (CH) oder Freiburg (D) suchen wir ab sofort einen Full-Stack-Entwickler (m/w/d) in Voll- oder Teilzeit 80-100 %.
+Sie sind ein echter Allrounder, der sich siegessicher zwischen Datenbank, Backend und Client-Anwendung bewegt? Sie begeistern sich für moderne Open Source Technologien und freuen sich auf den Austausch mit erfahrenen Entwicklern? Dann kommen Sie zu uns ins Dreiländereck und arbeiten gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) oder Olten (CH)  suchen wir ab sofort einen Full-Stack-Entwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
 
 ## Was Sie erwartet
 
