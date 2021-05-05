@@ -24,4 +24,4 @@ Secure job with many opportunities for development and good earning potential. A
 
 Great! Then we look forward to receiving your application. In the best case, you can already impress us with samples of your work. Please also let us know when you can start and to what extent (full or part time). We are looking forward to it!
 
-Please send your application to [karriere@geops.ch](mailto:karriere@geops.ch). For any questions you may contact our CEO Uli Müller ([uli.mueller@geops.ch](uli.mueller@geops.ch), +41 79 925 15 37).
+Please send your application to [karriere@geops.ch](mailto:karriere@geops.ch). For any questions you may contact our CEO Uli Müller ([uli.mueller@geops.ch](mailto:uli.mueller@geops.ch), +41 79 925 15 37).
