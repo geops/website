@@ -11,7 +11,7 @@
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "highlight.js": "^10.7.2",
-    "netlify-cms-app": "^2.14.47",
+    "netlify-cms-app": "^2.15.2",
     "next": "^10.2.0",
     "pure-react-carousel": "^1.27.6",
     "react": "^17.0.2",
@@ -29,7 +29,7 @@
     "@tailwindcss/typography": "^0.4.0",
     "autoprefixer": "^10.2.5",
     "netlify-plugin-cache-nextjs": "^1.6.1",
-    "postcss": "^8.2.13",
+    "postcss": "^8.2.14",
     "prettier": "^2.2.1",
     "tailwindcss": "^2.1.2"
   }
