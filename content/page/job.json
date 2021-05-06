@@ -1,13 +1,15 @@
 {
   "en": { 
-    "title": "Your contact person",
+    "title": "Contact",
+    "subtitle": "**Send your application to [karriere@geops.de](mailto:karriere@geops.de).**\n If you have any questions, please feel free to contact our CEO:",
     "contact": {
-      "name": "Ulrich Müller-Ertle",
-      "email": "info@geops.de",
-      "telephone": "+49 761 458 925 0"
+      "name": "Uli Müller",
+      "email": "uli.mueller@geops.de",
+      "telephone": "+41 79 925 15 37"
     }
   },
   "de": {
-    "title": "Ihr Ansprechpartner"
+    "title": "Kontakt",
+    "subtitle": "**Senden Sie Ihre Bewerbung an [karriere@geops.de](mailto:karriere@geops.de).**\n\nBei Fragen kontaktieren Sie gerne unseren Geschäftsführer:"
   }
 }

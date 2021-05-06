@@ -18,7 +18,7 @@ export default function Job({ content, job }) {
       <ContactPerson
         person={content.contact}
         title={content.title}
-        subtitle=" "
+        subtitle={content.subtitle}
       />
     </Layout>
   );
@@ -42,6 +42,7 @@ export async function getStaticProps(context) {
   job.body = await markdownToHtml(job.body);
 
   const content = getContentItem(language, "page", "job.json");
+  content.subtitle = await markdownToHtml(content.subtitle);
 
   return { props: { language, content, job } };
 }

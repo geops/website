@@ -40,8 +40,12 @@ export default function ContactPerson({ person, subtitle, title }) {
                 <br />
               </>
             )}
-            {person.position && person.position[language]}
-            <br />
+            {person.position && (
+              <>
+                {person.position[language]}
+                <br />
+              </>
+            )}
             E-Mail:{" "}
             <a className="text-green" href={`mailto:${person.email}`}>
               {person.email}
