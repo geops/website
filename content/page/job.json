@@ -1,7 +1,7 @@
 {
   "en": { 
     "title": "Contact",
-    "subtitle": "**Send your application to [karriere@geops.de](mailto:karriere@geops.de).**\n If you have any questions, please feel free to contact our CEO:",
+    "subtitle": "**Send your application to <a class='!text-green' href='mailto:karriere@geops.de'>karriere@geops.de</a>.**\n If you have any questions, please feel free to contact our CEO:",
     "contact": {
       "name": "Uli Müller",
       "email": "uli.mueller@geops.de",
@@ -10,6 +10,6 @@
   },
   "de": {
     "title": "Kontakt",
-    "subtitle": "**Senden Sie Ihre Bewerbung an [karriere@geops.de](mailto:karriere@geops.de).**\n\nBei Fragen kontaktieren Sie gerne unseren Geschäftsführer:"
+    "subtitle": "**Senden Sie Ihre Bewerbung an <a class='!text-green' href='mailto:karriere@geops.de'>karriere@geops.de</a>.**\n\nBei Fragen kontaktieren Sie gerne unseren Geschäftsführer:"
   }
 }
