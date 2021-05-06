@@ -218,6 +218,19 @@ collections:
           - { i18n: true, label: Submitted 2, name: submitted2 }
           - { i18n: true, label: Submitted 3, name: submitted3 }
           - { i18n: true, label: Submitted Button, name: submittedButton }
+      - label: "Job"
+        name: "job"
+        file: "content/page/job.json"
+        i18n: true
+        fields:
+          - { i18n: true, label: Title, name: title }
+          - label: "Contact Person"
+            name: "contact"
+            widget: "object"
+            fields:
+              - { label: Name, name: name }
+              - { label: E-Mail, name: email }
+              - { label: Telephone, name: telephone }
       - label: "Privacy"
         name: "privacy"
         file: "content/page/privacy.json"

@@ -1,11 +1,13 @@
-import Layout from "../../components/Layout.js";
 import Article from "../../components/Article.js";
+import ContactPerson from "../../components/ContactPerson";
+import Layout from "../../components/Layout.js";
 
 import getContentBySlug from "../../lib/getContentBySlug";
+import getContentItem from "../../lib/getContentItem";
 import getContentList from "../../lib/getContentList";
 import markdownToHtml from "../../lib/markdownToHtml";
 
-export default function Job({ job }) {
+export default function Job({ content, job }) {
   if (!job) {
     return null;
   }
@@ -13,6 +15,11 @@ export default function Job({ job }) {
   return (
     <Layout translationPath={`/career/${job.translationSlug}`}>
       <Article body={job.body} title={job.title} />
+      <ContactPerson
+        person={content.contact}
+        title={content.title}
+        subtitle=" "
+      />
     </Layout>
   );
 }
@@ -34,5 +41,7 @@ export async function getStaticProps(context) {
   const job = getContentBySlug(language, "job", context.params.slug);
   job.body = await markdownToHtml(job.body);
 
-  return { props: { language, job } };
+  const content = getContentItem(language, "page", "job.json");
+
+  return { props: { language, content, job } };
 }

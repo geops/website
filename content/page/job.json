@@ -1,0 +1,13 @@
+{
+  "en": { 
+    "title": "Your contact person",
+    "contact": {
+      "name": "Ulrich Müller-Ertle",
+      "email": "info@geops.de",
+      "telephone": "+49 761 458 925 0"
+    }
+  },
+  "de": {
+    "title": "Ihr Ansprechpartner"
+  }
+}
