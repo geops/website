@@ -1,6 +1,11 @@
 module.exports = {
   mode: "jit",
-  purge: ["./components/**/*.js", "./content/**/*.md", "./pages/**/*.js"],
+  purge: [
+    "./components/**/*.js",
+    "./content/**/*.json",
+    "./content/**/*.md",
+    "./pages/**/*.js",
+  ],
   theme: {
     colors: {
       blue: {

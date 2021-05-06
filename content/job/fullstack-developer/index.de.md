@@ -23,5 +23,3 @@ Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeite
 ## Das klingt nach Ihrem Job?
 
 Prima! Dann freuen wir uns auf Ihre Bewerbung. Im besten Fall können Sie uns bereits mit Arbeitsproben begeistern. Teilen Sie uns bitte auch mit, ab wann Sie starten können und in welchem Umfang (Voll- oder Teilzeit). Wir freuen uns darauf!
-
-Senden Sie Ihre Bewerbung an [karriere@geops.ch](mailto:karriere@geops.ch). Bei Fragen kontaktieren Sie bitte unseren Geschäftsführer Uli Müller ([uli.mueller@geops.ch](mailto:uli.mueller@geops.ch), +41 79 925 15 37).

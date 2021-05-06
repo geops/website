@@ -40,7 +40,7 @@ export default function ContactPerson({ person, subtitle, title }) {
                 <br />
               </>
             )}
-            {person.name && (
+            {person.position && (
               <>
                 {person.position[language]}
                 <br />
