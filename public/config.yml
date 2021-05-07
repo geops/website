@@ -148,6 +148,12 @@ collections:
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
         i18n: true
+      - label: "Created"
+        name: "created"
+        widget: "date"
+        time_format: false
+        date_format: "YYYY-MM-DD"
+        format: "YYYY-MM-DD"
       - label: "Content"
         name: "body"
         widget: "markdown"
@@ -224,6 +230,7 @@ collections:
         i18n: true
         fields:
           - { i18n: true, label: Title, name: title }
+          - { i18n: true, label: Subtitle, name: subtitle, widget: markdown }
           - label: "Contact Person"
             name: "contact"
             widget: "object"

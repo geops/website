@@ -10,6 +10,7 @@ export default function Article({ author, body, created, title }) {
         <>
           <Head>
             <title>{`${title} | geOps`}</title>
+            {author && <meta name="author" content={author} />}
           </Head>
           <h1 className="pt-16 text-center">{title}</h1>
         </>

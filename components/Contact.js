@@ -32,6 +32,17 @@ const socialMedia = [
 export const ch = {
   email: "info@geops.ch",
   telephone: "+41 61 588 05 05",
+  street: "Solothurnerstrasse 235",
+  city: "Olten",
+  postalCode: "CH-4600",
+};
+
+export const de = {
+  email: "info@geops.de",
+  telephone: "+49 761 458 925 0",
+  street: "Kaiser-Joseph-Str. 263",
+  city: "Freiburg",
+  postalCode: "D-79098",
 };
 
 export default function Contact() {
@@ -50,8 +61,10 @@ export default function Contact() {
         <h2 className="text-4xl font-bold">{t("contact.title")}</h2>
         <div className="mt-8 md:mt-0">
           <strong>geOps AG</strong> <br />
-          Solothurnerstrasse 235 <br />
-          CH-4600 Olten <br />
+          {ch.street}
+          <br />
+          {ch.postalCode} {ch.city}
+          <br />
           <br />
           fon:{" "}
           <a className="hover:text-green" href={`tel:${ch.telephone}`}>
@@ -65,17 +78,19 @@ export default function Contact() {
         </div>
         <div className="mt-8 md:mt-0">
           <strong>geOps GmbH</strong> <br />
-          Kaiser-Joseph-Str. 263 <br />
-          D-79098 Freiburg <br />
+          {de.street}
+          <br />
+          {de.postalCode} {de.city}
+          <br />
           <br />
           fon:{" "}
-          <a className="hover:text-green" href="tel:+49 761 458 925 0">
-            +49 761 458 925 0
+          <a className="hover:text-green" href={`tel:${de.telephone}`}>
+            {de.telephone}
           </a>
           <br />
           mail:{" "}
-          <a className="hover:text-green" href="mailto:info@geops.de">
-            info@geops.de
+          <a className="hover:text-green" href={`mailto:${de.email}`}>
+            {de.email}
           </a>
         </div>
         <div className="mt-8 md:mt-0 xl:pr-32">
