@@ -5,6 +5,7 @@ summary: You are a true all-rounder who moves confidently between database,
   technologies and looking forward to exchanging ideas with experienced
   developers?
 slug: fullstack-developer
+created: 2021-05-01
 ---
 You are a true all-rounder who moves confidently between database, backend and client application? Are you enthusiastic about modern open source technologies and looking forward to exchanging ideas with experienced developers? Then come to the Dreiländereck and work with us on exciting customer solutions in the areas of mobility and the environment.
 
