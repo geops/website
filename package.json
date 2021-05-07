@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
-    "export": "next build && next export",
+    "export": "next build && next-sitemap && next export",
     "format": "prettier --write ."
   },
   "dependencies": {
@@ -29,6 +29,7 @@
     "@tailwindcss/typography": "^0.4.0",
     "autoprefixer": "^10.2.5",
     "netlify-plugin-cache-nextjs": "^1.6.1",
+    "next-sitemap": "^1.6.49",
     "postcss": "^8.2.14",
     "prettier": "^2.2.1",
     "tailwindcss": "^2.1.2"
