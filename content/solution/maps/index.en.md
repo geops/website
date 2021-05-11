@@ -51,4 +51,4 @@ Our maps are based on MapBox Vector Tiles. This technology enables high-performa
 
 We use an established workflow to deliver the maps to your application. Based on our database, in which the various data sources are integrated, Vector Tiles are calculated and processed for the Internet. All maps are available via a global content delivery network, which guarantees high transmission speed and low latency - no matter where in the world you use the maps. You can use the maps in your application with little programming effort using tried and tested software libraries. And should you require classic raster maps, they can also be provided in numerous variants.
 
-![Workflow](/images/solution/maps/geops_ablauf_grafik_rz-1-.png "Workflow")
+![Workflow](/images/solution/maps/geops_ablauf_grafik_02.png "Workflow")
