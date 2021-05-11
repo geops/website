@@ -1,7 +1,7 @@
 ---
 title: Neu im Team
 summary: Wir freuen uns über den Start von Amelie Kerkloh (Office Managerin),
-  Vanessa Behre (Kommunikationsdesignerin) und Rouying Li (Backend
+  Vanessa Behre (Kommunikationsdesignerin) und Ruoying Li (Backend
   Entwicklerin).
 created: 2021-05-10
 slug: team-news

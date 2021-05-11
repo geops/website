@@ -2,7 +2,7 @@
 title: New in the team
 summary: >
   We are happy to announce the start of Amelie Kerkloh (Office Manager), Vanessa
-  Behre (Communication Designer) and Rouying Li (Backend Developer).
+  Behre (Communication Designer) and Ruoying Li (Backend Developer).
 cover: /images/blog/new-in-the-team/geops_blog_06052021.jpg
 created: 2021-05-10
 slug: team-news
