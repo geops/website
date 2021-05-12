@@ -18,23 +18,23 @@ Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und I
 
 ## Was bieten wir Ihnen?
 
-* Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeiten. 
+* Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeiten in einem stetig wachsenden Unternehmen. 
 
-  Attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket und vieles mehr). Individuelle Förderung und Weiterbildung. 
+  Spannende Projekte für namhafte Unternehmen. 
+
+  Individuelle Förderung, gemeinsam abgesteckte Ziele und einen darauf ausgerichteten Weiterbildungsplan. 
 
   Smartes Arbeiten mit Optionen für Home Office, mobiles Arbeiten, flexible Zeiteinteilung und Teilzeit.
 
-  Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee. Spannende Projekte für namhafte Unternehmen. 
-
-  Ein kollegiales 20-köpfiges Team, mit dem das Arbeiten Freude macht. 
+  Ein kollegiales 20-köpfiges Team, mit dem das Arbeiten Freude macht.
 
   Einarbeitung durch eine/n erfahrene/n Kollegen/in. 
 
-  Moderne Hardware und freie Auswahl der verwendeten Tools. 
+  Moderne Hardware, freie Auswahl der verwendeten Tools und eine von kompetenten Admins gemanagte Infrastruktur.
 
-  Von kompetenten Admins gemanagte Infrastruktur. 
+  Attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket/GA, Gutscheine, Fitness-Programme und vieles mehr). 
 
-  Regelmässige Team-Events. 
+  Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und – nach Covid – auch wieder regelmässige Team-Events. 
 
   Schöne und modern ausgestattete, sehr gut mit öffentlichen Verkehrsmitteln erreichbare Büros.
 
