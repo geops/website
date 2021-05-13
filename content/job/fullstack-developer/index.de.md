@@ -18,25 +18,25 @@ Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und I
 
 ## Was bieten wir Ihnen?
 
-* Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeiten in einem stetig wachsenden Unternehmen. 
+Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeiten in einem stetig wachsenden Unternehmen. 
 
-  Spannende Projekte für namhafte Unternehmen. 
+Spannende Projekte für namhafte Unternehmen. 
 
-  Individuelle Förderung, gemeinsam abgesteckte Ziele und einen darauf ausgerichteten Weiterbildungsplan. 
+Individuelle Förderung, gemeinsam abgesteckte Ziele und einen darauf ausgerichteten Weiterbildungsplan. 
 
-  Smartes Arbeiten mit Optionen für Home Office, mobiles Arbeiten, flexible Zeiteinteilung und Teilzeit.
+Smartes Arbeiten mit Optionen für Home Office, mobiles Arbeiten, flexible Zeiteinteilung und Teilzeit.
 
-  Ein kollegiales 20-köpfiges Team, mit dem das Arbeiten Freude macht.
+Ein kollegiales 20-köpfiges Team, mit dem das Arbeiten Freude macht.
 
-  Einarbeitung durch eine/n erfahrene/n Kollegen/in. 
+Einarbeitung durch eine/n erfahrene/n Kollegen/in. 
 
-  Moderne Hardware, freie Auswahl der verwendeten Tools und eine von kompetenten Admins gemanagte Infrastruktur.
+Moderne Hardware, freie Auswahl der verwendeten Tools und eine von kompetenten Admins gemanagte Infrastruktur.
 
-  Gute Verdienstmöglichkeiten und attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket/GA, Gutscheine, Fitness-Programme und vieles mehr). 
+Gute Verdienstmöglichkeiten und attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket/GA, Gutscheine, Fitness-Programme und vieles mehr). 
 
-  Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und – nach Covid – auch wieder regelmässige Team-Events. 
+Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und – nach Covid – auch wieder regelmässige Team-Events. 
 
-  Schöne und modern ausgestattete, sehr gut mit öffentlichen Verkehrsmitteln erreichbare Büros.
+Schöne und modern ausgestattete, sehr gut mit öffentlichen Verkehrsmitteln erreichbare Büros.
 
 ## Das klingt nach Ihrem Job?
 
