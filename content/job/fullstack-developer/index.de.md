@@ -32,7 +32,7 @@ Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und I
 
   Moderne Hardware, freie Auswahl der verwendeten Tools und eine von kompetenten Admins gemanagte Infrastruktur.
 
-  Attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket/GA, Gutscheine, Fitness-Programme und vieles mehr). 
+  Gute Verdienstmöglichkeiten und attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket/GA, Gutscheine, Fitness-Programme und vieles mehr). 
 
   Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und – nach Covid – auch wieder regelmässige Team-Events. 
 
