@@ -4,11 +4,13 @@ summary: Do you want to design pioneering IT solutions for public transport and
   new forms of mobility? Are you enthusiastic about modern technologies, the use
   of which you can control in coordination with your team and the customer?
   Would you like to get involved in ensuring the success of our products and
-  services?
+  services? Then we have the right place for you.
 slug: pojob
 created: 2021-05-13
 ---
 Do you want to design pioneering IT solutions for public transport and new forms of mobility? Are you enthusiastic about modern technologies, the use of which you can control in coordination with your team and the customer? Would you like to get involved in ensuring the success of our products and services? Then we have the right place for you.
+
+**We are looking for a full-time Product Owner (m / f / d) for our location in Olten or Freiburg im Breisgau.**
 
 ## You can look forward to it
 
