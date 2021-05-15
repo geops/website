@@ -17,11 +17,11 @@ Sie sind die Schnittstelle zu Kunden aus den Bereichen Mobilität, öffent&shy;l
 
 Sie entwickeln kreative und zugleich realistische Visionen, wie unsere Produkte gestaltet werden.
 
-Sie entwerfen gemeinsam mit unserem erfahrenen Team Konzepte und kommunizieren diese transparent an unsere Kunden.
+Sie entwerfen gemeinsam mit unserem erfahrenen Team Konzepte und kommunizieren diese trans&shy;parent an unsere Kunden.
 
 Sie behalten den Überblick über finanzielle Budgets, terminliche Vorgaben und technische Risiken.
 
-Sie übernehmen die Verantwortung für den Erfolg von internen Entwicklungen und Kundenprojekten.
+Sie übernehmen die Verantwortung für den Erfolg von internen Ent&shy;wick&shy;lungen und Kundenprojekten.
 
 ## Was Sie mitbringen sollten
 
@@ -31,11 +31,11 @@ In den Domänen Mobilität und öV oder Geoinformatik kennen Sie sich sehr gut a
 
 Sie überblicken den "Markt" und verfügen über ein gut gepflegtes, berufliches Netzwerk.
 
-Grundlegende betriebswirtschaftliche Aspekte sind Ihnen vertraut und wecken Ihr Interesse.
+Grundlegende betriebs&shy;wirt&shy;schaftliche Aspekte sind Ihnen vertraut und wecken Ihr Interesse.
 
 Sie sind offen, kreativ und engagiert und verfügen über Macherqualitäten.
 
-Dank hoher Kommunikationskompetenz überzeugen Sie Ihr Umfeld von Ihren Ideen.   
+Dank hoher Kommunikations&shy;kompetenz überzeugen Sie Ihr Umfeld von Ihren Ideen.   
 
 Sie stellen an sich selbst und an die von Ihnen verantworteten Lösungen hohe Ansprüche.
 
@@ -55,7 +55,7 @@ Smartes Arbeiten mit Optionen für Home Office, mobiles Arbeiten, flexible Zeite
 
 Gute Verdienstmöglichkeiten und attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket/GA, Gutscheine, Fitness-Programm und vieles mehr).
 
-Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und – nach Covid – auch wieder regelmässige Team-Events.
+Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und – nach Covid – auch wieder regel&shy;mässige Team-Events.
 
 Schöne und modern ausgestattete, mit öffentlichen Verkehrsmitteln gut erreichbare Büros.
 
