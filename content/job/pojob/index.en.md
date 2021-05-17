@@ -1,8 +1,7 @@
 ---
 title: Product Owner for IT Solutions in Public Transport
 summary: "Do you want to design pioneering IT solutions for public transport and
-  new forms of mobility? Are you enthusiastic about modern technologies? Would
-  you like to ensure the success of our products abd services? "
+  new forms of mobility? Are you enthusiastic about modern technologies? "
 slug: pojob
 created: 2021-05-13
 ---

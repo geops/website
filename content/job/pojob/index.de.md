@@ -2,8 +2,7 @@
 title: Product Owner für IT-Lösungen im öffentlichen Verkehr (m/w/d)
 summary: "Sie wollen wegweisende IT-Lösungen für den öffentlichen Verkehr und
   neue Formen der Mobilität gestalten? Sie begeistern sich für moderne
-  Technologien? Sie möchten den Erfolg unserer Produkte und Dienstleistungen
-  sichern? "
+  Technologien? "
 slug: pojob
 created: 2021-05-13
 ---
