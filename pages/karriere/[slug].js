@@ -7,8 +7,11 @@ import getContentBySlug from "../../lib/getContentBySlug";
 import getContentItem from "../../lib/getContentItem";
 import getContentList from "../../lib/getContentList";
 import markdownToHtml from "../../lib/markdownToHtml";
+import { useI18n } from "../../lib/i18n";
 
 export default function Job({ content, job }) {
+  const { t } = useI18n();
+
   if (!job) {
     return null;
   }
@@ -16,7 +19,7 @@ export default function Job({ content, job }) {
   return (
     <Layout
       description={job.summary}
-      translationPath={`/career/${job.translationSlug}`}
+      translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
     >
       <Article body={job.body} title={job.title} />
       <ContactPerson
