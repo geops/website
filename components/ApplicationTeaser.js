@@ -8,20 +8,19 @@ export default function ApplicationTeaser({ jobs }) {
   return (
     <section className="bg-application-teaser bg-cover">
       <div className="container mx-auto px-8 py-16 text-center flex flex-col items-center">
-        <h1 className="mb-4">{t("applicationTeaser.title")}</h1>
-        <h2>{t("applicationTeaser.subtitle")}</h2>
+        <h1>{t("applicationTeaser.title")}</h1>
         {jobs.map((job) => (
-          <div className="my-16" key={job.slug}>
-            <strong>{job.title}</strong>
-            <p className="max-w-xl my-2">{job.summary}</p>
+          <div className="max-w-xl my-16" key={job.slug}>
+            <h2>{job.title}</h2>
+            <p className="mt-8">{job.summary}</p>
             <p className="my-8">{t("applicationTeaser.text")}</p>
             <Button href={`${t("career.path")}/${job.slug}`}>
               {t("applicationTeaser.action")}
             </Button>
           </div>
         ))}
-        <strong className="">{t("applicationTeaser.altTitle")}</strong>
-        <p className="px-8 lg:px-6 max-w-lg">
+        <h2 className="mt-16">{t("applicationTeaser.altTitle")}</h2>
+        <p className="px-8 lg:px-6 max-w-lg mt-8">
           {t("applicationTeaser.altText")}
         </p>
         <a
