@@ -19,25 +19,25 @@ You have extensive experience with web technologies, enjoy developing and are in
 
 ## What do we offer you?
 
-Secure job with many opportunities for development in a growing company.
+* Secure job with many opportunities for development in a growing company.
 
-Exciting projects for well-known companies.
+  Exciting projects for well-known companies.
 
-Individual promotion, jointly defined goals and pans for further training.
+  Individual promotion, jointly defined goals and pans for further training.
 
-Smart work with the possibility of part-time and home office. 
+  Smart work with the possibility of part-time and home office. 
 
-A collegial team (20 people) with whom it is a pleasure to work.
+  A collegial team (20 people) with whom it is a pleasure to work.
 
-Training by an experienced colleague.
+  Training by an experienced colleague.
 
-Modern hardware and free choice of tools. Infrastructure managed by competent admins. 
+  Modern hardware and free choice of tools. Infrastructure managed by competent admins. 
 
-Good earning opportunities and attractive additional benefits to the fixed salary (e.g. job ticket and much more). 
+  Good earning opportunities and attractive additional benefits to the fixed salary (e.g. job ticket and much more). 
 
-Always enough organic fruit, mineral water and organic coffee and – immediately after Covid – regular team events.
+  Always enough organic fruit, mineral water and organic coffee and – immediately after Covid – regular team events.
 
-Beautiful, well equipped offices, that are easily accessible by public transport. 
+  Beautiful, well equipped offices, that are easily accessible by public transport. 
 
 ## That sounds like your job?
 
