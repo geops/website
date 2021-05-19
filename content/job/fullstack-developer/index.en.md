@@ -20,8 +20,7 @@ You have extensive experience with web technologies, enjoy developing and are in
 ## What do we offer you?
 
 * Secure job with many opportunities for development in a growing company.
-
-  Exciting projects for well-known companies.
+* Exciting projects for well-known companies.
 
   Individual promotion, jointly defined goals and pans for further training.
 
