@@ -34,9 +34,9 @@ Sie haben umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und I
 
 * Gute Verdienstmöglichkeiten und attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket/GA, Gutscheine, Fitness-Programme und vieles mehr). 
 
-  Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und – nach Covid – auch wieder regelmässige Team-Events. 
+* Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und – nach Covid – auch wieder regelmässige Team-Events. 
 
-  Schöne und modern ausgestattete, sehr gut mit öffentlichen Verkehrsmitteln erreichbare Büros.
+* Schöne und modern ausgestattete, sehr gut mit öffentlichen Verkehrsmitteln erreichbare Büros.
 
 ## Das klingt nach Ihrem Job?
 
