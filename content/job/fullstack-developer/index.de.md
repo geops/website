@@ -1,9 +1,9 @@
 ---
 title: Linux Full Stack Entwickler (m/w/d)
 summary: Sie sind ein echter Allrounder, der sich siegessicher zwischen
-  Daten&shy;bank, Backend und Client-Anwen&shy;dung bewegt? Sie begeistern sich
-  für moderne Open Source Techno&shy;lo&shy;gien und freuen sich auf den
-  Austausch mit erfahrenen Entwicklern?
+  Datenbank, Backend und Client-Anwendung bewegt? Sie begeistern sich für
+  moderne Open Source Technologien und freuen sich auf den Austausch mit
+  erfahrenen Entwicklern?
 slug: fullstack-entwickler
 ---
 Sie sind ein echter Allrounder, der sich siegessicher zwischen Datenbank, Backend und Client-Anwendung bewegt? Sie begeistern sich für moderne Open Source Technologien und freuen sich auf den Austausch mit erfahrenen Entwicklern? Dann kommen Sie zu uns ins Dreiländereck und arbeiten gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) oder Olten (CH)  suchen wir ab sofort einen Full Stack Softwareentwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
