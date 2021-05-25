@@ -67,7 +67,7 @@ h3,
 }
 
 .prose ul {
-  @apply pl-4;
+  @apply pl-2;
   list-style-type: ">";
 }
 .prose ul > li {
