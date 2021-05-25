@@ -270,9 +270,12 @@ collections:
             i18n: true
             widget: "object"
             fields:
-              - { i18n: true, label: Action, name: action }
               - { i18n: true, label: Title, name: title }
-              - { i18n: true, label: Subtitle, name: subtitle }
+              - { i18n: true, label: Text, name: text }
+              - { i18n: true, label: Action, name: action }
+              - { i18n: true, label: Alternative Title, name: altTitle }
+              - { i18n: true, label: Alternative Text, name: altText }
+              - { i18n: true, label: Alternative Action, name: altAction }
           - label: "Blog"
             name: "blog"
             i18n: true
