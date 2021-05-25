@@ -61,11 +61,23 @@ h3,
   @apply leading-9 text-lg;
 }
 
-.prose ul > li::before {
-  @apply bg-blue top-4;
+/* Show disc for lists in Netlify CMS. */
+.cms-editor-visual ul {
+  @apply list-disc;
+}
+
+.prose ul {
+  @apply pl-4;
+  list-style-type: ">";
 }
 .prose ul > li {
-  @apply pl-6 sm:pl-8;
+  @apply pl-2;
+}
+.prose ul > li::before {
+  @apply hidden;
+}
+.prose ul > li::marker {
+  @apply text-green;
 }
 
 /* Scroll offset for navigation anchors to avoid header from covering the anchor. */
