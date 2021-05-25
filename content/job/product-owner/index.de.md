@@ -8,7 +8,7 @@ created: 2021-05-13
 ---
 Sie wollen wegweisende IT-Lösungen für den öffentlichen Verkehr und neue Formen der Mobilität gestalten? Sie begeistern sich für moderne Technologien, deren Einsatz Sie in Abstimmung mit Ihrem Team und dem Kunden steuern können? Sie möchten sich engagieren, um den Erfolg unserer Produkte und Dienstleistungen zu sichern? Dann haben wir die richtige Stelle für Sie.
 
-**Wir suchen ab sofort für unseren Standort in Olten oder Freiburg im Breisgau einen Product Owner (m/w/d) in Vollzeit.**
+**<span class="text-green">Wir suchen ab sofort für unseren Standort in Olten oder Freiburg im Breisgau einen Product Owner (m/w/d) in Vollzeit.</span>**
 
 ## Darauf können Sie sich freuen
 
