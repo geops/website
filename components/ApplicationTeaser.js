@@ -12,7 +12,10 @@ export default function ApplicationTeaser({ jobs }) {
         {jobs.map((job) => (
           <div className="max-w-xl my-16" key={job.slug}>
             <h2>{job.title}</h2>
-            <p className="mt-8">{job.summary}</p>
+            <p
+              className="mt-8"
+              dangerouslySetInnerHTML={{ __html: job.summary }}
+            />
             <p className="my-8">{t("applicationTeaser.text")}</p>
             <Button href={`${t("career.path")}/${job.slug}`}>
               {t("applicationTeaser.action")}
