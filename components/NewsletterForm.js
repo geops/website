@@ -30,9 +30,9 @@ export default function NewsletterForm({ translations }) {
       className="container mx-auto max-w-screen-lg p-8"
       onSubmit={handleSubmit}
     >
-      <h3 className="mb-16 text-center sm:text-left" ref={refHeader}>
+      <h4 className="mb-10 text-center sm:text-left" ref={refHeader}>
         {submitted ? translations.submittedTitle : translations.subtitle}
-      </h3>
+      </h4>
       {submitted ? (
         <div className="flex flex-col items-center sm:flex-row sm:justify-between sm:items-start">
           <div className="w-48 text-center">

@@ -70,9 +70,9 @@ export default function Carousel({ slides }) {
                       />
                     </picture>
                     <div className="absolute inset-0 flex flex-col space-y-8 items-center justify-center mx-4">
-                      <h1 className="break-words text-white text-center max-w-screen-sm leading-normal text-shadow -mt-16">
+                      <div className="break-words text-white text-center max-w-screen-sm leading-normal text-shadow -mt-16 font-black text-4xl md:text-5xl">
                         {slide.title}
-                      </h1>
+                      </div>
                       {slide.summary && (
                         <h2 className="max-w-screen-sm text-center text-xl text-white text-shadow">
                           {slide.summary}

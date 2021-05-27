@@ -8,10 +8,10 @@ export default function ApplicationTeaser({ jobs }) {
   return (
     <section className="bg-application-teaser bg-cover">
       <div className="container mx-auto px-8 py-16 text-center flex flex-col items-center">
-        <h1>{t("applicationTeaser.title")}</h1>
+        <h2>{t("applicationTeaser.title")}</h2>
         {jobs.map((job) => (
           <div className="max-w-xl my-16" key={job.slug}>
-            <h2>{job.title}</h2>
+            <h3>{job.title}</h3>
             <p
               className="mt-8"
               dangerouslySetInnerHTML={{ __html: job.summary }}
