@@ -23,6 +23,8 @@ frontpageTitle: Maps
 frontpageImage: /images/solution/maps/maps.png
 gridImage: /images/solution/maps/maps.png
 ---
+
+
 Digital, interactive maps have always been at the center of our activities. Even before Google Maps emerged, we produced the first web maps. With regard to the technologies used as well as the map content, we have continuously developed our products. As part of customer projects, we are constantly creating new, specialized maps for various topics and fields. In addition, we offer maps that are specially optimized for public transport and mobility using standardized services. In addition to top performance, these maps are always up-to-date. You can use these maps for your application even without your own server infrastructure.
 
 ## Optimized for public transport
@@ -39,7 +41,9 @@ In addition to a clear and informative design for general orientation, the follo
 * House numbers as well as entrances and passages as orientation points for door-to-door navigation
 * Elements that are important for barrier-free navigation, such as lifts and escalators
 
-![Travic](/images/solution/maps/travic_k.png "Travic")
+<img src="/path/to/desktop/travic_k.png" alt="Maps" class="w-full mx-auto hidden lg:block">
+<img src="/path/to/mobile/travic_mobil.jpg" alt="Maps" class="w-full mx-auto lg:hidden">
+
 
 ## Flexible with Vector Tiles
 
