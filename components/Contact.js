@@ -40,7 +40,7 @@ export const ch = {
 export const de = {
   email: "info@geops.de",
   telephone: "+49 761 458 925 0",
-  street: "Kaiser-Joseph-Str. 263",
+  street: "Bismarckallee 10",
   city: "Freiburg",
   postalCode: "D-79098",
 };
