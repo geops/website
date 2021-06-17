@@ -1,5 +1,5 @@
 ---
-title: Linux Full Stack Entwickler (m/w/d)
+title: Full Stack Entwickler (m/w/d)
 summary: Sie sind ein echter Allrounder, der sich siegessicher zwischen
   Daten&shy;bank, Backend und Client-Anwen&shy;dung bewegt? Sie begeistern sich
   für moderne Open Source Techno&shy;lo&shy;gien und freuen sich auf den
