@@ -1,5 +1,5 @@
 ---
-title: Linux Full Stack Developer
+title: Full Stack Developer
 summary: You are a true all-rounder who moves confidently between database,
   backend and client application? Are you enthusiastic about modern open source
   technologies and looking forward to exchanging ideas with experienced
