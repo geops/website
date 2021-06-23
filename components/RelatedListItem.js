@@ -1,5 +1,6 @@
-import { useI18n } from "../lib/i18n";
+import Image from "next/image";
 
+import { useI18n } from "../lib/i18n";
 import CaretIcon from "./icons/CaretIcon.js";
 import Link from "./Link.js";
 
@@ -15,9 +16,10 @@ export default function RelatedListItem({ dark, item }) {
       >
         {item.cover && (
           <div className="hidden lg:block aspect-w-4 aspect-h-3 mb-4 overflow-hidden rounded">
-            <img
+            <Image
               alt={`${item.title} Cover`}
               className="object-cover transition duration-300 transform group-hover:scale-110"
+              layout="fill"
               src={item.cover}
             />
           </div>

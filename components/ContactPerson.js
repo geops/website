@@ -1,3 +1,6 @@
+import Markdown from "markdown-to-jsx";
+import Image from "next/image";
+
 import { useI18n } from "../lib/i18n";
 
 const arrowDown = {
@@ -26,10 +29,7 @@ export default function ContactPerson({ person, subtitle, title }) {
         <div>
           <h1>{title || t("contactPerson.title")}</h1>
           {subtitle ? (
-            <div
-              className={`${subtitleClassName}`}
-              dangerouslySetInnerHTML={{ __html: subtitle }}
-            />
+            <Markdown className={subtitleClassName}>{subtitle}</Markdown>
           ) : (
             <h2 className="mt-4 text-2xl">{t("contactPerson.subtitle")}</h2>
           )}
@@ -58,8 +58,10 @@ export default function ContactPerson({ person, subtitle, title }) {
           </p>
         </div>
         {person.photo && (
-          <img
+          <Image
+            alt={`${person.name} portrait`}
             className="object-cover object-top w-64 h-64 rounded-full self-center mx-auto md:mr-20 md:ml-0"
+            layout="fill"
             src={person.photo}
           />
         )}

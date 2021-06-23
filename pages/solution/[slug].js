@@ -8,7 +8,6 @@ import RelatedList from "../../components/RelatedList.js";
 import getContentList from "../../lib/getContentList";
 import getContentBySlug from "../../lib/getContentBySlug";
 import getRelatedContentList from "../../lib/getRelatedContentList";
-import markdownToHtml from "../../lib/markdownToHtml";
 
 export default function Solution({ related, solution }) {
   if (!solution) {
@@ -50,13 +49,7 @@ export async function getStaticPaths(context) {
 
 export async function getStaticProps(context) {
   const language = context.language || "de";
-
   const solution = getContentBySlug(language, "solution", context.params.slug);
-  solution.body = await markdownToHtml(solution.body);
-  if (solution.contactSubtitle) {
-    solution.contactSubtitle = await markdownToHtml(solution.contactSubtitle);
-  }
-
   const related = getRelatedContentList(language, solution);
 
   return { props: { language, related, solution } };

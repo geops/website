@@ -1,8 +1,8 @@
+import Image from "next/image";
+
 import { useI18n } from "../lib/i18n";
-
-import Button from "./Button";
-
 import useIntersectionOberserver from "../lib/useIntersectionOberserver";
+import Button from "./Button";
 
 const scrollSnapStyle = {
   scrollSnapAlign: "start",
@@ -10,6 +10,7 @@ const scrollSnapStyle = {
 };
 
 export default function FrontpageListItem({ item, side }) {
+  const object = item.collection === "blog" ? "object-cover" : "object-contain";
   const rotate = side === "left" ? "md:-translate-x-8" : "md:translate-x-8";
   const imgRef = useIntersectionOberserver(rotate);
   const { t } = useI18n();
@@ -27,12 +28,15 @@ export default function FrontpageListItem({ item, side }) {
           {t("website.more")}
         </Button>
       </div>
-      <img
-        alt={`${item.frontpageTitle || item.title} Teaser`}
-        className={`rounded transform transition-transform duration-1000 md:w-1/2 ${rotate}`}
-        ref={imgRef}
-        src={item.frontpageImage || item.cover}
-      />
+      <div className="relative h-96 w-full md:w-1/2">
+        <Image
+          alt={`${item.frontpageTitle || item.title} Teaser`}
+          className={`rounded transform transition-transform duration-1000 ${object} ${rotate}`}
+          layout="fill"
+          ref={imgRef}
+          src={item.frontpageImage || item.cover}
+        />
+      </div>
     </div>
   );
 }

@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 import { useI18n } from "../lib/i18n";
 
 import CaretIcon from "./icons/CaretIcon";
@@ -10,12 +12,12 @@ export default function BlogListItem({ item }) {
     <Link href={`/blog/${item.slug}`}>
       <article className="container mx-auto lg:w-4/6 px-8 py-16 border-white border-b-2 flex items-center cursor-pointer group">
         {item.cover && (
-          <div className="hidden lg:block flex-none mr-8 xl:mr-16">
-            <img
+          <div className="hidden lg:block flex-none mr-8 xl:mr-16 h-64 w-64 xl:h-96 xl:w-96 relative">
+            <Image
               alt={`${item.title} Teaser`}
-              className="object-cover rounded h-64 w-64 xl:h-96 xl:w-96"
+              className="object-cover rounded"
+              layout="fill"
               src={item.cover}
-              loading="lazy"
             />
           </div>
         )}

@@ -5,7 +5,6 @@ import RelatedList from "../../components/RelatedList.js";
 import getContentList from "../../lib/getContentList";
 import getContentBySlug from "../../lib/getContentBySlug";
 import getRelatedContentList from "../../lib/getRelatedContentList";
-import markdownToHtml from "../../lib/markdownToHtml";
 
 export default function BlogArticle({ item, related }) {
   if (!item) {
@@ -21,6 +20,7 @@ export default function BlogArticle({ item, related }) {
         author={item.author}
         body={item.body}
         created={item.created}
+        imageSizes={item.imageSizes}
         title={item.title}
       />
       <RelatedList list={related} />
@@ -41,10 +41,7 @@ export async function getStaticPaths(context) {
 
 export async function getStaticProps(context) {
   const language = context.language || "de";
-
   const item = getContentBySlug(language, "blog", context.params.slug);
-  item.body = await markdownToHtml(item.body);
-
   const related = getRelatedContentList(language, item);
 
   return { props: { language, item, related } };

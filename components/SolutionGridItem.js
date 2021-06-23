@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 import MoreIcon from "./icons/MoreIcon";
 import Link from "./Link";
 
@@ -24,16 +26,17 @@ export default function SolutionGridItem({ position, remaining, solution }) {
   return (
     <Link href={`/solution/${solution.slug}`}>
       <a
-        className={`${sectionClassName} flex group justify-between overflow-hidden rounded transition-all duration-500 hover:p-2 hover:-m-2`}
+        className={`${sectionClassName} flex group justify-between overflow-hidden rounded transition-all duration-500 hover:p-2 hover:-m-2 relative`}
         style={{ backgroundColor: solution.color, color }}
       >
         <div className="flex flex-col justify-between m-8 overflow-hidden">
           <div className="mb-4">
-            <div className="h-16 mb-4">
+            <div className="h-16 mb-4 relative">
               {solution.logo && (
-                <img
+                <Image
                   alt={`${solution.title} Logo`}
-                  className="h-full"
+                  className="h-full object-contain object-left"
+                  layout="fill"
                   src={solution.logo}
                 />
               )}
@@ -46,11 +49,14 @@ export default function SolutionGridItem({ position, remaining, solution }) {
           </div>
         </div>
         {imageClassName && solution.gridImage && (
-          <img
-            alt={`${solution.title} Teaser`}
-            className={`hidden object-contain ${imageClassName}`}
-            src={solution.gridImage}
-          />
+          <div className={`relative h-full w-full ${""}`}>
+            <Image
+              alt={`${solution.title} Teaser`}
+              className={`hidden object-contain object-right ${imageClassName}`}
+              layout="fill"
+              src={solution.gridImage}
+            />
+          </div>
         )}
       </a>
     </Link>

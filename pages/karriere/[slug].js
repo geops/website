@@ -6,7 +6,6 @@ import Layout from "../../components/Layout.js";
 import getContentBySlug from "../../lib/getContentBySlug";
 import getContentItem from "../../lib/getContentItem";
 import getContentList from "../../lib/getContentList";
-import markdownToHtml from "../../lib/markdownToHtml";
 import { useI18n } from "../../lib/i18n";
 
 export default function Job({ content, job }) {
@@ -83,12 +82,8 @@ export async function getStaticPaths(context) {
 
 export async function getStaticProps(context) {
   const language = context.language || "de";
-
   const job = getContentBySlug(language, "job", context.params.slug);
-  job.body = await markdownToHtml(job.body);
-
   const content = getContentItem(language, "page", "job.json");
-  content.subtitle = await markdownToHtml(content.subtitle);
 
   return { props: { language, content, job } };
 }
