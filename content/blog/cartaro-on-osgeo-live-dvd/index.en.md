@@ -14,8 +14,6 @@ Cartaro is being used for a steadily increasing number of projects, and in paral
 
 With the OSGeo-Live DVD it is enough to [download](http://live.osgeo.org/en/download.html) an ISO-image or a Virtual Machine and follow the [instructions to boot](http://live.osgeo.org/en/quickstart/osgeolive_quickstart.html) a complete Ubuntu Linux system. Cartaro then will be readily available and can be started from the system menu. The [documentation](http://live.osgeo.org/en/quickstart/cartaro_quickstart.html) that was especially adapted for OSGeo-Live gives all additional information needed to create and map geospatial content. A nice side-effect of the OSGeo-Live project is that documentation is becoming available in many different languages.
 
-![Cartaro on OSGeo-Live](/images/blog/cartaro-on-osgeo-live-dvd/cartaroosgeolive.PNG)
-
 Cartaro is included on OSGeo-Live starting from its version 6.5. The DVD will be updated twice a year. Please note that the DVD may lag behind the newest releases of Cartaro. For the newest version always use the download or the demo on [cartaro.org](http://cartaro.org).
 
 **About Cartaro**  

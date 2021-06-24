@@ -25,7 +25,7 @@ export default function Solution({ related, solution }) {
         title={solution.title}
         titleDown
       />
-      <Article body={solution.body} />
+      <Article body={solution.body} imageSizes={solution.imageSizes} />
       <ContactPerson
         person={{ ...ch, email: solution.contactEmail || ch.email }}
         subtitle={solution.contactSubtitle}

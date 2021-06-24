@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useI18n } from "../lib/i18n";
 
 function ArticleImage({ imageSizes, src, alt }) {
-  const { height, width } = imageSizes[src];
+  const { height, width } = imageSizes[src] || {};
   return <Image alt={alt} src={src} height={height} width={width} />;
 }
 
