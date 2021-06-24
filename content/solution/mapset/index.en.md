@@ -22,6 +22,7 @@ tags:
   - mapset
   - passengerinformation
   - railreplacement
+  - maps
 frontpage: true
 frontpageTitle: mapset
 frontpageImage: /images/solution/mapset/gruppe-57.png
