@@ -30,7 +30,7 @@ Wir haben ein einfaches, ansprechendes User Interface bereitgestellt, das alle R
 
 ![](/images/blog/praktikum-bei-geops-ozkan-yanikbas/log-parser%20to%20geops-routing-demo_0.png)
 
-Außerdem haben wir zum Testen des Routings eine auch öffentlich verfügbare [Demo](https://geops.github.io/geops-routing-demo/) benutzt. Jeder Eintrag aus dem Log-Parser verlinkt auf die Demo, so dass die Ergebnisse des Routings auch visuell überprüft werden können.
+Außerdem haben wir zum Testen des Routings eine auch öffentlich verfügbare [Demo](https://routing-demo.geops.io/) benutzt. Jeder Eintrag aus dem Log-Parser verlinkt auf die Demo, so dass die Ergebnisse des Routings auch visuell überprüft werden können.
 
 ![](/images/blog/praktikum-bei-geops-ozkan-yanikbas/log-parser-1_0.png)
 

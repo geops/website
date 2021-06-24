@@ -9,7 +9,7 @@ color: "#549413"
 contactTitle: Interested?
 contactSubtitle: >-
   Test the routing services in our
-  [Demo](https://geops.github.io/geops-routing-demo/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293).
+  [Demo](https://routing-demo.geops.io/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293).
 
   You can also fenwuire about available options for your own application in our [Developer Portal](https://developer.geops.io/).
 weight: 2
