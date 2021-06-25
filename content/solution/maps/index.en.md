@@ -3,6 +3,7 @@ title: Maps
 summary: Maps for mobility and public transport.
 cover: /images/solution/maps/maps1.jpg
 pageCover: /images/solution/maps/maps1.png
+pageCoverMobile: /images/solution/maps/maps1_mobile.jpg
 slug: maps
 color: "#1789C9"
 contactSubtitle: >-
@@ -39,7 +40,8 @@ In addition to a clear and informative design for general orientation, the follo
 * House numbers as well as entrances and passages as orientation points for door-to-door navigation
 * Elements that are important for barrier-free navigation, such as lifts and escalators
 
-![Travic](/images/solution/maps/travic_k.png "Travic")
+<img src="/images/solution/maps/travic_k.png" class="hidden lg:block border-gray-lighter border-2" alt="Travic">
+<img src="/images/solution/maps/travic_k_mobil.jpg" alt="Travic" class="w-full mx-auto lg:hidden">
 
 ## Flexible with Vector Tiles
 

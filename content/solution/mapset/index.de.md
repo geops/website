@@ -18,8 +18,10 @@ published: true
 ---
 Sie möchten Ihren Kunden aktuelle und attraktive Informationen zum öffentlichen Verkehr zugänglich machen? mapset erlaubt die einfache Erstellung von übersichtlichen und optisch ansprechenden Plangrafiken. Mit wenigen Klicks visualisieren Sie Pläne für geänderte Haltestellen, den Schienenersatzverkehr, kommunizieren die Situation bei Bauprojekten, gewährleisten die Kundenführung bei Events oder informieren über betriebliche Sonderfälle vor Ort. All dies auf Basis von Kartenbildern, die auf die Bedürfnisse von Unternehmen des öffentlichen Verkehrs zugeschnitten sind. Die Karten werden regelmässig mit den neuesten Daten aktualisiert und optimiert.
 
-![Erstatzplan](/images/solution/mapset/ersatzplan_k.png "Erstatzplan")
+<img src="/images/solution/mapset/ersatzplan_k.png" class="hidden lg:block border-gray-lighter border-2" alt="Erstatzplan">
+<img src="/images/solution/mapset/ersatzplan_k_mobile.png" alt="Erstatzplan" class="w-full mx-auto lg:hidden">
 
 mapset ist weltweit nutzbar und wird im Abo-Modell vertrieben. Für die Schweiz stehen Informationen zu Preisen, der Funktionsweise und den Vorteilen von mapset unter [mapset.ch](http://mapset.ch/) zur Verfügung. Andere Länder finden alles Wissenswerte unter [mapset.io](http://mapset.io/). Auf beiden Seiten erhalten Sie die Möglichkeit, mapset in einer Demo unverbindlich auszuprobieren und ausgiebig zu testen.
 
-![Beispielplan](/images/solution/mapset/liestal_plan_editor_k.png "Beispielplan")
+<img src="/images/solution/mapset/liestal_plan_editor_k.png" class="hidden lg:block border-gray-lighter border-2" alt="Beispielplan">
+<img src="/images/solution/mapset/liestal_plan_editor_k_mobile.png" alt="Beispielplan" class="w-full mx-auto lg:hidden">

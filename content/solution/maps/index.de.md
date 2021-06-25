@@ -29,7 +29,8 @@ Neben einem für die allgemeine Orientierung übersichtlichen und informativen D
 * Hausnummern sowie Zu- und Durchgänge als Orientierungspunkte für die Tür-zu-Tür-Navigation 
 * Für die barrierefreie Navigation wichtige Elemente wie Lifte und Rolltreppen
 
-![Travic](/images/solution/maps/travic_k.png "Travic")
+<img src="/images/solution/maps/travic_k.png" class="hidden lg:block border-gray-lighter border-2" alt="Travic">
+<img src="/images/solution/maps/travic_k_mobil.jpg" alt="Travic" class="w-full mx-auto lg:hidden">
 
 ## Flexibel mit Vector Tiles
 

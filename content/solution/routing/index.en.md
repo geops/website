@@ -4,6 +4,7 @@ summary: With our routing service you can find the routes and lines for public
   transport vehicles, for cars and trucks as well as for pedestrians.
 cover: /images/solution/routing/routing_02.png
 pageCover: /images/solution/routing/routing_02.png
+pageCoverMobile: /images/solution/routing/routing_02_mobile.png
 slug: routing
 color: "#549413"
 contactTitle: Interested?
@@ -30,7 +31,8 @@ The routing is adapted to our maps. For long distances that are used in small-sc
 
 One application of routing can be found in our worldwide tracker, in which the routes are calculated as trajectories for all vehicles.
 
-![WKP Route](/images/solution/routing/wkp2.png "WKP Route")
+<img src="/images/solution/routing/wkp2.png" class="hidden lg:block border-gray-lighter border-2">
+<img src="/images/solution/routing/wkp2_mobile.png" alt="Trafimage web map portal" class="w-full mx-auto lg:hidden">
 
 The Routing service is applied in numerous projects. For example, the routes are shown in our \[real-time tracker] (https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte .luftbild.group, ch.sbb.netzkarte.landeskarte, ch.sbb.netzkarte.landeskarte.grau & lang = de & layers = ch.sbb.puenktlichkeit-all & x = 925472 & y = 5920000 & z = 9) calculated above. The Swiss Federal Railways (SBB) uses the routing for trains, trams, buses and cable cars to provide travelers with detailed information about the course of the travel itinerary. Routing is also available in [mapset](https://mapset.io/) to simplify the drawing of footpaths in the map.
 
@@ -38,4 +40,5 @@ The Routing service is applied in numerous projects. For example, the routes are
 
 Exact routes also have the potential to analyze the characteristics along the route. On this basis, we offer, for example, exact height profiles or counts of objects such as level crossings, traffic lights or pedestrian crossings along the route. Here we offer evaluations specifically tailored to your requirements.
 
-![Routing](/images/solution/routing/routing_01.jpg "Routing")
+<img src="/images/solution/routing/routing_01.jpg" class="hidden lg:block border-gray-lighter border-2">
+<img src="/images/solution/routing/routing_mobile.jpg" alt="routing class="w-full mx-auto lg:hidden">

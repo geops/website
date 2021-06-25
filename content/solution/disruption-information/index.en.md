@@ -4,6 +4,7 @@ summary: When things don't run smoothly in public transport, it is crucial that
   travelers are informed quickly and transparently.
 cover: /images/solution/disruption-information/moco_trainstation.jpg
 pageCover: /images/solution/disruption-information/moco_trainstation.jpg
+pageCoverMobile: /images/solution/disruption-information/moco_trainstation_mobile.jpg
 slug: disruption-information
 color: "#353535"
 contactTitle: Your individual solution
@@ -29,8 +30,10 @@ The better the public transport offer, the higher the risk of disruptions. Dense
 
 The requirement to inform travelers quickly and precisely about deviations from normal operations cannot be achieved with an isolated solution. Rather, data from existing traveler information systems have to be used and coordinated. Editorial revisions are often essential, and ultimately the information has to be output in a targeted manner on various channels such as apps and websites, vehicle displays or monitors at the train station.
 
-![disruption-information](/images/solution/disruption-information/tracker-worldwide_n.png "disruption-information")
+<img src="/images/solution/disruption-information/tracker-worldwide_n.png" class="hidden lg:block border-gray-lighter border-2" alt="disruption-information">
+<img src="/images/solution/disruption-information/tracker-worldwide_n_mobile.png" alt="disruption-information" class="w-full mx-auto lg:hidden">
 
 Thanks to our many years of work in the field of public transport, we have a whole toolbox at our disposal that we can use to find a solution. Our data hub for timetable data has the interfaces to read in the fundamentals from the information systems of the transport company and to process them further in a structured manner. With our flexible editing tools, the information can be refined and expanded depending on the use case. The editing tool includes a map editor, which can be used to, mostly automatically, create maps of road works or disruptions as well as the itineraries of the replacement transport services. Naturally the editorial tool uses the standardized and reusable APIs for maps, stops and routing from our developer portal. Finally, the information can be supplemented with detailed stop plans and maps for public transport replacement services, which can be drawn quickly and easily with our mapset tool.
 
-![disruption-information](/images/solution/disruption-information/baustellenkommunikation_k.png "disruption-information")
+<img src="/images/solution/disruption-information/baustellenkommunikation_k.png" class="hidden lg:block border-gray-lighter border-2" alt="disruption-information">
+<img src="/images/solution/disruption-information/baustellenkommunikation_k_mobile.jpg" alt="disruption-information" class="w-full mx-auto lg:hidden">
