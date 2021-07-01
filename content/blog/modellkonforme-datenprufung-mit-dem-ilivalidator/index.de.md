@@ -16,7 +16,7 @@ slug: modellkonforme-datenprufung-mit-dem-ilivalidator
   
   
 
-### Modellkonforme Publikation des KbS
+#### Modellkonforme Publikation des KbS
 
 Altlast4Web ist eine von geOps entwickelte Software für die Organisation von Geodaten und die Koordination von Geschäftsprozessen für das Management von Altlasten. Schweizer Kantone und Bundessstellen sowie das Fürstentum Liechtenstein nutzen die Anwendung zur Führung des nach Umweltschutzgesetz (USG) und Altlastenverordnung (AltlV) verpflichtenden Katasters belasteter Standorte (KbS). Seit 15 Jahren wird die Software eingesetzt und seither kontinuierlich weiter entwickelt, um sowohl den technologischen Veränderungen wie auch den wechselnden fachlichen Anforderungen gerecht zu werden.
 
@@ -28,7 +28,7 @@ Altlast4Web stellte bereits seit 2013, als die ersten Versionen der Modelle für
 
 Obwohl (oder gerade weil...) es seit Inbetriebnahme der Export-Schnittstellen nur in ganz wenigen Fällen zu Problemen kam, stellt die automatisierte Überprüfung einen unverzichtbaren Bestandteil der automatisierten Publikation des Katasters belasteter Standorte dar.
 
-### Open Source Software ilivalidator
+#### Open Source Software ilivalidator
 
 Nachdem ursprünglich nur ein proprietärer Checkservice für die Validierung verfügbar war, wurde 2016 mit dem [ilivalidator](https://github.com/claeis/ilivalidator) eine Open Source-Alternative verfügbar, die zudem ungleich flexibler als die zuvor eingesetzte proprietäre Software ist. Der ilivalidator stellt geringe Anforderungen an die Inbetriebnahme, einzig ein Java Runtime Environment (JRE) ab Version 1.6 ist erforderlich. Neben dem für die Automatisierung relevanten Aufruf über die Kommandozeile stellt der ilivalidator auch eine einfache Eingabemaske zur Verfügung, mit der sich schnell erste Tests durchführen lassen.
 
@@ -42,7 +42,7 @@ java -jar ilivalidator.jar \[options\] file.xft
 
 Der grosse Vorteil des ilivalidators gegenüber anderen verfügbaren Tools zum INTERLIS-Check ist, dass es keine lizenzrechtlichen Hürden und keine Einschränkungen bei der Betriebssystem-Unterstützung gibt. Für den Einsatz in automatisierten Routinen auf den LINUX-Servern, auf denen Altast4Web betrieben wird, sind beide Punkte essentiell.
 
-### Integration in Altlast4Web
+#### Integration in Altlast4Web
 
 Der ilivalidator steht auf [Github als ZIP-Download](https://github.com/claeis/ilivalidator/releases) bereit. Die entpackten Dateien werden auf den Altlast4Web-Servern abgelegt, weitere Installationen sind nicht notwendig. Für einen versionsunabhängigen Workflow wird die ilivalidator-XXX.jar Datei, welche für die Exporte verwendet wird, als ilivalidator-latest.jar ausserhalb der entpackten Versionsordner gespeichert. Der Ablauf der Exporte vollzieht sich folgendermassen. In Altlast4Web werden die Daten mit spezifischen Funktionen in einer PostGIS-Datenbank in INTERLIS-konformes XML transformiert. Der Export selbst wird über nächtliche Cronjobs angestossen, die ein Python-Skript aufrufen. Das Skript exportiert die Daten aus der Datenbank und schreibt sie in xtf-Dateien. Die xtf-Dateien werden dann mit dem ilivalidator überprüft. Dabei werden die Modelle, gegen die geprüft werden soll, explizit in den Exportdateien angegeben.
 
@@ -126,6 +126,6 @@ Standardmässig sucht ilivalidator die aufgelisteten Modelle lokal oder in den �
 
 Die Ausgabe des Returncodes ist ausschlaggebend für den Upload der Exporte. Nur nach einer erfolgreichen Validierung (returncode = 0) der Daten werden diese publiziert. Das Protokoll der erfolgreichen Validierung wird in dem Fall als log-Datei zusammen mit den Daten exportiert, quasi als Beleg der durchgeführten Qualtitätssicherung.
 
-### Fazit
+#### Fazit
 
 Mit Integration des ilivalidators konnten die INTERLIS-Exporte aus Altlast4Web noch einmal deutlich verbessert werden. Für jeden Kunden ist nun die Validierung der Exporte sowohl gegenüber den INTERLIS-Modellen des Bundes wie auch gegen kantonale Modelle möglich, ohne dass separate Lizenzkosten anfallen. Der ilivalidator ist somit aus unserer Sicht ein wichtiger Schritt auf dem Weg, INTERLIS in der Praxis immer effizienter einzusetzen.

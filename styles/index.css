@@ -48,7 +48,8 @@ h2,
 
 h3,
 .prose h3 {
-  @apply font-extrabold text-3xl;
+  @apply font-extrabold;
+  font-size: 1.25em
 }
 
 h4,

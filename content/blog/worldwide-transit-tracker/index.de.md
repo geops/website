@@ -5,7 +5,7 @@ summary: geOps hat einen Tracker des öffentlichen Personenverkehrs
   Echtzeitdaten aus der ganzen Welt.
 slug: weltweiter-ov-tracker
 ---
-### Mehr als 700 Transportunternehmen
+#### Mehr als 700 Transportunternehmen
 
 In Zusammenarbeit mit der Universität Freiburg hat geOps einen [Tracker des öffentlichen Personenverkehrs](http://tracker.geops.ch/?z=14&s=20&lat=40.723&lon=-74.002) implementiert. Die Anwendung kombiniert statische Fahrplandaten mit eventuell vorhandenen Echtzeitdaten und berechnet daraus die aktuelle Position eines Fahrzeuges, egal ob Zug, Bus, Strassenbahn, U-Bahn oder Schiff. Die Daten werden aus GTFS Feeds gelesen. Derzeit sind mehr als 700 über die ganze Welt verteilte Feeds integriert. Echtzeitdaten sind unter anderem für [die Niederlande](http://tracker.geops.ch/?z=13&s=1&lat=52.36595686731005&lon=4.904365539550781) verfügbar.
 
@@ -17,7 +17,7 @@ Das Backend ist darauf optimiert, möglichst viele Fahrtbewegungen (Trajektorien
 
 Der Tracker hält die GTFS-Feeds aller Regionen gleichzeitig vor. Damit können sämtliche im aktuellen Kartenausschnitt verkehrenden Fahrzeuge angezeigt werden, auch wenn die Daten von verschiedenen Transportunternehmen stammen. Die Effizienz des Trackers ist so gut, dass eine Beschleunigung der Simulation auf bis zu 30-fache Geschwindigkeit problemlos möglich wird, wobei die Bewegung der Fahrzeuge dennoch sehr flüssig bleibt.
 
-### Mapping der Streckenverläufe
+#### Mapping der Streckenverläufe
 
 GTFS Feeds können neben den Fahrplandaten auch exakte Fahrtverläufe ("Shapes") beinhalten. Die Visualisierung im Tracker basiert wenn möglich auf diesen Shapes. Manche GTFS Feeds enthalten allerdings keine oder sehr ungenaue Fahrtverläufe. Um auch solche Daten möglichst korrekt auf einer Karte anzuzeigen hat geOps spezielle Routing-Algorithmen entwickelt.
 
@@ -27,7 +27,7 @@ In der aktuellen Version basieren zum Beispiel [die Streckenverläufe in der Sch
 
 ![](/images/blog/weltweiter-ov-tracker/trackeramsterdam.png)
 
-### Weiterer Ausbau
+#### Weiterer Ausbau
 
 Der Tracker soll kontinuierlich um weitere Transportunternehmen ergänzt werden. Mindestens für Europa und Nordamerika könnte eine flächendeckende Darstellung des öffentlichen Verkehrs in naher Zukunft möglich sein.
 

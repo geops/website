@@ -21,7 +21,7 @@ Die Logik aus den erarbeiteten Forschungsgrundlagen ist in einer mobil nutzbaren
 
 [www.tree-app.ch](http://www.tree-app.ch/)
 
-### Welche Baumarten sollen heute für die Zukunft gepflanzt werden?
+#### Welche Baumarten sollen heute für die Zukunft gepflanzt werden?
 
 Ausgangspunkt der Anwendung ist die Wahl einer Position auf der Karte, die manuell oder per GPS-Lokalisierung erfolgen kann. Diverse Karten geben einen Überblick über das Gelände, die heutigen und zukünftig angenommenen Höhenstufen, sowie weitere Kriterien, welche die Baumartenempfehlung beeinflussen. Die Daten aus den Karten werden für die weiteren Berechnungen verwendet, können aber auch manuell übersteuert werden.
 
@@ -31,7 +31,7 @@ Neben der Waldregion und den Höhenstufen ist der Standortstyp für die Empfehlu
 
 ![](/images/blog/tree-app-–-zukunft-des-waldes-im-klimawandel/tree_app2_geOps.jpg)
 
-### Die Tree-App als Entscheidungshilfe
+#### Die Tree-App als Entscheidungshilfe
 
 Steht der aktuelle Standorttyp fest, liefert die Empfehlung eine Liste von Baumarten, die unter den Annahmen der Klimaszenarien Baumarten in 3 Kategorien gliedert:
 
@@ -45,7 +45,7 @@ Die Empfehlung ist eine Zusammenfassung aller Annahmen, wobei die Reihenfolge de
 
 Die Anwendung soll bei Entscheidungen zur Waldbewirtschaftung unterstützen. Sie bietet keine Erfolgsgarantie und ersetzt nicht den Sachverstand der Bewirtschaftenden.
 
-### Die Entwicklung geht weiter
+#### Die Entwicklung geht weiter
 
 Kantonale Besonderheiten und spezifische Anwenderwünschen zeigen, dass das Potential der Anwendung noch nicht ausgeschöpft ist.  Das Feedback der Nutzer vor Ort im Wald ist für uns besonders relevant, damit wir Verbesserungswünsche fortlaufend umsetzen können. Schon jetzt sind wir daran, Karten der kantonal kartierten Standortstypen einzubinden. Wo Daten vorhanden sind, wird dann der Standortstyp direkt aus den Karten genutzt.
 

@@ -11,7 +11,7 @@ This article will show how to use OLE to provide feature editing and feature cre
 *   OLE is the OpenLayers Editor developed by geOps. It is not packed with MapFish but can be easily used with it.
 *   The files which are created over the course of the tutorial can be found in a [git repository](https://github.com/geops/ole/tree/master/server/mapfish/).
 
-### Preparing a MapFish Installation
+#### Preparing a MapFish Installation
 
 First you need to set up a MapFish project. Thus the setup is briefly listed here or available in more detail in the [MapFish Getting Started documentation](http://www.mapfish.org/doc/2.2/installation.html). If you already have a MapFish installation running, you can safely [skip this section.](#mapfish_tutorial_client_side)
 
@@ -40,7 +40,7 @@ Now, start up the development server and verify you can access the empty applica
 
     paster serve --reload development.ini
 
-### Setting up the client side
+#### Setting up the client side
 
 We need a map which we use as editing surface later on. Place the following code in `public/index.html`.
 
@@ -177,7 +177,7 @@ function init() {
 }
 ```
 
-### Persistence and GeoJSON API
+#### Persistence and GeoJSON API
 
 After the initial client code for basic editing is in place it is time to take care about the server side to provide persistence. We tested this tutorial using a [PostgreSQL](http://www.postgresql.org/) server with [PostGIS](http://postgis.refractions.net/), but other databases should work equally well. The tables within the database will be created by MapFish's scripts and so will the GeoJSON API.
 
@@ -278,7 +278,7 @@ _As already mentioned above also this script is only able to create and not to m
 
 Verify that the GeoJSON API is present and working by trying to download data using your browser. Just point it to `192.168.0.1:5000/points` or whatever you've set in `development.ini`. Obviously no data has been added to the database so far thus you should get a JSON response without any geometries in there.
 
-### Getting Persistence for OLE
+#### Getting Persistence for OLE
 
 The important thing left is binding OLE to the GeoJSON API. In other words everything is now there except the connection between client and server.
 
@@ -414,12 +414,12 @@ function init() {
 ```
     
 
-### Preparing Advanced Editing Tools
+#### Preparing Advanced Editing Tools
 
 OLE supports some spatial operations that rely on a server backend to carry out the calculations. Namely these operations are cleaning features, merging features and cutting features along a path. We use PostGIS functions for it. If you don't need these features you may ignore this section.
 
 To support advanced editing you need more controller and helper functions. Just copy the controller [process](https://github.com/geops/ole/tree/master/server/mapfish/testapp/controllers/process.py) to your `controllers` directory and [the helper module](https://github.com/geops/ole/tree/master/server/mapfish/testapp/lib/editor/) to `testapp/lib/`.
 
-### Wrap Up
+#### Wrap Up
 
 The tutorial showed how MapFish's generated GeoJSON API can be used with sophisticated editing of map features. It presented how OLE can be easily used with MapFish. Other examples show the use of more backends like the [PHP-Framework Zend](https://github.com/geops/ole/tree/master/server/zend) or the [CMS Drupal](https://github.com/geops/ole/tree/master/server/drupal). The nice thing about MapFish is the ready to use GeoJSON API and the ability to quickly create a simple application stub. However depending on your needs other backends may be favorable.

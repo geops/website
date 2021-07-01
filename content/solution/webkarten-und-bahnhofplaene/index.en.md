@@ -29,11 +29,11 @@ Another important component of Trafimage are the station plans. In more than 100
 <iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="600" title="interactive train station map" class="hidden lg:block border-gray-lighter border-2"></iframe>
 <img src="/images/solution/webkarten-und-bahnhofplaene/bahnhofplan.png" alt="interactive train station map" class="w-full mx-auto lg:hidden"></iframe>
 
-## Always up to date
+### Always up to date
 
 The Trafimage maps are complex products into which geodata from different sources and current timetable information flow. The resulting current network is processed with GIS tools developed by geOps and graphically optimized by means of generalization. The data integration from different sources takes place automatically and is constantly being expanded and further optimized. To display departure times and visualize the SBB's punctuality, both web maps and the interactive station map access our real-time service with current train positions and delay information. The freely available data not only cover Switzerland but all of Europe.
 
-## Editorial submitted content
+### Editorial submitted content
 
 Based on our [GeoCMS Cartaro](/solution/cartaro) geOps develops and operates the editing tools for maps, train station plans and customer information for SBB .
 
@@ -43,6 +43,6 @@ The GeoCMS train station plans is the central platform for the maintenance of in
 
 The SBB informs its customers about restrictions in rail traffic on large general advertisements. For each malfunction, the location, duration, additional information and possible alternative connections are recorded in Cartaro and exported via an interface as graphics optimized for the respective monitor.
 
-## Maps and plans for all public transport
+### Maps and plans for all public transport
 
 In order to ensure a uniform appearance of public transport in Switzerland, the maps and plans produced in the Trafimage system for SBB are also freely available to other providers. In this way, further informative maps and plans relating to the topic of mobility can be derived from the existing maps. Adjustments are permitted within the scope of the copyright and can be made with simple online tools. Your own editorial content can be added to the cards with our editorial tool.

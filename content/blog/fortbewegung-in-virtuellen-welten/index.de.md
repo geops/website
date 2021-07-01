@@ -11,27 +11,27 @@ Dass [Augmented Reality (AR)](https://de.wikipedia.org/wiki/Erweiterte_Realit%25
 
 Gleichzeitig sind grundlegende Herausforderungen, wie die Fortbewegung in virtuellen Welten (Locomotion), bisher nicht endgültig gelöst. Eng damit verknüpft ist die sogenannte [VR-Krankheit](https://de.wikipedia.org/wiki/VR-Krankheit), die durch Abweichungen zwischen der körperlichen Selbstwahrnehmung und dem visuelle Cortex entsteht. Fast jeder mit VR-Erfahrung kann Geschichten davon erzählen. Zu den beliebten Lösungsansätzen für die Fortbewegung in virtuellen Welten, die über den in der realen Welt begehbaren Raum hinausgehen, gehören:
 
-### Künstliche Fortbewegung
+#### Künstliche Fortbewegung
 
 Ähnlich wie in herkömmlichen Computerspielen, werden die zur Verfügung stehenden Eingabegeräte (Tastatur, Maus, Gamepads, Joysticks, VR-Controller) zur Fortbewegung verwendet. Dieser Ansatz lässt sich zwar leicht implementieren, führt aber schnell zur VR-Krankheit.
 
-### Teleportation
+#### Teleportation
 
 Am beliebtesten sind zur Zeit verschiedene Arten zum teleportieren. Durch anvisieren und aktivieren eines Zieles, wird die Person an den gewünschten Orte gebeamt. Obwohl dieser Ansatz schnell und in der Regel ohne Übelkeit zum Ziel führt, geht dabei das räumliche Gefühl in der virtuellen Welt verloren.
 
-### Fortbewegung über Bande
+#### Fortbewegung über Bande
 
 Sobald die Person eine Grenze des real begehbaren Raumes erreicht hat, wird die Ausrichtung in der virtuellen Welt eingefroren und die Person dreht sich in der realen Welt. Auf diese Weise kann sich die Person durch reale Fortbewegung in VR auf langen Strecken in gleicher Richtung fortbewegen. Doch auch dieser Weg fühlt sich gerade für ungeübte Nutzer in der Regel unnatürlich an.
 
-### Fortbewegung durch Körperbewegung
+#### Fortbewegung durch Körperbewegung
 
 Im Gegensatz zur künstlichen Fortbewegung, werden verschiedenste stationäre Körperbewegungen als Eingabe verwendet. Dadurch bleibt ein Gefühl für den virtuellen Raum erhalten und Nutzern ist weniger schnell übel. Nichtsdestotrotz fühlt sich auch dieser Ansatz unnatürlich an und stößt bei langen Strecken an seine Grenzen.
 
-### Redirected Walking
+#### Redirected Walking
 
 Ohne visuelle Hilfe kann der Mensch nur schwer gerade in eine Richtung laufen. Dieser Effekt lässt sich ausnutzen, indem bei jeder geradlinigen Bewegung im realen Raum das virtuelle Sichtfeld leicht gedreht wird. Die Person gleicht die Drehung instinktiv aus und hat dadurch das Gefühl gerade zu laufen, obwohl sie in Wirklichkeit einen Kreis läuft. Leider funktioniert dieser Effekt erst problemlos ab einer Raumgröße von rund 20 Metern; zudem ist Reichweite und Geschwindigkeit eingeschränkt.
 
-### Ein neuer Ansatz
+#### Ein neuer Ansatz
 
 Im Rahmen des [Digility Hackathons](http://www.digility.de/index.php?id=hackathon) hat ein Mitarbeiter von geOps im Team mit drei anderen Teilnehmern innerhalb von 24 Stunden einen neuen Ansatz bis hin zu einem Prototypen entwickelt. Aufgabenstellung und Kriterium für die abschließende Beurteilung der Jury war eine intuitive und natürlich Fortbewegung in einer virtuellen Welt, ohne Einschränkung des Sichtfeldes und künstliche Hilfsmittel wie Teleportation.
 

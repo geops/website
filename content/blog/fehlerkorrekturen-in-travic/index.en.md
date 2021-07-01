@@ -16,7 +16,7 @@ published: true
 
 Seit TRAVIC vor 2 Jahren gestartet ist, erreichen uns regelmäßig Meldungen von netzkundigen Nutzern, die von der Realität abweichende Fahrtverläufe festgestellt haben. Für diesen Input sind wir sehr dankbar. Da es uns für die Routen an Referenzdaten mangelt, haben wir fast keine Möglichkeit, Zug- oder Busfahrten im Einzelnen zu prüfen. Oft wirken Fahrtverläufe zwar auf den ersten Blick korrekt (Züge nutzen einleuchtende Strecken, Straßenbahnen folgen ohne "Knicke" oder Wenden auf freier Strecke ihren Gleisen), weichen im Detail aber deutlich vom tatsächlichen Verlauf ab. In den meisten Fällen fehlt uns einfach die Kenntnis der lokalen Gegebenheiten, um diese Fehler zu erkennen. Vor allem bei Buslinien auf dem Land ist meistens nur für Ortskundige ersichtlich, ob ein Bus in TRAVIC die richtige Route nimmt oder ob er sich durch eine für den Verkehr gesperrte, enge Altstadtgasse pflügt.
 
-## Wieso weichen Routen von der Realität ab?
+### Wieso weichen Routen von der Realität ab?
 
 Für die meisten eurpäischen Ländern liegen uns die Fahrplandaten nur so vor, wie sie dem Fahrgast präsentiert werden: als Liste von Ankunfts-/Abfahrtszeiten an den Bahnhöfen. Wir haben weder die Information, wo diese Routen genau geografisch verlaufen noch über welche "Wegpunkte" sie im Detail führen. Die einzigen geografischen Stützpunkte, über die wir verfügen, sind die planmäßig angefahrenen Stationen. Vor allem bei Zugfahrten, die sehr weite Strecken ohne Halt zurücklegen (z.B. Fernzügen) gleicht das Finden der korrekten Strecke einem Ratespiel und kann in Einzelfällen vom wirklichen Fahrtverlauf abweichen.
 
@@ -24,7 +24,7 @@ Ein Beispiel: Aktuell verkehren in TRAVIC viele ICEs zwischen Hannover und Hambu
 
 ![](/images/blog/fehlerkorrekturen-in-travic/prob_celle.png)
 
-## Wie kann ich helfen, das Routing zu verbessern?
+### Wie kann ich helfen, das Routing zu verbessern?
 
 Die Fahrtverläufe generieren wir einmalig zum Fahrplanwechsel für das ganze Jahr. Als Ausgangsdatensatz nutzen wir [OpenStreetMap](http://www.openstreetmap.org/). Das Gleis- und Straßennetz in Europa ist dort nahezu vollständig abgedeckt und bildet eine ideale Grundlage für TRAVIC.
 
@@ -32,7 +32,7 @@ Grundsätzlich nutzen wir einen Kürzester-Weg-Algorithmus um zwischen 2 aufeina
 
 Es gibt mehrere Möglichkeiten, zur Verbesserung von TRAVIC beizutragen.
 
-### Durch Korrekturen in OSM
+#### Durch Korrekturen in OSM
 
 Eine große Zahl von Fehlern kann behoben werden, indem die zugrundeliegenden OSM-Daten entweder korrigiert oder angereichert werden. Dies umfasst beispielsweise das Hinzufügen von neuen OSM-Relationen oder die Korrektur von evt. falschen Weg-Attributen.
 
@@ -60,7 +60,7 @@ In diesen Fall ist schnell ersichtlich, weshalb die Routenfindung unserer Algori
 
 Danach synchronisiert ein Klick auf "Save" die Änderungen in die OSM-Datenbank. Beim nächsten Durchlauf unseres Routings sollten Fahrzeuge der ICE 22-Relation den korrekten Weg nehmen.
 
-### Durch Zuordnung von Fahrzeugtypen
+#### Durch Zuordnung von Fahrzeugtypen
 
 Ein Problem ganz anderer Art stellt die Zuordnung von Fahrzeugtypen dar. Die Fahrplan-Rohdaten, mit denen wir TRAVIC speisen, kennen keine eindeutigen Fahrzeugtypen. Es ist uns also ohne manuelle Vorarbeit nicht möglich, zu sagen, ob ein Fahrzeug eine Fähre, ein Bus, eine U-Bahn oder ein Zug ist. Für das Finden der richtigen Route ist das jedoch sehr wichtig. Wenn wir z.B. den Fahrtverlauf für einen Bus suchen, blenden wir Geometrien von Zuggleisen völlig aus. Ist nun ein Zug fälschlicherweise als Bus markiert, kann die korrekte Route nicht mehr gefunden werden.
 
@@ -76,7 +76,7 @@ S3,2
 S4,2
 S5,2
 
-### Durch Mapping von Fahrzeugnamen
+#### Durch Mapping von Fahrzeugnamen
 
 In einigen Fällen entsprechen die Routennamen die im Fahrplan (und damit in TRAVIC) erscheinen nicht den Routennamen, die dem Fahrgast am Bahnhof angezeigt werden und die auch in OSM vorhanden sind. Dies gilt insbesondere für Nebenbahnen, die nicht von der DB betrieben werden. Die Korrektur von Routennamen in OSM-Relationen bringt in solchen Fällen natürlich keine Verbesserungen. Auch sollte man auf keinen Fall Relationen in OSM eintragen, die auf den internen Bezeichnungen des Fahrplans beruhen.
 
@@ -89,7 +89,7 @@ DPS 88348,BSB
 
 Auch diese kann uns einfach per Mail zugesandt werden.
 
-## Fazit
+### Fazit
 
 Wer über Basiskenntnisse im Umgang mit OSM verfügt, kann viele der Abweichungen in TRAVIC selbst korrigieren. Natürlich muss einschränkend nochmals erwähnt werden, dass wir aufgrund der riesigen Menge an Daten die Fahrtverläufe nur einmal im Jahr zum Fahrplanwechsel generieren. Es kann also u.U. lange dauern, bis Korrekturen in OSM auch in TRAVIC erscheinen.
 
