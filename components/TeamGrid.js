@@ -8,9 +8,9 @@ export default function TeamGrid({ team }) {
     <section className="bg-gray-darker text-gray-light">
       <div className="container mx-auto p-8 pb-16">
         <div className="max-w-screen-lg mx-auto">
-          <h1 className="text-center mt-24" id="team">
+          <h2 className="text-center mt-24" id="team">
             {t("team.title")}
-          </h1>
+          </h2>
           <p className="mb-32 mt-8">{t("team.text")}</p>
         </div>
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">

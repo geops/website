@@ -13,7 +13,7 @@ Echtzeit
 
 Da die Züge ihre Position ändern, bekommen wir ständig neue Positionsdaten für einzelne Züge übermittelt. Diese werden unverzüglich verarbeitet und an alle verbundenen Clients (das Endgerät) weitergegeben. Hierfür sollten die Clients nicht ständig nach neuen Daten fragen müssen, sondern pro-aktiv vom Server informiert werden.
 
-### Echtzeit im Web
+#### Echtzeit im Web
 
 In klassischen Web-Anwendungen läuft die Interaktion zwischen dem Client und dem Server in etwa so ab:
 
@@ -33,7 +33,7 @@ Die Lösung sind sogenannte WebSockets. Hier läuft die Konversation zunächst w
 
 Danach legt der Server aber diesmal nicht auf, sondern lässt die Verbindung offen. Ab jetzt können sowohl der Client als auch der Server jederzeit Nachrichten hin und her schicken ohne eine neue Verbindung herstellen zu müssen. So kann der Server beispielsweise jedes Mal, wenn sich Daten geändert haben, alle verbundenen Clients benachrichtigen.
 
-### Echtzeit in der Programmierung
+#### Echtzeit in der Programmierung
 
 Klassische ("synchrone") Programme haben mit diesem Ansatz ein Problem: Sie bestehen aus einer Reihe von Befehlen, welche nacheinander abgearbeitet werden. Wenn der Befehl lautet, auf eine Nachricht vom Client zu warten, dann wartet das ganze Programm und ist solange blockiert, bis die Nachricht kommt.
 

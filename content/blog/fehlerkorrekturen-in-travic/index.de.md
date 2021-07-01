@@ -26,7 +26,7 @@ Grundsätzlich nutzen wir einen Kürzester-Weg-Algorithmus um zwischen 2 aufeina
 
 Es gibt mehrere Möglichkeiten, zur Verbesserung von TRAVIC beizutragen.
 
-### Durch Korrekturen in OSM
+#### Durch Korrekturen in OSM
 
 Eine große Zahl von Fehlern kann behoben werden, indem die zugrundeliegenden OSM-Daten entweder korrigiert oder angereichert werden. Dies umfasst beispielsweise das Hinzufügen von neuen OSM-Relationen oder die Korrektur von evt. falschen Weg-Attributen.
 
@@ -54,7 +54,7 @@ In diesen Fall ist schnell ersichtlich, weshalb die Routenfindung unserer Algori
 
 Danach synchronisiert ein Klick auf "Save" die Änderungen in die OSM-Datenbank. Beim nächsten Durchlauf unseres Routings sollten Fahrzeuge der ICE 22-Relation den korrekten Weg nehmen.
 
-### Durch Zuordnung von Fahrzeugtypen
+#### Durch Zuordnung von Fahrzeugtypen
 
 Ein Problem ganz anderer Art stellt die Zuordnung von Fahrzeugtypen dar. Die Fahrplan-Rohdaten, mit denen wir TRAVIC speisen, kennen keine eindeutigen Fahrzeugtypen. Es ist uns also ohne manuelle Vorarbeit nicht möglich, zu sagen, ob ein Fahrzeug eine Fähre, ein Bus, eine U-Bahn oder ein Zug ist. Für das Finden der richtigen Route ist das jedoch sehr wichtig. Wenn wir z.B. den Fahrtverlauf für einen Bus suchen, blenden wir Geometrien von Zuggleisen völlig aus. Ist nun ein Zug fälschlicherweise als Bus markiert, kann die korrekte Route nicht mehr gefunden werden.
 
@@ -70,7 +70,7 @@ S3,2
 S4,2
 S5,2
 
-### Durch Mapping von Fahrzeugnamen
+#### Durch Mapping von Fahrzeugnamen
 
 In einigen Fällen entsprechen die Routennamen die im Fahrplan (und damit in TRAVIC) erscheinen nicht den Routennamen, die dem Fahrgast am Bahnhof angezeigt werden und die auch in OSM vorhanden sind. Dies gilt insbesondere für Nebenbahnen, die nicht von der DB betrieben werden. Die Korrektur von Routennamen in OSM-Relationen bringt in solchen Fällen natürlich keine Verbesserungen. Auch sollte man auf keinen Fall Relationen in OSM eintragen, die auf den internen Bezeichnungen des Fahrplans beruhen.
 

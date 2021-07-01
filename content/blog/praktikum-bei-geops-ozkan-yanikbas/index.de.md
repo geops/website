@@ -20,7 +20,7 @@ Auf geOps bin ich durch eine Suche nach lokalen Unternehmen im Bereich der Weben
 Meine Projekte
 --------------
 
-### Log-Parser
+#### Log-Parser
 
 ![](/images/blog/praktikum-bei-geops-ozkan-yanikbas/log-parser-2.png)
 
@@ -36,14 +36,14 @@ Außerdem haben wir zum Testen des Routings eine auch öffentlich verfügbare [
 
 Zuletzt bietet der Log-Parser auch die Möglichkeit, weitere Informationen durch die geOps StopFinder API zu erlangen. So können einzelne Haltestellen nicht nur angezeigt sondern auch getestet werden.
 
-#### Gelernte Bereiche:
+###### Gelernte Bereiche:
 
 *   Vue.js
 *   Regular Expressions
 *   API Nutzung
 *   Grundwissen über Routing
 
-### Railview
+#### Railview
 
 ![](/images/blog/praktikum-bei-geops-ozkan-yanikbas/Railview%20%282%29_0.png)
 
@@ -63,14 +63,14 @@ Ich beschäftigte mich fortan mit dem Frontend der Railview App, während meine 
 
 Durch einen hervorragenden Klick-Prototypen unseres UX-Designers hatte ich klare Vorgaben, an denen ich mich bei der Entwicklung orientieren konnte. Während der Programmierung griffen mir auch immer wieder die Kollegen aus dem Team unter die Arme und erklärten mir die Techniken, die ich noch nicht kannte oder konnte.
 
-#### Gelernte Bereiche:
+###### Gelernte Bereiche:
 
 *   React
 *   SASS
 *   OpenLayers
 *   Grundwissen über Karten & Koordinaten
 
-### Was ich gut fand
+#### Was ich gut fand
 
 Das JavaScript Frontend-Team war eine unerschöpfliche Stütze. Bei Problemen oder Fragen waren sie immer bereit eine Lösung zu finden oder Vorschläge zu machen. Selbstverständlich waren alle anderen Kollegen im gesamten Zeitraum auch immer hilfreich und unterstützten mich. Im Büro war das Arbeitsklima stets ruhig und angenehm. Ich wurde bei meiner Arbeit nie gestört und konnte produktiv arbeiten.
 

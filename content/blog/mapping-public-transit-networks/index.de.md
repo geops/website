@@ -32,7 +32,7 @@ Die grundlegende Ablauf unseres Ansatzes ist wie folgt:
 
 Im folgenden werden die einzelnen Schritte kurz erläutert.
 
-### 1\. Graph
+#### 1\. Graph
 
 Um eine Routenfindung auf den geografischen Referenzdaten durchführen zu können, müssen diese (häufig nur eine lose Sammlung von Liniengeometrien) in einen topologisch korrekten Graphen überführt und mit dem Fahrplan verknüpft werden. In einem ersten Schritt bereinigen wir deshalb die Ausgangsdaten von Lücken im Netz und verbinden Knoten, die jeweils nur eine ausgehende Kante haben und deren Distanz unter einem Maximalwert liegt.
 
@@ -68,23 +68,23 @@ Diese Kandidaten werden nun mit einer Dummy-Kante mit der Primärstation (= die 
 
 [![](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/olten_small.png)](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/olten.png)
 
-### 2\. Kürzester-Weg-Algorithmus
+#### 2\. Kürzester-Weg-Algorithmus
 
 Nachdem der Graph erzeugt wurde, kann iterativ für jede im Fahrplan vorkommende Fahrt der kürzeste Weg zwischen je zwei aufeinanderfolgenden Stationen berechnet werden. "Kürzester Weg" ist dabei symbolisch zu verstehen - es handelt sich um den kostengünstigsten Weg. Die Berechnung der Kantenkosten folgt Heuristiken, von denen hier 2 kurz vorgestellt werden sollen.
 
-#### Zugwendungen
+###### Zugwendungen
 
 Züge wenden nicht auf offener Strecke. Tun sie es doch, ist es mit erheblichem Aufwand verbunden. Einer der wichtigsten Heuristiken ist deshalb das Überwachen der Ein- und Austrittswinkel eines Fahrzeuges in einen Knoten und die Bestrafung, wenn dieser Winkel gewisse Werte überschreitet. Ein Sonderfall stellt die Zugwendung in Stationen selbst dar - hier ist sie üblich, jedoch trotzdem teuer.
 
-#### Snappen auf passende OSM-Relationen
+###### Snappen auf passende OSM-Relationen
 
 OSM hält für nahezu alle Verkehrsmittel eine Fülle von Relationen vor, aus denen meistens sogar die Liniennummern der Fahrzeuge hervorgehen, die die Wege innerhalb dieser Relation befahren. Um diese wertvollen Informationen während des Routings nicht zu verlieren, wird ein Weg stark belohnt, wenn er Kanten benutzt, die zu Relationen gehören die dem eigenen Verkehrsmittel und der eigenen Linienbezeichnung entsprechen. Durch dieses Vorgehen entsprechen gefundene Routen meist den bereits in OSM eingepflegten Liniennetzen.
 
-### 3\. Prüfen auf Plausibilität
+#### 3\. Prüfen auf Plausibilität
 
 Die gefundenen Fahrverläufe werden anschließend auf Realitätsnähe geprüft. Hierbei wird neben dem Verhältnis der Luftliniendistanz zur Distanz der gefundenen Strecke auch die **Durchschnittsgeschwindigkeit** berechnet, die ein Fahrzeug auf diesem Streckenverlauf haben müsste, um pünktlich am Ziel zu sein. Bei größeren Fehlern in der Wegfindung treten hier häufig Geschwindigkeiten > 1.000 km/h auf, so dass die Abweichung sicher erkannt und die Konfigurationsparameter ggfs. angepasst werden können.
 
-### 4\. Komprimierung und Vermeidung von Doppelberechnung
+#### 4\. Komprimierung und Vermeidung von Doppelberechnung
 
 In ÖNV-Netzen teilen sich meist unzählige Fahrten eine gemeinsame Strecke. Es macht zum Beispiel wenig Sinn, für sämtliche Fahrten der Buslinie X in Richtung Y den Fahrtweg zu generieren, wenn dieser jedesmal exakt derselbe ist. Daher werden gefundene Wege nicht nur auf ihre Äquivalenz zu bisher gefundenen geprüft - es wird auch geprüft, ob für die Attribute einer Fahrt (Liniennummer, Ziel, Verkehrsmittel) und den Stationsverlauf bereits ein Shape vorliegt. Dieses Prinzip wird weitergeführt, um auch zusammenhängenden Untermengen (= zusammenhängende Teilstrecke) von Shapes nicht doppelt halten zu müssen. Folgt z.B. eine Linie meist dem Stationsverlauf A-B-C-D-E-F und ist für diesen Stationsverlauf bereits ein Shape gefunden worden, so wird einem "Ausreißer" derselben Linie der nur dem Stationsverlauf B-C-D-E folgt, dasselbe Shape zugewiesen. Außerdem wird anhand der Stationsfolge, des Fahrzeugtyps und der Linienbezeichnung versucht, bereits gefundene Shapes einem Fahrzeug zuzuordnen ohne einen shortest-path zu berechnen.
 

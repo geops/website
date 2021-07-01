@@ -25,7 +25,7 @@ published: false
 ---
 The better the public transport offer, the higher the risk of disruptions. Dense cycle sequences, short coupling and changeover times, a heavily used infrastructure and the need for construction work make the system vulnerable. Restrictions in the operational process, regardless of whether they are planned or unplanned, are therefore inevitable. It is all the more important to provide travelers with comprehensive, targeted information about deviations and alternative travel options.
 
-## Building blocks kit for traveler information
+### Building blocks kit for traveler information
 
 The requirement to inform travelers quickly and precisely about deviations from normal operations cannot be achieved with an isolated solution. Rather, data from existing traveler information systems have to be used and coordinated. Editorial revisions are often essential, and ultimately the information has to be output in a targeted manner on various channels such as apps and websites, vehicle displays or monitors at the train station.
 

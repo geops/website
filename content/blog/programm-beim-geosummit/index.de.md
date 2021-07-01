@@ -9,7 +9,7 @@ Am 4. und 5. Juni präsentieren wir das Spektrum unserer Leistungen beim [GEOSum
 
 Wenn Sie an einem Besuch an unserem Stand oder am Vortrag interessiert sind, stellen wir Ihnen gerne Eintrittskarten für den GEOSummit zur Verfügung. Bitte fordern Sie Ihren persönlichen Code bei uns an, der Sie zum kostenlosen Zutritt zur Messe berechtigt. Das Angebot für freie Eintritte ist begrenzt.
 
-### Unser Programm
+#### Unser Programm
 
 Vom Crowdsourcing bis zur Fachanwendung: mit dem GeoCMS Cartaro Daten effizient erfassen und publizieren
 

@@ -39,7 +39,7 @@ Bei `flake8` empfiehlt sich folgende Ergänzung in der `.flake8` oder `setup.cfg
 
 Für andere Tools gibt es in der [Black-Dokumentation Konfigurationsvorschläge](https://github.com/psf/black/blob/master/docs/compatible_configs.md#black-compatible-configurations).
 
-### Darker: Black auf Änderungen beschränken
+#### Darker: Black auf Änderungen beschränken
 
 Wenn die Einführung von Black zu viel Chaos bedeuten würde (insbesondere bei größeren Projekten mit mehreren Maintainern), kann [Darker](https://github.com/akaihola/darker/) sich auf neuen oder geänderten Code beschränken.
 
@@ -52,7 +52,7 @@ In anderen Worten: auch Darker sollte nur dort zum Einsatz kommen, wo es keine z
 Abhängigkeitsmanagement
 -----------------------
 
-### pip-tools
+#### pip-tools
 
 [`pip-tools`](https://github.com/jazzband/pip-tools/) kann Abhängigkeiten aus einer `setup.py` (oder `setup.cfg`) extrahieren und in einer `requirements.txt` einfrieren.
 
@@ -77,7 +77,7 @@ Wenn man bei uns ein bestehendes Python-Repository klont sind die ersten Schritt
     venv/bin/pre-commit install
     
 
-### renovate-bot
+#### renovate-bot
 
 Der `renovate-bot` wird zwar im Repo konfiguriert aber wie der Name suggeriert auf dem GitLab-Server ausgeführt. Indirekt sorgt er vor allem für eine gute Code-Coverage in den Unittests da er ständig Dinge kaputt macht und -- wenn man das nicht in den Unittests merkt -- auch automatisch mergen kann.
 
@@ -94,7 +94,7 @@ Das [`pre-commit`](https://pre-commit.com/) Python-Paket stellt ein solches Prog
 
 Da die [Website](https://pre-commit.com/) wohl immer aktueller sein wird als ein Blog-Post will ich hier die hervorragende Dokumentation nicht wiederholen.
 
-### Unsere Beispielkonfiguration (`.pre-commit-config.yaml`):
+#### Unsere Beispielkonfiguration (`.pre-commit-config.yaml`):
 
 ```yaml
 fail_fast: true
@@ -130,7 +130,7 @@ repos:
       pass_filenames: false
 ```
 
-### Lessons learned
+#### Lessons learned
 
 In der [Quick-Start-Anleitung](https://pre-commit.com/#2-add-a-pre-commit-configuration) wird Black direkt vom Repository eingebunden. Das ist nicht verkehrt, wenn man die `rev` auf eine bestimmte Version pinnt und nicht zusätzlich über die `dev-requirements.txt` installiert. Um die Version aktuell und konsistent zu halten, haben wir uns entschieden Black und Flake8 immer im lokalen `venv` zu installieren und so auch anderen Tools die selbe Version bereitzustellen.
 

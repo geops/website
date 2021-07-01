@@ -21,17 +21,17 @@ Prinzipien
 
 Die folgenden Prinzipien sind für die Entwicklung von OLE maßgeblich.
 
-### Abstraktion
+#### Abstraktion
 
 ![](/images/blog/openlayers-editor/openlayers-editor-abstraktion.png "OpenLayers Editor Abstraktion")
 
 OpenLayers Editor stellt eine Abstraktions- und Erweiterungsschicht zwischen OpenLayers und der eigentlichen Anwendung dar. Während OpenLayers alle grundlegenden APIs für die Entwicklung von Kartenanwendungen bereitstellt, sind komplexere Kartenfunktionalitäten schnell mit Entwicklungsaufwand verbunden. OpenLayers Editor hat das Ziel, eine umfangreiche Toolbox für die Bearbeitung von räumlichen Daten in Webanwendungen zur Verfügung zu stellen.
 
-### Kollaboration
+#### Kollaboration
 
 Die Anwendung ist Open Source und auf [GitHub](https://github.com/geops/openlayers-editor) sowie [NPM](https://www.npmjs.com/package/ole) verfügbar. Dadurch wollen wir zum einen die Nutzung durch andere ermöglichen, erhoffen uns aber auch Beiträge zur Erweiterung der Software.
 
-### Wiederverwendbarkeit
+#### Wiederverwendbarkeit
 
 Die einzelnen Funktionen können in unterschiedlichsten Anwendungen flexibel kombiniert werden. Dabei haben wir das Ziel, eine stabile und ausführlich getestete [API](http://openlayers-editor.geops.de/api.html) zur Verfügung zu stellen. Zusätzlich können wir dadurch mehr Zeit in eine benutzerfreundliche Lösung investieren.
 

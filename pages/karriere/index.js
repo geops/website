@@ -15,7 +15,7 @@ export default function Career({ content, jobs }) {
       <PageHeader
         src="/images/page/career/header.jpg"
         srcMobile="/images/page/career/header-mobile.jpg"
-        title={t("career.title")}
+        title={content.title}
         text={content.headerText}
       />
       <CareerContent content={content} />

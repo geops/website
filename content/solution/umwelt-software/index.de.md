@@ -7,7 +7,7 @@ frontpage: false
 ---
 Durch den Einsatz offener Schnittstellen und Standards lassen sich unsere Anwendungen nahtlos in bestehende Systeme integrieren. Wir setzen bei der Entwicklung auf etablierte Open Source Software und stellen unsere Produkte unter Open Source Lizenzen bereit. So können viele Kunden unsere Software lizenzfrei einsetzen und gegenseitig von den Erweiterungen und Optimierungen profitieren.
 
-## Altlast4Web
+### Altlast4Web
 
 Altlast4Web 2.0 ist eine Ge­schäfts­kontrolle, die in der Schweiz und dem Fürstentum Liechtenstein für die langfristige Führung des Katasters belasteter Standorte eingesetzt wird.
 
@@ -23,7 +23,7 @@ Für den Datenaustausch stehen zahlreiche Exportmöglichkeiten zur Verfügung. E
 
 Altlast4Web ist eine Webapplikation, die komplett auf Open Source Software beruht. Das Open Source-Modell ermöglicht eine Nutzung ohne Lizenzkosten sowie die Weiterentwicklung nach den Bedürfnissen aller Kunden.
 
-## TreeApp
+### TreeApp
 
 Waldwirtschaft ist geprägt von langfristigen Entscheidungen, die meist erst die nächsten Generationen betreffen. In Zeiten des Klimawandels wird es immer wichtiger die richtige Entscheidung für die Zukunft der Wälder zu treffen. Zu diesem Thema hat geOps für die Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft WSL eine App für Baumartenempfehlungen entwickelt, die eine Hilfestellung für Entschei­&shy;dungen bei der Pflanzung und Pflege von Bäumen sein soll.
 

@@ -22,7 +22,7 @@ For this approach to yield reasonable good results, we not only need the tempora
 
 By the time we decided to [include the public transportation network of switzerland](http://tracker.geops.de/?z=13&s=1&x=949966.6082&y=6005301.1859&l=transport) into TRAVIC we could no longer dispose the problem as a minor flaw. However, apart from station positions, the raw data we use to convert [our GTFS feeds](http://gtfs.geops.de/) from does not contain any spatial information.
 
-## Extracting vehicle routes from geo-data
+### Extracting vehicle routes from geo-data
 
 Attempts to compare the set of railway relations in OpenStreetMap to the set of station-to-station geometries from GTFS feeds (e.g. via a [Fréchet-Distanz](http://en.wikipedia.org/wiki/Fr%C3%A9chet_distance)) were fruitless. A look at the street network (already transformed into a graph) of Zurich gives a hint of the complexity of extracting bus routes from even a very small area.
 
@@ -39,7 +39,7 @@ The general flow of our approach looks like this:
 
 In the following, we will illustrate each of the steps mentioned above.
 
-### 1\. Graph
+#### 1\. Graph
 
 More than often, the geographical reference data only consists of a loose collection of line geometries. To do shortest-path calculation on the data we need to transform these geometries into a topologically valid graph and connect it to the schedule data. Thus, we clean the reference data from unintentional gaps in the network.
 
@@ -77,27 +77,27 @@ These candidates are now connected to the primary station by dummy edges. This m
 
 [![](/images/blog/mapping-public-transit-networks/olten_small.png)](/images/blog/mapping-public-transit-networks/olten.png)
 
-### 2\. Shortest-Path-Algorithm
+#### 2\. Shortest-Path-Algorithm
 
 After the graph was generated, we iterate through each trip in the schedule data and calculate the shortest path between two succeeding stations. "Shortest path" has to be understood symbolically here. It is the "cheapest" path. The calculation of edge costs is done dynamically and is based on heuristics. We will present two exemplary heuristics here.
 
-#### Full turns
+###### Full turns
 
 Usually, trains don't do full turns out of stations. One of the most important heuristics is to punish full turns for rail-bound methods of transportation, but also for busses. This is done by dynamically adding edge costs based on the entry and exit angle at nodes.
 
-#### OSM-Relation snapping
+###### OSM-Relation snapping
 
 For most methods of transportation, OpenStreetMap holds plenty of relations. Most of them contain even the vehicle's line number. To prevent the loss of this useful information, edge costs are dynamically reduced if the edge belongs the a relation that matches the vehicle the shortest path is currently searched for. Because of this, schedule routes that have counterparts in OSM relations usually follow the exact route defined for this relation in OSM.
 
-### 3\. Plausibility
+#### 3\. Plausibility
 
 After a vehicle shape generation is completed, the shape is checked for plausibility. This is done by comparing the length of the vehicle route _as the crow flies_ to the length of the found vehicle shape. Additionally, the average velocity needed to get from one station to another on time is calculated. For huge deviations from the real-world vehicle route, the required velocity is usually > 1,000 km/h. Thus, the deviation can safely be identified and configuration parameters can be adjusted.
 
-### 4\. Compression and Redundancy Avoidance
+#### 4\. Compression and Redundancy Avoidance
 
 Vehicles in public transit networks usually share a common route. It makes little sense to generate shapes for all trips of a bus line if all of them follow the exact same route. This is why we do a comparision based on the station sequence, the method of transportation and the line number to find vehicle routes that have been previously calculated before starting a new calculation. Additionally, to cover the case when vehicles of different lines or even of different MOTs share a common route, we compare the found paths to the already found ones. This comparision also tries to cover cases where a vehicle uses a connected subset of an already existing path.
 
-## Results
+### Results
 
 ![](/images/blog/mapping-public-transit-networks/ulm_fixed.png)
 

@@ -12,7 +12,7 @@ Möchten Sie Ihren Kunden Informationen zu Angeboten und Dienstleistungen auf ei
 
 ![Erfassungsmaske](/images/solution/cartaro/iabp_mask_02.png "Erfassungsmaske")
 
-### Die wesentlichen Funktionen im Überblick
+#### Die wesentlichen Funktionen im Überblick
 
 * **Datenerfassung**: Für die Verwaltung der Daten stehen in Cartaro eine Vielzahl von Eingabefeldern zur Verfügung. Mit ihnen lassen sich unter anderem Texte mit einem WYSIWYG-Editor verfassen und Bilder hochladen. Für das Durchsuchen der Datensätze steht eine performante Volltextsuche bereit. Zudem helfen Filter beim Finden relevanter Datensätze in der Karten- und Listenansicht.
 * **Verortung**: Für die Verortung der Daten stehen Werkzeuge zum Zeichen von Punkten, Linien und Flächen sowie diverse GIS-Werkzeuge zur Verfügung.

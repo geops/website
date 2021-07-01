@@ -16,7 +16,7 @@ published: false
 ---
 [![Lageplan](/images/blog/angebotsinformationen-im-iabp/Lageplan_SBBCH_0_0.png)](https://plans.trafimage.ch/bern)
 
-### Neuerungen des IABP
+#### Neuerungen des IABP
 
 Bisher lag der Fokus des [Interaktiven Bahnhofplans](https://plans.trafimage.ch/bern) vor allem auf dem Finden von Angeboten. Für weiterführende Informationen, wie Öffnungszeiten, akzeptierte Zahlungsmittel und Kontaktinformationen, mussten Nutzer die verlinkte SBB-Webseite öffnen.
 
@@ -26,6 +26,6 @@ In der neuen Version des IABP werden bei einem Klick auf ein Angebot alle releva
 
 Auch bei der Filterung der Angebote, beim Menü und bei der Umschaltung zwischen Innen- und Aussenplan wurden zahlreiche Verbesserungen vorgenommen.
 
-### Technologie
+#### Technologie
 
 Technologisch ist der IABP auf dem neuesten Stand: Als Kerntechnolgien verwenden wir die JavaScript-Library [React](https://reactjs.org/ "Verknüpfung folgen") und die Kartenbibliothek [OpenLayers](https://openlayers.org/ "Verknüpfung folgen"). Natürlich ist auch das neue Overlay voll responsiv und stellt auf Desktop, auf Mobile und auf sbb.ch alle relevanten Informationen übersichtlich dar.

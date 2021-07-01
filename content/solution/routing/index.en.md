@@ -20,11 +20,11 @@ tags:
 frontpage: false
 gridImage: /images/solution/routing/routing.png
 ---
-## Precision for everything
+### Precision for everything
 
 Finding the precise way from A to B is no problem today - as long as you are traveling by car or on foot. But finding the route of a bus or train is a different story. Our routing service includes a large number of vehicles, resulting in higher precision than any other service, especially when it comes to public transport vehicles. We guarantee high quality because the routing relies on richly attributed data from the rail, road and footpath network and uses sophisticated heuristics.
 
-## Suitable
+### Suitable
 
 The routing is adapted to our maps. For long distances that are used in small-scale overviews, the routes are simplified ("generalized") in exactly the same way as in the maps, so that they correspond exactly to the features on the base map. In contrast, routes are calculated in great detail for detailed views, right down to individual tracks in the station.
 
@@ -34,7 +34,7 @@ One application of routing can be found in our worldwide tracker, in which the r
 
 The Routing service is applied in numerous projects. For example, the routes are shown in our \[real-time tracker] (https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte .luftbild.group, ch.sbb.netzkarte.landeskarte, ch.sbb.netzkarte.landeskarte.grau & lang = de & layers = ch.sbb.puenktlichkeit-all & x = 925472 & y = 5920000 & z = 9) calculated above. The Swiss Federal Railways (SBB) uses the routing for trains, trams, buses and cable cars to provide travelers with detailed information about the course of the travel itinerary. Routing is also available in [mapset](https://mapset.io/) to simplify the drawing of footpaths in the map.
 
-## Where to go and how
+### Where to go and how
 
 Exact routes also have the potential to analyze the characteristics along the route. On this basis, we offer, for example, exact height profiles or counts of objects such as level crossings, traffic lights or pedestrian crossings along the route. Here we offer evaluations specifically tailored to your requirements.
 

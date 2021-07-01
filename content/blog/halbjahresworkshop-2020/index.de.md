@@ -11,17 +11,17 @@ Dank der Flexibilität des Teams von der [Lokhalle](https://www.lokhalle-freibur
 
 ![](/images/blog/halbjahresworkshop-2020/Lokhalle%20%281%29_0.jpg)
 
-### Rückblick
+#### Rückblick
 
 Zunächst einmal ließen wir die erste Jahreshälfte Revue passieren. Ab Mitte März bereicherte Özkan für drei Monate als Praktikant unser Team. Im April, mitten in der Corona-Phase, hat Florian seine Arbeit im Admin-Team aufgenommen. Der Workshop war für Flo die erste Gelegenheit, alle Team-Mitglieder live zu treffen, nachdem er die Monate zuvor fast komplett im Home Office tätig war. Mitte März konnten wir gerade noch an der FOSSGIS-Konferenz teilnehmen, bevor das pandemiebedingte Veranstaltungsverbot in Kraft trat. Dafür musste die für Anfang März geplante IT-TRANS, auf der wir ebenfalls mit einem Stand vertreten sein wollten, leider abgesagt werden.
 
 Aus dem administrativen Bereich war für die erste Jahreshälfte die Umwandlung der deutschen geOps in eine GmbH zu erwähnen. In der Schweiz haben wir neue Räumlichkeiten in Olten bezogen, was mit einem Sitzwechsel von Kanton Basel-Land in den Kanton Solothurn verbunden war.
 
-### Home Office
+#### Home Office
 
 Zum Schutz aller Mitarbeiter haben wir sehr früh unsere Tätigkeit in das Home Office verlagert. Da schon vor Corona alle Mitarbeiter mit Notebooks ausgestattet waren, und da schon vorher alle Plattformen sowohl für die Arbeit im Büro wie auch die Remote-Arbeit ausgerichtet waren, lief die Umstellung reibungslos. Seit Mitte Mai ist unter Einhaltung der Eine-Person-pro-Raum-Regel das Arbeiten im Büro wieder möglich. Das Arbeiten aus dem Home Office hat uns nachhaltig im positiven Sinn geprägt, so dass wir in Zukunft nicht mehr darauf verzichten möchten und den Mitarbeitern freistellen, ob sie von zuhause aus oder im Büro arbeiten möchten.
 
-### Roadmap Projekte
+#### Roadmap Projekte
 
 Nach der Retrospektive ist die Projektplanung für die kommenden Monate das Hauptthema unserer halbjährlichen Workshops. Eine Planung über ein halbes Jahr beinhaltet natürlich immer gewisse Unsicherheiten. Vor allem neue, wichtige Kundenprojekte erfordern eine ständige Anpassung unserer Roadmap. Uns ist es aber dennoch wichtig, dass das ganze Team die Richtung kennt, in die wir uns entwickeln wollen. Nur so gelingt es, dass alle an einem Strang ziehen und auch ohne ständige Vorgaben der Geschäftsführung und Projektleitung ihren Fokus richtig setzen. Entsprechend haben wir vor allem die Weiterentwicklung unserer internen Produkte besprochen.
 
