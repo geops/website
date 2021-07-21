@@ -584,3 +584,22 @@ collections:
         name: "body"
         widget: "markdown"
         i18n: true
+  - label: "technologies"
+    name: "technologies"
+    folder: "content/technology"
+    path: "{{slug}}/index"
+    media_folder: "/public/images/technology/{{slug}}"
+    public_folder: "/images/technology/{{slug}}"
+    preview_path: "en/technology/{{slug}}"
+    create: false
+    i18n: true
+    slug: "{{fields.slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+        i18n: true
