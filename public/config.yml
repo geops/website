@@ -591,7 +591,7 @@ collections:
     media_folder: "/public/images/technology/{{slug}}"
     public_folder: "/images/technology/{{slug}}"
     preview_path: "en/technology/{{slug}}"
-    create: false
+    create: true
     i18n: true
     slug: "{{fields.slug}}"
     fields:
