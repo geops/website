@@ -584,22 +584,27 @@ collections:
         name: "body"
         widget: "markdown"
         i18n: true
-  - label: "technologies"
+  - label: "Technologies"
     name: "technologies"
-    folder: "content/technology"
-    path: "{{slug}}/index"
-    media_folder: "/public/images/technology/{{slug}}"
-    public_folder: "/images/technology/{{slug}}"
-    preview_path: "en/technology/{{slug}}"
-    create: false
-    i18n: true
-    slug: "{{fields.slug}}"
+    folder: "content/technologies"
+    media_folder: "/public/images/technologies/{{slug}}"
+    public_folder: "/images/technologies/{{slug}}"
+    preview_path: "en"
+    create: true
+    i18n:
+      structure: single_file
+    extension: "json"
     fields:
       - label: "Title"
         name: "title"
         widget: "string"
         i18n: true
-      - label: "Content"
-        name: "body"
-        widget: "markdown"
-        i18n: true
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        hint: "compressed JPEG, 1600px wide, 1200px heigh"
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        required: true
+        hint: "Position in Slider"
