@@ -1,8 +1,13 @@
 ---
 title: Links for our printed brochure
 summary: Get the list of URLs that complement our printed brochure from July 2021.
+author: Uli Müller
+cover: /images/blog/links-for-our-printed-brochure/geops_broschuere_solutions_rz_druck.png
 created: 2021-07-12
 slug: print
+tags:
+  - maps
+  - passengerinformation
 published: true
 ---
 * [geOps Map Portal] (https://mobility.portal.geops.io)
