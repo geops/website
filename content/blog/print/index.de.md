@@ -9,7 +9,7 @@ Obwohl wir meistens digital unterwegs sind, können wir auch "Papier". Im Juli 2
 
 Wir stellen Ihnen hier einige Links zusammen, mit denen Sie die in der Broschüre beschriebenen Angebote selbst testen können.
 
-* [geOps Kartenportal] (https://mobility.portal.geops.io)
+* [geOps Kartenportal](https://mobility.portal.geops.io)
 * [Routing-Demo](https://routing-demo.geops.io)
 * [Webkartenportal der SBB](https://maps.trafimage.ch)
 * [Bauprojekt-Karte der SBB](https://company.sbb.ch/de/ueber-die-sbb/projekte/karte.html)
@@ -20,3 +20,5 @@ Wir stellen Ihnen hier einige Links zusammen, mit denen Sie die in der Broschür
 * [geOps-Newsletter](https://geops.ch/newsletter)
 * [Online-Editor mapset](https://mapset.ch)
 * [mapset-Newsletter](https://geops.sh/mapset)
+
+Mit einer Mail an [info@geops.ch](mailto:info@geops.ch) können Sie gerne Ihr persönliches gedrucktes Exemplar der Broschüre anfordern. 
