@@ -587,13 +587,11 @@ collections:
   - label: "technologies"
     name: "technologies"
     folder: "content/technology"
-    path: "{{slug}}/index"
-    media_folder: "/public/images/technology/{{slug}}"
-    public_folder: "/images/technology/{{slug}}"
-    preview_path: "en/technology/{{slug}}"
+    media_folder: "/public/images/technology/"
+    public_folder: "/images/technology/"
+    preview_path: "en/technology/"
     create: true
     i18n: true
-    slug: "{{fields.slug}}"
     fields:
       - label: "Title"
         name: "title"
