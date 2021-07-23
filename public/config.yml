@@ -4,7 +4,7 @@ backend:
   branch: main
   #name: git-gateway
 
-# Used for testing.
+#Used for testing.
 #local_backend: true
 
 i18n:
@@ -186,7 +186,7 @@ collections:
           - { i18n: true, label: Circle Clients, name: circleClients }
           - { i18n: true, label: Circle Employee, name: circleEmployee }
           - { i18n: true, label: Work, name: work }
-          - { i18n: true, label: Technology, name: tech }
+          - { i18n: true, label: Technology, name: tech, widget: "markdown"}
       - label: "Career"
         name: "career"
         file: "content/page/career.json"

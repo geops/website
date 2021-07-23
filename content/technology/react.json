@@ -1,13 +1,8 @@
 {
-    "en": {
-      "title": "React Js Framework",
-      "summary": "",
-      "image": "/images/slide/applications-and-data-integration-for-multimodal-mobility/mobility.jpg",
-      "imageMobile": "/images/slide/applications-and-data-integration-for-multimodal-mobility/mobility_mobil.jpg",
-      "weight": 2
-    },
-    "de": {
-      "title": "React Js Framework",
-      "summary": ""
-    }
-  }
+  "en": {
+    "title": "react",
+    "weight": 2,
+    "image": "/images/technologies/react/react.png"
+  },
+  "de": {}
+}
