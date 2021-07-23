@@ -15,6 +15,7 @@ export default function TechnologieCarousel({ slides }) {
         <CarouselProvider
           className={`${styles.carousel}`}
           visibleSlides={5}
+          interval={3000}
           infinite
           isPlaying
           lockOnWindowScroll
