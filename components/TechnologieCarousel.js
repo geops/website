@@ -9,7 +9,7 @@ const CarouselKeyboardNavigation = dynamic(
   { ssr: false }
 );
 
-export default function TechnologieCarousel({ slides }) {
+export default function TechnologyCarousel({ slides }) {
   return (
     <div className="mx-auto px-8 prose prose-xl max-w-screen-lg">
         <CarouselProvider
@@ -34,6 +34,7 @@ export default function TechnologieCarousel({ slides }) {
                       <img
                         className="w-20 h-20"
                         alt={technology.title}
+                        title={technology.title}
                         src={technology.image}
                       />
                     </picture>

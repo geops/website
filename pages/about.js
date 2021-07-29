@@ -33,10 +33,10 @@ export async function getStaticProps(context) {
   });
   const content = getContentItem(language, "page", "about.json");
   
-  const slides = getContentList(language, {
+  const slides  = getContentList(language, {
     collections: ["technology"],
     fields: ["title", "weight", "image"],
+    order: [{ weight: "asc" }],
   });
-  slides.sort((a, b) => a.weight - b.weight);
-  return { props: { content, slides, language, team }};
+  return { props: { content, slides , language, team }};
 }

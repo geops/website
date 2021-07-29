@@ -584,12 +584,12 @@ collections:
         name: "body"
         widget: "markdown"
         i18n: true
-  - label: "Technologies"
-    name: "technologies"
-    folder: "content/technologies"
-    media_folder: "/public/images/technologies/{{slug}}"
-    public_folder: "/images/technologies/{{slug}}"
-    preview_path: "en"
+  - label: "Technology"
+    name: "technology"
+    folder: "content/technology"
+    media_folder: "/public/images/technology/{{slug}}"
+    public_folder: "/images/technology/{{slug}}"
+    preview_path: "en/about#tech"
     create: true
     i18n:
       structure: single_file
