@@ -33,7 +33,7 @@ collections:
     path: "{{slug}}/index"
     media_folder: "/public/images/blog/{{slug}}"
     public_folder: "/images/blog/{{slug}}"
-    preview_path: "en/blog/{{slug}}"
+    preview_path: "en/blog/{{fields.slug}}"
     create: true
     i18n: true
     slug: "{{fields.slug}}"
@@ -129,7 +129,7 @@ collections:
     path: "{{slug}}/index"
     media_folder: "/public/images/job/{{slug}}"
     public_folder: "/images/job/{{slug}}"
-    preview_path: "en/career/{{slug}}"
+    preview_path: "en/career/{{fields.slug}}"
     create: true
     i18n: true
     slug: "{{fields.slug}}"
@@ -456,7 +456,7 @@ collections:
     path: "{{slug}}/index"
     media_folder: "/public/images/solution/{{dirname}}"
     public_folder: "/images/solution/{{dirname}}"
-    preview_path: "en/solution/{{slug}}"
+    preview_path: "en/solution/{{fields.slug}}"
     create: true
     i18n: true
     slug: "{{fields.slug}}"

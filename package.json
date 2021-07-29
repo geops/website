@@ -11,7 +11,7 @@
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "highlight.js": "^10.7.2",
-    "netlify-cms-app": "^2.15.11",
+    "netlify-cms-app": "^2.15.30",
     "next": "^10.2.3",
     "pure-react-carousel": "^1.27.6",
     "react": "^17.0.2",
