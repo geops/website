@@ -1,13 +1,6 @@
 import { useI18n } from "../lib/i18n";
 
 import Circle from "./Circle.js";
-import GitHubIcon from "./icons/GitHubIcon.js";
-import HTML5Icon from "./icons/HTML5Icon.js";
-import JavaScriptIcon from "./icons/JavaScriptIcon.js";
-import OpenLayersIcon from "./icons/OpenLayersIcon.js";
-import PythonIcon from "./icons/PythonIcon.js";
-import ReactIcon from "./icons/ReactIcon.js";
-import RedisIcon from "./icons/RedisIcon.js";
 
 export default function AboutContent({ content }) {
   const { t } = useI18n();
@@ -46,15 +39,6 @@ export default function AboutContent({ content }) {
       />
       <h2 id="tech">{t("about.tech")}</h2>
       <p>{content.tech}</p>
-      <div className="flex flex-wrap items-center justify-around space-x-8 space-y-8 mt-12 mr-8">
-        <ReactIcon />
-        <OpenLayersIcon />
-        <PythonIcon />
-        <RedisIcon />
-        <HTML5Icon />
-        <JavaScriptIcon />
-        <GitHubIcon className="h-16 text-gray-darker" />
-      </div>
     </div>
   );
 }
