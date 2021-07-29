@@ -19,7 +19,7 @@ Die Kernfunktion von Cartaro ist die automatische Erzeugung von Erfassungsformul
 
 <!--EndFragment-->
 
-![](/images/blog/neue-funktionen-im-geocms-cartaro/cartaro_n_01.jpg "Natürlich kann Cartaro auch mit komplexen Datenmodellen umgehen und die Inhalte verknüpfter Tabellen entweder inline oder in separaten Formularen bearbeitbar machen. Das folgende Kapitel zeigt zudem, wie wir unser GeoCMS einsetzen, um Informationen aus unserer Datendrehscheibe mit Zusatzinformationen anzureichern.")
+![](/images/blog/neue-funktionen-im-geocms-cartaro/cartaro_560.jpg "Natürlich kann Cartaro auch mit komplexen Datenmodellen umgehen und die Inhalte verknüpfter Tabellen entweder inline oder in separaten Formularen bearbeitbar machen. Das folgende Kapitel zeigt zudem, wie wir unser GeoCMS einsetzen, um Informationen aus unserer Datendrehscheibe mit Zusatzinformationen anzureichern.")
 
 <!--StartFragment-->
 
