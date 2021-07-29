@@ -4,8 +4,8 @@ backend:
   branch: main
   #name: git-gateway
 
-#Used for testing.
-#local_backend: true
+# Used for testing.
+# local_backend: true
 
 i18n:
   # Required and can be one of multiple_folders, multiple_files or single_file
