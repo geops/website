@@ -33,7 +33,6 @@ collections:
     path: "{{slug}}/index"
     media_folder: "/public/images/blog/{{slug}}"
     public_folder: "/images/blog/{{slug}}"
-    preview_path: "en/blog/{{slug}}"
     preview_path: "en/blog/{{fields.slug}}"
     create: true
     i18n: true
