@@ -1,40 +1,46 @@
 ---
-title: New functions in our GeoCMS "Cartaro"
+title: Neue Funktionen im GeoCMS "Cartaro"
 summary: >+
-  With our online tool Cartaro, spatial information can be conveniently managed
-  and published in a web map. 
+  Mit unserem Online-Tool Cartaro lassen sich räumliche Informationen
+  komfortabel verwalten und auf Knopfdruck in einer Webkarte veröffentlichen.
 
 cover: /images/blog/cartaro_blog.jpg
 created: 2021-07-28
 slug: cartaro
 published: false
 ---
-The focus of our Content Management System (CMS) is the management of spatial data, which is why we also call Cartaro "GeoCMS". Especially on behalf of the SBB, we have recently intensively developed our GeoCMS. This blog post gives an overview of the most important new functions. Before that, the main functions of Cartaro are briefly summarised.
+<!--StartFragment-->
 
-## A short profile
+Im Zentrum unseres Content Managament Systems (CMS) steht der Raumbezug der verwalteten Daten, weshalb wir Cartaro auch als "GeoCMS" bezeichnen. Insbesondere im Auftrag der SBB haben wir unser GeoCMS in letzter Zeit intensiv weiterentwickelt. Dieser Blog-Beitrag gibt einen Überblick über die wichtigsten neuen Funktionen. Vorher werden die Hauptfunktionen von Cartaro kurz zusammengefasst.
 
-The core function of Cartaro is the automatic generation of input forms based on database tables. Based on the data model, Cararo automatically generates a [JSON schema](https://json-schema.org/), which is then "translated" into a input form by the client application. Standard fields, such as checkboxes, input fields and drop-downs, can be easily replaced by overwriting the schema with one of the numerous Cartaro widgets, e.g. for image upload. Additional widgets for any data format can be flexibly integrated into Cartaro. Geometry editing is done via the map view. Thanks to the integrated [OpenLayers Editor](https://openlayers-editor.geops.de/), all types of geometries can be created, edited and aligned with snapping tools.
+## Ein kurzer Steckbrief
 
-![](/images/blog/new-functions-in-the-geocms-cartaro/cartaro.jpg)
+Die Kernfunktion von Cartaro ist die automatische Erzeugung von Erfassungsformularen auf Basis von Datenbank-Tabellen. Auf Basis des Datenmodells generiert Cararo automatisch ein [JSON-Schema](https://json-schema.org/), welches anschliessend vom Client in ein Formular "übersetzt" wird. Standard-Felder, wie Checkboxen, Eingabefelder und Drop-Downs, lassen sich durch Überschreiben des Schemas einfach durch eines der zahlreichen Cartaro-Widgets, z.B. für den Bild-Upload, ersetzen. Es können flexibel weitere Widgets für beliebige Datenformate in Cartaro integriert und die Felder zugunsten der Übersichtlichkeit verschachtelt werden. Die Geometrie-Bearbeitung erfolgt über die Kartenansicht. Dank des integrierten [OpenLayers Editors](https://openlayers-editor.geops.de/) lassen sich beliebige Geometrien erstellen, bearbeiten und mit Snapping-Tools aneinander ausrichten.
 
-## Information for any objects
+<!--EndFragment-->
 
-In Cartaro, new geographical objects can be created, edited and provided with thematic attributes. However, existing objects with known geometry can also be enriched with additional information. For this purpose, we have connected Cartaro to our data hub, where we keep, among other things, worldwide station data and traffic networks in different levels of generalisation. In this way, stations with specific information, e.g. on travelling for persons with reduced mobility, can be recorded and published in a [web map](https://maps2.trafimage.ch/ch.sbb.handicap). We've added a new function for adding information to transport networks. For the spatial location of the information, the line number, start and end kilometres of the respective segment are stored. Saving this segmentation information instead of the geometry ensures that the information is available in all generalisation levels and also after updating the geometry.
+![](/images/blog/cartaro.jpg "Natürlich kann Cartaro auch mit komplexen Datenmodellen umgehen und die Inhalte verknüpfter Tabellen entweder inline oder in separaten Formularen bearbeitbar machen. Das folgende Kapitel zeigt zudem, wie wir unser GeoCMS einsetzen, um Informationen aus unserer Datendrehscheibe mit Zusatzinformationen anzureichern.")
+
+<!--StartFragment-->
+
+## Zusatzinformationen für beliebige Objekte
+
+In Cartaro lassen sich neue geographische Objekte anlegen, bearbeiten und mit thematischen Attributen versehen. Es können aber auch bestehende Objekte mit bekannter Geometrie mit Zusatzinformationen anreichern. Dazu haben wir Cartaro an unsere Datendrehscheibe angeschlossen, in der wir unter anderem weltweite Stationsdaten und Verkehrsnetze in unterschiedlichen Generalisierungsstufen vorhalten. So können Stationen mit spezifischen Informationen, z.B. zum Reisen für Personen mit eingeschränkter Mobilität erfasst und in einer [Webkarte](https://maps2.trafimage.ch/ch.sbb.handicap) publiziert werden. Neu ist die Funktion um Zusatzinformationen auf Verkehrsnetzen abzubilden. Für die räumliche Verortung der Informationen werden Liniennummer, Start- und Endkilometer des jeweiligen Segmentes gespeichert. Das Speichern der Kilometrierungsinformationen gewährleistet, dass die Informationen in allen Generalisierungsstufen und auch nach einer Veränderung des Linienverlaufes zur Verfügung stehen. 
+
+<!--EndFragment-->
 
 ![](/images/blog/cartaro_02.png)
 
-The new segmentation function is used by SBB, for example, to manage responsibilities for line segments and to display them in the [Web map "Coordinators for construction work near railways"](https://maps.trafimage.ch/ch.sbb.regionenkarte.public?lang=en).
+<!--StartFragment-->
 
-## Integration of our routing service
+Die neue Kilometrierungs-Funktion kommt bei der SBB zum Beispiel zum Einsatz, um Verantwortlichkeiten zu Liniensegmenten zu verwalten und in der [Webkarte "Koordinatoren Bahnnahes Bauen"](https://maps.trafimage.ch/ch.sbb.regionenkarte.public) anzuzeigen.
 
+## Integration unseres Routing-Dienstes
 
+Unser Routing-Dienst unterstützt eine Vielzahl an Fortbewegungsarten. Besonders bei Fahrzeugen des öffentlichen Verkehrs liefern wir bessere Ergebnisse als jeder andere Dienst. Um auch Routenverläufe mit themenspezifischen Informationen anreichern zu können, haben wir Cartaro mit unserem Routing-Dienst verknüpft. Nun lassen sich im Eingabeformular Start- Via- und Endstationen definieren, das Verkehrsmittel auswählen und anschliessend Informationen zur so erstellten Route erfassen. Die von uns entwickelte Webkarte zu Direktverbindungen der SBB im Tag- und Nachtnetz wird demnächst publiziert. Wir informieren im Blog und unseren anderen Kanälen, sobald Sie sich in der Webkarte den nächsten Nachtzug in den Urlaub heraussuchen können.
 
-Our routing service supports a wide range of movement modes. Especially for public transport vehicles we deliver better results than any other service. In order to be able to enrich route histories with topic-specific information as well, we have linked Cartaro with our routing service. Now you can define start, via and end stations in the input form, select the means of transport and then enter information on the route created in this way. The web map we developed for direct SBB connections in the day and night network will be published soon. We will inform you in the blog and our other channels as soon as you can find the next night train to your holiday on the web map.
+## Und noch mehr
 
+Mit jedem neuen Thema, das wir in Cartaro integrieren, wächst auch die Anzahl der zur Verfügung stehenden Widgets, Filter und sonstigen Funktionen. Cartaro verfügt über Widgets für die Erfassung von Datumsfeldern, den Dateiupload, einen Koordinaten-Picker und viele mehr. Auch die Listenansicht von Cartaro haben wir weiterentwickelt. Sie kann nun mit beliebig vielen Einträgen umgehen und verfügt über Filter und Möglichkeiten zur Mehrfachbearbeitung. Eine Auflistung aller Funktionen und der diversen Schnittstellen von Cartaro findet sich auf der Lösungsseite.
 
-## And more
-
-
-
-With every new theme we integrate into Cartaro, the number of widgets, filters and other functions available also grows. Cartaro has widgets for date field entry, file upload, a coordinate picker and many more. We have also further developed the list view of Cartaro. It can now handle any number of entries and has filters and multiple editing options. A list of all functions and the various interfaces of Cartaro can be found on the solution page.
-
+<!--EndFragment-->
