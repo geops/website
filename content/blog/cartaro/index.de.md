@@ -1,5 +1,5 @@
 ---
-title: Neue Funktionen im GeoCMS "Cartaro"
+title: Neue Funktionen im GeoCMS Cartaro
 summary: Mit unserem Online-Tool Cartaro lassen sich räumliche Informationen
   komfortabel verwalten und auf Knopfdruck in einer Webkarte veröffentlichen.
 created: 2021-07-28
@@ -8,7 +8,7 @@ published: false
 ---
 <!--StartFragment-->
 
-Im Zentrum unseres Content Managament Systems (CMS) steht der Raumbezug der verwalteten Daten, weshalb wir Cartaro auch als "GeoCMS" bezeichnen. Insbesondere im Auftrag der SBB haben wir unser GeoCMS in letzter Zeit intensiv weiterentwickelt. Dieser Blog-Beitrag gibt einen Überblick über die wichtigsten neuen Funktionen. Vorher werden die Hauptfunktionen von Cartaro kurz zusammengefasst.
+Im Zentrum unseres Content Managament Systems (CMS) steht der Raumbezug der verwalteten Daten, weshalb wir Cartaro auch als "GeoCMS" bezeichnen. In letzter Zeit haben wir das GeoCMS intensiv weiterentwickelt. Dieser Blog-Beitrag gibt einen Überblick über die wichtigsten neuen Funktionen. Vorher werden die Hauptfunktionen von Cartaro kurz zusammengefasst.
 
 ## Ein kurzer Steckbrief
 
@@ -30,7 +30,7 @@ In Cartaro lassen sich neue geographische Objekte anlegen, bearbeiten und mit th
 
 <!--StartFragment-->
 
-Die neue Kilometrierungs-Funktion kommt bei der SBB zum Beispiel zum Einsatz, um Verantwortlichkeiten zu Liniensegmenten zu verwalten und in der [Webkarte "Koordinatoren Bahnnahes Bauen"](https://maps.trafimage.ch/ch.sbb.regionenkarte.public) anzuzeigen.
+Die neue Kilometrierungs-Funktion kommt zum Beispiel bei der SBB zum Einsatz, um Verantwortlichkeiten zu Liniensegmenten zu verwalten und in der [Webkarte "Koordinatoren Bahnnahes Bauen"](https://maps.trafimage.ch/ch.sbb.regionenkarte.public) anzuzeigen.
 
 ## Integration unseres Routing-Dienstes
 

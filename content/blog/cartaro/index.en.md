@@ -1,5 +1,5 @@
 ---
-title: Neue Funktionen im GeoCMS "Cartaro"
+title: Neue Funktionen im GeoCMS Cartaro
 summary: >+
   Mit unserem Online-Tool Cartaro lassen sich räumliche Informationen
   komfortabel verwalten und auf Knopfdruck in einer Webkarte veröffentlichen.
