@@ -17,8 +17,12 @@ Travel information has many facets. On the one hand there is the personalized in
 
 Line network plans refer to different areas from the overall offer. They can be differentiated according to regions, operators, means of transport, day and night networks or other criteria. In the case of topographical network plans, the position of the lines is closely aligned with reality, while schematized plans are more or less abstracted in order to emphasize the connections between the lines and stations more clearly.
 
+![](/images/solution/network-plans/lnp.png)
+
 ## Map information dynamically
 
 Our network plans are largely calculated automatically. The calculation is usually based on timetable data, which can be filtered according to the criteria listed above. The results are graphic images that classically depict lines in different colors.
 In addition, a topological network of edges and nodes is created, which has great potential for intelligent, dynamic representations. For example, you can use our network plans as a basis for real-time visualizations such as those we operate for the S-Bahn München and S-Bahn Hamburg. They can also be used to display disruptions on the route or operating characteristics such as the timing on the lines.
 The automated process offers great advantages in that the plans can be updated at short notice and at low cost, if the underlying data requires it, e.g. due to timetable change.
+
+<iframe src="https://tralis.dev.sbahnm.geops.de/?mode=schematic&x=1336795&y=6128480&z=11" width="100%" height="600" title="Tralis Livemap" class="hidden lg:block border-gray-lighter border-2"></iframe>
