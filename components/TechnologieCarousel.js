@@ -1,6 +1,8 @@
 import dynamic from "next/dynamic";
 import { CarouselProvider, DotGroup, Slider, Slide } from "pure-react-carousel";
 
+import React, { useLayoutEffect, useState } from 'react';
+
 import "pure-react-carousel/dist/react-carousel.es.css";
 import styles from "./Carousel.module.css";
 
@@ -9,12 +11,26 @@ const CarouselKeyboardNavigation = dynamic(
   { ssr: false }
 );
 
+function useWindowSize() {
+  const [size, setSize] = useState([0, 0]);
+  useLayoutEffect(() => {
+    function updateSize() {
+      setSize([window.innerWidth]);
+    }
+    window.addEventListener('resize', updateSize);
+    updateSize();
+    return () => window.removeEventListener('resize', updateSize);
+  }, []);
+  return size;
+}
+
 export default function TechnologyCarousel({ slides }) {
+  const [width] = useWindowSize();
   return (
     <div className="mx-auto px-8 prose prose-xl max-w-screen-lg">
         <CarouselProvider
           className={`${styles.carousel}`}
-          visibleSlides={5}
+          visibleSlides={width < 768 ? 3 : 5}
           interval={3000}
           infinite
           isPlaying
