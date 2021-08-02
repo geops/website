@@ -2,7 +2,7 @@
 title: New Features in the GeoCMS Cartaro
 summary: With our online tool Cartaro, spatial information can be conveniently
   managed and published in a web map at the push of a button.
-cover: /images/blog/neue-funktionen-im-geocms-cartaro/cartaro_blog_uebersicht.jpg
+cover: /images/blog/new-features-in-the-geocms-cartaro/cartaro_0208.jpg
 created: 2021-07-28
 slug: cartaro
 published: false
