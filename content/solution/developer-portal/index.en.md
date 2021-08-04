@@ -23,4 +23,4 @@ published: true
 ---
 Our developer portal offers a toolbox for applications in public transport and mobility in general. The tools include open source libraries as well as programming interfaces (API), which are inspired by the experience of many projects for transport companies.
 
-The tools support extensive and precise information for passengers based on timetables as well as deviations and disruptions, the bulk of it in real time. An important focus lies on spatial information tailored for the needs of public transport. The results are APIs for maps that highlight features of public transport in particular, or APIs that visualize the precise course of a train or bus itinerary or track the real-time positions of vehicles.
+An important focus lies on spatial information tailored for the needs of public transport. The results are APIs for maps that highlight features of public transport in particular, or APIs that visualize the precise course of a train or bus itinerary or track the real-time positions of vehicles.
