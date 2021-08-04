@@ -5,6 +5,10 @@ summary: With our online tool Cartaro, spatial information can be conveniently
 cover: /images/blog/new-features-in-the-geocms-cartaro/cartaro_02008.jpg
 created: 2021-07-28
 slug: cartaro
+tags:
+  - cartaro
+  - maps
+frontpage: true
 published: false
 ---
 <!--StartFragment-->
