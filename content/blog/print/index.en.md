@@ -23,3 +23,4 @@ published: true
 * [geOps Newsletter](https://geops.ch/newsletter)
 * [Online-Editor mapset](https://mapset.ch)
 * [mapset Newsletter](https://geops.sh/mapset)
+* [Developer Portal](https://developer.geops.io)
