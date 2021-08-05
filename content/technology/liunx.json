@@ -1,0 +1,10 @@
+{
+  "en": {
+    "title": "Liunx",
+    "image": "/images/technology/liunx/linux.png",
+    "weight": 60
+  },
+  "de": {
+    "title": "Linux"
+  }
+}
