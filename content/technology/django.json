@@ -1,0 +1,10 @@
+{
+  "en": {
+    "title": "Django",
+    "image": "/images/technology/django/django.png",
+    "weight": 12
+  },
+  "de": {
+    "title": "Django"
+  }
+}
