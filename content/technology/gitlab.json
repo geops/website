@@ -1,0 +1,10 @@
+{
+  "en": {
+    "title": "Gitlab",
+    "image": "/images/technology/gitlab/gitlab.png",
+    "weight": 20
+  },
+  "de": {
+    "title": "Gitlab"
+  }
+}
