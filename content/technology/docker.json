@@ -1,0 +1,10 @@
+{
+  "en": {
+    "title": "Docker",
+    "image": "/images/technology/docker/docker.png",
+    "weight": 47
+  },
+  "de": {
+    "title": "Docker"
+  }
+}
