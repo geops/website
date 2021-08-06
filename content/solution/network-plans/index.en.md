@@ -10,6 +10,7 @@ tags:
   - maps
   - passengerinformation
 frontpage: true
+gridImage: /images/solution/network-plans/lnp_graphic-4x.png
 ---
 Travel information has many facets. On the one hand there is the personalized information, meaning the connection selected as desired with support for the multimodal travel chain. With our services in the field of routing and maps, we offer precise visualization of the travel routes and options for individual navigation. On the other hand, there are line network plans. They help travelers to get an overview of the public transport offer and to get an idea of ​​possible travel routes regardless of a specific connection.
 
