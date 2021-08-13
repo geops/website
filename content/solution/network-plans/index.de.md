@@ -11,9 +11,9 @@ Reisendeninformation hat viele Facetten. Auf der einen Seite steht die personali
 
 Liniennetzpläne greifen unterschiedliche Bereiche aus dem Gesamtangebot auf. Sie können nach Regionen, Betreibern, Verkehrsmitteln, Tag- und Nachtnetzen oder anderen Kriterien differenziert sein. Bei topographischen Netzplänen ist die Lage der Linien eng an der Realität orientiert, während schematisierte Pläne mehr oder weniger stark abstrahiert sind, um die Zusammenhänge der Linien und Stationen deutlicher herauszustellen.
 
-![topografischer plan ](/images/solution/network-plans/vag_topographisch_2_1000x.png "topografischer plan"){width: 50%}
+![topografischer plan ](/images/solution/network-plans/vag_topographisch_2_500x.png "topografischer plan")
 
-![schematischer plan](/images/solution/network-plans/vag_schematisch_2_1000x.png "schematischer plan"){width: 50%}
+![schematischer plan](/images/solution/network-plans/vag_schematisch_2_500x.png "schematischer plan")
 
 ## Dynamisch Informationen abbilden
 

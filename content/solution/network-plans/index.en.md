@@ -18,9 +18,9 @@ Travel information has many facets. On the one hand there is the personalized in
 
 Line network plans refer to different areas from the overall offer. They can be differentiated according to regions, operators, means of transport, day and night networks or other criteria. In the case of topographical network plans, the position of the lines is closely aligned with reality, while schematized plans are more or less abstracted in order to emphasize the connections between the lines and stations more clearly.
 
-![topografischer plan](/images/solution/network-plans/vag_topographisch_2_1000x.png "topografischer plan"){width: 50%}
+![topografischer plan](/images/solution/network-plans/vag_topographisch_2_500x.png "topografischer plan")
 
-![schematic plan](/images/solution/network-plans/vag_schematisch_2_1000x.png "schematic plan"){width: 50%}
+![schematic plan](/images/solution/network-plans/vag_schematisch_2_500x.png "schematic plan")
 
 ## Map information dynamically
 
