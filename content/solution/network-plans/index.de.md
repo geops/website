@@ -11,14 +11,12 @@ Reisendeninformation hat viele Facetten. Auf der einen Seite steht die personali
 
 Liniennetzpläne greifen unterschiedliche Bereiche aus dem Gesamtangebot auf. Sie können nach Regionen, Betreibern, Verkehrsmitteln, Tag- und Nachtnetzen oder anderen Kriterien differenziert sein. Bei topographischen Netzplänen ist die Lage der Linien eng an der Realität orientiert, während schematisierte Pläne mehr oder weniger stark abstrahiert sind, um die Zusammenhänge der Linien und Stationen deutlicher herauszustellen.
 
-![topografischer plan ](/images/solution/network-plans/schemtaischer_plan_freiburg.png "topografischer plan")
+![topografischer plan ](/images/solution/network-plans/vag_topographisch_2_1000x.png "topografischer plan")
 
-![schematischer plan](/images/solution/network-plans/topografischer_plan_freiburg.png "schematischer plan")
+![schematischer plan](/images/solution/network-plans/vag_schematisch_2_1000x.png "schematischer plan")
 
 ## Dynamisch Informationen abbilden
 
 Unsere Liniennetzpläne werden weitgehend automatisch berechnet. Grundlage der Berechnung sind meist Fahrplandaten, die nach den oben aufgeführten Kriterien gefiltert sein können. Das Ergebnis sind grafische Abbildungen, die klassischerweise Linien in unterschiedlichen Farben darstellen. 
 Zusätzlich entsteht aber auch ein topologisches Netz von Knoten und Kanten, das ein grosses Potenzial für intelligente, dynamische Darstellungen hat. So lassen sich unsere Netzpläne beispielsweise als Grundlage für Echtzeit-Visualisierungen nutzen, wie wir sie für die S-Bahnen in München und Hamburg betreiben. Ebenso können sie zur Darstellung von Störungen oder von Betriebscharakteristiken wie der Taktung auf den Linien genutzt werden. 
 Grosse Vorteile bieten die automatisiert erstellten Pläne vor allem dadurch, dass sie jederzeit kurzfristig und kostengünstig aktualisiert werden können, wenn es die zugrundeliegenden Daten, z.B. aufgrund des Fahrplanwechsels erfordern.
-
-<iframe src="https://tralis.dev.sbahnm.geops.de/?mode=schematic&x=1336795&y=6128480&z=11" width="100%" height="600" title="Tralis Livemap" class="hidden lg:block border-gray-lighter border-2"></iframe>
