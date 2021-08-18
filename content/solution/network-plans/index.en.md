@@ -2,6 +2,7 @@
 title: Transit Network Plans
 summary: Easily grasped overviews of the public transport offer.
 cover: /images/solution/networkplan_sob.jpg
+pageCoverMobile: ""
 slug: network-plans
 color: white
 contactSubtitle: ""
@@ -10,7 +11,8 @@ tags:
   - maps
   - passengerinformation
 frontpage: true
-gridImage: /images/solution/network-plans/lnp_graphic-4x.png
+frontpageImage: /images/solution/network-plans/lnp_muenchen_cover_mobile.png
+gridImage: /images/solution/network-plans/lnp_grid_cover.png
 ---
 Travel information has many facets. On the one hand there is the personalized information, meaning the connection selected as desired with support for the multimodal travel chain. With our services in the field of routing and maps, we offer precise visualization of the travel routes and options for individual navigation. On the other hand, there are line network plans. They help travelers to get an overview of the public transport offer and to get an idea of ​​possible travel routes regardless of a specific connection.
 
@@ -18,7 +20,8 @@ Travel information has many facets. On the one hand there is the personalized in
 
 Line network plans refer to different areas from the overall offer. They can be differentiated according to regions, operators, means of transport, day and night networks or other criteria. In the case of topographical network plans, the position of the lines is closely aligned with reality, while schematized plans are more or less abstracted in order to emphasize the connections between the lines and stations more clearly.
 
-![topografischer plan](/images/solution/network-plans/lnp-1-.png "topografischer plan")
+<img src="/images/solution/network-plans/lnp-1-.png" alt="Maps" class="w-full mx-auto hidden md:block">
+<img src="/images/solution/network-plans/LNP_mobile.jpg" alt="Maps" class="w-full mx-auto md:hidden">
 
 ## Map information dynamically
 
