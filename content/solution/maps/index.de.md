@@ -36,12 +36,12 @@ Neben einem für die allgemeine Orientierung übersichtlichen und informativen D
 
 Unsere Karten basieren auf MapBox Vector Tiles. Diese Technologie erlaubt hochperformante Kartendarstellungen und ermöglicht unbegrenzte Möglichkeiten für das Styling und die Interaktivität der Karten. Mit den gleichen Grundlagen können die Karten ganz unterschiedlich aussehen und optimal an Ihr Corporate Design oder Ihren speziellen Anwendungsfall angepasst werden.
 
-<img src="/path/to/desktop/map_raster.png" alt="Maps" class="w-full mx-auto hidden lg:block">
-<img src="/path/to/mobile/map_raster_mobil.png" alt="Maps" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/maps/map_raster.png" alt="Maps" class="w-full mx-auto hidden lg:block">
+<img src="/images/solution/maps/map_raster_mobil.png" alt="Maps" class="w-full mx-auto lg:hidden">
 
 ## Sicher und schnell
 
 Für die Auslieferung der Karten an Ihre Anwendung nutzen wir einen etablierten Workflow. Ausgehend von unserer Datenbank, in der die verschiedenen Datenquellen integriert werden, werden Vector Tiles gerechnet und für das Internet aufbereitet. Sämtliche Karten stehen Ihnen über ein globales Content Delivery Network zur Verfügung, was hohe Übertragungsgeschwindigkeiten und geringe Latenzzeiten garantiert – egal wo auf der Welt Sie die Karten nutzen. In Ihrer Anwendung können Sie die Karten mit wenig Programmieraufwand über bewährte Software-Bibliotheken nutzen. Und sollten doch einmal klassische Rasterkarten benötigt werden, lassen sich auch die in zahlreichen Varianten bereitstellen.
 
-<img src="/path/to/desktop/geops_ablauf_grafik_02.png" alt="Maps" class="w-full mx-auto hidden lg:block">
-<img src="/path/to/mobile/geops_ablauf_grafik_02_mobile.png" alt="Maps" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/maps/geops_ablauf_grafik_02.png" alt="Maps" class="w-full mx-auto hidden lg:block">
+<img src="/images/solution/maps/geops_ablauf_grafik_02_mobile.png" alt="Maps" class="w-full mx-auto lg:hidden">
