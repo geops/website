@@ -37,7 +37,7 @@ Neben einem für die allgemeine Orientierung übersichtlichen und informativen D
 Unsere Karten basieren auf MapBox Vector Tiles. Diese Technologie erlaubt hochperformante Kartendarstellungen und ermöglicht unbegrenzte Möglichkeiten für das Styling und die Interaktivität der Karten. Mit den gleichen Grundlagen können die Karten ganz unterschiedlich aussehen und optimal an Ihr Corporate Design oder Ihren speziellen Anwendungsfall angepasst werden.
 
 <img src="/images/solution/maps/map_raster.png" alt="Maps" class="w-full mx-auto hidden lg:block">
-<img src="/images/solution/maps/map_raster_mobil.png" alt="Maps" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/maps/map_raster_mobile.png" alt="Maps" class="w-full mx-auto lg:hidden">
 
 ## Sicher und schnell
 

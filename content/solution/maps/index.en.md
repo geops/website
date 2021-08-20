@@ -47,7 +47,7 @@ In addition to a clear and informative design for general orientation, the follo
 Our maps are based on MapBox Vector Tiles. This technology enables high-performance map visualization and enables unlimited possibilities for the styling and interactivity of the maps. Although using the same data source, the maps can look very different, for example when adapted to your corporate design or your special application.
 
 <img src="/images/solution/maps/map_raster.png" alt="Maps" class="w-full mx-auto hidden lg:block">
-<img src="/images/solution/maps/map_raster_mobil.png" alt="Maps" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/maps/map_raster_mobile.png" alt="Maps" class="w-full mx-auto lg:hidden">
 
 ## Safe and fast
 
