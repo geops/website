@@ -23,7 +23,7 @@ Eine Anwendung des Routings findet sich in unserem weltweiten Tracker wieder, be
 
 ![WKP Route](/images/solution/routing/wkp2.png "WKP Route")
 
-Das Routing ist für zahlreiche Projekte im Einsatz. Zum Beispiel werden die Routenverläufe in unserem [Echtzeit-Tracker](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=925472&y=5920000&z=9) darüber berechnet. Die Schweizerische Bundesbahn SBB nutzt das Routing für Züge, Trams, Busse und Seilbahnen, um den Reisenden detaillierte Infos zum Verlauf der Reiseroute anzuzeigen. Auch in [mapset](https://mapset.io/) steht das Routing zur Verfügung, um das Einzeichnen von Fusswegen in den Plan zu vereinfachen.
+Das Routing ist für zahlreiche Projekte im Einsatz. Zum Beispiel werden die Routenverläufe in unserem Echtzeit-Tracker darüber berechnet. Die Schweizerische Bundesbahn SBB nutzt das Routing für Züge, Trams, Busse und Seilbahnen, um den Reisenden detaillierte Infos zum Verlauf der Reiseroute anzuzeigen. Auch in [mapset](https://mapset.io/) steht das Routing zur Verfügung, um das Einzeichnen von Fusswegen in den Plan zu vereinfachen.
 
 ## Wo entlang und wie
 
