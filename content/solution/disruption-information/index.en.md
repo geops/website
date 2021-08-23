@@ -4,6 +4,7 @@ summary: When things don't run smoothly in public transport, it is crucial that
   travelers are informed quickly and transparently.
 cover: /images/solution/disruption-information/moco_trainstation.jpg
 pageCover: /images/solution/disruption-information/moco_trainstation.jpg
+pageCoverMobile: /images/solution/disruption-information/moco_mobile.png
 slug: disruption-information
 color: "#353535"
 contactTitle: Your individual solution
