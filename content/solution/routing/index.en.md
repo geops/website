@@ -4,6 +4,7 @@ summary: With our routing service you can find the routes and lines for public
   transport vehicles, for cars and trucks as well as for pedestrians.
 cover: /images/solution/routing/routing_02.png
 pageCover: /images/solution/routing/routing_02.png
+pageCoverMobile: /images/solution/routing/routing_mobile.png
 slug: routing
 color: "#549413"
 contactTitle: Interested?
