@@ -1,7 +1,7 @@
 ---
 title: Transit Network Plans
 summary: Easily grasped overviews of the public transport offer.
-cover: /images/solution/networkplan_sob.jpg
+cover: /images/solution/network-plans/networkplan_sob.jpg
 pageCoverMobile: ""
 slug: network-plans
 color: white
