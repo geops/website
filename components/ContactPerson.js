@@ -1,11 +1,5 @@
 import { useI18n } from "../lib/i18n";
 
-const arrowDown = {
-  borderLeft: "32px solid transparent",
-  borderRight: "32px solid transparent",
-  borderTopWidth: "32px",
-};
-
 export default function ContactPerson({ person, subtitle, title }) {
   let subtitleClassName = "";
   if (subtitle) {
@@ -19,8 +13,8 @@ export default function ContactPerson({ person, subtitle, title }) {
   return (
     <section className="container mx-auto mb-16 mt-16 lg:mb-24 lg:mt-24 max-w-screen-lg">
       <div
-        className={`bg-gray-lighter md:flex flex-row-reverse justify-center m-8 mb-0 p-8 text-center ${
-          person.photo && "md:text-left"
+        className={`bg-gray-lighter md:flex flex-row-reverse justify-center m-8 p-8 text-center ${
+          person.photo ? "md:text-left" : ""
         }`}
       >
         <div>
@@ -64,10 +58,6 @@ export default function ContactPerson({ person, subtitle, title }) {
           />
         )}
       </div>
-      <div
-        className="border-gray-lighter mx-auto relative h-0 w-0"
-        style={arrowDown}
-      />
     </section>
   );
 }
