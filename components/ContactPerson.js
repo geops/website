@@ -1,15 +1,10 @@
 import { useI18n } from "../lib/i18n";
 
 export default function ContactPerson({ person, subtitle, title }) {
-  let subtitleClassName = "";
-  if (subtitle) {
-    subtitleClassName =
-      "my-8 font-regular prose prose-2xl text-gray-darker mx-auto";
-  } else {
-    subtitleClassName =
-      "mt-2 font-bold prose prose-2xl text-gray-darker w-2/3 mx-auto";
-  }
   const { language, t } = useI18n();
+  const subtitleClassName = subtitle
+    ? "my-8 font-regular link-text-green"
+    : "mt-2 font-bold w-2/3";
   return (
     <section className="container mx-auto mb-16 mt-16 lg:mb-24 lg:mt-24 max-w-screen-lg">
       <div
@@ -21,7 +16,7 @@ export default function ContactPerson({ person, subtitle, title }) {
           <h1>{title || t("contactPerson.title")}</h1>
           {subtitle ? (
             <div
-              className={`${subtitleClassName}`}
+              className={`prose prose-2xl text-gray-darker mx-auto ${subtitleClassName}`}
               dangerouslySetInnerHTML={{ __html: subtitle }}
             />
           ) : (
