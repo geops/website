@@ -37,4 +37,4 @@ Thanks to our many years of work in the field of public transport, we have a who
 ![]()
 
 <img src="/images/solution/disruption-information/baustellenkommunikation_k.png" alt="Livemap Munich" class="w-full mx-auto hidden lg:block">
-<img src="/images/solution/disruption-information/s_bahn_muenchen_neu" alt="Livemap Munich" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/disruption-information/s_bahn_muenchen_neu.png" alt="Livemap Munich" class="w-full mx-auto lg:hidden">
