@@ -1,5 +1,5 @@
 ---
-title: SBB web maps and station plans
+title: SBB maps and station plans
 summary: Maps and station plans for the entire public transport in Switzerland.
 cover: /images/solution/webkarten-und-bahnhofplaene/iabp.png
 pageCover: /images/solution/webkarten-und-bahnhofplaene/iabp.png
@@ -7,9 +7,7 @@ slug: webkarten-und-bahnhofplaene
 color: "#353535"
 contactSubtitle: Do you want to provide your customers with an appealing map for
   mobility in Switzerland? Then contact us. We at geOps are happy to help you
-  with the topics of web maps and data integration. If you have any questions
-  about graphic design and print production, our ARGE partner <a
-  href="https://evoq.ch" target="_blank">evoq</a> is the right contact.
+  with the topics of web maps and data integration.
 weight: 3
 tags:
   - iabp
