@@ -10,7 +10,7 @@ weight: 10
 tags:
   - maps
   - passengerinformation
-frontpage: true
+frontpage: false
 frontpageImage: /images/solution/network-plans/lnp_muenchen_cover_mobile.png
 gridImage: /images/solution/network-plans/lnp_grid_cover.png
 ---
