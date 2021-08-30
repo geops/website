@@ -1,5 +1,5 @@
 ---
-title: Webkarten und Bahnhofpläne der SBB
+title: Karten und Bahnhofpläne der SBB
 summary: Einheitliche Karten und Bahnhof­pläne für den gesamten öffentlichen
   Verkehr in der Schweiz.
 slug: webkarten-und-bahnhofplaene
@@ -7,9 +7,7 @@ contactTitle: ""
 contactSubtitle: Wollen Sie ihren Kunden eine ansprechende Karte zum Thema
   Mobilität in der Schweiz bereitstellen? Dann sprechen Sie uns an. Bei den
   Themen Webkarten und Datenintegrationen helfen wir von geOps Ihnen gern
-  weiter. Bei Fragen zu den Themen graphische Gestaltung und Print-Produktion
-  ist unser ARGE-Partner <a href="https://evoq.ch" target="_blank">evoq</a> der
-  richtige Ansprechpartner.
+  weiter.
 frontpage: false
 frontpageTitle: Webkarten und Bahnhofpläne
 ---
