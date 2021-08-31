@@ -34,7 +34,7 @@ published: true
 ---
 Would you like to make up-to-date and attractive information about public transport available to your customers? mapset allows the easy creation of clear and visually appealing plan graphics. With just a few clicks, you can visualize plans for changed stops, rail replacement services, communicate the situation in construction projects, guarantee customer guidance at events or provide information about special operational cases on site. All of this is based on map images that are tailored to the needs of public transport companies. The maps are regularly updated and optimized with the latest data.
 
-![](/images/solution/mapset/mapset_mobil.png)
+![]()
 
 <img src="/images/solution/mapset/mapset.png" alt="mapset" class="w-full mx-auto hidden lg:block">
 <img src="/images/solution/mapset/mapset_mobil.png" alt="mapset" class="w-full mx-auto lg:hidden">
