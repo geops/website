@@ -20,8 +20,8 @@ Sie möchten Ihren Kunden aktuelle und attraktive Informationen zum öffentliche
 
 ![Erstatzplan]( "Erstatzplan")
 
-<img src="/images/solution/tralis-livemap/mapset.png" alt="mapset" class="w-full mx-auto hidden lg:block">
-<img src="/images/solution/tralis-livemap/mapset_mobil.png" alt="mapset" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/mapset/mapset.png" alt="mapset" class="w-full mx-auto hidden lg:block">
+<img src="/images/solution/mapset/mapset_mobil.png" alt="mapset" class="w-full mx-auto lg:hidden">
 
 mapset ist weltweit nutzbar und wird im Abo-Modell vertrieben. Für die Schweiz stehen Informationen zu Preisen, der Funktionsweise und den Vorteilen von mapset unter [mapset.ch](http://mapset.ch/) zur Verfügung. Andere Länder finden alles Wissenswerte unter [mapset.io](http://mapset.io/). Auf beiden Seiten erhalten Sie die Möglichkeit, mapset in einer Demo unverbindlich auszuprobieren und ausgiebig zu testen.
 
