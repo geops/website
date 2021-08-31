@@ -24,7 +24,7 @@ Would you like to provide your customers with information about offers and servi
 <img src="/images/solution/cartaro/iabp_mask.png" alt="CMS Mask" class="w-full mx-auto hidden lg:block">
 <img src="/images/solution/cartaro/iabp_mask_mobil.png" alt="CMS Mask" class="w-full mx-auto lg:hidden">
 
-![CMS Mask](/images/solution/cartaro/iabp_mask.png "CMS Mask")
+![CMS Mask](/images/solution/cartaro/iabp_mask_mobil.png "CMS Mask")
 
 ### The essential functions at a glance
 
