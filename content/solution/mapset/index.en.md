@@ -36,8 +36,8 @@ Would you like to make up-to-date and attractive information about public transp
 
 ![](/images/solution/mapset/mapset.png)
 
-<img src="/images/solution/tralis-livemap/mapset.png" alt="tralis network lines" class="w-full mx-auto hidden lg:block">
-<img src="/images/solution/tralis-livemap/tralis_plan_mobil-1-.jpg" alt="tralis network lines" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/tralis-livemap/mapset.png" alt="mapset" class="w-full mx-auto hidden lg:block">
+<img src="/images/solution/tralis-livemap/tralis_plan_mobil-1-.jpg" alt="mapset" class="w-full mx-auto lg:hidden">
 
 mapset can be used worldwide and is sold as a subscription. For Switzerland, information on prices, how it works and the advantages of mapset is available at [mapset.ch](http://mapset.ch/). Other countries can find everything worth knowing at [mapset.io](http://mapset.io/). On both sides you have the opportunity to try out mapset in a non-binding demo and to test it extensively.
 
