@@ -32,7 +32,7 @@ Live Maps show the positions of public transport vehicles on a map.
 
 In the basic version, the vehicle positions are extrapolated on the basis of the **target timetable**, i.e. the medium- and long-term planned timetable offer. Train delays, cancellations or diversions are ignored. The resulting representations are therefore only suitable to a limited extent as traveler information. However, they can provide a good overview of what public transport is actually offering. These approaches are also popular with planners and decision-makers, as there is also the option of visualizing various planning scenarios. Our [globally available representation of public transport](https://tracker.geops.ch/?z=6&s=1&x=1150450.8381&y=6451274.7870&l=transport) is largely based on target data.
 
-![](/images/solution/tralis-livemap/tracker-worldwide.png)
+![](/images/solution/tralis-livemap/tracker_worldwide_960.png)
 
 Solutions that take continuously updated deviations from the planned arrival and departure times ("delays") or information on failures and diversions into account, i.e.  **real-time** **data,** go one step further in mapping the actual situation of the timetable. By combining the expected positions from the target timetable with the deviations, the representation on the map comes very close to reality. The accuracy of the display depends primarily on the quality of real-time data the control centers of the transport companies can provide. Factors that falsify the result are, for example, the widespread rounding of times to whole minutes, the delayed updating of data, the incomplete mapping of stop times at stations or failures and diversions. Nevertheless, this gives a very good picture of the current operational sequence.
 
