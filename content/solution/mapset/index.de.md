@@ -18,7 +18,7 @@ published: true
 ---
 Sie möchten Ihren Kunden aktuelle und attraktive Informationen zum öffentlichen Verkehr zugänglich machen? mapset erlaubt die einfache Erstellung von übersichtlichen und optisch ansprechenden Plangrafiken. Mit wenigen Klicks visualisieren Sie Pläne für geänderte Haltestellen, den Schienenersatzverkehr, kommunizieren die Situation bei Bauprojekten, gewährleisten die Kundenführung bei Events oder informieren über betriebliche Sonderfälle vor Ort. All dies auf Basis von Kartenbildern, die auf die Bedürfnisse von Unternehmen des öffentlichen Verkehrs zugeschnitten sind. Die Karten werden regelmässig mit den neuesten Daten aktualisiert und optimiert.
 
-![Erstatzplan]( "Erstatzplan")
+![]()
 
 <img src="/images/solution/mapset/mapset.png" alt="mapset" class="w-full mx-auto hidden lg:block">
 <img src="/images/solution/mapset/mapset_mobil.png" alt="mapset" class="w-full mx-auto lg:hidden">
