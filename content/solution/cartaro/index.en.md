@@ -21,6 +21,9 @@ frontpageImage: /images/solution/cartaro/cartaro_01.png
 ---
 Would you like to provide your customers with information about offers and services on a web map? Then our geographic CMS Cartaro is the perfect tool for you. A convenient form interface enables texts, images and other content to be managed and spatially referenced on a map using GIS tools. Furthermore,  existing data sets can be imported and exported for third-party systems. Cartaro is already used by numerous customers for the management of spatial content. The tool is expandable and can be flexibly adapted to your needs.
 
+<img src="/images/solution/cartaro/iabp_mask.png" alt="CMS Mask" class="w-full mx-auto hidden lg:block">
+<img src="/images/solution/cartaro/iabp_mask_mobil.png" alt="CMS Mask" class="w-full mx-auto lg:hidden">
+
 ![CMS Mask](/images/solution/cartaro/iabp_mask_02_neu.png "CMS Mask")
 
 ### The essential functions at a glance
