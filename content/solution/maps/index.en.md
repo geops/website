@@ -39,10 +39,7 @@ In addition to a clear and informative design for general orientation, the follo
 * House numbers as well as entrances and passages as orientation points for door-to-door navigation
 * Elements that are important for barrier-free navigation, such as lifts and escalators
 
-![](/images/solution/maps/aarau_buslinien.png)
-
-<img src="/images/solution/maps/travic_k.png" alt="Maps" class="w-full mx-auto hidden lg:block">
-<img src="/images/solution/maps/travic_mobil.jpg" alt="Maps" class="w-full mx-auto lg:hidden">
+![Maps](/images/solution/maps/aarau_buslinien.png)
 
 ## Flexible with Vector Tiles
 
