@@ -41,6 +41,4 @@ A good example of such a Live Map is the [Swiss Federal Railways SBB punctuality
 <img src="/images/solution/tralis-livemap/livemap_s-bahn_muenchen.png" alt="tralis network lines" class="w-full mx-auto hidden lg:block">
 <img src="/images/solution/tralis-livemap/Livemap_960_02.png" alt="tralis network lines" class="w-full mx-auto lg:hidden">
 
-![]()
-
 Live Maps generate the greatest added value when, in addition to the target timetable and the forecast deviations, the **actual position of the vehicles** is taken into account. Our TRALIS system is able to combine these three sources of information. Vehicle positions from GPS receivers or other positioning systems not only serve to display the position of the vehicles on the map as precisely as possible, but they are also used to validate the forecasts from the control center. Unrealistic forecasts can be identified using travel times. If the minimum travel time known in the system to the stop is longer than the forecast, the forecast arrival time can be corrected upwards. On the other hand, the system must rely on the forecasts from the control centers if the control centers predict a later point in time for arrival than can be expected based on the driving time alone. Because the overview from the control center alone knows the possible obstacles and restrictions that lie in front of the located vehicle.
