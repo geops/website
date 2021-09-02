@@ -38,8 +38,8 @@ Solutions that take continuously updated deviations from the planned arrival and
 
 A good example of such a Live Map is the [Swiss Federal Railways SBB punctuality map](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=953651.78&y=5998579.74&z=11.049958158687245). Even in extreme situations such as the heavy snowfall on January 15, 2021, it showed exactly which vehicles had failed or how few trips were still being made.
 
-<img src="/images/solution/livemap/livemap_s-bahn_muenchen.png" alt="tralis network lines" class="w-full mx-auto hidden lg:block">
-<img src="/images/solution/livemap/Livemap_960_02.png" alt="tralis network lines" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/tralis-livemap/livemap_s-bahn_muenchen.png" alt="tralis network lines" class="w-full mx-auto hidden lg:block">
+<img src="/images/solution/tralis-livemap/Livemap_960_02.png" alt="tralis network lines" class="w-full mx-auto lg:hidden">
 
 ![]()
 

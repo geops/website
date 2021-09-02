@@ -24,8 +24,8 @@ Einen Schritt weiter in der Abbildung der tatsächlichen Situation gehen Lösung
 
 Ein gutes Beispiel für eine solche Live Map ist die [Pünktlichkeitskarte der Schweizerischen Bundesbahn SBB](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=953651.78&y=5998579.74&z=11.049958158687245). Auch in Extremsituationen wie während der starken Schneefälle am 15. Januar 2021 zeigte sie genau, welche Fahrzeuge ausgefallen sind bzw. wie wenige Fahrten überhaupt noch durchgeführt wurden.
 
-<img src="/images/solution/livemap/livemap_s-bahn_muenchen.png" alt="tralis network lines" class="w-full mx-auto hidden lg:block">
-<img src="/images/solution/livemap/Livemap_960_02.png" alt="tralis network lines" class="w-full mx-auto lg:hidden">
+<img src="/images/solution/tralis-livemap/livemap_s-bahn_muenchen.png" alt="tralis network lines" class="w-full mx-auto hidden lg:block">
+<img src="/images/solution/tralis-livemap/Livemap_960_02.png" alt="tralis network lines" class="w-full mx-auto lg:hidden">
 
 ![]()
 
