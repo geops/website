@@ -79,6 +79,13 @@ h3,
   @apply list-disc;
 }
 
+.block-desktop {
+  @apply w-full mx-auto hidden lg:block;
+}
+.block-mobile {
+  @apply w-full mx-auto lg:hidden;
+}
+
 .link-text-green a {
   @apply text-green;
 }
