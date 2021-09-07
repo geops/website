@@ -20,7 +20,7 @@
     "remark": "^14.0.1",
     "remark-external-links": "^9.0.1",
     "remark-highlight.js": "^7.0.1",
-    "remark-html": "^14.0.0",
+    "remark-html": "^14.0.1",
     "rosetta": "^1.1.0"
   },
   "devDependencies": {
