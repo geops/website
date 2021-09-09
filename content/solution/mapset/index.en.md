@@ -2,7 +2,7 @@
 title: mapset – Plans for public Transport
 summary: mapset allows easy creation of clear and visually appealing plans for
   public transport concerns.
-cover: /images/solution/mapset/gruppe-57.png
+cover: /images/solution/mapset/mapset_teaser_startseite.png
 pageCover: /images/solution/mapset/mapset_solutions.png
 pageCoverMobile: /images/solution/mapset/header_mapset_mobil.png
 slug: mapset
