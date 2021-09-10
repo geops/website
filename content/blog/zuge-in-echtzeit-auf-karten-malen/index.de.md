@@ -13,7 +13,7 @@ Echtzeit
 
 Da die Züge ihre Position ändern, bekommen wir ständig neue Positionsdaten für einzelne Züge übermittelt. Diese werden unverzüglich verarbeitet und an alle verbundenen Clients (das Endgerät) weitergegeben. Hierfür sollten die Clients nicht ständig nach neuen Daten fragen müssen, sondern pro-aktiv vom Server informiert werden.
 
-### Echtzeit im Web
+## Echtzeit im Web
 
 In klassischen Web-Anwendungen läuft die Interaktion zwischen dem Client und dem Server in etwa so ab:
 

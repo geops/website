@@ -26,7 +26,7 @@ Would you like to provide your customers with information about offers and servi
 
 ![]()
 
-### The essential functions at a glance
+## The essential functions at a glance
 
 * **Data acquisition** : A large number of input fields are available in Cartaro to manage the data. Among other things, they can be used to write texts with a WYSIWYG editor and upload images. A high-performance full-text search is available for searching through the data records. Filters also help to find relevant data records on the map and in list view.
 * **Location**: To geographically reference data, tools for drawing points, lines and areas as well as various GIS tools are available. Existing geodata can also be imported into the system and enriched with additional information. Line-related information, e.g. on rail networks, can be stored on the basis of kilometre information.

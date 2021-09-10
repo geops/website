@@ -45,7 +45,7 @@ Bei `flake8` empfiehlt sich folgende Ergänzung in der `.flake8` oder `setup.cfg
 
 Für andere Tools gibt es in der [Black-Dokumentation Konfigurationsvorschläge](https://github.com/psf/black/blob/master/docs/compatible_configs.md#black-compatible-configurations).
 
-### Darker: Black auf Änderungen beschränken
+## Darker: Black auf Änderungen beschränken
 
 Wenn die Einführung von Black zu viel Chaos bedeuten würde (insbesondere bei größeren Projekten mit mehreren Maintainern), kann [Darker](https://github.com/akaihola/darker/) sich auf neuen oder geänderten Code beschränken.
 

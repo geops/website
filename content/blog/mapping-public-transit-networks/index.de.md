@@ -32,7 +32,7 @@ Die grundlegende Ablauf unseres Ansatzes ist wie folgt:
 
 Im folgenden werden die einzelnen Schritte kurz erläutert.
 
-### 1\. Graph
+## 1\. Graph
 
 Um eine Routenfindung auf den geografischen Referenzdaten durchführen zu können, müssen diese (häufig nur eine lose Sammlung von Liniengeometrien) in einen topologisch korrekten Graphen überführt und mit dem Fahrplan verknüpft werden. In einem ersten Schritt bereinigen wir deshalb die Ausgangsdaten von Lücken im Netz und verbinden Knoten, die jeweils nur eine ausgehende Kante haben und deren Distanz unter einem Maximalwert liegt.
 

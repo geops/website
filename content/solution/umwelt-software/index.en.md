@@ -33,7 +33,7 @@ Numerous export options are available for data exchange. On the one hand, export
 
 Altlast4Web is a web application that is completely based on open source software. The open source model enables use without license costs and further development according to the needs of all customers.
 
-## TreeApp
+### TreeApp
 
 Forest management is characterized by long-term decisions that usually only affect the next generations. In times of climate change, it is becoming more and more important to make the right decision for the future of forests. On this subject, geOps has developed an app for tree species recommendations for the Swiss Federal Research Institute for Forests, Snow and Landscape WSL, which is intended to be an aid in making decisions about planting and caring for trees.
 

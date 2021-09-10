@@ -16,7 +16,7 @@ published: false
 ---
 [![Lageplan](/images/blog/angebotsinformationen-im-iabp/Lageplan_SBBCH_0_0.png)](https://plans.trafimage.ch/bern)
 
-### Neuerungen des IABP
+## Neuerungen des IABP
 
 Bisher lag der Fokus des [Interaktiven Bahnhofplans](https://plans.trafimage.ch/bern) vor allem auf dem Finden von Angeboten. Für weiterführende Informationen, wie Öffnungszeiten, akzeptierte Zahlungsmittel und Kontaktinformationen, mussten Nutzer die verlinkte SBB-Webseite öffnen.
 

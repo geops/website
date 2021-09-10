@@ -25,7 +25,7 @@ Eine weitere wichtige Komponente von Trafimage sind die Bahnhofpläne. In mehr a
 
 Die Trafimage-Karten sind komplexe Produkte, in welche Geodaten unterschiedlicher Quellen und aktuelle Fahrplaninformationen einfliessen. Das so entstehende aktuelle Netz wird mit von geOps entwickelten GIS-Werkzeugen aufbereitet und mittels Generalisierung graphisch optimiert. Die Datenintegration aus unterschiedlichen Quellen erfolgt automatisch und wird stetig ausgebaut und weiter optimiert.  Für die Anzeige von Abfahrtszeiten und für die Visualisierung der Pünktlichkeit der SBB greifen sowohl Webkarten als auch der Interaktive Bahnhofplan auf unseren Realtime-Service mit aktuellen Zugpositionen und Verspätungsinformationen zu. Die frei verfügbaren Daten decken nicht nur die Schweiz sondern ganz Europa ab.
 
-## Redaktionell angereicherte Inhalte
+### Redaktionell angereicherte Inhalte
 
 Basierend auf unserem [GeoCMS Cartaro](/solution/cartaro) entwickelt und betreibt geOps die Redaktionstools für Karten, Bahnhofpläne und Kundeninformation der SBB.
 
@@ -35,6 +35,6 @@ Das GeoCMS Bahnhofpläne ist die zentrale Plattform für die Pflege von Angebots
 
 Die SBB informiert ihre Kunden auf grossen Generalanzeigern über Einschränkungen im Bahnverkehr. Zu jeder Störung werden Ort, Dauer, Hinweise und mögliche alternative Verbindungen in Cartaro erfasst und über eine Schnittstelle als für den jeweiligen Monitor optimierte Grafik exportiert.
 
-## Karten und Pläne für den gesamten öffentlichen Verkehr
+### Karten und Pläne für den gesamten öffentlichen Verkehr
 
 Um ein einheitliches Erscheinungsbild des öffentlichen Verkehrs in der Schweiz zu gewährleisten, sind die im System Trafimage für die SBB produzierten Karten und Pläne auch für andere Anbieter frei verfügbar. So lassen sich weitere informative Karten und Pläne rund um das Thema Mobilität aus den vorhandenen Karten ableiten. Anpassungen sind im Rahmen des Copyrights erlaubt und mit einfachen Online-Werkzeugen möglich. Eigene redaktionelle Inhalte können mit unserem Redaktionstool in den Karten ergänzt werden.

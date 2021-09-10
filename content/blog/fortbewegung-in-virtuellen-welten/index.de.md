@@ -11,7 +11,7 @@ Dass [Augmented Reality (AR)](https://de.wikipedia.org/wiki/Erweiterte_Realit%25
 
 Gleichzeitig sind grundlegende Herausforderungen, wie die Fortbewegung in virtuellen Welten (Locomotion), bisher nicht endgültig gelöst. Eng damit verknüpft ist die sogenannte [VR-Krankheit](https://de.wikipedia.org/wiki/VR-Krankheit), die durch Abweichungen zwischen der körperlichen Selbstwahrnehmung und dem visuelle Cortex entsteht. Fast jeder mit VR-Erfahrung kann Geschichten davon erzählen. Zu den beliebten Lösungsansätzen für die Fortbewegung in virtuellen Welten, die über den in der realen Welt begehbaren Raum hinausgehen, gehören:
 
-### Künstliche Fortbewegung
+## Künstliche Fortbewegung
 
 Ähnlich wie in herkömmlichen Computerspielen, werden die zur Verfügung stehenden Eingabegeräte (Tastatur, Maus, Gamepads, Joysticks, VR-Controller) zur Fortbewegung verwendet. Dieser Ansatz lässt sich zwar leicht implementieren, führt aber schnell zur VR-Krankheit.
 

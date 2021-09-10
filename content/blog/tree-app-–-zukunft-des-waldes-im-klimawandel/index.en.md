@@ -21,7 +21,7 @@ Die Logik aus den erarbeiteten Forschungsgrundlagen ist in einer mobil nutzbaren
 
 [www.tree-app.ch](http://www.tree-app.ch/)
 
-### Welche Baumarten sollen heute für die Zukunft gepflanzt werden?
+## Welche Baumarten sollen heute für die Zukunft gepflanzt werden?
 
 Ausgangspunkt der Anwendung ist die Wahl einer Position auf der Karte, die manuell oder per GPS-Lokalisierung erfolgen kann. Diverse Karten geben einen Überblick über das Gelände, die heutigen und zukünftig angenommenen Höhenstufen, sowie weitere Kriterien, welche die Baumartenempfehlung beeinflussen. Die Daten aus den Karten werden für die weiteren Berechnungen verwendet, können aber auch manuell übersteuert werden.
 
