@@ -21,7 +21,7 @@ Die Kernfunktion von Cartaro ist die automatische Erzeugung von Erfassungsformul
 
 <!--StartFragment-->
 
-## Zusatzinformationen für beliebige Objekte
+### Zusatzinformationen für beliebige Objekte
 
 In Cartaro lassen sich neue geographische Objekte anlegen, bearbeiten und mit thematischen Attributen versehen. Es können aber auch bestehende Objekte mit bekannter Geometrie mit Zusatzinformationen anreichern. Dazu haben wir Cartaro an unsere [Datendrehscheibe](https://geops.ch/solution/transit-data-hub) angeschlossen, in der wir unter anderem weltweite Stationsdaten und Verkehrsnetze in unterschiedlichen Generalisierungsstufen vorhalten. So können Stationen mit spezifischen Informationen, z.B. zum Reisen für Personen mit eingeschränkter Mobilität erfasst und in einer [Webkarte](https://maps2.trafimage.ch/ch.sbb.handicap) publiziert werden. Neu ist die Funktion um Zusatzinformationen auf Verkehrsnetzen abzubilden. Für die räumliche Verortung der Informationen werden Liniennummer, Start- und Endkilometer des jeweiligen Segmentes gespeichert. Das Speichern der Kilometrierungsinformationen gewährleistet, dass die Informationen in allen Generalisierungsstufen und auch nach einer Veränderung des Linienverlaufes zur Verfügung stehen. 
 
@@ -33,11 +33,11 @@ In Cartaro lassen sich neue geographische Objekte anlegen, bearbeiten und mit th
 
 Die neue Kilometrierungs-Funktion kommt zum Beispiel bei der SBB zum Einsatz, um Verantwortlichkeiten zu Liniensegmenten zu verwalten und in der [Webkarte "Koordinatoren Bahnnahes Bauen"](https://maps.trafimage.ch/ch.sbb.regionenkarte.public) anzuzeigen.
 
-## Integration unseres Routing-Dienstes
+### Integration unseres Routing-Dienstes
 
 Unser Routing-Dienst unterstützt eine Vielzahl an Fortbewegungsarten. Besonders bei Fahrzeugen des öffentlichen Verkehrs liefern wir bessere Ergebnisse als jeder andere Dienst. Um auch Routenverläufe mit themenspezifischen Informationen anreichern zu können, haben wir Cartaro mit unserem Routing-Dienst verknüpft. Nun lassen sich im Eingabeformular Start- Via- und Endstationen definieren, das Verkehrsmittel auswählen und anschliessend Informationen zur so erstellten Route erfassen. Die von uns entwickelte Webkarte zu Direktverbindungen der SBB im Tag- und Nachtnetz wird demnächst publiziert. Wir informieren im Blog und unseren anderen Kanälen, sobald Sie sich in der Webkarte den nächsten Nachtzug in den Urlaub heraussuchen können.
 
-## Und noch mehr
+### Und noch mehr
 
 Mit jedem neuen Thema, das wir in Cartaro integrieren, wächst auch die Anzahl der zur Verfügung stehenden Widgets, Filter und sonstigen Funktionen. Cartaro verfügt über Widgets für die Erfassung von Datumsfeldern, den Dateiupload, einen Koordinaten-Picker und viele mehr. Auch die Listenansicht von Cartaro haben wir weiterentwickelt. Sie kann nun mit beliebig vielen Einträgen umgehen und verfügt über Filter und Möglichkeiten zur Mehrfachbearbeitung. Eine Auflistung aller Funktionen und der diversen Schnittstellen von Cartaro findet sich auf der [Lösungsseite](https://geops.ch/solution).
 
