@@ -2,7 +2,7 @@
 title: Cartaro
 summary: With Cartaro we offer a content management system tailored to manage
   and publish spatial data.
-cover: /images/solution/cartaro/cartaro_01.png
+cover: /images/solution/cartaro/cartaro_header_mobil_1.png
 pageCover: /images/solution/cartaro/cartaro_01.png
 pageCoverMobile: /images/solution/cartaro/cartaro_header_mobil_1.png
 slug: cartaro
