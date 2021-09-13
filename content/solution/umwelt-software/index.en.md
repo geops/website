@@ -37,6 +37,10 @@ Altlast4Web is a web application that is completely based on open source softwar
 
 Forest management is characterized by long-term decisions that usually only affect the next generations. In times of climate change, it is becoming more and more important to make the right decision for the future of forests. On this subject, geOps has developed an app for tree species recommendations for the Swiss Federal Research Institute for Forests, Snow and Landscape WSL, which is intended to be an aid in making decisions about planting and caring for trees.
 
+
+
+![](/images/solution/umwelt-software/tree_app.png)
+
 <img src="/images/solution/umwelt-software/treeapp.jpg" alt="treeapp" class="block-desktop">
 <img src="/images/solution/umwelt-software/altlast-1-.jpg" alt="treeapp" class="block-mobile">
 
