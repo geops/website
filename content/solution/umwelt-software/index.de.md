@@ -27,7 +27,7 @@ Altlast4Web ist eine Webapplikation, die komplett auf Open Source Software beruh
 
 Waldwirtschaft ist geprägt von langfristigen Entscheidungen, die meist erst die nächsten Generationen betreffen. In Zeiten des Klimawandels wird es immer wichtiger die richtige Entscheidung für die Zukunft der Wälder zu treffen. Zu diesem Thema hat geOps für die Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft WSL eine App für Baumartenempfehlungen entwickelt, die eine Hilfestellung für Entschei­&shy;dungen bei der Pflanzung und Pflege von Bäumen sein soll.
 
-<img src="/images/solution/umwelt-software/treeapp.jpg" alt="treeapp" class="block-desktop">
+<img src="/images/solution/umwelt-software/Tree_App.png" alt="treeapp" class="block-desktop">
 <img src="/images/solution/umwelt-software/altlast-1-.jpg" alt="treeapp" class="block-mobile">
 
 Die Grundlagen gliedern den Wald in Standortstypen, die von Waldregion und Höhenstufe des Geländes abhängen. Mit steigenden Temperaturen und weniger Niederschlag werden sich zukünftig die Höhenstufen ändern, bzw. verschieben. Die Forschung der WSL hat zwei mögliche Klimaszenarien und deren Folgen für die Höhenstufen entworfen. Mit Projektionswegen werden die Übergänge von Standortstypen nach Höhenstufe ermittelt.
