@@ -1,7 +1,7 @@
 ---
 title: Maps
 summary: Maps for mobility and public transport.
-cover: /images/solution/maps/header_maps.png
+cover: /images/solution/maps/header_maps_mobil.png
 pageCover: /images/solution/maps/header_maps.png
 pageCoverMobile: /images/solution/maps/header_maps_mobil.png
 slug: maps
