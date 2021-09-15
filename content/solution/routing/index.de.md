@@ -25,10 +25,10 @@ Eine Anwendung des Routings findet sich in unserem weltweiten Tracker wieder, be
 
 Das Routing ist für zahlreiche Projekte im Einsatz. Zum Beispiel werden die Routenverläufe in unserem Echtzeit-Tracker darüber berechnet. Die Schweizerische Bundesbahn SBB nutzt das Routing für Züge, Trams, Busse und Seilbahnen, um den Reisenden detaillierte Infos zum Verlauf der Reiseroute anzuzeigen. Auch in [mapset](https://mapset.io/) steht das Routing zur Verfügung, um das Einzeichnen von Fusswegen in den Plan zu vereinfachen.
 
-![Routing](/images/solution/routing/routingscreenshot.jpg "Routing" class="block-desktop")
+![Routing](/images/solution/routing/routingscreenshot.jpg "Routing")
 
 ## Wo entlang und wie
 
 Genaue Routen haben auch das Potential für Analysen der Charakteristika entlang der Route. Auf dieser Basis bieten wir zum Beispiel exakte Höhenprofile oder Zählungen von Objekten wie Bahnübergänge, Ampeln oder Fussgängerquerungen entlang der Route. Hier bieten wir spezifisch auf Ihre Anforderungen angepasste Auswertungen.
 
-![Routing](/images/solution/routing/routingscreenshot.jpg "Routing" class="block-mobile")
+![]()
