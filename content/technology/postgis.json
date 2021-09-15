@@ -1,0 +1,10 @@
+{
+  "en": {
+    "title": "PostGIS",
+    "image": "/images/technology/postgis/postgis.png",
+    "weight": 10
+  },
+  "de": {
+    "title": "PostGIS"
+  }
+}

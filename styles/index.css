@@ -60,12 +60,6 @@ h3,
 .prose ul {
   @apply leading-9 text-lg;
 }
-
-/* Show disc for lists in Netlify CMS. */
-.cms-editor-visual ul {
-  @apply list-disc;
-}
-
 .prose ul {
   @apply pl-2;
   list-style-type: ">";
@@ -77,6 +71,22 @@ h3,
   @apply hidden;
 }
 .prose ul > li::marker {
+  @apply text-green;
+}
+
+/* Show disc for lists in Netlify CMS. */
+.cms-editor-visual ul {
+  @apply list-disc;
+}
+
+.block-desktop {
+  @apply w-full mx-auto hidden lg:block;
+}
+.block-mobile {
+  @apply w-full mx-auto lg:hidden;
+}
+
+.link-text-green a {
   @apply text-green;
 }
 

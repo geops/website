@@ -5,7 +5,7 @@ backend:
   #name: git-gateway
 
 # Used for testing.
-#local_backend: true
+# local_backend: true
 
 i18n:
   # Required and can be one of multiple_folders, multiple_files or single_file
@@ -33,7 +33,7 @@ collections:
     path: "{{slug}}/index"
     media_folder: "/public/images/blog/{{slug}}"
     public_folder: "/images/blog/{{slug}}"
-    preview_path: "en/blog/{{slug}}"
+    preview_path: "en/blog/{{fields.slug}}"
     create: true
     i18n: true
     slug: "{{fields.slug}}"
@@ -129,7 +129,7 @@ collections:
     path: "{{slug}}/index"
     media_folder: "/public/images/job/{{slug}}"
     public_folder: "/images/job/{{slug}}"
-    preview_path: "en/career/{{slug}}"
+    preview_path: "en/career/{{fields.slug}}"
     create: true
     i18n: true
     slug: "{{fields.slug}}"
@@ -186,7 +186,7 @@ collections:
           - { i18n: true, label: Circle Clients, name: circleClients }
           - { i18n: true, label: Circle Employee, name: circleEmployee }
           - { i18n: true, label: Work, name: work }
-          - { i18n: true, label: Technology, name: tech }
+          - { i18n: true, label: Technology, name: tech, widget: "markdown"}
       - label: "Career"
         name: "career"
         file: "content/page/career.json"
@@ -456,7 +456,7 @@ collections:
     path: "{{slug}}/index"
     media_folder: "/public/images/solution/{{dirname}}"
     public_folder: "/images/solution/{{dirname}}"
-    preview_path: "en/solution/{{slug}}"
+    preview_path: "en/solution/{{fields.slug}}"
     create: true
     i18n: true
     slug: "{{fields.slug}}"
@@ -584,3 +584,27 @@ collections:
         name: "body"
         widget: "markdown"
         i18n: true
+  - label: "Technology"
+    name: "technology"
+    folder: "content/technology"
+    media_folder: "/public/images/technology/{{slug}}"
+    public_folder: "/images/technology/{{slug}}"
+    preview_path: "en/about#tech"
+    create: true
+    i18n:
+      structure: single_file
+    extension: "json"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        hint: "compressed JPEG, 1600px wide, 1200px heigh"
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        required: true
+        hint: "Position in Slider"

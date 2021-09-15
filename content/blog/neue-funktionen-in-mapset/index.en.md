@@ -2,14 +2,15 @@
 title: Neue Funktionen in mapset
 summary: mapset wird stetig weiterentwickelt. Wir geben einen Überblick über die
   neuesten Funktionen.
-author: Julia Knödler
+author: Uli Müller
 cover: /images/blog/neue-funktionen-in-mapset/mapset_release – 1.png
 created: 2020-10-27
 slug: neue-funktionen-in-mapset
 tags:
-  - mobility
   - mapset
   - railreplacement
+  - mobility
+  - maps
 published: true
 ---
 In den letzten Wochen hat sich bei mapset einiges getan. Wir konnten neue, wichtige Kunden für mapset gewinnen. Dazu gehören die [Verkehrsbetriebe Zürich VBZ](https://www.stadt-zuerich.ch/vbz) und der [Regionalverkehr Bern—Solothurn](https://www.rbs.ch/) sowie [BOGG](https://www.bogg.ch/), die Busbetriebe für Olten und Umgebung. Parallel zur Ausdehnung der mapset-Nutzer haben wir neue Funktionen entwickelt, um den Anforderungen aller Kunden entgegen zu kommen. Selbstverständlich stehen allen Nutzern die neuen Funktionen ohne Zusatzkosten zur Verfügung.

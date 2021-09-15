@@ -1,0 +1,10 @@
+{
+  "en": {
+    "title": "Prometheus",
+    "image": "/images/technology/prometheus/prometheus.png",
+    "weight": 55
+  },
+  "de": {
+    "title": "Prometheus"
+  }
+}

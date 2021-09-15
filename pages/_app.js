@@ -1,5 +1,6 @@
 import dynamic from "next/dynamic";
 import Head from "next/head";
+import { useRouter } from "next/router";
 
 import I18n from "../lib/i18n";
 import useAnalytics from "../lib/useAnalytics";
@@ -11,8 +12,8 @@ const HtmlLang = dynamic(() => import("../components/HtmlLang"), {
 });
 
 export default function Website({ Component, pageProps }) {
-  const feedBaseUrl =
-    pageProps.language === "en" ? "https://geops.de/en" : "https://geops.de";
+  const { asPath } = useRouter();
+  const baseUrl = `https://geops.ch${pageProps.language === "en" ? "/en" : ""}`;
   useAnalytics();
   return (
     <I18n language={pageProps.language}>
@@ -25,20 +26,21 @@ export default function Website({ Component, pageProps }) {
           rel="alternate"
           type="application/rss+xml"
           title="geOps Blog RSS Feed"
-          href={`${feedBaseUrl}/feed/rss.xml`}
+          href={`${baseUrl}/feed/rss.xml`}
         />
         <link
           rel="alternate"
           type="application/atom+xml"
           title="geOps Blog Atom Feed"
-          href={`${feedBaseUrl}/feed/atom.xml`}
+          href={`${baseUrl}/feed/atom.xml`}
         />
         <link
           rel="alternate"
           type="application/feed+json"
           title="geOps Blog JSON Feed"
-          href={`${feedBaseUrl}/feed/feed.json`}
+          href={`${baseUrl}/feed/feed.json`}
         />
+        <link rel="canonical" href={`https://geops.ch${asPath}`} />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />

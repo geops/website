@@ -1,3 +1,10 @@
+# Redirect from geops.de to geops.ch
+http://geops.de/* https://geops.ch/:splat 301!
+https://geops.de/* https://geops.ch/:splat 301!
+http://www.geops.de/* https://geops.ch/:splat 301!
+https://www.geops.de/* https://geops.ch/:splat 301!
+
+
 # Redirects from old Drupal website to Next.js based website.
 /node/6 /en/imprint
 /node/180 /datenschutz

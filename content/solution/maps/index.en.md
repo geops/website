@@ -1,8 +1,9 @@
 ---
 title: Maps
 summary: Maps for mobility and public transport.
-cover: /images/solution/maps/maps1.jpg
-pageCover: /images/solution/maps/maps1.png
+cover: /images/solution/maps/header_maps_mobil.png
+pageCover: /images/solution/maps/header_maps.png
+pageCoverMobile: /images/solution/maps/header_maps_mobil.png
 slug: maps
 color: "#1789C9"
 contactSubtitle: >-
@@ -39,16 +40,18 @@ In addition to a clear and informative design for general orientation, the follo
 * House numbers as well as entrances and passages as orientation points for door-to-door navigation
 * Elements that are important for barrier-free navigation, such as lifts and escalators
 
-![Travic](/images/solution/maps/travic_k.png "Travic")
+![Maps](/images/solution/maps/aarau_buslinien.png)
 
 ## Flexible with Vector Tiles
 
 Our maps are based on MapBox Vector Tiles. This technology enables high-performance map visualization and enables unlimited possibilities for the styling and interactivity of the maps. Although using the same data source, the maps can look very different, for example when adapted to your corporate design or your special application.
 
-![Maps](/images/solution/maps/map_raster.png "Maps")
+<img src="/images/solution/maps/map_raster.png" alt="Maps" class="block-desktop">
+<img src="/images/solution/maps/map_raster_mobile.png" alt="Maps" class="block-mobile">
 
 ## Safe and fast
 
 We use an established workflow to deliver the maps to your application. Based on our database, in which the various data sources are integrated, Vector Tiles are calculated and processed for the Internet. All maps are available via a global content delivery network, which guarantees high transmission speed and low latency - no matter where in the world you use the maps. You can use the maps in your application with little programming effort using tried and tested software libraries. And should you require classic raster maps, they can also be provided in numerous variants.
 
-![Workflow](/images/solution/maps/geops_ablauf_grafik_02.png "Workflow")
+<img src="/images/solution/maps/geops_ablauf_grafik_02.png" alt="Maps" class="block-desktop">
+<img src="/images/solution/maps/geops_ablauf_grafik_02_mobile.png" alt="Maps" class="block-mobile">
