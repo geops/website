@@ -123,6 +123,7 @@ collections:
         name: "body"
         widget: "markdown"
         i18n: true
+        hint: "Please use h2 for the first heading and h3 for the following headings"
   - label: "Job"
     name: "job"
     folder: "content/job"
@@ -584,6 +585,7 @@ collections:
         name: "body"
         widget: "markdown"
         i18n: true
+        hint: "Please use h2 for the first heading and h3 for the following headings"
   - label: "Technology"
     name: "technology"
     folder: "content/technology"
