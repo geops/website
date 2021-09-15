@@ -21,7 +21,7 @@ Das Routing ist auf unsere Karten angepasst. Für lange Strecken, die in kleinma
 
 Eine Anwendung des Routings findet sich in unserem weltweiten Tracker wieder, bei dem für alle Fahrzeuge die Routen als Trajektorien berechnet werden.
 
-![WKP Route](/images/solution/routing/routingscreenshot.jpg "WKP Route")
+![WKP Route](/images/solution/routing/routing_960.png "WKP Route")
 
 Das Routing ist für zahlreiche Projekte im Einsatz. Zum Beispiel werden die Routenverläufe in unserem Echtzeit-Tracker darüber berechnet. Die Schweizerische Bundesbahn SBB nutzt das Routing für Züge, Trams, Busse und Seilbahnen, um den Reisenden detaillierte Infos zum Verlauf der Reiseroute anzuzeigen. Auch in [mapset](https://mapset.io/) steht das Routing zur Verfügung, um das Einzeichnen von Fusswegen in den Plan zu vereinfachen.
 
@@ -29,4 +29,4 @@ Das Routing ist für zahlreiche Projekte im Einsatz. Zum Beispiel werden die Rou
 
 Genaue Routen haben auch das Potential für Analysen der Charakteristika entlang der Route. Auf dieser Basis bieten wir zum Beispiel exakte Höhenprofile oder Zählungen von Objekten wie Bahnübergänge, Ampeln oder Fussgängerquerungen entlang der Route. Hier bieten wir spezifisch auf Ihre Anforderungen angepasste Auswertungen.
 
-![Routing](/images/solution/routing/bern_fussgaengerrouting.png "Routing")
+![Routing](/images/solution/routing/routingscreenshot.jpg "Routing")
