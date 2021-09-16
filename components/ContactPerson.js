@@ -22,7 +22,7 @@ export default function ContactPerson({ person, subtitle, title }) {
         }`}
       >
         <div>
-          <h2>{title || t("contactPerson.title")}</h2>
+          <h2 className="text-5xl">{title || t("contactPerson.title")}</h2>
           {subtitle ? (
             <div
               className={`${subtitleClassName}`}
