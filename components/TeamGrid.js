@@ -6,7 +6,7 @@ export default function TeamGrid({ team }) {
     <section className="bg-gray-darker text-gray-light">
       <div className="container mx-auto p-8 pb-16">
         <div className="max-w-screen-lg mx-auto">
-          <h2 className="text-center mt-24" id="team">
+          <h2 className="text-center mt-24 text-5xl" id="team">
             {t("team.title")}
           </h2>
           <p className="mb-32 mt-8">{t("team.text")}</p>
