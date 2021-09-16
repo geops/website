@@ -22,7 +22,7 @@ Line network plans refer to different areas from the overall offer. They can be 
 
 <img src="/images/solution/network-plans/Liniennetz_01.png" alt="Network plan" class="block-desktop">
 
-<img src="/images/solution/network-plans/LNP_mobile.png" alt="Network plan" class="block-mobile">
+<img src="/images/solution/network-plans/Liniennetz_mobil.png" alt="Network plan" class="block-mobile">
 
 ### Map information dynamically
 
