@@ -1,8 +1,6 @@
 import { useI18n } from "../lib/i18n";
-
 import CaretIcon from "./icons/CaretIcon";
 import Link from "./Link";
-
 export default function BlogListItem({ item }) {
   const { language, t } = useI18n();
   const created = new Date(item.created);
@@ -25,9 +23,9 @@ export default function BlogListItem({ item }) {
             <span> | </span>
             {item.readingTime} min {t("website.readingTime")}
           </div>
-          <h1 className="text-blue text-4xl font-bold my-4">
+          <h2 className="text-blue text-4xl font-bold my-4">
             <Link href={`/blog/${item.slug}`}>{item.title}</Link>
-          </h1>
+          </h2>
           <p>{item.summary}</p>
           <div className="flex items-center text-blue mt-8">
             {t("website.readMore")}

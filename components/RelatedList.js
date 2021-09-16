@@ -2,6 +2,8 @@ import { useI18n } from "../lib/i18n";
 
 import RelatedListItem from "./RelatedListItem.js";
 
+import styles from "./RelatedList.module.css";
+
 export default function RelatedList({ dark, list }) {
   const { t } = useI18n();
   return list.length ? (
@@ -9,6 +11,7 @@ export default function RelatedList({ dark, list }) {
       className={dark ? "bg-gray-darker text-gray-lighter" : "bg-gray-lighter"}
     >
       <div className="container mx-auto px-8 py-16 max-w-screen-lg">
+        <span className={`${styles.container} text-center mb-16`}>{t("relatedList.title")}</span>
         <div className="grid gap-16 lg:grid-cols-2">
           {list.map((item) => {
             const key = `${item.collection}/${item.slug}`;

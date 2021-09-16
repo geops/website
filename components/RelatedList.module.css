@@ -1,0 +1,3 @@
+.container > span {
+    @apply font-extrabold text-2xl;
+}
