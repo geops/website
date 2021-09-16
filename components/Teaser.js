@@ -11,14 +11,14 @@ export default function Teaser(props) {
   } else {
     teaserTitle = `<h2 className="break-words w-full">${props.title}</h2>`
   }
-  console.log(teaserTitle)
+
   return (
     <section className={props.containerClassName || "bg-white"}>
       <div
         className="container mx-auto px-8 py-16 md:py-24 text-center flex flex-col items-center transform transition-opacity duration-1000"
         ref={contentRef}
       >
-        <div class="mb-7" 
+        <div className="mb-7" 
           dangerouslySetInnerHTML={ { __html: teaserTitle } }
         >
         </div>
