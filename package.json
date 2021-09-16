@@ -11,16 +11,16 @@
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "highlight.js": "^11.2.0",
-    "netlify-cms-app": "^2.15.40",
+    "netlify-cms-app": "^2.15.42",
     "next": "^11.1.2",
     "pure-react-carousel": "^1.27.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "reading-time": "^1.4.0",
+    "reading-time": "^1.5.0",
     "remark": "^14.0.1",
     "remark-external-links": "^9.0.1",
     "remark-highlight.js": "^7.0.1",
-    "remark-html": "^14.0.0",
+    "remark-html": "^14.0.1",
     "rosetta": "^1.1.0"
   },
   "devDependencies": {
@@ -29,9 +29,9 @@
     "@tailwindcss/typography": "^0.4.1",
     "autoprefixer": "^10.3.4",
     "netlify-plugin-cache-nextjs": "^1.6.1",
-    "next-sitemap": "^1.6.164",
+    "next-sitemap": "^1.6.168",
     "postcss": "^8.3.6",
-    "prettier": "^2.3.2",
-    "tailwindcss": "^2.2.9"
+    "prettier": "^2.4.0",
+    "tailwindcss": "^2.2.15"
   }
 }

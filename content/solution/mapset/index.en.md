@@ -26,7 +26,7 @@ tags:
   - maps
 frontpage: true
 frontpageTitle: mapset
-frontpageImage: /images/solution/mapset/gruppe-57.png
+frontpageImage: /images/solution/mapset/mapset_teaser_startseite.png
 frontpageWeight: 1
 gridImage: /images/solution/mapset/mapset_cover.png
 logo: /images/solution/mapset/Mapset_Logo.svg

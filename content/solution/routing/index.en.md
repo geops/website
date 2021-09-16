@@ -12,7 +12,7 @@ contactSubtitle: >-
   Test the routing services in our
   [Demo](https://routing-demo.geops.io/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293).
 
-  You can also fenwuire about available options for your own application in our [Developer Portal](https://developer.geops.io/).
+  You can also check available options for your own application in our [Developer Portal](https://developer.geops.io/).
 weight: 2
 tags:
   - routing
@@ -35,8 +35,10 @@ One application of routing can be found in our worldwide tracker, in which the r
 
 The Routing service is applied in numerous projects. For example, the routes are shown in our [real-time](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=925472&y=5920000&z=9) tracker calculated above. The Swiss Federal Railways (SBB) uses the routing for trains, trams, buses and cable cars to provide travelers with detailed information about the course of the travel itinerary. Routing is also available in [mapset](https://mapset.io/) to simplify the drawing of footpaths in the map.
 
-### Where to go and how
+![Routing](/images/solution/routing/routingscreenshot.jpg "Routing")
+
+## Where to go and how
 
 Exact routes also have the potential to analyze the characteristics along the route. On this basis, we offer, for example, exact height profiles or counts of objects such as level crossings, traffic lights or pedestrian crossings along the route. Here we offer evaluations specifically tailored to your requirements.
 
-![Routing](/images/solution/routing/bern_fussgaengerrouting.png "Routing")
+![]()
