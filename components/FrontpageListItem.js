@@ -1,5 +1,8 @@
 import { useI18n } from "../lib/i18n";
 import Button from "./Button";
+
+import styles from "./FrontpageListItem.module.css";
+
 import useIntersectionOberserver from "../lib/useIntersectionOberserver";
 const scrollSnapStyle = {
   scrollSnapAlign: "start",
@@ -17,7 +20,7 @@ export default function FrontpageListItem({ item, side }) {
       style={scrollSnapStyle}
     >
       <div className="mt-8 md:mt-0 w-full md:w-1/2">
-        <h3>{item.frontpageTitle || item.title}</h3>
+        <h3 className={`${styles.content}`}>{item.frontpageTitle || item.title}</h3>
         <p className="my-8">{item.summary}</p>
         <Button href={`/${item.collection}/${item.slug}`}>
           {t("website.more")}

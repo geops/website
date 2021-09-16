@@ -7,9 +7,9 @@ export default function Teaser(props) {
   let teaserTitle = "";
 
   if(props.toHeading) {
-    teaserTitle = `<h1 className="break-words w-full">${props.title}</h1>`
+    teaserTitle = `<h1 class="break-words w-full">${props.title}</h1>`
   } else {
-    teaserTitle = `<h2 className="break-words w-full">${props.title}</h2>`
+    teaserTitle = `<h2 class="break-words w-full text-5xl">${props.title}</h2>`
   }
 
   return (
