@@ -6,7 +6,7 @@ export default function ApplicationTeaser({ jobs }) {
   return (
     <section className="bg-application-teaser bg-cover">
       <div className="container mx-auto px-8 py-16 text-center flex flex-col items-center">
-        <h2>{t("applicationTeaser.title")}</h2>
+        <h2 className="text-5xl">{t("applicationTeaser.title")}</h2>
         {jobs.map((job) => (
           <div className="max-w-xl my-16" key={job.slug}>
             <h3>{job.title}</h3>
