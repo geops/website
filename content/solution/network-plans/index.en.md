@@ -24,7 +24,7 @@ Line network plans refer to different areas from the overall offer. They can be 
 
 <img src="/images/solution/network-plans/Liniennetz_mobil.png" alt="Network plan" class="block-mobile">
 
-## Map information dynamically
+### Map information dynamically
 
 Our network plans are largely calculated automatically. The calculation is usually based on timetable data, which can be filtered according to the criteria listed above. The results are graphic images that classically depict lines in different colors.
 In addition, a topological network of edges and nodes is created, which has great potential for intelligent, dynamic representations. For example, you can use our network plans as a basis for real-time visualizations such as those we operate for the S-Bahn München and S-Bahn Hamburg. They can also be used to display disruptions on the route or operating characteristics such as the timing on the lines.

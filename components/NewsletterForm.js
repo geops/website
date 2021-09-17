@@ -1,20 +1,15 @@
 import { createRef, useState } from "react";
-
 import Button from "./Button.js";
 import CheckmarkCircleIcon from "./icons/CheckmarkCircleIcon.js";
 import MailCircleIcon from "./icons/MailCircleIcon.js";
 import PointerCircleIcon from "./icons/PointerCircleIcon.js";
-
 import { useI18n } from "../lib/i18n";
-
 const newsletterFormEndpoint =
   "https://geops.us4.list-manage.com/subscribe/post?u=23161055bb6a407f7e6c00038&amp;id=c9694280f7";
-
 export default function NewsletterForm({ translations }) {
   const refHeader = createRef();
   const [submitted, setSubmitted] = useState(false);
   const { language } = useI18n();
-
   const handleSubmit = (event) => {
     const body = new FormData(event.target);
     event.preventDefault();
@@ -24,15 +19,14 @@ export default function NewsletterForm({ translations }) {
     } catch (error) {}
     setSubmitted(true);
   };
-
   return (
     <form
       className="container mx-auto max-w-screen-lg p-8"
       onSubmit={handleSubmit}
     >
-      <h3 className="mb-16 text-center sm:text-left" ref={refHeader}>
+      <h4 className="mb-10 text-center sm:text-left" ref={refHeader}>
         {submitted ? translations.submittedTitle : translations.subtitle}
-      </h3>
+      </h4>
       {submitted ? (
         <div className="flex flex-col items-center sm:flex-row sm:justify-between sm:items-start">
           <div className="w-48 text-center">

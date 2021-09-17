@@ -39,7 +39,7 @@ The general flow of our approach looks like this:
 
 In the following, we will illustrate each of the steps mentioned above.
 
-### 1\. Graph
+## 1\. Graph
 
 More than often, the geographical reference data only consists of a loose collection of line geometries. To do shortest-path calculation on the data we need to transform these geometries into a topologically valid graph and connect it to the schedule data. Thus, we clean the reference data from unintentional gaps in the network.
 

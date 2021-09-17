@@ -1,21 +1,16 @@
 import dynamic from "next/dynamic";
 import { CarouselProvider, DotGroup, Slider, Slide } from "pure-react-carousel";
 import { useRef } from "react";
-
 import { useI18n } from "../lib/i18n";
 import useIntersectionOberserver from "../lib/useIntersectionOberserver";
-
 import Button from "./Button.js";
 import CaretIcon from "./icons/CaretIcon.js";
-
 import "pure-react-carousel/dist/react-carousel.es.css";
 import styles from "./Carousel.module.css";
-
 const CarouselKeyboardNavigation = dynamic(
   () => import("./CarouselKeyboardNavigation"),
   { ssr: false }
 );
-
 export default function Carousel({ slides }) {
   const { t } = useI18n();
   const containerRef = useRef(null);
@@ -70,9 +65,9 @@ export default function Carousel({ slides }) {
                       />
                     </picture>
                     <div className="absolute inset-0 flex flex-col space-y-8 items-center justify-center mx-4">
-                      <h1 className="break-words text-white text-center max-w-screen-sm leading-normal text-shadow -mt-16">
+                      <div className="break-words text-white text-center max-w-screen-sm md:leading-normal leading-normal text-shadow -mt-16 font-black text-4xl md:text-5xl">
                         {slide.title}
-                      </h1>
+                      </div>
                       {slide.summary && (
                         <h2 className="max-w-screen-sm text-center text-xl text-white text-shadow">
                           {slide.summary}

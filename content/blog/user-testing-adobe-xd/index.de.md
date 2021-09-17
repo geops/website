@@ -5,7 +5,7 @@ slug: user-testing-adobe-xd
 ---
 Ein Prototyp sollte von potentiellen Nutzern getestet werden. Sonst bekommt man ein tolles Design ohne die richtige Nutzerführung. Das wäre etwa so wie ein toller neuer Herd, bei dem man die Knöpfe nicht finden kann.
 
-### Was genau ist ein User Test ?
+## Was genau ist ein User Test ?
 
 Ein User Test klärt, ob eine Webseite, App oder sonstige "Interfaces" von potentiellen Nutzern als benutzerfreundlich und intuitiv empfunden werden. Hierbei wird beobachtet, welche Navigationswege die Nutzer wählen, um eine gewisse Aufgabe zu erfüllen. So lässt sich gerade z.B. bei einer Webseite erkennen, ob die Nutzer die erstellte Navigation verstehen / richtig verwenden. Auch ob Verlinkungen der Unterseiten von den Nutzern verstanden werden, kann man hier sehr gut testen. Das Testing der Navigationsstruktur wird meistens in sogenannten [Wireframes](https://de.wikipedia.org/wiki/Wireframe) durchgeführt.
 

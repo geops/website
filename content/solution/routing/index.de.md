@@ -15,7 +15,7 @@ frontpage: false
 
 Den genauen Weg von A nach B zu finden, ist heute keine Schwierigkeit – solange Sie mit dem Auto oder zu Fuss unterwegs sind. Anders sieht es aus, wenn Sie die Fahrtroute eines Busses oder Zugs benötigen. Mit unserem Routing-Dienst unterstützen wir eine Vielzahl an Fahrzeugen. Besonders bei Fahrzeugen des öffentlichen Verkehrs liefern wir bessere Ergebnisse als jeder andere Dienst. Diese Qualität können wir bieten, da das Routing auf reich attributierten Daten des Schienen-, Strassen- und Fusswegenetzes erfolgt und ausgefeilte Heuristiken anwendet. 
 
-## Passend
+### Passend
 
 Das Routing ist auf unsere Karten angepasst. Für lange Strecken, die in kleinmassstäbigen Übersichten verwendet werden, sind die Routen genau gleich stark vereinfacht ("generalisiert") wie in den Karten, so dass sie exakt auf den Kartenhintergrund passen. Für Detailansichten dagegen können die Routen sehr detailliert, bis auf einzelne Gleise im Bahnhof genau berechnet werden.
 

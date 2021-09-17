@@ -18,7 +18,7 @@ Dank der Flexibilität des Teams von der [Lokhalle](https://www.lokhalle-freibur
 
 ![](/images/blog/halbjahresworkshop-2020/Lokhalle%20%281%29_0.jpg)
 
-### Rückblick
+## Rückblick
 
 Zunächst einmal ließen wir die erste Jahreshälfte Revue passieren. Ab Mitte März bereicherte Özkan für drei Monate als Praktikant unser Team. Im April, mitten in der Corona-Phase, hat Florian seine Arbeit im Admin-Team aufgenommen. Der Workshop war für Flo die erste Gelegenheit, alle Team-Mitglieder live zu treffen, nachdem er die Monate zuvor fast komplett im Home Office tätig war. Mitte März konnten wir gerade noch an der FOSSGIS-Konferenz teilnehmen, bevor das pandemiebedingte Veranstaltungsverbot in Kraft trat. Dafür musste die für Anfang März geplante IT-TRANS, auf der wir ebenfalls mit einem Stand vertreten sein wollten, leider abgesagt werden.
 

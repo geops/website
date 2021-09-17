@@ -15,7 +15,7 @@ Liniennetzpläne greifen unterschiedliche Bereiche aus dem Gesamtangebot auf. Si
 
 <img src="/images/solution/network-plans/LNP_mobile.png" alt="Liniennetzplan" class="block-mobile">
 
-## Dynamisch Informationen abbilden
+### Dynamisch Informationen abbilden
 
 Unsere Liniennetzpläne werden weitgehend automatisch berechnet. Grundlage der Berechnung sind meist Fahrplandaten, die nach den oben aufgeführten Kriterien gefiltert sein können. Das Ergebnis sind grafische Abbildungen, die klassischerweise Linien in unterschiedlichen Farben darstellen. 
 Zusätzlich entsteht aber auch ein topologisches Netz von Knoten und Kanten, das ein grosses Potenzial für intelligente, dynamische Darstellungen hat. So lassen sich unsere Netzpläne beispielsweise als Grundlage für Echtzeit-Visualisierungen nutzen, wie wir sie für die S-Bahnen in München und Hamburg betreiben. Ebenso können sie zur Darstellung von Störungen oder von Betriebscharakteristiken wie der Taktung auf den Linien genutzt werden. 

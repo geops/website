@@ -24,7 +24,7 @@ Um die diversen Werkzeuge für die Geometriebearbeitung wiederverwenden zu könn
 
 Die folgenden Prinzipien sind für die Entwicklung von OLE maßgeblich.
 
-### Abstraktion
+## Abstraktion
 
 ![](/images/blog/openlayers-editor/openlayers-editor-abstraktion.png "OpenLayers Editor Abstraktion")
 
