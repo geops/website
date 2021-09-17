@@ -27,7 +27,7 @@ In Cartaro lassen sich neue geographische Objekte anlegen, bearbeiten und mit th
 
 <!--EndFragment-->
 
-![](/images/blog/neue-funktionen-im-geocms-cartaro/cartaro_03.jpg)
+![](/images/blog/new-features-in-the-geocms-cartaro/cartaro_blog_bild.png)
 
 <!--StartFragment-->
 
