@@ -31,7 +31,7 @@ In Cartaro, new geographic features can be created, edited and provided with the
 
 <!--EndFragment-->
 
-![](/images/blog/new-features-in-the-geocms-cartaro/cartaro_03.jpg)
+![](/images/blog/new-features-in-the-geocms-cartaro/cartaro_blog_bild.png)
 
 SBB as an example uses the new linear referencing function to map the [contact persons for construction work near railways](https://maps.trafimage.ch/ch.sbb.regionenkarte.public).
 
