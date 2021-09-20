@@ -9,14 +9,14 @@ import FrontpageList from "../components/FrontpageList.js";
 import getContentList from "../lib/getContentList";
 import { useI18n } from "../lib/i18n";
 
-export default function Frontpage({ list, slides }) {
+export default function Frontpage({ items, slides }) {
   const { t } = useI18n();
   return (
     <Layout description={t("aboutTeaser.text")}>
       <Carousel slides={slides} />
       <div className="relative">
         <AboutTeaser />
-        <FrontpageList list={list} />
+        <FrontpageList items={items} />
         <OpenSourceTeaser />
         <CareerTeaser />
         <NewsletterTeaser />
@@ -27,7 +27,7 @@ export default function Frontpage({ list, slides }) {
 
 export async function getStaticProps(context) {
   const language = context.language || "de";
-  const list = getContentList(language, {
+  const items = getContentList(language, {
     collections: ["blog", "solution"],
     fields: [
       "cover",
@@ -54,5 +54,5 @@ export async function getStaticProps(context) {
     ],
   });
   slides.sort((a, b) => a.weight - b.weight);
-  return { props: { language, list, slides } };
+  return { props: { items, language, slides } };
 }
