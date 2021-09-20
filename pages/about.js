@@ -10,12 +10,12 @@ import TeamGrid from "../components/TeamGrid.js";
 import getContentItem from "../lib/getContentItem";
 import getContentList from "../lib/getContentList";
 
-const TechnologieCarousel = dynamic(
-  () => import("../components/TechnologieCarousel"),
+const TechnologyCarousel = dynamic(
+  () => import("../components/TechnologyCarousel"),
   { ssr: false }
 );
 
-export default function About({ content, team, slides }) {
+export default function About({ content, team, technologies }) {
   return (
     <Layout description={content.we1} translationPath="/about">
       <PageHeader
@@ -24,7 +24,7 @@ export default function About({ content, team, slides }) {
         title={content.title}
       />
       <AboutContent content={content} />
-      <TechnologieCarousel slides={slides} />
+      <TechnologyCarousel slides={technologies} />
       <ContactPerson person={ch} />
       <TeamGrid team={team} />
     </Layout>
@@ -39,10 +39,10 @@ export async function getStaticProps(context) {
   });
   const content = getContentItem(language, "page", "about.json");
 
-  const slides = getContentList(language, {
+  const technologies = getContentList(language, {
     collections: ["technology"],
     fields: ["title", "weight", "image"],
     order: [{ weight: "asc" }],
   });
-  return { props: { content, slides, language, team } };
+  return { props: { content, language, team, technologies } };
 }

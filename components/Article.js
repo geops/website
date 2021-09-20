@@ -4,9 +4,30 @@ import Image from "next/image";
 
 import { useI18n } from "../lib/i18n";
 
-function ArticleImage({ imageSizes, src, alt }) {
+function ArticleImage({ alt, imageSizes, src }) {
   const { height, width } = imageSizes[src] || {};
+  if (!height || !width) {
+    return `Fehler: Bildgröße für ${src} konnte nicht ermittelt werden.`;
+  }
+
   return <Image alt={alt} src={src} height={height} width={width} />;
+}
+
+function ResponsiveImage({ alt, desktop, mobile, imageSizes }) {
+  return (
+    <>
+      {desktop && (
+        <div className="block-desktop">
+          <ArticleImage alt={alt} imageSizes={imageSizes} src={desktop} />
+        </div>
+      )}
+      {mobile && (
+        <div className="block-mobile">
+          <ArticleImage alt={alt} imageSizes={imageSizes} src={mobile} />
+        </div>
+      )}
+    </>
+  );
 }
 
 export default function Article({ author, body, created, imageSizes, title }) {
@@ -28,6 +49,10 @@ export default function Article({ author, body, created, imageSizes, title }) {
           overrides: {
             img: {
               component: ArticleImage,
+              props: { imageSizes },
+            },
+            ResponsiveImage: {
+              component: ResponsiveImage,
               props: { imageSizes },
             },
           },

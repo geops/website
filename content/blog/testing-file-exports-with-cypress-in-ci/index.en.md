@@ -4,7 +4,7 @@ summary: Today we will talk about Cypress. More specifically, how to test Canvas
   exports in an End-To-End (E2E) testing scenario and how to integrate the tests
   into your CI.
 author: "Daniel Marsh-Hunn "
-cover: /images/blog/testing-file-exports-with-cypress-in-ci/cypress – 4.png
+cover: /images/blog/testing-file-exports-with-cypress-in-ci/cypress.png
 created: 2020-10-24
 slug: testing-file-exports-with-cypress-in-ci
 tags:
