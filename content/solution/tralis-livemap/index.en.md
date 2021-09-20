@@ -3,8 +3,8 @@ title: Live Maps
 summary: Live Maps show the positions of public transport vehicles on a map. In
   addition to the map visualization, the processing of the vehicle positions
   creates precise forecasts for travelers.
-cover: /images/solution/tralis-livemap/livemap_header_mobil.png
-pageCover: /images/solution/tralis-livemap/geops_livemap_header_02.png
+cover: /images/solution/tralis-livemap/livemap_header_n.png
+pageCover: /images/solution/tralis-livemap/livemap_header_n.png
 pageCoverMobile: /images/solution/tralis-livemap/livemap_header_mobil.png
 slug: livemap
 color: "#4B6881"
