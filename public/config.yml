@@ -29,6 +29,7 @@ publish_mode: editorial_workflow
 collections:
   - label: "Blog"
     name: "blog"
+    description: "Artikel für den Blog, weitere Informationen sind in Confluence zu finden."
     folder: "content/blog"
     path: "{{slug}}/index"
     media_folder: "/public/images/blog/{{slug}}"
@@ -58,6 +59,7 @@ collections:
         widget: "string"
         required: false
       - label: "Cover"
+        hint: "Originalbild für die Verwendung im Block *Mehr zum Thema* unter jedem Blog- und Solution-Artikel. Die Bildgröße sollte mindestens 500 x 500 Pixel betragen."
         name: "cover"
         widget: "image"
         required: false
@@ -68,14 +70,14 @@ collections:
         date_format: "YYYY-MM-DD"
         format: "YYYY-MM-DD"
       - label: "Slug"
-        hint: "The post URL (do not include folder or file extension)"
+        hint: "Eindeutiger Teil der URL, der hinter geops.ch/blog/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
         name: "slug"
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
         i18n: true
       - label: "Tags"
         name: "tags"
-        hint: "Tags werden verwendet, um passende Inhalte im Block 'Mehr zum Thema' unter jedem Blog- und Solution-Artikel anzuzeigen (siehe auch https://jira.geops.ch/browse/GEOPSWEB-120)."
+        hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."
         multiple: true
         options:
           [
@@ -107,12 +109,12 @@ collections:
         required: false
         widget: "select"
       - label: "Frontpage"
-        hint: "Show on frontpage."
+        hint: "In der Liste auf der Startseite anzeigen."
         name: "frontpage"
         widget: "boolean"
         required: false
       - label: "Frontpage Weight"
-        hint: "Lower weight will float to the top of frontpage list."
+        hint: "Position in der Liste auf der Startseite."
         name: "frontpageWeight"
         widget: "number"
         required: false
@@ -121,10 +123,12 @@ collections:
         widget: "boolean"
       - label: "Content"
         name: "body"
+        hint: 'Text für den Artikel. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/blog/..." mobile="/images/blog/..." />** eingebunden werden.'
         widget: "markdown"
         i18n: true
   - label: "Job"
     name: "job"
+    description: "Ausschreibungen für Jobs, werden unter geops.ch/karriere aufgelistet."
     folder: "content/job"
     path: "{{slug}}/index"
     media_folder: "/public/images/job/{{slug}}"
@@ -143,8 +147,8 @@ collections:
         widget: "text"
         i18n: true
       - label: "Slug"
-        hint: "The post URL (do not include folder or file extension)"
         name: "slug"
+        hint: "Eindeutiger Teil der URL, der hinter geops.ch/karriere/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
         i18n: true
@@ -160,6 +164,7 @@ collections:
         i18n: true
   - label: "Page"
     name: "page"
+    description: "Allgemeine Seiten die im Code angelegt und konfiguriert werden müssen."
     i18n:
       structure: single_file
     files:
@@ -186,7 +191,7 @@ collections:
           - { i18n: true, label: Circle Clients, name: circleClients }
           - { i18n: true, label: Circle Employee, name: circleEmployee }
           - { i18n: true, label: Work, name: work }
-          - { i18n: true, label: Technology, name: tech, widget: "markdown"}
+          - { i18n: true, label: Technology, name: tech, widget: "markdown" }
       - label: "Career"
         name: "career"
         file: "content/page/career.json"
@@ -384,6 +389,7 @@ collections:
               - { i18n: true, label: Written By, name: writtenBy }
   - label: "Person"
     name: "person"
+    description: "Beschreibung der Mitarbeiter, werden unter geops.ch/about aufgelistet."
     folder: "content/person"
     identifier_field: "name"
     media_folder: "/public/images/person"
@@ -409,6 +415,7 @@ collections:
       - { label: "GitHub", name: "github", widget: "string", required: false }
   - label: "Slide"
     name: "slide"
+    description: "Bilder und Texte für die Slideshow auf der Startseite."
     folder: "content/slide"
     media_folder: "/public/images/slide/{{slug}}"
     public_folder: "/images/slide/{{slug}}"
@@ -452,6 +459,7 @@ collections:
         required: false
   - label: "Solution"
     name: "solution"
+    description: "Artikel für Lösungen, weitere Informationen sind in Confluence zu finden."
     folder: "content/solution"
     path: "{{slug}}/index"
     media_folder: "/public/images/solution/{{dirname}}"
@@ -470,53 +478,48 @@ collections:
         widget: "text"
         i18n: true
       - label: "Cover"
-        hint: "Image used for related list items."
+        hint: "Originalbild für die Verwendung im Block *Mehr zum Thema* unter jedem Blog- und Solution-Artikel. Die Bildgröße sollte mindestens 500 x 500 Pixel betragen."
         name: "cover"
         widget: "image"
         required: false
       - label: "Page Cover"
-        hint: "Image used for solution page cover."
+        hint: "Originalbild für die Überschrift vom Solution-Artikel. Der Fokus sollte in der Mitte das Bildes liegen, da beim verkleinern des Browserfensters das Bild links und rechts beschnitten wird. Die Bildgröße sollte mindestens 2000 x 500 Pixel (Breite x Höhe) betragen."
         name: "pageCover"
         widget: "image"
         required: false
       - label: "Page Cover Mobile"
         name: "pageCoverMobile"
         widget: "image"
-        hint: "Image used for solution page cover on screens smaller than 1024px."
+        hint: "Originalbild für die Überschrift vom Solution-Artikel auf Bildschirmen die kleiner als 1024 Pixel breit sind. Der Fokus sollte in der Mitte das Bildes liegen, da beim verkleinern des Browserfensters das Bild links und rechts beschnitten wird. Die Bildgröße sollte mindestens 1000 x 500 Pixel (Breite x Höhe) betragen."
         required: false
       - label: "Slug"
-        hint: "The post URL (do not include folder or file extension)"
+        hint: "Eindeutiger Teil der URL, der hinter geops.ch/solution/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
         name: "slug"
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
         i18n: true
-      - label: "Grid Background Color"
-        name: "color"
-        default: "white"
-        hint: "CSS color value used for grid tile background. Use 'white' for dark text color."
-        widget: "string"
-      - label: "Contact Email"
-        hint: "Default email address info@geops.ch will be used if empty."
-        name: "contactEmail"
-        required: false
       - label: "Contact Title"
-        hint: "Defaults to translation for 'contactPerson.title' if empty."
+        hint: "Titel für den Kontakt-Block. Wenn das Feld leer ist, wird die Übersetzung *contactPerson.title* verwendet."
         name: "contactTitle"
         i18n: true
         required: false
+      - label: "Contact Email"
+        hint: "Email-Adresse für den Kontakt-Block. Wenn das Feld leer ist, wird info@geops.ch verwendet."
+        name: "contactEmail"
+        required: false
       - label: "Contact Subtitle"
-        hint: "Defaults to translation for 'contactPerson.subtitle' if empty."
+        hint: "Untertitel für den Kontakt-Block. Wenn das Feld leer ist, wird die Übersetzung *contactPerson.subtitle* verwendet."
         name: "contactSubtitle"
         i18n: true
         required: false
         widget: "markdown"
       - label: "Weight"
-        hint: "Lower weight will float to the top of lists."
+        hint: "Position in Listen."
         name: "weight"
         widget: "number"
       - label: "Tags"
         name: "tags"
-        hint: "Tags werden verwendet, um passende Inhalte im Block 'Mehr zum Thema' unter jedem Blog- und Solution-Artikel anzuzeigen (siehe auch https://jira.geops.ch/browse/GEOPSWEB-120)."
+        hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."
         multiple: true
         options:
           [
@@ -548,7 +551,7 @@ collections:
         required: false
         widget: "select"
       - label: "Frontpage"
-        hint: "Show on frontpage."
+        hint: "In der Liste auf der Startseite anzeigen."
         name: "frontpage"
         widget: "boolean"
       - label: "Frontpage Title"
@@ -559,22 +562,27 @@ collections:
       - label: "Frontpage Image"
         name: "frontpageImage"
         widget: "image"
-        hint: "Optimized image used for frontpage list."
+        hint: "Originalbild für die Liste auf der Startseite. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
         required: false
       - label: "Frontpage Weight"
-        hint: "Lower weight will float to the top of frontpage list."
+        hint: "Position in der Liste auf der Startseite."
         name: "frontpageWeight"
         widget: "number"
         required: false
+      - label: "Grid Background Color"
+        name: "color"
+        default: "white"
+        hint: "CSS Farbwert für die Hintergrundfarte der Kachel-Darstellung, die unter geops.ch/solution zu finden ist. Für 'white' wird eine dunkle Textfarbe verwendet."
+        widget: "string"
       - label: "Grid Image"
         name: "gridImage"
         widget: "image"
-        hint: "Optimized image used for grid tiles."
+        hint: "Originalbild für die Kachel-Darstellung, die unter geops.ch/solution zu finden ist. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
         required: false
-      - label: "Logo"
+      - label: "Grid Logo"
         name: "logo"
         widget: "image"
-        hint: "Optimized logo image used for grid tiles."
+        hint: "Originalbild für das Logo in der Kachel-Darstellung, die unter geops.ch/solution zu finden ist. Die Bildgröße sollte mindestens 500 Pixel in der Breite betragen."
         required: false
       - label: "Published"
         name: "published"
@@ -582,10 +590,12 @@ collections:
         required: false
       - label: "Content"
         name: "body"
+        hint: 'Text für den Artikel. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
         widget: "markdown"
         i18n: true
   - label: "Technology"
     name: "technology"
+    description: "Bilder und Texte für das Karussell, unter geops.ch/about#tech zu finden."
     folder: "content/technology"
     media_folder: "/public/images/technology/{{slug}}"
     public_folder: "/images/technology/{{slug}}"
@@ -597,14 +607,15 @@ collections:
     fields:
       - label: "Title"
         name: "title"
+        hint: "Text für das alt-Attribut vom Bild."
         widget: "string"
         i18n: true
       - label: "Image"
         name: "image"
         widget: "image"
-        hint: "compressed JPEG, 1600px wide, 1200px heigh"
+        hint: "Quadratisch und mindestens 500px breit."
       - label: "Weight"
         name: "weight"
         widget: "number"
         required: true
-        hint: "Position in Slider"
+        hint: "Position im Karussell."
