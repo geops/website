@@ -187,7 +187,7 @@ collections:
           - { i18n: true, label: Circle Clients, name: circleClients }
           - { i18n: true, label: Circle Employee, name: circleEmployee }
           - { i18n: true, label: Work, name: work }
-          - { i18n: true, label: Technology, name: tech, widget: "markdown"}
+          - { i18n: true, label: Technology, name: tech, widget: "markdown" }
       - label: "Career"
         name: "career"
         file: "content/page/career.json"
@@ -405,9 +405,17 @@ collections:
         fields:
           - { label: "German", name: "de", widget: "string" }
           - { label: "English", name: "en", widget: "string" }
-      - { label: "E-Mail", name: "email", widget: "string" }
-      - { label: "Telephone", name: "telephone", widget: "string" }
-      - { label: "GitHub", name: "github", widget: "string", required: false }
+      - label: "E-Mail"
+        name: "email"
+        widget: "string"
+      - label: "Telephone",
+        name: "telephone",
+        widget: "string",
+        required: false
+      - label: "GitHub"
+        name: "github"
+        widget: "string"
+        required: false
   - label: "Slide"
     name: "slide"
     folder: "content/slide"
