@@ -111,6 +111,11 @@ collections:
         name: "frontpage"
         widget: "boolean"
         required: false
+      - label: "Frontpage Image"
+        name: "frontpageImage"
+        widget: "image"
+        hint: "Optimized image used for frontpage list."
+        required: false
       - label: "Frontpage Weight"
         hint: "Lower weight will float to the top of frontpage list."
         name: "frontpageWeight"
