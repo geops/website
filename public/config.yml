@@ -413,9 +413,9 @@ collections:
       - label: "E-Mail"
         name: "email"
         widget: "string"
-      - label: "Telephone",
-        name: "telephone",
-        widget: "string",
+      - label: "Telephone"
+        name: "telephone"
+        widget: "string"
         required: false
       - label: "GitHub"
         name: "github"
