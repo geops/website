@@ -1,16 +1,38 @@
 import { useI18n } from "../lib/i18n";
 import CaretIcon from "./icons/CaretIcon";
 import Link from "./Link";
+import { useEffect, useState } from "react";
+import FastAverageColor from 'fast-average-color';
 
 export default function BlogListItem({ item }) {
   const { language, t } = useI18n();
   const created = new Date(item.created);
+  useEffect(() => {
+    const fac = new FastAverageColor();
+    let img
+    if(item.cover != undefined) {
+      img = document.createElement('img')
+      img.src = item.cover
+      
+    fac.getColorAsync(img)
+        .then(color => {
+          item["color"] = color.hex
+        })
+        .catch(() => {
+          item["color"] = '#000000'
+        })
+    } else {
+      item["color"] = '#000000'
+    }
+  });
   
   return (
     <Link href={`/blog/${item.slug}`}>
       <article className="container mx-auto lg:w-4/6 px-8 py-16 border-white border-b-2 flex items-center cursor-pointer group">
         {item.cover && (
-          <div style={{backgroundColor: "#000"}} className="hidden lg:block flex-none mr-8 xl:mr-16">
+          <div 
+          style={{ backgroundColor: item.color }}
+          className="img-container hidden lg:block flex-none mr-8 xl:mr-16 rounded">
             <img
               alt={`${item.title} Teaser`}
               className="object-cover rounded h-64 w-64 xl:h-96 xl:w-96"

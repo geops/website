@@ -8,6 +8,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "fast-average-color": "^6.4.2",
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "highlight.js": "^11.2.0",
