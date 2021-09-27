@@ -1,6 +1,8 @@
 ---
 title: Liniennetzpläne
-summary: Schnell verständliche Übersichten des öV-Angebots.
+summary: Liniennetzpläne bieten schnell verständliche Übersichten des
+  öV-Angebots. Unsere Netzpläne werden automatisiert auf Basis des Fahrplans
+  oder vergleichbarer Datenquellen generiert.
 slug: netzplaene
 contactSubtitle: ""
 frontpage: false

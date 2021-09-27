@@ -1,6 +1,8 @@
 ---
 title: Transit Network Plans
-summary: Easily grasped overviews of the public transport offer.
+summary: Transit network plans give an easily grasped overview of the public
+  transport offer. Our transit network plans are generated automatically from
+  timetable data or similar source.
 cover: /images/solution/network-plans/networkplan_sob.jpg
 pageCoverMobile: ""
 slug: network-plans
