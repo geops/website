@@ -6,6 +6,7 @@ summary: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
   Einzelbillett? Da kann man ganz schön leicht den Überblick verlieren. Mit der
   Tarifverbundkarte zeigen wir alle Verbunde der Schweiz und schaffen die
   Möglichkeit, in diesem öV-Dschungel die Orientierung zu behalten.
+cover: /images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_ganze_schweiz.png
 created: 2021-10-06
 slug: new-tariff-association-card-of-switzerland
 published: true
