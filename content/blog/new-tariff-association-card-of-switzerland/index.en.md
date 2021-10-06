@@ -6,16 +6,18 @@ summary: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
   Einzelbillett? Da kann man ganz schön leicht den Überblick verlieren. Mit der
   Tarifverbundkarte zeigen wir alle Verbunde der Schweiz und schaffen die
   Möglichkeit, in diesem öV-Dschungel die Orientierung zu behalten.
-cover: /images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_ganze_schweiz.png
+cover: /images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_title.png
 created: 2021-10-06
 slug: new-tariff-association-card-of-switzerland
 published: true
 ---
+Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und Verkehrsverbunde. Auf welcher Strecke gilt welches Abo? Und behält es seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht es doch ein Einzelbillett? Da kann man ganz schön leicht den Überblick verlieren. Mit der Tarifverbundkarte zeigen wir alle Verbunde der Schweiz und schaffen die Möglichkeit, in diesem öV-Dschungel die Orientierung zu behalten.
+
 ## Der Hintergrund
 
 Im Rahmen der [Trafimage-Systematik der SBB](https://www.trafimage.ch/) und im Auftrag der SBB und des [Verbands öffentlicher Verkehrsunternehmen VöV](https://www.voev.ch/) wurde schon seit mehr als zehn Jahren die [Übersicht der Tarifverbunde](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public) als Karte publiziert und jedes Jahr manuell aktualisiert. Anfang 2021 erhielt die bisherige Karte ein umfassendes Update: Neben einem sanften Facelift sind es vor allem technische Neuerungen, die das Datenupdate automatisieren, Web- und Printversion der Karte vereinheitlichen und den Informationsgehalt der Webversion erhöhen.
 
-![](/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_ganze_schweiz.png)
+![](/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_01.png)
 
 ### Die Datenbank NOVA als Grundlage
 
@@ -27,9 +29,9 @@ In der Tarifverbundkarte ist die Ausdehnung der Verbunde auf Gemeindebasis darge
 
 Die fertig berechneten Grenzen der Verbunde werden aus der Datenbank für die Darstellung in Webkarten exportiert. Dabei kommen MapBox Vector Tiles zum Einsatz, eine moderne Technologie, die hochauflösende Darstellungen und weitreichende Interaktivität mit der Karte ermöglicht und gleichzeitig die Datenmenge, die der Webbrowser über das Internet laden muss, gering hält.
 
-<img  class="hidden md:block" src="/images/blog/die-neue-tarifverbundkarte-der-schweiz/Tarifverbund_zweikarten.png">
+<img  class="hidden md:block" src="/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_zusammengefügt.png">
 
-<img class="block md:hidden" src="/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_max_zoom_title.png">
+<img class="block md:hidden" src="/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_title.png">
 
 ### Print is not dead
 
@@ -37,4 +39,4 @@ Dank der technologischen Umstellung der Datenaufbereitung konnten die Möglichke
 
 ### Ausblick
 
-Insgesamt ist an der Tarifverbundkarte fast alles neu. Die technischen Aktualisierungen ermöglichen es uns, mit einer automatisierten, performanten Kartenproduktion weiterhin für Überblick im öV-Dschungel zu sorgen. Der neue Ansatz spart nicht nur Kosten, sondern verbessert auch die Aktualität der Karte und reduziert das Risiko von Fehlern. Für die Zukunft planen wir, weiteren Nutzen aus den NOVA Daten zu ziehen – vielleicht gibt es bald eine Webkarte, die differenziert für jede Strecke nicht nur die Gültigkeit von Verbundabos sondern auch der übergreifenden Produkte wie GA oder Halbtax zeigt. Schauen Sie regelmäßig in unseren Blog oder abonnieren Sie gleich unseren [Newsletter](https://geops.ch/newsletter), damit Sie immer auf dem Laufenden bleiben.
+Insgesamt ist an der Tarifverbundkarte fast alles neu. Die technischen Aktualisierungen ermöglichen es uns, mit einer automatisierten, performanten Kartenproduktion weiterhin für Überblick im öV-Dschungel zu sorgen. Der neue Ansatz spart nicht nur Kosten, sondern verbessert auch die Aktualität der Karte und reduziert das Risiko von Fehlern. Für die Zukunft planen wir, weiteren Nutzen aus den NOVA Daten zu ziehen – vielleicht gibt es bald eine Webkarte, die differenziert für jede Strecke nicht nur die Gültigkeit von Verbundabos sondern auch der übergreifenden Produkte wie GA oder Halbtax zeigt. Schauen Sie regelmässig in unseren Blog oder abonnieren Sie gleich unseren [Newsletter](https://geops.ch/newsletter), damit Sie immer auf dem Laufenden bleiben.
