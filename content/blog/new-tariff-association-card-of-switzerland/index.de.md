@@ -13,6 +13,8 @@ slug: neue-tarifverbundkarte-der-schweiz
 
 Im Rahmen der [Trafimage-Systematik der SBB](https://www.trafimage.ch/) und im Auftrag der SBB und des [Verbands öffentlicher Verkehrsunternehmen VöV](https://www.voev.ch/) wurde schon seit mehr als zehn Jahren die [Übersicht der Tarifverbunde](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public) als Karte publiziert und jedes Jahr manuell aktualisiert. Anfang 2021 erhielt die bisherige Karte ein umfassendes Update: Neben einem sanften Facelift sind es vor allem technische Neuerungen, die das Datenupdate automatisieren, Web- und Printversion der Karte vereinheitlichen und den Informationsgehalt der Webversion erhöhen.
 
+![](/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_ganze_schweiz.png)
+
 ### Die Datenbank NOVA als Grundlage
 
 Die neue Tarifverbundkarte basiert nicht mehr auf persönlichen, informellen Inputs und deren manueller Einarbeitung in eine Grafik-Software. Vielmehr setzen wir jetzt NOVA ein, eine zentrale Datenbank mit umfassenden Tarifinformationen, die im Rahmen der Initiative für das «Zukünftige Preissystem öV Schweiz» ZPS entwickelt wurde. Wir nutzen NOVA bereits seit mehreren Jahren, um für die Verkaufsapplikation CASA, die an SBB-Schaltern verwendet wird, einen Kartenlayer mit den Grenzen aller Tarifzonen der Schweiz zu erstellen. Die Zonen werden immer routinemässig zum Fahrplanwechsel auf Basis der Information zur Gültigkeit von Abo-Produkten berechnet. Diese ist in NOVA für jede Verbindung (sogenannte «Kanten») und jeden Betreiber hinterlegt. Was läge da näher als diese Daten auch als Grundlage für die neue Tarifverbundkarte zu nutzen?
@@ -22,6 +24,10 @@ Die neue Tarifverbundkarte basiert nicht mehr auf persönlichen, informellen Inp
 In der Tarifverbundkarte ist die Ausdehnung der Verbunde auf Gemeindebasis dargestellt. Obwohl sich die Verbunde in der Realität keineswegs immer an administrativen Grenzen orientieren, hat sich diese Vereinfachung als eine Form der kartografischen Generalisierung im Hinblick auf die die Übersichtlichkeit der Karte für die ganze Schweiz oder grössere Teilregionen als vorteilhaft erwiesen. Vor der Zuweisung eines Verbundes zu einer Gemeinde sind allerdings noch diverse Prozessierungsschritte erforderlich, die allesamt im Algorithmus zur automatisierten Kartenerstellung implementiert sind: Die Kanteninformationen in NOVA sind räumlich noch nicht genau genug für die Kartenerstellung und müssen daher zuerst mit unseren Routing-Diensten in geografisch exakte Streckenverläufe umgewandelt werden. Der Algorithmus berücksichtigt sodann eine manuell erstellte Liste von Regeln, mit denen wichtige Ausnahmen der Abo-Gültigkeiten innerhalb einer Gemeinde dargestellt werden. So ist es zum Beispiel möglich, für die Zahnradbahn nach Les Pléiades anzuzeigen, dass sie eben nicht mit dem mobilis-Abo befahren werden darf, so wie es für den Rest der Gemeinde Blonay gilt. Zuletzt müssen auch noch Überlappungen zwischen Verbunden erkannt werden, um diese Bereiche mit einer Schraffur aus den Farben der involvierten Verbunde zu markieren.
 
 Die fertig berechneten Grenzen der Verbunde werden aus der Datenbank für die Darstellung in Webkarten exportiert. Dabei kommen MapBox Vector Tiles zum Einsatz, eine moderne Technologie, die hochauflösende Darstellungen und weitreichende Interaktivität mit der Karte ermöglicht und gleichzeitig die Datenmenge, die der Webbrowser über das Internet laden muss, gering hält.
+
+![](/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_max_zoom_2.png)
+
+![](/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_max_zoom_title.png)
 
 ### Print is not dead
 
