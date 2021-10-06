@@ -29,9 +29,9 @@ Die fertig berechneten Grenzen der Verbunde werden aus der Datenbank für die Da
 
 <div class="flex flex-row">
 
-<img style="margin: 10px 10px !important; width: 49% !important" src="/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_max_zoom_2.png">
+<img src="/images/blog/die-neue-tarifverbundkarte-der-schweiz/Tarifverbund_zweikarten">
 
-<img  style="margin: 0px !important; width: 49% !important" class="sm:hidden" src="/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_max_zoom_title.png">
+<img  class="hidden lg:block" src="/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_max_zoom_title.png">
 
 </div>
 
