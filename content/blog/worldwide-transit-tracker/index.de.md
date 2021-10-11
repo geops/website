@@ -5,7 +5,7 @@ summary: geOps hat einen Tracker des öffentlichen Personenverkehrs
   Echtzeitdaten aus der ganzen Welt.
 slug: weltweiter-ov-tracker
 ---
-### Mehr als 700 Transportunternehmen
+## Mehr als 700 Transportunternehmen
 
 In Zusammenarbeit mit der Universität Freiburg hat geOps einen [Tracker des öffentlichen Personenverkehrs](http://tracker.geops.ch/?z=14&s=20&lat=40.723&lon=-74.002) implementiert. Die Anwendung kombiniert statische Fahrplandaten mit eventuell vorhandenen Echtzeitdaten und berechnet daraus die aktuelle Position eines Fahrzeuges, egal ob Zug, Bus, Strassenbahn, U-Bahn oder Schiff. Die Daten werden aus GTFS Feeds gelesen. Derzeit sind mehr als 700 über die ganze Welt verteilte Feeds integriert. Echtzeitdaten sind unter anderem für [die Niederlande](http://tracker.geops.ch/?z=13&s=1&lat=52.36595686731005&lon=4.904365539550781) verfügbar.
 

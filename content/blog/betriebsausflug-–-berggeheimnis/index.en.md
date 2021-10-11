@@ -16,7 +16,7 @@ Ausgangs- und Treffpunkt war die Talstation der Schauinslandbahn in Horben um 9:
 
 ![](/images/blog/betriebsausflug-–-berggeheimnis/Selbahn.jpg)
 
-### Rätselspaß auf dem Schauinsland
+## Rätselspaß auf dem Schauinsland
 
 Oben angekommen teilten wir uns in zwei Gruppen auf. Eine Gruppe spielte das Outdoor-Escape-Games vorwärts und die andere Gruppe rückwärts. Ausgestattet mit jeweils einem Rucksack pro Gruppe, der viele Hinweise und Utensilien zum Lösen der Rätsel enthielt, ging das Abenteuer los.
 

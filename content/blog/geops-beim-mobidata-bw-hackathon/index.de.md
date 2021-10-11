@@ -10,7 +10,7 @@ Ein Hackathon - was ist das überhaupt? Die beiden Wörter "Hack" und "Marathon"
 
 Unter den besonderen Umständen der Pandemie fand der [MobiData BW Hackathon](https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/mobidata-bw-hackathon/) als reine Online-Veranstaltung statt. Ein Teil von geOps hat sich also praktisch gesprochen über das Wochenende vor den Rechner verkrochen und gemeinsam getüftelt. Begleitet wurde das Ganze durch ein Rahmenprogramm mit verschiedenen Rednern zu aktuellen Themen der Verkehrswende. Mittels Liefer-Service haben die Veranstalter sogar für das leibliche Wohl gesorgt. Zeitweise gab es in der Online-Konferenz ein wildes Durcheinander beim Wechseln zwischen verschiedenen Chat-Räumen. Mit ca. 150 Teilnehmern wäre das im wahren Leben aber sicherlich nicht anders gewesen. Insgesamt muss man sagen, dass das Event sehr gut organisiert war, wenn man von ein paar technischen Problemen absieht.
 
-### Die Challenge
+## Die Challenge
 
 Der MobiData BW Hackathon wurde vom Ministerium für Verkehr Baden-Württemberg zusammen mit der Stadt Freiburg und der Nahverkehrsgesellschaft Baden-Württemberg mbH (NVBW) ausgerichtet und stand unter dem Motto, neue Lösungsansätze für zukünftige Mobilität zu entwerfen. Insgesamt gab es 30 Challenges zur Auswahl, die verschiedene Aspekte und Herausforderungen der Verkehrswende abdeckten. Darunter waren Themen wie E-Mobility, bessere Auslastung von PKW im Individualverkehr, Rad- und Fußverkehr, oder eine Verbesserung der Parkplatzsituation. Wir haben uns für die Challenge "Echtzeitprognose im ÖPNV" entschieden.
 

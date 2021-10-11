@@ -28,14 +28,18 @@ export default function TeamGridItem({ person }) {
             >
               {person.email}
             </a>
-            <br />
-            {t("website.telephone")}:{" "}
-            <a
-              className="text-green hover:text-green-light"
-              href={`tel:${person.telephone}`}
-            >
-              {person.telephone}
-            </a>
+            {person.telephone && (
+              <>
+                <br />
+                {t("website.telephone")}:{" "}
+                <a
+                  className="text-green hover:text-green-light"
+                  href={`tel:${person.telephone}`}
+                >
+                  {person.telephone}
+                </a>
+              </>
+            )}
             {person.github && (
               <>
                 <br />

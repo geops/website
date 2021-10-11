@@ -13,7 +13,7 @@ tags:
 published: true
 ---
 
-### More than 700 public transportation companies
+## More than 700 public transportation companies
 
 In collaboration with the University of Freiburg, geOps has implemented [a tracker of public transportation data](http://tracker.geops.ch/?z=14&s=10&lat=40.723&lon=-74.002). The application combines static schedule data with possibly available realtime data and calculates the current position of the transport vehicles, no matter whether it is a train, a bus, a streetcar or a boat. The data is read from so-called GTFS-feeds. Currently more than 700 feeds from all over the world have been ingested into the tracker. Realtime data is for example available for [the Netherlands](http://tracker.geops.ch/?z=13&s=1&lat=52.36595686731005&lon=4.904365539550781) .
 

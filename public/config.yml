@@ -113,6 +113,11 @@ collections:
         name: "frontpage"
         widget: "boolean"
         required: false
+      - label: "Frontpage Image"
+        name: "frontpageImage"
+        widget: "image"
+        hint: "Optimized image used for frontpage list."
+        required: false
       - label: "Frontpage Weight"
         hint: "Position in der Liste auf der Startseite."
         name: "frontpageWeight"
@@ -126,6 +131,7 @@ collections:
         hint: 'Text für den Artikel. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/blog/..." mobile="/images/blog/..." />** eingebunden werden.'
         widget: "markdown"
         i18n: true
+        hint: "Please use h2 for the first heading and h3 for the following headings"
   - label: "Job"
     name: "job"
     description: "Ausschreibungen für Jobs, werden unter geops.ch/karriere aufgelistet."
@@ -410,9 +416,17 @@ collections:
         fields:
           - { label: "German", name: "de", widget: "string" }
           - { label: "English", name: "en", widget: "string" }
-      - { label: "E-Mail", name: "email", widget: "string" }
-      - { label: "Telephone", name: "telephone", widget: "string" }
-      - { label: "GitHub", name: "github", widget: "string", required: false }
+      - label: "E-Mail"
+        name: "email"
+        widget: "string"
+      - label: "Telephone"
+        name: "telephone"
+        widget: "string"
+        required: false
+      - label: "GitHub"
+        name: "github"
+        widget: "string"
+        required: false
   - label: "Slide"
     name: "slide"
     description: "Bilder und Texte für die Slideshow auf der Startseite."
@@ -593,6 +607,7 @@ collections:
         hint: 'Text für den Artikel. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
         widget: "markdown"
         i18n: true
+        hint: "Please use h2 for the first heading and h3 for the following headings"
   - label: "Technology"
     name: "technology"
     description: "Bilder und Texte für das Karussell, unter geops.ch/about#tech zu finden."

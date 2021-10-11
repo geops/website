@@ -32,7 +32,7 @@ Grundsätzlich nutzen wir einen Kürzester-Weg-Algorithmus um zwischen 2 aufeina
 
 Es gibt mehrere Möglichkeiten, zur Verbesserung von TRAVIC beizutragen.
 
-### Durch Korrekturen in OSM
+## Durch Korrekturen in OSM
 
 Eine große Zahl von Fehlern kann behoben werden, indem die zugrundeliegenden OSM-Daten entweder korrigiert oder angereichert werden. Dies umfasst beispielsweise das Hinzufügen von neuen OSM-Relationen oder die Korrektur von evt. falschen Weg-Attributen.
 

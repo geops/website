@@ -16,7 +16,7 @@ This article will show how to use OLE to provide feature editing and feature cre
 - OLE is the OpenLayers Editor developed by geOps. It is not packed with MapFish but can be easily used with it.
 - The files which are created over the course of the tutorial can be found in a [git repository](https://github.com/geops/ole/tree/master/server/mapfish/).
 
-### Preparing a MapFish Installation
+## Preparing a MapFish Installation
 
 First you need to set up a MapFish project. Thus the setup is briefly listed here or available in more detail in the [MapFish Getting Started documentation](http://www.mapfish.org/doc/2.2/installation.html). If you already have a MapFish installation running, you can safely [skip this section.](#mapfish_tutorial_client_side)
 

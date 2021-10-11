@@ -25,7 +25,7 @@ gridImage: /images/solution/routing/routing.png
 
 Finding the precise way from A to B is no problem today - as long as you are traveling by car or on foot. But finding the route of a bus or train is a different story. Our routing service includes a large number of vehicles, resulting in higher precision than any other service, especially when it comes to public transport vehicles. We guarantee high quality because the routing relies on richly attributed data from the rail, road and footpath network and uses sophisticated heuristics.
 
-## Suitable
+### Suitable
 
 The routing is adapted to our maps. For long distances that are used in small-scale overviews, the routes are simplified ("generalized") in exactly the same way as in the maps, so that they correspond exactly to the features on the base map. In contrast, routes are calculated in great detail for detailed views, right down to individual tracks in the station.
 

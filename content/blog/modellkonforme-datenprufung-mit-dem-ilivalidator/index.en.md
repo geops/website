@@ -23,7 +23,7 @@ published: true
   
   
 
-### Modellkonforme Publikation des KbS
+## Modellkonforme Publikation des KbS
 
 Altlast4Web ist eine von geOps entwickelte Software für die Organisation von Geodaten und die Koordination von Geschäftsprozessen für das Management von Altlasten. Schweizer Kantone und Bundessstellen sowie das Fürstentum Liechtenstein nutzen die Anwendung zur Führung des nach Umweltschutzgesetz (USG) und Altlastenverordnung (AltlV) verpflichtenden Katasters belasteter Standorte (KbS). Seit 15 Jahren wird die Software eingesetzt und seither kontinuierlich weiter entwickelt, um sowohl den technologischen Veränderungen wie auch den wechselnden fachlichen Anforderungen gerecht zu werden.
 

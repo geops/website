@@ -1,6 +1,8 @@
 ---
 title: Transit Network Plans
-summary: Easily grasped overviews of the public transport offer.
+summary: Transit network plans give an easily grasped overview of the public
+  transport offer. Our transit network plans are generated automatically from
+  timetable data or similar source.
 cover: /images/solution/network-plans/networkplan_sob.jpg
 pageCoverMobile: ""
 slug: network-plans
@@ -20,9 +22,9 @@ Travel information has many facets. On the one hand there is the personalized in
 
 Line network plans refer to different areas from the overall offer. They can be differentiated according to regions, operators, means of transport, day and night networks or other criteria. In the case of topographical network plans, the position of the lines is closely aligned with reality, while schematized plans are more or less abstracted in order to emphasize the connections between the lines and stations more clearly.
 
-<ResponsiveImage alt="Network plan" desktop="/images/solution/network-plans/Liniennetz_01.png" mobile="/images/solution/network-plans/LNP_mobile.png" />
+<ResponsiveImage alt="Network plan" desktop="/images/solution/network-plans/Liniennetz_01.png" mobile="/images/solution/network-plans/Liniennetz_mobil.png" />
 
-## Map information dynamically
+### Map information dynamically
 
 Our network plans are largely calculated automatically. The calculation is usually based on timetable data, which can be filtered according to the criteria listed above. The results are graphic images that classically depict lines in different colors.
 In addition, a topological network of edges and nodes is created, which has great potential for intelligent, dynamic representations. For example, you can use our network plans as a basis for real-time visualizations such as those we operate for the S-Bahn München and S-Bahn Hamburg. They can also be used to display disruptions on the route or operating characteristics such as the timing on the lines.

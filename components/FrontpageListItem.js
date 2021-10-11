@@ -8,7 +8,6 @@ const scrollSnapStyle = {
   scrollSnapAlign: "start",
   scrollMarginTop: "200px",
 };
-
 export default function FrontpageListItem({ item, side }) {
   const rotate = side === "left" ? "md:-translate-x-8" : "md:translate-x-8";
   const imgRef = useIntersectionOberserver(rotate);
@@ -21,7 +20,9 @@ export default function FrontpageListItem({ item, side }) {
       style={scrollSnapStyle}
     >
       <div className="mt-8 md:mt-0 w-full md:w-1/2">
-        <h2>{item.frontpageTitle || item.title}</h2>
+        <h3 className="font-extrabold text-3xl">
+          {item.frontpageTitle || item.title}
+        </h3>
         <p className="my-8">{item.summary}</p>
         <Button href={`/${item.collection}/${item.slug}`}>
           {t("website.more")}

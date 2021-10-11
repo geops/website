@@ -3,7 +3,6 @@ import Image from "next/image";
 import { useI18n } from "../lib/i18n";
 import CaretIcon from "./icons/CaretIcon.js";
 import Link from "./Link.js";
-
 export default function RelatedListItem({ dark, item }) {
   const { t } = useI18n();
   return (
@@ -28,7 +27,7 @@ export default function RelatedListItem({ dark, item }) {
           {item.readingTime} min {t("website.readingTime")} |{" "}
           {item.collection === "blog" ? "Blog" : t("relatedList.solution")}
         </div>
-        <h2 className="mb-4 mt-2">{item.title}</h2>
+        <h3 className="mb-4 mt-2">{item.title}</h3>
         <p>{item.summary}</p>
         <div
           className={`flex items-center mt-4 ${
