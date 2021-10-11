@@ -4,7 +4,7 @@ summary: Mit unserem Online-Tool Cartaro lassen sich räumliche Informationen
   komfortabel verwalten und auf Knopfdruck in einer Webkarte veröffentlichen.
 created: 2021-07-28
 slug: cartaro
-frontpage: true
+frontpage: false
 published: false
 ---
 <!--StartFragment-->
