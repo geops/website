@@ -10,7 +10,7 @@ slug: interpolation-von-hohenprofilen
 tags:
   - routing
   - developers
-frontpage: true
+frontpage: false
 frontpageWeight: 3
 published: true
 ---
