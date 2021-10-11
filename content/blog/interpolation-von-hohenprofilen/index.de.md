@@ -4,6 +4,7 @@ summary: Realistische Höhenprofile entlang von Routen zu berechnen ist nicht so
   einfach wie es auf den ersten Blick scheint. Wir erklären, wie unser
   Routing-Dienst das Problem löst.
 slug: interpolation-von-hohenprofilen
+frontpage: false
 ---
 Man kennt sie von der Planung von Wanderungen oder Radtouren: Höhenprofile entlang eines bestimmten Streckenverlaufs.
 
