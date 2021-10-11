@@ -1,5 +1,5 @@
 ---
-title: Pläne für den öffentlichen Verkehr
+title: Pläne zum Selbermachen
 summary: mapset erlaubt die einfache Erstellung von übersichtlichen und optisch
   ans­prechenden Plänen für Belange des öffentlichen Verkehrs.
 slug: mapset

@@ -1,5 +1,5 @@
 ---
-title: mapset – Plans for public Transport
+title: Plans for public Transport
 summary: mapset allows easy creation of clear and visually appealing plans for
   public transport concerns.
 cover: /images/solution/mapset/mapset_teaser_startseite.png
