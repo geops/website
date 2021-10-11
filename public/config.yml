@@ -128,10 +128,9 @@ collections:
         widget: "boolean"
       - label: "Content"
         name: "body"
-        hint: 'Text für den Artikel. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/blog/..." mobile="/images/blog/..." />** eingebunden werden.'
+        hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/blog/..." mobile="/images/blog/..." />** eingebunden werden.'
         widget: "markdown"
         i18n: true
-        hint: "Please use h2 for the first heading and h3 for the following headings"
   - label: "Job"
     name: "job"
     description: "Ausschreibungen für Jobs, werden unter geops.ch/karriere aufgelistet."
@@ -604,10 +603,9 @@ collections:
         required: false
       - label: "Content"
         name: "body"
-        hint: 'Text für den Artikel. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
+        hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
         widget: "markdown"
         i18n: true
-        hint: "Please use h2 for the first heading and h3 for the following headings"
   - label: "Technology"
     name: "technology"
     description: "Bilder und Texte für das Karussell, unter geops.ch/about#tech zu finden."
