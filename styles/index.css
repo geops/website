@@ -31,30 +31,25 @@ button:focus {
 }
 
 h1,
-h2,
-h3 {
-  @apply font-bold;
-}
-
-h1,
 .prose h1 {
   @apply font-black leading-snug text-4xl md:text-5xl;
 }
-
-h2,
-.prose h2 {
+h2 {
   @apply font-extrabold text-3xl;
 }
-
-h3,
-.prose h3 {
+h3 {
   @apply font-extrabold text-2xl;
 }
 
 .prose a {
   @apply no-underline text-blue hover:text-blue-light;
 }
-
+.prose h2 {
+  @apply text-2xl;
+}
+.prose h3 {
+  @apply text-xl;
+}
 .prose p,
 .prose ol,
 .prose ul {
