@@ -8,7 +8,7 @@ slug: cartaro
 tags:
   - cartaro
   - maps
-frontpage: true
+frontpage: false
 published: false
 ---
 <!--StartFragment-->
