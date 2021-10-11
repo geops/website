@@ -13,7 +13,7 @@ Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und Verkehrsverbunde. 
 
 ## Der Hintergrund
 
-Im Rahmen der [Trafimage-Systematik der SBB](https://www.trafimage.ch/) und im Auftrag der SBB und des [Verbands öffentlicher Verkehrsunternehmen VöV](https://www.voev.ch/) wurde schon seit mehr als zehn Jahren die [Übersicht der Tarifverbunde](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public) als Karte publiziert und jedes Jahr manuell aktualisiert. Anfang 2021 erhielt die bisherige Karte ein umfassendes Update: Neben einem sanften Facelift sind es vor allem technische Neuerungen, die das Datenupdate automatisieren, Web- und Printversion der Karte vereinheitlichen und den Informationsgehalt der Webversion erhöhen.
+Im Rahmen der [Trafimage-Systematik der SBB](https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/karten-bahnhofplaene.html) und im Auftrag der SBB und des [Verbands öffentlicher Verkehrsunternehmen VöV](https://www.voev.ch/) wurde schon seit mehr als zehn Jahren die [Übersicht der Tarifverbunde](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public) als Karte publiziert und jedes Jahr manuell aktualisiert. Anfang 2021 erhielt die bisherige Karte ein umfassendes Update: Neben einem sanften Facelift sind es vor allem technische Neuerungen, die das Datenupdate automatisieren, Web- und Printversion der Karte vereinheitlichen und den Informationsgehalt der Webversion erhöhen.
 
 ![](/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_01.png)
 
