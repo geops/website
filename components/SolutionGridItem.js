@@ -29,7 +29,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
         className={`${sectionClassName} flex group justify-between overflow-hidden rounded transition-all duration-500 hover:p-2 hover:-m-2 relative`}
         style={{ backgroundColor: solution.color, color }}
       >
-        <div className="flex flex-col justify-between m-8 overflow-hidden">
+        <div className="flex flex-col justify-between m-8">
           <div className="mb-4">
             <div className="h-16 mb-4 relative">
               {solution.logo && (
@@ -53,8 +53,10 @@ export default function SolutionGridItem({ position, remaining, solution }) {
             <Image
               alt={`${solution.title} Teaser`}
               className="object-contain object-right"
-              layout="fill"
+              layout="responsive"
               src={solution.gridImage}
+              height={solution.imageSizes[solution.gridImage].height}
+              width={solution.imageSizes[solution.gridImage].width}
             />
           </div>
         )}
