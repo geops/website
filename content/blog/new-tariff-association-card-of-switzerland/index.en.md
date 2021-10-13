@@ -6,6 +6,8 @@ summary: Mit der Tarifverbundkarte informieren wir über Lage und Vernetzung der
 cover: /images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_title.png
 created: 2021-10-06
 slug: new-tariff-association-card-of-switzerland
+frontpage: true
+frontpageImage: /images/blog/die-neue-tarifverbundkarte-der-schweiz/mockup_02.png
 published: true
 ---
 Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und Verkehrsverbunde. Auf welcher Strecke gilt welches Abo? Und behält es seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht es doch ein Einzelbillett? Da kann man ganz schön leicht den Überblick verlieren. Mit der Tarifverbundkarte zeigen wir alle Verbunde der Schweiz und schaffen die Möglichkeit, in diesem öV-Dschungel die Orientierung zu behalten.
