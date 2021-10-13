@@ -12,7 +12,7 @@ frontpageImage: /images/blog/die-neue-tarifverbundkarte-der-schweiz/mockup_02-1.
 frontpageWeight: 0
 published: true
 ---
-Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und Verkehrsverbunde. Auf welcher Strecke gilt welches Abo? Und behält es seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht es doch ein Einzelbillett? Da kann man ganz schön leicht den Überblick verlieren. Mit der Tarifverbundkarte zeigen wir alle Verbunde der Schweiz und schaffen die Möglichkeit, in diesem öV-Dschungel die Orientierung zu behalten.
+Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und Verkehrsverbunde. Auf welcher Strecke gilt welches Abo? Und behält es seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht es doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle Verbunde der Schweiz und schaffen die Möglichkeit, die Orientierung über die Gültigkeit von Abos zu behalten.
 
 ## Der Hintergrund
 
