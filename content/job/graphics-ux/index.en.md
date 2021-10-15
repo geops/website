@@ -15,6 +15,7 @@ h2. Aufgaben
 * Sie zeichnen für die grafische Gestaltung unseres Webauftritts verantwortlich.
 
 h2. Qualifikationen
+
   Sie sind ein Design-Allrounder und begeistern uns mit ihren Skills im Bereich On- und Offline-Medien.
   Sie sind routiniert in der Nutzung gängiger Grafik-Software, sind aber auch bereit, die bei uns verwendeten Tools zu lernen.
   Sie sind fit in HTML und CSS und kennen sich idealerweise auch mit JavaScript aus.
