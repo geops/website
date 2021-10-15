@@ -1,7 +1,8 @@
 ---
 title: Kommunikations-/UX-Designer (m/w/d)  50-100 %
-summary: Für unseren Standort in Freiburg (D) suchen wir Unterstützung für alle
-  Belange im Bereich Grafik, UX und Kommunikation.
+summary: Optik und Funktionalität gehören für Sie ganz eng zusammen? Sie lieben
+  es, attraktive Produkte attraktiv zu verpackten? Sie haben keine Angst, sich
+  in technische Details einzudenken?
 slug: graphics-ux
 created: 2021-10-15
 ---
