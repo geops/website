@@ -1,9 +1,11 @@
 ---
-title: Frontend Developer
-summary: You are a true all-rounder who moves confidently between database,
-  backend and client application? Are you enthusiastic about modern open source
-  technologies and looking forward to exchanging ideas with experienced
-  developers?
+title: JavaScript Developer
+summary: Dein Herz schlägt für OpenSource Software und Du willst spannende
+  Projekte mit innovativen Technologien realisieren? Dann komm zu uns ins Team!
+  Mit Leidenschaft entwickeln wir seit mehr als 15 Jahren Webapplikationen und
+  interaktive Karten, vorwiegend in den Bereichen Umwelt und Öffentlicher
+  Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir motivierte
+  Frontend-Entwickler.
 slug: frontend-developer
 created: 2021-10-15
 ---
