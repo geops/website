@@ -1,8 +1,8 @@
 ---
-title: Kommunikations-/UX-Designer (m/w/d)  50-100 %
-summary: Optik und Funktionalität gehören für Sie ganz eng zusammen? Sie lieben
-  es, attraktive Produkte attraktiv zu verpackten? Sie haben keine Angst, sich
-  in technische Details einzudenken?
+title: Kommunikations-/UX-Designer (m/w/d)
+summary: Optik und Funktionalität gehören für Sie ganz eng zusam&shy;men? Sie
+  lieben es, attrak&shy;tive Pro&shy;dukte attrak&shy;tiv zu verpacken? Sie
+  haben keine Angst, sich in tech&shy;nische Details ein&shy;zu&shy;denken?
 slug: graphics-ux
 created: 2021-10-15
 ---
@@ -37,4 +37,6 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 
 ## Das klingt nach ihrem Job? 
 
-Prima! Wir suchen sie zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Auf ihre Bewerbung an [karriere@geops.de](mailto:karriere@geops.de) freuen wir uns. Am besten senden sie uns mit den üblichen Bewerbungsunterlagen auch einige Arbeitsproben, die uns begeistern können. Teilen Sie uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) sie starten können. Sollten noch Fragen offen sein, schreiben sie uns bitte an oben genannte Mailadresse oder rufen sie unseren Geschäftsführer Uli Müller unter +49 1525 4619806 an.
+Prima! Wir suchen sie zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Ihr Arbeitspensum liegt zwischen 50 und 100 %. 
+
+Auf ihre Bewerbung an [karriere@geops.de](mailto:karriere@geops.de) freuen wir uns. Am besten senden sie uns mit den üblichen Bewerbungsunterlagen auch einige Arbeitsproben, die uns begeistern können. Teilen Sie uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) sie starten können. Sollten noch Fragen offen sein, schreiben sie uns bitte an oben genannte Mailadresse oder rufen sie unseren Geschäftsführer Uli Müller unter +49 1525 4619806 an.
