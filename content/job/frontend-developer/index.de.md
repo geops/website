@@ -1,8 +1,8 @@
 ---
 title: Senior JavaScript Developer (m/w/d)
-summary: Sie lieben intuitive, attraktive Frontends, die auf modernen und
-  soliden Technologien basieren? Sie sind erfahren und gleichzeitig immer
-  hungrig auf Neues?
+summary: Sie lieben intuitive, attrak&shy;tive Front&shy;ends, die auf
+  moder&shy;nen und soliden Tech&shy;no&shy;logien basieren? Sie sind erfahren
+  und gleich&shy;zeitig immer hungrig auf Neues?
 slug: frontend-developer
 created: 2021-10-15
 ---
