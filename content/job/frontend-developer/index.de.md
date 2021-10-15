@@ -2,10 +2,10 @@
 title: JavaScript Developer
 summary: Dein Herz schlägt für OpenSource Software und Du willst spannende
   Projekte mit innovativen Technologien realisieren? Dann komm zu uns ins Team!
-  Mit Leidenschaft entwickeln wir seit mehr als 15 Jahren Webapplikationen und
+  Mit Leidenschaft entwickeln wir seit fast 20 Jahren Webapplikationen und
   interaktive Karten, vorwiegend in den Bereichen Umwelt und Öffentlicher
-  Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir motivierte
-  Frontend-Entwickler.
+  Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir motivierte und
+  erfahrene Frontend-Entwickler.
 slug: frontend-developer
 created: 2021-10-15
 ---
