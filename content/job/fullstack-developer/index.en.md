@@ -1,5 +1,5 @@
 ---
-title: Full Stack Developer
+title: Senior Full Stack Developer
 summary: You are a true all-rounder who moves confidently between database,
   backend and client application? Are you enthusiastic about modern open source
   technologies and looking forward to exchanging ideas with experienced
@@ -7,7 +7,7 @@ summary: You are a true all-rounder who moves confidently between database,
 slug: fullstack-developer
 created: 2021-05-01
 ---
-You are a true all-rounder who moves confidently between database, backend and client application? Are you enthusiastic about modern open source technologies and looking forward to exchanging ideas with experienced developers? Then come to the tri-border region and work with us on exciting customer solutions in the areas of mobility and the environment. For our offices either in Freiburg (D) we are looking for a fullstack developer, working full- or part-time (80%).
+You are a true all-rounder who moves confidently between database, backend and client application? Are you enthusiastic about modern open source technologies and looking forward to exchanging ideas with experienced developers? Then come to the tri-border region and work with us on exciting customer solutions in the areas of mobility and the environment. For our office in Freiburg (D) we are looking for a fullstack developer, working full- or part-time (80%).
 
 ## What awaits you
 
