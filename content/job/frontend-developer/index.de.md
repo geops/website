@@ -1,37 +1,46 @@
 ---
-title: JavaScript Developer
-summary: Dein Herz schlägt für OpenSource Software und Du willst spannende
-  Projekte mit innovativen Technologien realisieren? Dann komm zu uns ins Team!
-  Mit Leidenschaft entwickeln wir seit fast 20 Jahren Webapplikationen und
-  interaktive Karten, vorwiegend in den Bereichen Umwelt und Öffentlicher
-  Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir motivierte und
-  erfahrene Frontend-Entwickler.
+title: Senior JavaScript Developer
+summary: Senior JavaScript-Entwickler (w/m/d) für Webapplikationen und
+  interaktive Karten in Freiburg (D).
 slug: frontend-developer
 created: 2021-10-15
 ---
-You are a true all-rounder who moves confidently between database, backend and client application? Are you enthusiastic about modern open source technologies and looking forward to exchanging ideas with experienced developers? Then come to the tri-border region and work with us on exciting customer solutions in the areas of mobility and the environment. For our offices either in Freiburg (D) we are looking for a fullstack developer, working full- or part-time (80%).
+Ihr Herz schlägt für Open Source Software und Sie wollen spannende Projekte mit innovativen Technologien realisieren? Dann kommen Sie in unser Team! Mit Leidenschaft entwickeln wir seit fast 20 Jahren Webapplikationen und interaktive Karten, vorwiegend in den Bereichen Umwelt und Öffentlicher Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir motivierte und erfahrene Frontend-Entwickler.
 
-## What awaits you
 
-You will develop attractive solutions for well-known customers based on our micro-services architecture and frontend libraries. You will work with us on the further development and deployment of our GeoCMS Cartaro based on Python and React. You will regularly have the opportunity to try out new technologies and evaluate them together with us. You will support us in the further development of our libraries and services.
 
-## Qualifications
 
-You have extensive experience with web technologies, enjoy developing and are interested in new technologies. You are familiar with modern JavaScript libraries (amongst ohters React, MapBox GL JS and OpenLayers) as well as project-oriented programming with Python. You are familiar with databases such as PostgreSQL and ideally also with geo-operators (PostGIS). In your daily work you use common Linux tools and version your code with GIT. Ideally, but not necessarily, you have a university degree in computer science or other technical and scientific fields. You are interested in challenges and solutions for public transport, future-oriented forms of mobility and the environment.
+## Was Sie erwartet
 
-## What do we offer you?
+* Konzeption und Realisierung moderner Client-Lösungen.
+* Ausarbeitung und Umsetzung von Screendesigns.
+* Weiterentwicklung existierender Applikationen
+* Qualitätssicherung durch mit automatisiertem Testing und Anwendung unserer Release-Prozesse („Continuous Integration“)
 
-* Secure job with many opportunities for development in a growing company.
-* Exciting projects for well-known companies.
-* Individual promotion, jointly defined goals and pans for further training.
-* Smart work with the possibility of part-time and home office. 
-* A collegial team (20 people) with whom it is a pleasure to work.
-* Training by an experienced colleague.
-* Modern hardware and free choice of tools. Infrastructure managed by competent admins. 
-* Good earning opportunities and attractive additional benefits to the fixed salary (e.g.  job ticket and much more). 
-* Always enough organic fruit, mineral water and organic coffee and – immediately after Covid – regular team events.
-* Beautiful, well equipped offices, that are easily accessible by public transport. 
 
-## That sounds like your job?
+## Qualifikationen
 
-Great! Then we look forward to receiving your application. In the best case, you can already impress us with samples of your work. Please also let us know when you can start and to what extent (full or part time). We are looking forward to it!
+* Freude am Entwickeln und Interesse an neuen Technologien.
+* Hervorragende Fähigkeiten in der objektorientierten Programmierung mit JavaScript.
+* Erfahrungen mit modernen JavaScript Frameworks, wie Angular, React und Vue.
+* Sicherer Umgang mit CSS und HTML.
+* Verständnis für alle Ebenen einer Webanwendung ("Full Stack").
+* Hohe Ansprüche an die Qualität Ihrer Arbeit.
+
+Was bieten wir Ihnen?
+
+* Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienstmöglichkeiten.
+* Attraktive Zusatzleistungen zum Festgehalt (z.B. Jobticket und vieles mehr).
+* Individuelle Förderung und Weiterbildung.
+
+* Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee.
+* Attraktives Büro im 9. Stock eines Neubaus direkt am Freiburger Hauptbahnhof.
+* Regelmässige Team-Events.
+* Leben und Arbeiten im schönen Freiburg im Dreiländereck Deutschland, Frankreich, Schweiz.
+* Eine ausgeglichene Work-Life-Balance durch flexible Arbeitszeiten (Voll-/Teilzeit und Möglichkeit für Home Office).
+* In langer Erfahrung gewachsene und laufend weiter optimierte Arbeitsprozesse, die niemand einengen, aber allen die Arbeit erleichtern.
+
+## Das klingt nach ihrem Job?
+
+
+Prima! Wir suchen Sie zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Auf Ihre Bewerbung an karriere@geops.de freuen wir uns. Senden Sie uns bitte neben den üblichen Bewerbungsunterlagen Arbeitsproben und Codebeispiele, die uns überzeugen können. Teilen Sie uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) Sie starten können. Sollten noch Fragen offen sein, schreiben Sie uns bitte eine Mail oder rufen sie unseren Geschäftsführer Uli Müller unter +49 1525 4619806 an.
