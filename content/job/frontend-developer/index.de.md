@@ -1,7 +1,8 @@
 ---
-title: Senior JavaScript Developer
-summary: Senior JavaScript-Entwickler (w/m/d) für Webapplikationen und
-  interaktive Karten in Freiburg (D).
+title: Senior JavaScript Developer (m/w/d)
+summary: Sie lieben intuitive, attraktive Frontends, die auf modernen und
+  soliden Technologien basieren? Sie sind erfahren und gleichzeitig immer
+  hungrig auf Neues?
 slug: frontend-developer
 created: 2021-10-15
 ---
