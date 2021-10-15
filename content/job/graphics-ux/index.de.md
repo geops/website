@@ -1,8 +1,8 @@
 ---
 title: Kommunikations-/UX-Designer (m/w/d)  50-100 %
-summary: Optik und Funktionalität gehören für Sie ganz eng zusammen? Sie lieben
-  es, attraktive Produkte attraktiv zu verpackten? Sie haben keine Angst, sich
-  in technische Details einzudenken?
+summary: Optik und Funktionalität gehören für Sie ganz eng zusam&shy;men? Sie
+  lieben es, attrak&shy;tive Pro&shy;dukte attrak&shy;tiv zu verpacken? Sie
+  haben keine Angst, sich in tech&shy;nische Details ein&shy;zu&shy;denken?
 slug: graphics-ux
 created: 2021-10-15
 ---
