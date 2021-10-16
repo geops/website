@@ -14,9 +14,8 @@ Ihr Herz schlägt für Open Source Software und Sie wollen spannende Projekte mi
 ## Was Sie erwartet
 
 * Konzeption und Realisierung moderner Client-Lösungen.
-* Ausarbeitung und Umsetzung von Screendesigns.
-* Weiterentwicklung existierender Applikationen
-* Qualitätssicherung durch mit automatisiertem Testing und Anwendung unserer Release-Prozesse („Continuous Integration“)
+* Ausarbeitung und Umsetzung von Screendesigns.
+* Qualitätssicherung durch mit automatisiertem Testing und Anwendung unserer Release-Prozesse („Continuous Integration“).
 
 
 ## Qualifikationen
