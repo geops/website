@@ -17,17 +17,17 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 
 ## Qualifikationen
 
-* Sie sind ein Design-Allrounder und begeistern uns mit ihren Skills im Bereich On- und Offline-Medien.
-* Sie sind routiniert in der Nutzung gängiger Grafik-Software, sind aber auch bereit, die bei uns verwendeten Tools zu lernen.
+* Sie sind ein Design-Allrounder und begeistern uns mit Ihren Skills im Bereich On- und Offline-Medien.
+* Sie sind routiniert in der Nutzung gängiger Grafik-Software, sind aber auch bereit, die bei uns verwen&shy;deten Tools zu lernen.
 * Sie sind fit in HTML und CSS und kennen sich idealerweise auch mit JavaScript aus.
 * Sie sind motiviert und engagiert, unser Auftreten nach Außen aktiv mitzugestalten.
 * Sie teilen unseren Anspruch an die hohe Qualität unserer Arbeit.
 * Sie sind offen und kommunikativ, ein Macher oder eine Macherin und arbeiten gerne im Team.
-* Sie lieben die Flexibilität, Effizienz und die kurzen Wege eines mittelgrossen Unternehmens,  sind aber auch bereit, die damit verbundene Verantwortung zu übernehmen.
+* Sie lieben die Flexibilität, Effizienz und die kurzen Wege eines mittel&shy;grossen Unternehmens,  sind aber auch bereit, die damit verbun&shy;dene Verantwortung zu übernehmen.
 
 ## Was bieten wir ihnen?
 
-* Sicherer und unbefristeter Arbeitsplatz mit vielen Entfaltungs- und guten Verdienstmöglichkeiten.
+* Sicherer und unbefristeter Ar&shy;beits&shy;platz mit vielen Entfal&shy;tungs- und guten Verdienstmöglichkeiten.
 * Verantwortungsvolle Position mit vielen Möglichkeiten, unseren Produkten ihre Handschrift zu geben. 
 * Attraktive Zusatzleistungen zum Festgehalt (Jobticket und vieles mehr).
 * Individuelle Förderung, interne Weiterbildungen und ein festes Budget für externe Fortbildung.
@@ -37,6 +37,6 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 
 ## Das klingt nach ihrem Job? 
 
-Prima! Wir suchen sie zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Ihr Arbeitspensum liegt zwischen 50 und 100 %. 
+Prima! Wir suchen Sie zum nächst&shy;möglichen Zeitpunkt oder nach Vereinbarung. Ihr Arbeitspensum liegt zwischen 50 und 100 %. 
 
-Auf ihre Bewerbung an [karriere@geops.de](mailto:karriere@geops.de) freuen wir uns. Am besten senden sie uns mit den üblichen Bewerbungsunterlagen auch einige Arbeitsproben, die uns begeistern können. Teilen Sie uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) sie starten können. Sollten noch Fragen offen sein, schreiben sie uns bitte an oben genannte Mailadresse oder rufen sie unseren Geschäftsführer Uli Müller unter +49 1525 4619806 an.
+Auf ihre Bewerbung an [karriere@geops.de](mailto:karriere@geops.de) freuen wir uns. Am besten senden Sie uns mit den üblichen Bewerbungsunterlagen auch einige Arbeitsproben, die uns begeistern können. Teilen Sie uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) Sie starten können. Sollten noch Fragen offen sein, schreiben Sie uns bitte an oben genannte Mailadresse oder rufen Sie unseren Geschäftsführer Uli Müller unter +49 1525 4619806 an.
