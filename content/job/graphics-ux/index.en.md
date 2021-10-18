@@ -25,10 +25,10 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 * Sie sind offen und kommunikativ, ein Macher oder eine Macherin und arbeiten gerne im Team.
 * Sie lieben die Flexibilität, Effizienz und die kurzen Wege eines mittel&shy;grossen Unternehmens,  sind aber auch bereit, die damit verbun&shy;dene Verantwortung zu übernehmen.
 
-## Was bieten wir ihnen?
+## Was bieten wir Ihnen?
 
 * Sicherer und unbefristeter Ar&shy;beits&shy;platz mit vielen Entfal&shy;tungs- und guten Verdienstmöglichkeiten.
-* Verantwortungsvolle Position mit vielen Möglichkeiten, unseren Produkten ihre Handschrift zu geben. 
+* Verantwortungsvolle Position mit vielen Möglichkeiten, unseren Produkten Ihre Handschrift zu geben. 
 * Attraktive Zusatzleistungen zum Festgehalt (Jobticket und vieles mehr).
 * Individuelle Förderung, interne Weiterbildungen und ein festes Budget für externe Fortbildung.
 * Eine ausgeglichene Work-Life-Balance durch flexible Arbeitszeiten (Voll-/Teilzeit und Möglichkeit für Home Office).
