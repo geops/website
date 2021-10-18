@@ -40,7 +40,7 @@ Was bieten wir Ihnen?
 * Eine ausgeglichene Work-Life-Balance durch flexible Arbeitszeiten (Voll-/Teilzeit und Möglichkeit für Home Office).
 * In langer Erfahrung gewachsene und laufend weiter optimierte Arbeitsprozesse, die niemand einengen, aber allen die Arbeit erleichtern.
 
-## Das klingt nach ihrem Job?
+## Das klingt nach Ihrem Job?
 
 
 Prima! Wir suchen Sie zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Auf Ihre Bewerbung an karriere@geops.de freuen wir uns. Senden Sie uns bitte neben den üblichen Bewerbungsunterlagen Arbeitsproben und Codebeispiele, die uns überzeugen können. Teilen Sie uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) Sie starten können. Sollten noch Fragen offen sein, schreiben Sie uns bitte eine Mail oder rufen sie unseren Geschäftsführer Uli Müller unter +49 1525 4619806 an.
