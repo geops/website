@@ -35,7 +35,7 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 * In langer Erfahrung gewachsene und laufend weiter optimierte Arbeitsprozesse, die niemand einengen, aber allen die Arbeit erleichtern.
 * Wunderschönes Büro im 9. Stock eines Neubaus direkt am Freiburger Hauptbahnhof.
 
-## Das klingt nach ihrem Job? 
+## Das klingt nach Ihrem Job? 
 
 Prima! Wir suchen Sie zum nächst&shy;möglichen Zeitpunkt oder nach Vereinbarung. Ihr Arbeitspensum liegt zwischen 50 und 100 %. 
 
