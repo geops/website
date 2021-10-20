@@ -1,5 +1,5 @@
 ---
-title: Full Stack Developer
+title: Senior Full Stack Developer
 summary: You are a true all-rounder who moves confidently between database,
   backend and client application? Are you enthusiastic about modern open source
   technologies and looking forward to exchanging ideas with experienced
@@ -7,7 +7,7 @@ summary: You are a true all-rounder who moves confidently between database,
 slug: fullstack-developer
 created: 2021-05-01
 ---
-You are a true all-rounder who moves confidently between database, backend and client application? Are you enthusiastic about modern open source technologies and looking forward to exchanging ideas with experienced developers? Then come to the Dreiländereck and work with us on exciting customer solutions in the areas of mobility and the environment.
+You are a true all-rounder who moves confidently between database, backend and client application? Are you enthusiastic about modern open source technologies and looking forward to exchanging ideas with experienced developers? Then come to the tri-border region and work with us on exciting customer solutions in the areas of mobility and the environment. For our office in Freiburg (D) we are looking for a fullstack developer, working full- or part-time (80%).
 
 ## What awaits you
 
@@ -21,21 +21,13 @@ You have extensive experience with web technologies, enjoy developing and are in
 
 * Secure job with many opportunities for development in a growing company.
 * Exciting projects for well-known companies.
-
 * Individual promotion, jointly defined goals and pans for further training.
-
 * Smart work with the possibility of part-time and home office. 
-
 * A collegial team (20 people) with whom it is a pleasure to work.
-
 * Training by an experienced colleague.
-
 * Modern hardware and free choice of tools. Infrastructure managed by competent admins. 
-
 * Good earning opportunities and attractive additional benefits to the fixed salary (e.g.  job ticket and much more). 
-
 * Always enough organic fruit, mineral water and organic coffee and – immediately after Covid – regular team events.
-
 * Beautiful, well equipped offices, that are easily accessible by public transport. 
 
 ## That sounds like your job?

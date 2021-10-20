@@ -1,9 +1,9 @@
 ---
 title: SBB maps and station plans
 summary: Maps and station plans for the entire public transport in Switzerland.
-cover: /images/solution/webkarten-und-bahnhofplaene/webkarten_header_mobil_n.png
-pageCover: /images/solution/webkarten-und-bahnhofplaene/webkarten_header_n.png
-pageCoverMobile: /images/solution/webkarten-und-bahnhofplaene/webkarten_header_mobil_n.png
+cover: /images/solution/webkarten-und-bahnhofplaene/title_mobile.png
+pageCover: /images/solution/webkarten-und-bahnhofplaene/title.png
+pageCoverMobile: /images/solution/webkarten-und-bahnhofplaene/title_mobile.png
 slug: webkarten-und-bahnhofplaene
 color: "#353535"
 contactSubtitle: Do you want to provide your customers with an appealing map for

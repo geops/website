@@ -4,13 +4,13 @@ summary: Realistische Höhenprofile entlang von Routen zu berechnen ist nicht so
   einfach wie es auf den ersten Blick scheint. Wir erklären, wie unser
   Routing-Dienst das Problem löst.
 author: Dr. Alexander Held
-cover: /images/blog/interpolation-von-höhenprofilen/hoehenprofil_startseite_blog.png
+cover: /images/blog/interpolation-von-höhenprofilen/hoehenprofil_teaser_startseite.png
 created: 2020-10-27
 slug: interpolation-von-hohenprofilen
 tags:
   - routing
   - developers
-frontpage: true
+frontpage: false
 frontpageWeight: 3
 published: true
 ---
