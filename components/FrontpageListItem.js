@@ -1,9 +1,9 @@
+import Image from "next/image";
+
 import { useI18n } from "../lib/i18n";
+import useIntersectionOberserver from "../lib/useIntersectionOberserver";
 import Button from "./Button";
 
-import styles from "./FrontpageListItem.module.css";
-
-import useIntersectionOberserver from "../lib/useIntersectionOberserver";
 const scrollSnapStyle = {
   scrollSnapAlign: "start",
   scrollMarginTop: "200px",
@@ -20,18 +20,25 @@ export default function FrontpageListItem({ item, side }) {
       style={scrollSnapStyle}
     >
       <div className="mt-8 md:mt-0 w-full md:w-1/2">
-        <h3 className={`${styles.content}`}>{item.frontpageTitle || item.title}</h3>
+        <h3 className="font-extrabold text-3xl">
+          {item.frontpageTitle || item.title}
+        </h3>
         <p className="my-8">{item.summary}</p>
         <Button href={`/${item.collection}/${item.slug}`}>
           {t("website.more")}
         </Button>
       </div>
-      <img
-        alt={`${item.frontpageTitle || item.title} Teaser`}
-        className={`rounded transform transition-transform duration-1000 md:w-1/2 ${rotate}`}
+      <div
+        className={`transform transition-transform duration-1000 ${rotate} relative h-96 w-full md:w-1/2`}
         ref={imgRef}
-        src={item.frontpageImage || item.cover}
-      />
+      >
+        <Image
+          alt={`${item.frontpageTitle || item.title} Teaser`}
+          className="object-contain"
+          layout="fill"
+          src={item.frontpageImage || item.cover}
+        />
+      </div>
     </div>
   );
 }

@@ -1,6 +1,9 @@
+import Image from "next/image";
+
 import { useI18n } from "../lib/i18n";
 
 import Circle from "./Circle.js";
+import aboutImage from "../public/images/page/about/text.jpg";
 
 export default function AboutContent({ content }) {
   const { t } = useI18n();
@@ -32,11 +35,7 @@ export default function AboutContent({ content }) {
       </div>
       <h2 id="work">{t("about.work")}</h2>
       <p>{content.work}</p>
-      <img
-        alt={t("about.work")}
-        className="py-16"
-        src="/images/page/about/text.jpg"
-      />
+      <Image alt={t("about.work")} className="py-16" src={aboutImage} />
       <h2 id="tech">{t("about.tech")}</h2>
       <p>{content.tech}</p>
     </div>

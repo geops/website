@@ -5,7 +5,6 @@ import PageHeader from "../../components/PageHeader.js";
 
 import getContentItem from "../../lib/getContentItem";
 import getContentList from "../../lib/getContentList";
-import markdownToHtml from "../../lib/markdownToHtml";
 import { useI18n } from "../../lib/i18n";
 
 export default function Career({ content, jobs }) {
@@ -31,6 +30,6 @@ export async function getStaticProps(context) {
     fields: ["title", "summary", "slug"],
   });
   const content = getContentItem(language, "page", "career.json");
-  content.matchText = await markdownToHtml(content.matchText);
+
   return { props: { language, content, jobs } };
 }

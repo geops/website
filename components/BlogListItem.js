@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 import { useI18n } from "../lib/i18n";
 import CaretIcon from "./icons/CaretIcon";
 import Link from "./Link";
@@ -11,9 +13,9 @@ export default function BlogListItem({ item }) {
           <div className="hidden lg:block flex-none mr-8 xl:mr-16 bg-gray-darker">
             <img
               alt={`${item.title} Teaser`}
-              className="object-cover rounded h-64 w-64 xl:h-96 xl:w-96"
+              className="object-cover rounded"
+              layout="fill"
               src={item.cover}
-              loading="lazy"
             />
           </div>
         )}

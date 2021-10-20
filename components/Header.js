@@ -31,7 +31,7 @@ export default function Header({ translationPath }) {
     );
     observer.observe(placeholderRef.current);
     return () => observer.disconnect();
-  }, [headerContainer.current, placeholderRef.current]);
+  }, []);
 
   const aboutMenu = [
     { href: "/about#we", title: t("about.we") },

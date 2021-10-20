@@ -1,3 +1,5 @@
+import Markdown from "markdown-to-jsx";
+
 import { useI18n } from "../lib/i18n";
 
 import CheckmarkCircleIcon from "./icons/CheckmarkCircleIcon.js";
@@ -28,7 +30,7 @@ export default function CareerContent({ content }) {
         </div>
       </div>
       <h2>{content.matchTitle}</h2>
-      <div dangerouslySetInnerHTML={{ __html: content.matchText }} />
+      <Markdown>{content.matchText}</Markdown>
     </div>
   );
 }

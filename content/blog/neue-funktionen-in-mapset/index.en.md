@@ -3,7 +3,7 @@ title: Neue Funktionen in mapset
 summary: mapset wird stetig weiterentwickelt. Wir geben einen Überblick über die
   neuesten Funktionen.
 author: Uli Müller
-cover: /images/blog/neue-funktionen-in-mapset/mapset_release – 1.png
+cover: /images/blog/neue-funktionen-in-mapset/mapset_release.png
 created: 2020-10-27
 slug: neue-funktionen-in-mapset
 tags:

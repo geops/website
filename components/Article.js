@@ -1,8 +1,36 @@
+import Markdown from "markdown-to-jsx";
 import Head from "next/head";
-import { useI18n } from "../lib/i18n";
-import styles from "./Article.module.css";
+import Image from "next/image";
 
-export default function Article({ author, body, created, title }) {
+import { useI18n } from "../lib/i18n";
+
+function ArticleImage({ alt, imageSizes, src }) {
+  const { height, width } = imageSizes[src] || {};
+  if (!height || !width) {
+    return `Fehler: Bildgröße für ${src} konnte nicht ermittelt werden.`;
+  }
+
+  return <Image alt={alt} src={src} height={height} width={width} />;
+}
+
+function ResponsiveImage({ alt, desktop, mobile, imageSizes }) {
+  return (
+    <>
+      {desktop && (
+        <div className="block-desktop">
+          <ArticleImage alt={alt} imageSizes={imageSizes} src={desktop} />
+        </div>
+      )}
+      {mobile && (
+        <div className="block-mobile">
+          <ArticleImage alt={alt} imageSizes={imageSizes} src={mobile} />
+        </div>
+      )}
+    </>
+  );
+}
+
+export default function Article({ author, body, created, imageSizes, title }) {
   const { language, t } = useI18n();
 
   return (
@@ -16,7 +44,22 @@ export default function Article({ author, body, created, title }) {
           <h1 className="pt-16 text-center">{title}</h1>
         </>
       )}
-      <div className={`${styles.content}`} dangerouslySetInnerHTML={{ __html: body }} />
+      <Markdown
+        options={{
+          overrides: {
+            img: {
+              component: ArticleImage,
+              props: { imageSizes },
+            },
+            ResponsiveImage: {
+              component: ResponsiveImage,
+              props: { imageSizes },
+            },
+          },
+        }}
+      >
+        {body}
+      </Markdown>
       <div className="text-gray-light">
         {author && t("website.writtenBy", { author })}
         {author && created && <span> | </span>}

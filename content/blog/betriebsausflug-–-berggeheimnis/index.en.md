@@ -24,7 +24,7 @@ Oben angekommen teilten wir uns in zwei Gruppen auf. Eine Gruppe spielte das Out
 
 An verschiedenen Stationen mussten wir Rätsel lösen, um „Linus“ aus seiner verzweifelten Lage zu befreien. Für die Lösung der einzelnen Rätsel an den verschiedenen Stationen hatten wir insgesamt 210 Minuten Zeit. Die Rätsel führten uns über eine Strecke von 4,5 Kilometern, vorbei an Kühen, quer über den Schauinsland. Mit jedem gelösten Rätsel erhielten wir ein Stück von einer Karte, die uns zur nächsten Station führte. Circa auf der Hälfte der Strecke trafen sich beide Gruppen wieder an einer Station. Nachdem beide Gruppen separat voneinander das Rätsel erfolgreich lösten, trennten sich wieder die Wege der Gruppen.
 
-![](/images/blog/betriebsausflug-–-berggeheimnis/Group%201.jpg)
+![](/images/blog/betriebsausflug-–-berggeheimnis/Group.jpg)
 
 Besonders eine Station war sehr knifflig und hat beiden Gruppen an den Rand der Verzweiflung gebracht. Um die Aufgabe lösen zu können musste die „Katzen-Kachel“ gefunden werden. Mit Hilfe des Telefonjokers konnte eine Gruppe die Aufgabe in kürzester Zeit lösen. Die andere Gruppe verließ sich auf ihr Glück und verbrachte einen Großteil der Zeit mit der Suche nach der Katzen-Kachel und verlor dadurch viel Zeit. Schlussendlich fanden beide Gruppen die Katze und konnten das Rätsel lösen.
 

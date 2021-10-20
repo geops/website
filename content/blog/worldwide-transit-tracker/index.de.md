@@ -9,7 +9,7 @@ slug: weltweiter-ov-tracker
 
 In Zusammenarbeit mit der Universität Freiburg hat geOps einen [Tracker des öffentlichen Personenverkehrs](http://tracker.geops.ch/?z=14&s=20&lat=40.723&lon=-74.002) implementiert. Die Anwendung kombiniert statische Fahrplandaten mit eventuell vorhandenen Echtzeitdaten und berechnet daraus die aktuelle Position eines Fahrzeuges, egal ob Zug, Bus, Strassenbahn, U-Bahn oder Schiff. Die Daten werden aus GTFS Feeds gelesen. Derzeit sind mehr als 700 über die ganze Welt verteilte Feeds integriert. Echtzeitdaten sind unter anderem für [die Niederlande](http://tracker.geops.ch/?z=13&s=1&lat=52.36595686731005&lon=4.904365539550781) verfügbar.
 
-![](/images/blog/weltweiter-ov-tracker/trackerbar.png)
+![](/images/blog/worldwide-transit-tracker/trackerbar.png)
 
 Sind für eine Region keine Echtzeit-Feeds vorhanden oder sind die Realtime-Informationen kurzzeitig nicht verfügbar, so werden die aktuellen Soll-Positionen der Fahrzeuge nach Fahrplan dargestellt. Zur Zeit ist dies für die Mehrheit der Verkehrsgesellschaften der Fall. Auch wenn Echtzeitdaten verfügbar sind ist es möglich, die Visualisierung bis zu 30-fach zu beschleunigen. In diesem Fall basieren die Fahrzeugpositionen dann auf der aktuellen Echtzeit-Verspätung und den Fahrplandaten für die nächsten Stunden.
 
@@ -25,7 +25,7 @@ Ausgangspunkt sind dabei die im GTFS Feed enthalten Stationen, die mit Koordinat
 
 In der aktuellen Version basieren zum Beispiel [die Streckenverläufe in der Schweiz](http://tracker.geops.ch/?z=15&s=30&lat=47.37955096693522&lon=8.538994789123535) auf einem Mapping mit OpenStreetMap-Daten. Trotz einer sehr weit ausgereiften Logik bei der Routenfindung bleiben am Ende immer noch Problemfälle, die manuell - am besten mit Beteiligung der Transportunternehmen - gelöst werden müssen. Für die Schweiz ist ein entsprechendes Projekt bereits in Vorbereitung.
 
-![](/images/blog/weltweiter-ov-tracker/trackeramsterdam.png)
+![](/images/blog/worldwide-transit-tracker/trackeramsterdam.png)
 
 ### Weiterer Ausbau
 

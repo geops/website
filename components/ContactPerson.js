@@ -1,3 +1,6 @@
+import Markdown from "markdown-to-jsx";
+import Image from "next/image";
+
 import { useI18n } from "../lib/i18n";
 const arrowDown = {
   borderLeft: "32px solid transparent",
@@ -5,15 +8,10 @@ const arrowDown = {
   borderTopWidth: "32px",
 };
 export default function ContactPerson({ person, subtitle, title }) {
-  let subtitleClassName = "";
-  if (subtitle) {
-    subtitleClassName =
-      "my-8 font-regular prose prose-2xl text-gray-darker mx-auto";
-  } else {
-    subtitleClassName =
-      "mt-2 font-bold prose prose-2xl text-gray-darker w-2/3 mx-auto";
-  }
   const { language, t } = useI18n();
+  const subtitleClassName = subtitle
+    ? "prose prose-2xl text-gray-darker mx-auto my-8 font-regular link-text-green"
+    : "prose prose-2xl text-gray-darker mx-auto mt-2 font-bold w-2/3";
   return (
     <section className="container mx-auto mb-16 mt-16 lg:mb-24 lg:mt-24 max-w-screen-lg">
       <div
@@ -24,10 +22,7 @@ export default function ContactPerson({ person, subtitle, title }) {
         <div>
           <h2 className="md:text-5xl text-4xl">{title || t("contactPerson.title")}</h2>
           {subtitle ? (
-            <div
-              className={`${subtitleClassName}`}
-              dangerouslySetInnerHTML={{ __html: subtitle }}
-            />
+            <Markdown className={subtitleClassName}>{subtitle}</Markdown>
           ) : (
             <h2 className="mt-4 text-2xl">{t("contactPerson.subtitle")}</h2>
           )}
@@ -56,8 +51,10 @@ export default function ContactPerson({ person, subtitle, title }) {
           </p>
         </div>
         {person.photo && (
-          <img
+          <Image
+            alt={`${person.name} portrait`}
             className="object-cover object-top w-64 h-64 rounded-full self-center mx-auto md:mr-20 md:ml-0"
+            layout="fill"
             src={person.photo}
           />
         )}

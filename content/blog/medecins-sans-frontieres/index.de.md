@@ -3,7 +3,7 @@ title: Ärzte ohne Grenzen
 summary: geOps ist Partner-Unternehmen von Ärzte ohne Grenzen
 slug: arzte-ohne-grenzen
 ---
-[![](/images/blog/arzte-ohne-grenzen/Logo_Partner-Unternehmen_2017_72_RGB.png )](http://www.aerzte-ohne-grenzen.de)
+[![](/images/blog/medecins-sans-frontieres/Logo_Partner-Unternehmen_2017_72_RGB.png )](http://www.aerzte-ohne-grenzen.de)
 
 Wir unterstützen als Partner-Unternehmen 2017 die Arbeit von ÄRZTE OHNE GRENZEN mit einer Spende. Im Vorfeld wurde unser Unternehmen nach den Spenden-Richtlinien der Hilfsorganisation überprüft. Mit unserem Beitrag rettet ÄRZTE OHNE GRENZEN weltweit das Leben von Menschen in Not.
 

@@ -8,8 +8,6 @@ Cartaro kommt in immer mehr Projekten zum Einsatz und gleichzeitig möchten imme
 
 Um die OSGeo-Live DVD zu nutzen, genügt es, ein ISO-Image oder eine virtuelle Maschine [herunterzuladen](http://live.osgeo.org/en/download.html) und damit ein komplettes Ubuntu LINUX System zu [booten](http://live.osgeo.org/en/quickstart/osgeolive_quickstart.html). Cartaro kann dann über das Programm-Menü im System gestartet werden. Die [Dokumentation](http://live.osgeo.org/en/quickstart/cartaro_quickstart.html) auf der Live DVD, die speziell dafür angepasst wurde, erklärt alle Schritte, um Geodaten anzulegen und auf einer dynamischen Karte darzustellen. Ein schöner Nebeneffekt von OSGeo-Live ist, dass die Quickstart-Dokumentation vom OSGeo-Team in zahlreiche Sprachen übersetzt wird.
 
-![Cartaro on OSGeo-Live](/images/blog/cartaro-auf-der-osgeo-live-dvd/cartaroosgeolive.PNG)
-
 Cartaro ist auf der Live DVD ab ihrer Version 6.5 enthalten. Die DVD wird in der Regel zweimal jährlich aktualisiert. Um von den neuesten Entwicklungen in Cartaro zu profitieren, sind daher weiterhin die Demo und der Download auf [Cartaro.org](http://cartaro.org) zu empfehlen.
 
 **Über OSGeo**  

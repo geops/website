@@ -1,5 +1,6 @@
-import { useI18n } from "../lib/i18n";
+import Image from "next/image";
 
+import { useI18n } from "../lib/i18n";
 import UnknownPersonIcon from "./icons/UnknownPersonIcon.js";
 
 export default function TeamGridItem({ person }) {
@@ -8,7 +9,7 @@ export default function TeamGridItem({ person }) {
     <div className="aspect-w-3 aspect-h-4">
       <div className="absolute bg-gray-dark rounded overflow-hidden">
         {person.photo ? (
-          <img alt={person.name} src={person.photo} />
+          <Image alt={person.name} layout="fill" src={person.photo} />
         ) : (
           <UnknownPersonIcon />
         )}

@@ -2,7 +2,7 @@
     "en": {
       "title": "redis",
       "weight": 1,
-      "image": "/images/technologies/redis/redis.png"
+      "image": "/images/technology/redis/redis.png"
     },
     "de": {}
   }
