@@ -25,6 +25,7 @@ Ihr Herz schlägt für Open Source Software und Sie wollen spannende Projekte mi
 * Sicherer Umgang mit CSS und HTML.
 * Verständnis für alle Ebenen einer Webanwendung ("Full Stack").
 * Hohe Ansprüche an die Qualität Ihrer Arbeit.
+* Sie sind offen und kommunikativ, ein Macher oder eine Macherin und arbeiten gerne im Team.
 
 ## Was bieten wir Ihnen?
 
