@@ -48,24 +48,26 @@ export default function Carousel({ slides }) {
                   />
                 ) : (
                   <div className="relative h-screen overflow-hidden">
-                    <picture>
-                      {slide.imageMobile && (
-                        <source
-                          media="(max-width: 1023px)"
-                          srcSet={slide.imageMobile}
+                    {slide.imageMobile && (
+                      <div className="lg:hidden">
+                        <Image
+                          alt={slide.title}
+                          className="object-cover h-full w-full"
+                          layout="fill"
+                          priority
+                          src={slide.imageMobile}
                         />
-                      )}
-                      <source
-                        media="(min-width: 1024px)"
-                        srcSet={slide.image}
-                      />
+                      </div>
+                    )}
+                    <div className={slide.imageMobile ? "hidden lg:block" : ""}>
                       <Image
                         alt={slide.title}
                         className="object-cover h-full w-full"
                         layout="fill"
+                        priority
                         src={slide.image}
                       />
-                    </picture>
+                    </div>
                     <div className="absolute inset-0 flex flex-col space-y-8 items-center justify-center mx-4">
                       <div className="break-words text-white text-center max-w-screen-sm md:leading-normal leading-normal text-shadow -mt-16 font-black text-4xl md:text-5xl">
                         {slide.title}
