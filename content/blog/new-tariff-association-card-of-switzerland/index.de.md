@@ -26,7 +26,7 @@ In der Tarifverbundkarte ist die Ausdehnung der Verbunde auf Gemeindebasis darge
 Die fertig berechneten Grenzen der Verbunde werden aus der Datenbank für die Darstellung in Webkarten exportiert. Dabei kommen MapBox Vector Tiles zum Einsatz, eine moderne Technologie, die hochauflösende Darstellungen und weitreichende Interaktivität mit der Karte ermöglicht und gleichzeitig die Datenmenge, die der Webbrowser über das Internet laden muss, gering hält.
 
 <ResponsiveImage 
-  alt="Beschreibung"
+  alt="Tarifverbundkarte der Schweiz"
   desktop="/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_zusammengefuegt.png"
   mobile="/images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_title.png" />
 
