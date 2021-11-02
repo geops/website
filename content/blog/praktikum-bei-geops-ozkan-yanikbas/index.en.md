@@ -4,7 +4,7 @@ summary: Im Zeitraum März bis Juli 2020 war ich Teil des geOps Teams in
   Freiburg, machte großartige Erfahrungen und nahm an interessanten Projekten
   teil. Hier gebe ich Einblicke in diese Zeit.
 author: Özkan Yanikbas
-cover: /images/blog/praktikum-bei-geops-ozkan-yanikbas/Teaserfoto Özkan.png
+cover: /images/blog/praktikum-bei-geops-ozkan-yanikbas/Teaserfoto_oezkan.png
 created: 2020-07-07
 slug: praktikum-bei-geops-ozkan-yanikbas
 tags:
