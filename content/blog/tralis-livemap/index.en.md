@@ -4,7 +4,7 @@ summary: "Nirgendwo in Europa gibt es mehr Verkehr auf zwei Gleisen: Mit rund
   1000 Zügen am Tag verzeichnet die S-Bahn-Stammstrecke München das höchste
   Verkehrsaufkommen und fährt damit an ihrer Kapazitätsgrenze."
 author: Uli Müller
-cover: /images/blog/livemap-s-bahn-münchen/tralis_blogentry.jpg
+cover: /images/blog/tralis-livemap/tralis_blogentry.jpg
 created: 2021-02-12
 slug: tralis-livemap
 tags:
