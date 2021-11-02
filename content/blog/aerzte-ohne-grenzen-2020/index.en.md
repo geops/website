@@ -3,7 +3,7 @@ title: Ärzte ohne Grenzen 2020
 summary: Auch 2020 haben wir die HelferInnen von Ärzte ohne Grenzen bei
   wichtigen Arbeit unterstützt.
 author: Julia Knödler
-cover: /images/blog/ärzte-ohne-grenzen-2020/aerzte_ohne_grenzen_teaser.jpg
+cover: /images/blog/aerzte-ohne-grenzen-2020/aerzte_ohne_grenzen_teaser.jpg
 created: 2021-01-05
 slug: aerzte-ohne-grenzen-2020
 tags:
