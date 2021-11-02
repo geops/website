@@ -2,7 +2,7 @@
 title: Frohe Weihnachten!
 summary: ""
 author: Julia Knödler
-cover: /images/blog/frohe-weihnachten/Weihnachtskarte 2019 Feuerwerk.png
+cover: /images/blog/frohe-weihnachten/Weihnachtskarte_2019_Feuerwerk.png
 created: 2019-11-20
 slug: frohe-weihnachten
 tags:
