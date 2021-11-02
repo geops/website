@@ -70,7 +70,7 @@ collections:
         date_format: "YYYY-MM-DD"
         format: "YYYY-MM-DD"
       - label: "Slug"
-        hint: "Eindeutiger Teil der URL, der hinter geops.ch/blog/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
+        hint: "Eindeutiger Teil der URL, der hinter geops.ch/blog/... erscheint. Sonder- und Leerzeichen (auch Umlaute!) sind zu vermeiden."
         name: "slug"
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
