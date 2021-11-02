@@ -2,7 +2,7 @@
 title: Betriebsausflug – Berggeheimnis
 summary: ""
 author: Elias Englen
-cover: /images/blog/betriebsausflug-–-berggeheimnis/Teaser.jpg
+cover: /images/blog/betriebsausflug-berggeheimnis/Teaser.jpg
 created: 2020-06-23
 slug: betriebsausflug-berggeheimnis
 tags:
