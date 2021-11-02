@@ -5,7 +5,7 @@ summary: Waldwirtschaft ist geprägt von langfristigen Entscheidungen, die meist
   immer wichtiger die richtige Entscheidung für die Zukunft der Wälder zu
   treffen.
 author: Elke Erhardt
-cover: /images/blog/tree-app-–-zukunft-des-waldes-im-klimawandel/Thumbnail_Treeapp_0.png
+cover: /images/blog/tree-app-zukunft-des-waldes-im-klimawandel/Thumbnail_Treeapp_0.png
 created: 2020-11-09
 slug: tree-app-zukunft-des-waldes-im-klimawandel
 tags:
