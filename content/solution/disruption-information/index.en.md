@@ -2,11 +2,10 @@
 title: Incident and construction site communication
 summary: When things don't run smoothly in public transport, it is crucial that
   travelers are informed quickly and transparently.
-cover: /images/solution/disruption-information/moco_trainstation.jpg
-pageCover: /images/solution/disruption-information/moco_trainstation.jpg
+cover: /images/solution/disruption-information/monitor_schweiz.png
+pageCover: /images/solution/disruption-information/monitor_schweiz.png
 pageCoverMobile: /images/solution/disruption-information/moco_mobile.png
 slug: disruption-information
-color: "#353535"
 contactTitle: Your individual solution
 contactSubtitle: We design and implement the best-adapted solution for your use
   case. From the use of our components for a completely automated system to a
@@ -19,8 +18,9 @@ tags:
   - railreplacement
 frontpage: false
 frontpageTitle: Störfall- und Baustellen­kommuni­kation
-frontpageImage: /images/solution/disruption-information/moco_trainstation.jpg
+frontpageImage: /images/solution/disruption-information/monitor_schweiz.png
 frontpageWeight: 7
+color: "#353535"
 gridImage: /images/solution/disruption-information/baustellenkommunikation.png
 published: false
 ---
