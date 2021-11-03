@@ -3,9 +3,8 @@ title: SBB maps and station plans
 summary: Maps and station plans for the entire public transport in Switzerland.
 cover: /images/solution/webkarten-und-bahnhofplaene/title_mobile.png
 pageCover: /images/solution/webkarten-und-bahnhofplaene/title.png
-pageCoverMobile: /images/solution/webkarten-und-bahnhofplaene/title_mobile.png
+pageCoverMobile: /images/solution/webkarten-und-bahnhofplaene/stele_mobil-min.png
 slug: webkarten-und-bahnhofplaene
-color: "#353535"
 contactSubtitle: Do you want to provide your customers with an appealing map for
   mobility in Switzerland? Then contact us. We at geOps are happy to help you
   with the topics of web maps and data integration.
@@ -17,6 +16,7 @@ tags:
 frontpage: false
 frontpageTitle: Webkarten und Bahnhofpläne
 frontpageImage: ""
+color: "#353535"
 ---
 Under the name Trafimage, the most comprehensive map of public transport in Switzerland is made available with the route networks of all modes of transport. In the [Trafimage system](http://trafimage.ch/), over 300 maps for the SBB are published annually - from the large overview map for travelers to the internal electricity network map. Trafimage is open to everyone and is used in particular by other public transport companies, e.g. PostBus or BLS, but also by authorities or associations such as the VöV. The maps are available both as print posters and in digital form. The digital maps can be found on steles in the train stations, on monitors on the train, integrated into SBB websites and in a combined form in the [Trafimage web map portal](https://maps.trafimage.ch/).
 
