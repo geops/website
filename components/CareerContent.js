@@ -1,6 +1,7 @@
 import Markdown from "markdown-to-jsx";
 
 import { useI18n } from "../lib/i18n";
+import namedCodesToUnicode from "../lib/namedCodesToUnicode";
 
 import CheckmarkCircleIcon from "./icons/CheckmarkCircleIcon.js";
 
@@ -30,7 +31,7 @@ export default function CareerContent({ content }) {
         </div>
       </div>
       <h2>{content.matchTitle}</h2>
-      <Markdown>{content.matchText}</Markdown>
+      <Markdown options={{ namedCodesToUnicode }}>{content.matchText}</Markdown>
     </div>
   );
 }

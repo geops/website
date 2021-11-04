@@ -2,6 +2,7 @@ import Markdown from "markdown-to-jsx";
 import Image from "next/image";
 
 import { useI18n } from "../lib/i18n";
+import namedCodesToUnicode from "../lib/namedCodesToUnicode";
 const arrowDown = {
   borderLeft: "32px solid transparent",
   borderRight: "32px solid transparent",
@@ -20,9 +21,16 @@ export default function ContactPerson({ person, subtitle, title }) {
         }`}
       >
         <div>
-          <h2 className="md:text-5xl text-4xl">{title || t("contactPerson.title")}</h2>
+          <h2 className="md:text-5xl text-4xl">
+            {title || t("contactPerson.title")}
+          </h2>
           {subtitle ? (
-            <Markdown className={subtitleClassName}>{subtitle}</Markdown>
+            <Markdown
+              className={subtitleClassName}
+              options={{ namedCodesToUnicode }}
+            >
+              {subtitle}
+            </Markdown>
           ) : (
             <h2 className="mt-4 text-2xl">{t("contactPerson.subtitle")}</h2>
           )}
