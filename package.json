@@ -7,7 +7,7 @@
     "dev": "next",
     "format": "prettier --write .",
     "lint": "next lint",
-    "test": "jest --watch"
+    "test": "jest"
   },
   "dependencies": {
     "feed": "^4.2.2",
