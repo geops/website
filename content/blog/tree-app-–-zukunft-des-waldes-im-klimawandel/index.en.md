@@ -1,5 +1,5 @@
 ---
-title: Tree-App – Zukunft des Waldes im Klimawandel
+title: Tree-App – Zukunft des \u00ADWaldes im Klimawandel
 summary: Waldwirtschaft ist geprägt von langfristigen Entscheidungen, die meist
   erst die nächsten Generationen betreffen. In Zeiten des Klimawandels wird es
   immer wichtiger die richtige Entscheidung für die Zukunft der Wälder zu
