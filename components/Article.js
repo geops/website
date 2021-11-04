@@ -3,6 +3,7 @@ import Head from "next/head";
 import Image from "next/image";
 
 import { useI18n } from "../lib/i18n";
+import namedCodesToUnicode from "../lib/namedCodesToUnicode";
 
 function ArticleImage({ alt, imageSizes, src }) {
   const { height, width } = imageSizes[src] || {};
@@ -56,6 +57,7 @@ export default function Article({ author, body, created, imageSizes, title }) {
               props: { imageSizes },
             },
           },
+          namedCodesToUnicode,
         }}
       >
         {body}
