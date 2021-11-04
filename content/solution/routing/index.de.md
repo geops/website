@@ -30,5 +30,3 @@ Das Routing ist für zahlreiche Projekte im Einsatz. Zum Beispiel werden die Rou
 ## Wo entlang und wie
 
 Genaue Routen haben auch das Potential für Analysen der Charakteristika entlang der Route. Auf dieser Basis bieten wir zum Beispiel exakte Höhenprofile oder Zählungen von Objekten wie Bahnübergänge, Ampeln oder Fussgängerquerungen entlang der Route. Hier bieten wir spezifisch auf Ihre Anforderungen angepasste Auswertungen.
-
-![]()
