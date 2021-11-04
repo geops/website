@@ -46,7 +46,8 @@ Obwohl wir mit AsyncIO grundsätzlich in der Lage sind, in einem Prozess mit meh
 
 Dieser Ansatz hat auch den Vorteil, dass unabhängig von den Schnittstellen zu den Quelldaten beliebig viele API-Server auch dynamisch hinzugefügt werden können. So verwenden wir Auto-Scaling, um bei Bedarf automatisch neue Server zu starten. Das Konzept ist im Prinzip mit den Informationsschaltern am Bahnhof vergleichbar: Die Angestellten (Server) greifen auf zentral gespeicherte Daten aus dem Rechenzentrum zurück und bereiten diese individuell für die Kunden (Client) auf. Je nach Bedarf werden auch hier mehr oder weniger Schalter belegt.
 
-![teilweise besetzter Informationsschalter der Bahn](/images/blog/zuge-in-echtzeit-auf-karten-malen/DB_Informationsschalter_small.jpg)(Bild von [Wikipedia](https://de.wikipedia.org/wiki/Datei:DB_Informationsschalter.jpg))
+![teilweise besetzter Informationsschalter der Bahn](/images/blog/zuge-in-echtzeit-auf-karten-malen/DB_Informationsschalter_small.jpg)
+(Bild von [Wikipedia](https://de.wikipedia.org/wiki/Datei:DB_Informationsschalter.jpg))
 
 Umsetzung
 ---------
