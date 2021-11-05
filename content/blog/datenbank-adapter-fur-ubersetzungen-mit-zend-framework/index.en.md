@@ -24,8 +24,6 @@ Rahmenbedingungen:
 - Fallbacks auf beliebige Sprachen müssen möglich sein
 - Integration mit Zend Framework
 
-![Übersetzungstabelle](/images/blog/datenbank-adapter-fur-ubersetzungen-mit-zend-framework/translations-520.png)
-
 Als Lösung für die oben genannte Problematik wurde ein Adapter für ZF entwickelt, den geOps veröffentlicht hat. Mit dem Adapter **Geops_Translate_Adapter_Db** können nun einfach Übersetzungen aus Datenbanken an ZF angebunden werden.  
 Nach dem gängigen Konzept werden Übersetzungen im Quellcode mittels Funktionen markiert. Anschließend werden die bekannten Werkzeuge wie [Poedit](http://www.poedit.net/) oder [xgettext](http://www.gnu.org/s/hello/manual/gettext/xgettext-Invocation.html) verwendet um automatisch die übersetzbaren Texte aus dem Quellcode zu extrahieren. Es resultiert eine Übersetzungstabelle anhand derer Anwendungen lokalisiert werden können. Wir gehen einen Schritt weiter und legen diese Übersetzungstabelle direkt in der Datenbank des Kunden ab. Somit können die Übersetzungen vom Kunden über eine Web-Anwendung administriert werden.  
 Innerhalb so lokalisierter Anwendungen wird initial vom Adapter **Geops_Translate_Adapter_Db** eine Abfrage an die Datenbank gestellt um die Übersetzungstable zu erhalten. Diese wird fortan in einem Cache vorgehalten um eine gute Performance zu erreichen. Zudem besteht die Möglichkeit einen Fallback, beispielsweise auf gettext, zu konfigurieren. Mit ZF erstellte Anwendungen lassen sich so einfach mit Datenbanken übersetzen.
