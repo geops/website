@@ -50,7 +50,9 @@ Ein Klick auf das Gleis öffnet links die Bearbeitungsanzeige für die Attribute
 
 In diesen Fall ist schnell ersichtlich, weshalb die Routenfindung unserer Algorithmus nicht den korrekten Weg findet: die ICE-Relationen sind ohne Leerzeichen notiert (ICE25 statt ICE 25). Dies entspricht nicht der Benennung im Fahrplan und folgt außerdem nicht dem [Vorschlag in der OSM-Wiki](http://wiki.openstreetmap.org/wiki/Train_routes).
 
-![](/images/blog/fehlerkorrekturen-in-travic/korrektur.png) Durch Anklicken der Relation kann sie bearbeitet und ein Leerzeichen eingefügt werden.
+![](/images/blog/fehlerkorrekturen-in-travic/korrektur.png) 
+
+Durch Anklicken der Relation kann sie bearbeitet und ein Leerzeichen eingefügt werden.
 
 Danach synchronisiert ein Klick auf "Save" die Änderungen in die OSM-Datenbank. Beim nächsten Durchlauf unseres Routings sollten Fahrzeuge der ICE 22-Relation den korrekten Weg nehmen.
 
@@ -58,7 +60,13 @@ Danach synchronisiert ein Klick auf "Save" die Änderungen in die OSM-Datenbank.
 
 Ein Problem ganz anderer Art stellt die Zuordnung von Fahrzeugtypen dar. Die Fahrplan-Rohdaten, mit denen wir TRAVIC speisen, kennen keine eindeutigen Fahrzeugtypen. Es ist uns also ohne manuelle Vorarbeit nicht möglich, zu sagen, ob ein Fahrzeug eine Fähre, ein Bus, eine U-Bahn oder ein Zug ist. Für das Finden der richtigen Route ist das jedoch sehr wichtig. Wenn wir z.B. den Fahrtverlauf für einen Bus suchen, blenden wir Geometrien von Zuggleisen völlig aus. Ist nun ein Zug fälschlicherweise als Bus markiert, kann die korrekte Route nicht mehr gefunden werden.
 
-Ein relativ einfaches Beispiel ist unten zu sehen. ![](/images/blog/fehlerkorrekturen-in-travic/salzugburgs4.png) Die S4 bei Salzburg ist seit dem Fahrplanwechsel in den Fahplandaten ohne Leerzeichen geschrieben, daher wird beim internen Lookup des Fahrzeugtyps jetzt "Subway" statt korrekterweise "Zug" eingetragen. Das hat zur Folge, dass für die S-Bahn überhaupt keine Geometrie gefunden wird und direkte Luftlinienverbindungen als Fallback geschrieben werden.![](/images/blog/fehlerkorrekturen-in-travic/salzugburgs4_big.png)
+Ein relativ einfaches Beispiel ist unten zu sehen. 
+
+![](/images/blog/fehlerkorrekturen-in-travic/salzugburgs4.png) 
+
+Die S4 bei Salzburg ist seit dem Fahrplanwechsel in den Fahplandaten ohne Leerzeichen geschrieben, daher wird beim internen Lookup des Fahrzeugtyps jetzt "Subway" statt korrekterweise "Zug" eingetragen. Das hat zur Folge, dass für die S-Bahn überhaupt keine Geometrie gefunden wird und direkte Luftlinienverbindungen als Fallback geschrieben werden.
+
+![](/images/blog/fehlerkorrekturen-in-travic/salzugburgs4_big.png)
 
 Die meisten Fälle sind etwas tiefer verborgen als der oben gezeigte. Wenn solche Fälle erkannt werden, wäre uns mit einer Lookup-Tabelle vom Routennamen (in TRAVIC die kleingedruckte Bezeichnung direkt unter dem Fahrtziel) zum Fahrzeugtyp geholfen. Diese kann uns einfach per Mail zugesandt werden. Die von uns verwendete Fahrzeugtypen entsprechen dem GTFS-Standard und werden [hier aufgelistet](https://developers.google.com/transit/gtfs/reference#routestxt). Der Fahrzeug-Typ für Züge ist beispielsweise "2".
 
