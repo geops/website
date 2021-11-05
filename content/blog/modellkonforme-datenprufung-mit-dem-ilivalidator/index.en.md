@@ -43,9 +43,9 @@ Nachdem ursprünglich nur ein proprietärer Checkservice für die Validierung ve
 
 Beispielaufruf Kommandozeile:
 
-  
+```bash
 java -jar ilivalidator.jar \[options\] file.xft  
-  
+```
 
 Der grosse Vorteil des ilivalidators gegenüber anderen verfügbaren Tools zum INTERLIS-Check ist, dass es keine lizenzrechtlichen Hürden und keine Einschränkungen bei der Betriebssystem-Unterstützung gibt. Für den Einsatz in automatisierten Routinen auf den LINUX-Servern, auf denen Altast4Web betrieben wird, sind beide Punkte essentiell.
 
