@@ -39,4 +39,4 @@ For the future we plan to extend the tracker with information from other transit
 
 If you have any questions regarding the mapping of schedule data or data provision as GTFS feeds, do not hesitate to contact us. We will be happy to provide our consultancy and implementation services for you and your data.
 
-[Tweets about "tracker.geops"](https://twitter.com/search?q=tracker.geops) !function(d,s,id){var js,fjs=d.getElementsByTagName(s)\[0\],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+[Tweets about "tracker.geops"](https://twitter.com/search?q=tracker.geops)
