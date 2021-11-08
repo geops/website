@@ -13,7 +13,6 @@ tags:
   - mobility
 published: true
 ---
-
 Seit TRAVIC vor 2 Jahren gestartet ist, erreichen uns regelmäßig Meldungen von netzkundigen Nutzern, die von der Realität abweichende Fahrtverläufe festgestellt haben. Für diesen Input sind wir sehr dankbar. Da es uns für die Routen an Referenzdaten mangelt, haben wir fast keine Möglichkeit, Zug- oder Busfahrten im Einzelnen zu prüfen. Oft wirken Fahrtverläufe zwar auf den ersten Blick korrekt (Züge nutzen einleuchtende Strecken, Straßenbahnen folgen ohne "Knicke" oder Wenden auf freier Strecke ihren Gleisen), weichen im Detail aber deutlich vom tatsächlichen Verlauf ab. In den meisten Fällen fehlt uns einfach die Kenntnis der lokalen Gegebenheiten, um diese Fehler zu erkennen. Vor allem bei Buslinien auf dem Land ist meistens nur für Ortskundige ersichtlich, ob ein Bus in TRAVIC die richtige Route nimmt oder ob er sich durch eine für den Verkehr gesperrte, enge Altstadtgasse pflügt.
 
 ## Wieso weichen Routen von der Realität ab?
@@ -56,7 +55,7 @@ Ein Klick auf das Gleis öffnet links die Bearbeitungsanzeige für die Attribute
 
 In diesen Fall ist schnell ersichtlich, weshalb die Routenfindung unserer Algorithmus nicht den korrekten Weg findet: die ICE-Relationen sind ohne Leerzeichen notiert (ICE25 statt ICE 25). Dies entspricht nicht der Benennung im Fahrplan und folgt außerdem nicht dem [Vorschlag in der OSM-Wiki](http://wiki.openstreetmap.org/wiki/Train_routes).
 
-![](/images/blog/fehlerkorrekturen-in-travic/korrektur.png) 
+![](/images/blog/fehlerkorrekturen-in-travic/korrektur.png)
 
 Durch Anklicken der Relation kann sie bearbeitet und ein Leerzeichen eingefügt werden.
 
@@ -68,7 +67,7 @@ Ein Problem ganz anderer Art stellt die Zuordnung von Fahrzeugtypen dar. Die Fah
 
 Ein relativ einfaches Beispiel ist unten zu sehen. 
 
-![](/images/blog/fehlerkorrekturen-in-travic/salzugburgs4.png) 
+![](/images/blog/fehlerkorrekturen-in-travic/salzugburgs4.png)
 
 Die S4 bei Salzburg ist seit dem Fahrplanwechsel in den Fahplandaten ohne Leerzeichen geschrieben, daher wird beim internen Lookup des Fahrzeugtyps jetzt "Subway" statt korrekterweise "Zug" eingetragen. Das hat zur Folge, dass für die S-Bahn überhaupt keine Geometrie gefunden wird und direkte Luftlinienverbindungen als Fallback geschrieben werden.
 
@@ -78,11 +77,13 @@ Die meisten Fälle sind etwas tiefer verborgen als der oben gezeigte. Wenn solch
 
 Eine mögliche Lookup-Tabelle könnte also so aussehen:
 
+```
 S1,2
 S2,2
 S3,2
 S4,2
 S5,2
+```
 
 ### Durch Mapping von Fahrzeugnamen
 
@@ -92,8 +93,10 @@ Stattdessen wäre uns hier wieder mit einer Lookup-Tabelle geholfen, die die hä
 
 Für den Raum Freiburg z.B. böte sich eine solche Lookup-Tabelle an (die Breisgau-S-Bahn wird dem Fahrgast als BSB präsentiert):
 
+```
 DPS 88353,BSB
 DPS 88348,BSB
+```
 
 Auch diese kann uns einfach per Mail zugesandt werden.
 

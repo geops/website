@@ -72,11 +72,13 @@ Die meisten Fälle sind etwas tiefer verborgen als der oben gezeigte. Wenn solch
 
 Eine mögliche Lookup-Tabelle könnte also so aussehen:
 
+```
 S1,2
 S2,2
 S3,2
 S4,2
 S5,2
+```
 
 ### Durch Mapping von Fahrzeugnamen
 
@@ -86,8 +88,10 @@ Stattdessen wäre uns hier wieder mit einer Lookup-Tabelle geholfen, die die hä
 
 Für den Raum Freiburg z.B. böte sich eine solche Lookup-Tabelle an (die Breisgau-S-Bahn wird dem Fahrgast als BSB präsentiert):
 
+```
 DPS 88353,BSB
 DPS 88348,BSB
+```
 
 Auch diese kann uns einfach per Mail zugesandt werden.
 
