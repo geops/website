@@ -10,5 +10,4 @@ tags:
   - postgis
 published: true
 ---
-
 Bisher umfasst das Projekt Funktionen zum Parsen von URLs sowie Aggregatfunktionen für Textdatentypen, wobei das Projekt in Zukunft kontinuierlich erweitert werden soll. Sämtliche Inhalte stehen unter der BSD-Lizenz.
