@@ -10,7 +10,6 @@ tags:
   - developers
 published: true
 ---
-
 [![OLE DEMO](/images/blog/openlayers-editor-released/ole-demo-screenshot.png "OLE Demo")](http://ole.geops.de).
 
 OpenLayers Editor is an easy to use JavaScript library that brings geodata digitizing functions to the browser. Besides basic capturing of point, line and polygon data, OpenLayers Editor supports uploading of shape files, snapping, merging, splitting and validation of geometries.
