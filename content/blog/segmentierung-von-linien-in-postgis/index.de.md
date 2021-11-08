@@ -3,7 +3,9 @@ title: Segmentierung von Linien in PostGIS
 summary: ""
 slug: segmentierung-von-linien-in-postgis
 ---
-![Segmentierung von Linien (LineString) in PostGIS](/images/blog/segmentierung-von-linien-in-postgis/segmentierung_0.png)Für die Verarbeitung von linearen Geometrien kann es notwendig sein, dass diese zerteilt werden. Vorstellbar wäre die teilweise Übertragung zu einem anderen System im Rahmen von Vektordatenrendering oder die Analyse von Segmenten (Kurvenradien).
+![Segmentierung von Linien (LineString) in PostGIS](/images/blog/segmentierung-von-linien-in-postgis/segmentierung_0.png)
+
+Für die Verarbeitung von linearen Geometrien kann es notwendig sein, dass diese zerteilt werden. Vorstellbar wäre die teilweise Übertragung zu einem anderen System im Rahmen von Vektordatenrendering oder die Analyse von Segmenten (Kurvenradien).
 
 Lange Streckenzüge wie Küstenlinen, Bahngleise oder Straßen liegen oft in einer Datenbank für Geodaten vor und sollten auch direkt dort segmentiert werden. Postgres in Kombination mit [PostGIS](http://postgis.refractions.net/) ist eine solche Datenbank, die aber leider keine Implementierung zur Segmentierung in fixe Längen mitbringt.
 
@@ -11,32 +13,34 @@ Wir gehen im Folgenden davon aus, dass ein Streckenzug in Segmente gleicher Län
 
 Die nachstehende Funktion zerteilt eine Line in Segement der gegebenen Länge. Die Angabe der Länge erfolgt dabei in den Einheiten des [Referenzsystems der Geometrie](http://www.sharpgis.net/post/2007/05/Spatial-references2c-coordinate-systems2c-projections2c-datums2c-ellipsoids-e28093-confusing.aspx), also in vielen Referenzsystemen in Metern.
 
-CREATE OR REPLACE FUNCTION split\_equal\_length(p\_geom geometry, p\_target\_length numeric)  
+```sql
+CREATE OR REPLACE FUNCTION split_equal_length(p_geom geometry, p_target_length numeric)  
   RETURNS SETOF geometry AS  
 $BODY$  
 begin  
-    return query select st\_line\_substring(p\_geom, segment\_start\_fraction, segment\_end\_fraction)  
+    return query select st_line_substring(p_geom, segment_start_fraction, segment_end_fraction)  
     from (  
-        select (segment\_number-1)\*ordinary\_segment\_length as segment\_start\_fraction, case when is\_last then 1 else segment\_number\*ordinary\_segment\_length end as segment\_end\_fraction  
+        select (segment_number-1)\*ordinary_segment_length as segment_start_fraction, case when is_last then 1 else segment_number\*ordinary_segment_length end as segment_end_fraction  
         from (  
-            select \*, case when last\_segment\_number=1 then target\_length else last\_segment\_start\_fraction/(last\_segment\_number-1) end as ordinary\_segment\_length  
+            select *, case when last_segment_number=1 then target_length else last_segment_start_fraction/(last_segment_number-1) end as ordinary_segment_length  
             from (  
-                select \*, is\_last and (total\_length%target\_length>0) as is\_short, 1-((total\_length-((last\_segment\_number-1)\*target\_length))\*(1/total\_length)) as last\_segment\_start\_fraction  
+                select *, is_last and (total_length%target_length>0) as is_short, 1-((total_length-((last_segment_number-1)\*target_length))\*(1/total_length)) as last_segment_start_fraction  
                 from (  
-                    select \*, segment\_number=last\_segment\_number as is\_last  
+                    select *, segment_number=last_segment_number as is_last  
                     from (  
-                        select \*, generate\_series(1, ceil(total\_length/target\_length)::integer) as segment\_number,  
-                            ceil(total\_length/target\_length)::integer as last\_segment\_number  
+                        select *, generate_series(1, ceil(total_length/target_length)::integer) as segment_number,  
+                            ceil(total_length/target_length)::integer as last_segment_number  
                         from (  
-                            select st\_length(p\_geom)::numeric as total\_length, p\_target\_length::numeric as target\_length  
-                        ) input\_data  
+                            select st_length(p_geom)::numeric as total_length, p_target_length::numeric as target_length  
+                        ) input_data  
                     ) test  
                 ) test  
             ) test  
-        ) split\_parameters  
-    ) split\_parameters;  
+        ) split_parameters  
+    ) split_parameters;  
 END;  
 $BODY$  
   LANGUAGE plpgsql IMMUTABLE STRICT  
   COST 100  
   ROWS 1000;
+```
