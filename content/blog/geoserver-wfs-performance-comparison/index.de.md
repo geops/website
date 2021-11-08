@@ -16,7 +16,9 @@ Als Datengrundlage kommen die OpenStreetMap Daten der Schweiz zum Einsatz. Diese
 
 Auf einem physisch getrennten Server (Ethernet Gigabit Link) wurde ein Belastungstest mit Apache JMeter ausgeführt. Es wurden pro Durchlauf nacheinander 4, 8, 16 und 32 parallele Zugriffe gestartet. In jedem Durchlauf wurde eine Kombination aus Ausgabeformat mit einem WFS-Layer verglichen. Um zufällige Testergebnisse und Ausreißer zu entdecken, wurde jeder Durchlauf dreimal ausgeführt. Als Endergebnis wurde der Mittelwert aus den drei Tests gebildet. Jeder Zugriff wurde mit folgenden Parametern durchgeführt:
 
-`ows?service=WFS&version=2.0.0&request=GetFeature&typeName={typename}&count=200&srsName=EPSG:4326&outputFormat={formatname}`
+```
+ows?service=WFS&version=2.0.0&request=GetFeature&typeName={typename}&count=200&srsName=EPSG:4326&outputFormat={formatname}
+```
 
 **Resultate für osm\_mainroads**
 
