@@ -69,37 +69,31 @@ Der ilivalidator steht auf [Github als ZIP-Download](https://github.com/claeis/i
 
 Standardmässig sucht ilivalidator die aufgelisteten Modelle lokal oder in den öffentlichen Repositorys http://models.interlis.ch/ und http://models.geo.admin.ch. Altlast4Web Server ohne Zugriff auf die öffentlichen Repositorys oder Instanzen mit eigenen INTERLIS-Modellen halten die Modelle lokal vor.
 
-`def` `get_ilivalidator_errors(xtf_name, xtf_data):`
-
-  `"""Submit the contents of a xtf file to the ilivalidator jar binary.`
-
-  `Return the exitcode and any errors found in a logfile.`
-
-  `Returns a tuple (exitcode, log_content) of the result of the`
-
-  `ilivalidator call.`
-
-  `"""`
-
- `tmpdir` `=` `tempfile.mkdtemp(prefix` `=` `'ilivalidator_check.'` `)`
-
-  `java_dir` `=` `get_config(` `'ilicheck.java'` `)`
-
-  `xtf_path` `=` `os.path.join(tmpdir,` `'%s.xtf'` `%` `xtf_name)`
-
-  `with` `open` `(xtf_path,` `'wb'` `) as f:`
-
-  `f.write(xtf_data)`
-
-  `ilivalidator_cmd` `=` `[java_dir,` `'-jar'` `, ILIVALIDATOR_JAR, xtf_path]`
-
-  `p` `=` `subprocess.Popen(ilivalidator_cmd, cwd` `=` `tmpdir, stdout` `=` `subprocess.PIPE, stderr` `=` `subprocess.STDOUT)`
-
-  `out, _` `=` `p.communicate()`
-
-  `shutil.rmtree(tmpdir)`
-
-  `return` `p.returncode, out`
+```python
+def get_ilivalidator_errors(xtf_name, xtf_data):
+  
+     """Submit the contents of a xtf file to the ilivalidator jar binary.
+     Return the exitcode and any errors found in a logfile.
+     Returns a tuple (exitcode, log_content) of the result of the
+     ilivalidator call.
+     """
+    
+    tmpdir = tempfile.mkdtemp(prefix = 'ilivalidator_check.' )
+    java_dir = get_config( 'ilicheck.java' )
+    xtf_path = os.path.join(tmpdir, '%s.xtf' % xtf_name)
+    with open (xtf_path, 'wb' ) as f:
+        f.write(xtf_data)
+          
+    ilivalidator_cmd = [java_dir, '-jar' , ILIVALIDATOR_JAR, xtf_path]
+    
+    p = subprocess.Popen(ilivalidator_cmd, cwd = tmpdir, stdout = subprocess.PIPE, stderr = subprocess.STDOUT)
+    
+    out, _ = p.communicate()
+    
+    shutil.rmtree(tmpdir)
+    
+    return p.returncode, out
+```
 
 Die Ausgabe des Returncodes ist ausschlaggebend für den Upload der Exporte. Nur nach einer erfolgreichen Validierung (returncode = 0) der Daten werden diese publiziert. Das Protokoll der erfolgreichen Validierung wird in dem Fall als log-Datei zusammen mit den Daten exportiert, quasi als Beleg der durchgeführten Qualtitätssicherung.
 
