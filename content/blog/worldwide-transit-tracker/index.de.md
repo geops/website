@@ -35,4 +35,4 @@ Wir integrieren gerne weitere Fahrplandaten, die uns von den Transportunternehme
 
 Gerne stehen wir bei der Aufbereitung von Fahrplandaten als GTFS Feeds und dem Mapping von Streckenverläufen beratend und mit unseren Dienstleistungen zur Verfügung.
 
-[Tweets about "tracker.geops"](https://twitter.com/search?q=tracker.geops) !function(d,s,id){var js,fjs=d.getElementsByTagName(s)\[0\],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+[Tweets about "tracker.geops"](https://twitter.com/search?q=tracker.geops)
