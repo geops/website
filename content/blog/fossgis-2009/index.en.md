@@ -11,5 +11,4 @@ tags:
   - conferences
 published: true
 ---
-
 Die FOSSGIS Konferenz findet in diesem Jahr an der Leibniz-Universität in Hannover statt. Informationen zu den Workshops, Vorträgen und Organisatorisches sind im Wiki zur Konferenz abrufbar.
