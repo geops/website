@@ -19,10 +19,10 @@ geOps web apps frequently have features that export a map canvas as an image. [m
 
 Our user scenario is as follows:
 
-*   User loads mapset and logs in
-*   A previously drawn plan is imported into the map
-*   User triggers a canvas export
-*   The exported PNG file should include the basemap and the features from the imported drawing
+* User loads mapset and logs in
+* A previously drawn plan is imported into the map
+* User triggers a canvas export
+* The exported PNG file should include the basemap and the features from the imported drawing
 
 ![](/images/blog/testing-file-exports-with-cypress-in-ci/image1.png)
 
@@ -30,11 +30,15 @@ To replicate this behaviour, we programmatically launch and log into mapset, tri
 
 We first launch mapset within Cypress using the [start-server-and-test](https://github.com/bahmutov/start-server-and-test) package to start a development server and run Cypress in headless mode:
 
-`npm run start-server-and-test start http://localhost:3000 'cypress run --headless --browser chromium'`
+```bash
+npm run start-server-and-test start http://localhost:3000 'cypress run --headless --browser chromium'
+```
 
 Or for yarn users:
 
-`yarn start-server-and-test start http://localhost:3000 'cypress run --headless --browser chromium'`
+```bash
+yarn start-server-and-test start http://localhost:3000 'cypress run --headless --browser chromium'
+```
 
 We then log into mapset using a [custom command](https://docs.cypress.io/api/cypress-api/custom-commands.html). The custom command code depends on the app login process. In our case we run a GET [request()](https://docs.cypress.io/api/commands/request.html) to the login endpoint and extract a [CSRF token](https://portswigger.net/web-security/csrf/tokens), which we then add to the body in a POST request to the login endpoint along with an email and a password. The email and password values are passed into Cypress in gitlab as environment variables. Note that Cypress environment variables need to be capitalised.
 
