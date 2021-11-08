@@ -25,12 +25,11 @@ export default function ContactPerson({ person, subtitle, title }) {
             {title || t("contactPerson.title")}
           </h2>
           {subtitle ? (
-            <Markdown
-              className={subtitleClassName}
-              options={{ namedCodesToUnicode }}
-            >
-              {subtitle}
-            </Markdown>
+            <div className={subtitleClassName}>
+              <Markdown options={{ namedCodesToUnicode, forceBlock: true }}>
+                {subtitle}
+              </Markdown>
+            </div>
           ) : (
             <h2 className="mt-4 text-2xl">{t("contactPerson.subtitle")}</h2>
           )}
