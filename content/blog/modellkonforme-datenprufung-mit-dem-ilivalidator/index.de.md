@@ -46,43 +46,24 @@ Der grosse Vorteil des ilivalidators gegenüber anderen verfügbaren Tools zum I
 
 Der ilivalidator steht auf [Github als ZIP-Download](https://github.com/claeis/ilivalidator/releases) bereit. Die entpackten Dateien werden auf den Altlast4Web-Servern abgelegt, weitere Installationen sind nicht notwendig. Für einen versionsunabhängigen Workflow wird die ilivalidator-XXX.jar Datei, welche für die Exporte verwendet wird, als ilivalidator-latest.jar ausserhalb der entpackten Versionsordner gespeichert. Der Ablauf der Exporte vollzieht sich folgendermassen. In Altlast4Web werden die Daten mit spezifischen Funktionen in einer PostGIS-Datenbank in INTERLIS-konformes XML transformiert. Der Export selbst wird über nächtliche Cronjobs angestossen, die ein Python-Skript aufrufen. Das Skript exportiert die Daten aus der Datenbank und schreibt sie in xtf-Dateien. Die xtf-Dateien werden dann mit dem ilivalidator überprüft. Dabei werden die Modelle, gegen die geprüft werden soll, explizit in den Exportdateien angegeben.
 
-  
-  
-
-`<` `HEADERSECTION` `SENDER` `=` `"altlast4web"` `VERSION` `=` `"2.3"` `>`
-
-  `<` `MODELS` `>`
-
-  `<` `MODEL` `NAME` `=` `"CoordSys"` `VERSION` `=` `"2015-11-24"` `URI` `=` `"[https://www.interlis.ch/models"](https://www.interlis.ch/models)` `/>`
-
- `<` `MODEL` `NAME` `=` `"InternationalCodes_V1"` `VERSION` `=` `"2011-08-30"` `URI` `=` `"[https://www.geo.admin.ch"](https://www.geo.admin.ch)` `/>`
-
-  `<` `MODEL` `NAME` `=``"Localisation_V1"` `VERSION``=` `"2011-08-30"` `URI` `=` `"[https://www.geo.admin.ch"](https://www.geo.admin.ch)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"LocalisationCH_V1"` `VERSION` `=` `"2011-08-30"` `URI` `=` `"[https://www.geo.admin.ch"](https://www.geo.admin.ch)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"Dictionaries_V1"` `VERSION` `=` `"2011-08-30"` `URI` `=` `"[https://www.geo.admin.ch"](https://www.geo.admin.ch)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"DictionariesCH_V1"` `VERSION` `=` `"2011-08-30"` `URI` `=` `"[https://www.geo.admin.ch"](https://www.geo.admin.ch)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"Units"` `VERSION` `=` `"2012-02-20"` `URI` `=` `"[https://www.interlis.ch/models"](https://www.interlis.ch/models)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"GeometryCHLV03_V1"` `VERSION` `=` `"2015-11-12"` `URI` `=` `"[https://www.geo.admin.ch"](https://www.geo.admin.ch)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"GeometryCHLV95_V1"` `VERSION``=` `"2015-11-12"` `URI` `=` `"[https://www.geo.admin.ch"](https://www.geo.admin.ch)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"KbS_Basis_V1_4"` `VERSION` `=` `"2018-06-13"` `URI` `=` `"[https://models.geo.admin.ch/BAFU"](https://models.geo.admin.ch/BAFU)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"KbS_LV03_V1_4"` `VERSION``=` `"2018-06-13"` `URI` `=` `"[https://models.geo.admin.ch/BAFU"](https://models.geo.admin.ch/BAFU)` `/>`
-
-  `<` `MODEL` `NAME` `=` `"KbS_LV95_V1_4"` `VERSION` `=` `"2018-06-13"` `URI` `=` `"[https://models.geo.admin.ch/BAFU"](https://models.geo.admin.ch/BAFU)` `/>`
-
-  `</` `MODELS` `>`
-
-  `</` code class="xml keyword">HEADERSECTION `>`
-
-  
-  
+```xml
+< HEADERSECTION SENDER = "altlast4web" VERSION = "2.3" >
+  < MODELS >
+    < MODEL NAME = "CoordSys" VERSION = "2015-11-24" URI = "https://www.interlis.ch/models" />
+   < MODEL NAME = "InternationalCodes_V1" VERSION = "2011-08-30" URI = "https://www.geo.admin.ch" />
+    < MODEL NAME ="Localisation_V1" VERSION= "2011-08-30" URI = "https://www.geo.admin.ch" />
+    < MODEL NAME = "LocalisationCH_V1" VERSION = "2011-08-30" URI = "https://www.geo.admin.ch" />
+    < MODEL NAME = "Dictionaries_V1" VERSION = "2011-08-30" URI = "https://www.geo.admin.ch" />
+    < MODEL NAME = "DictionariesCH_V1" VERSION = "2011-08-30" URI = "https://www.geo.admin.ch" />
+    < MODEL NAME = "Units" VERSION = "2012-02-20" URI = "https://www.interlis.ch/models" />
+    < MODEL NAME = "GeometryCHLV03_V1" VERSION = "2015-11-12" URI = "https://www.geo.admin.ch" />
+    < MODEL NAME = "GeometryCHLV95_V1" VERSION= "2015-11-12" URI = "https://www.geo.admin.ch" />
+    < MODEL NAME = "KbS_Basis_V1_4" VERSION = "2018-06-13" URI = "https://models.geo.admin.ch/BAFU" />
+    < MODEL NAME = "KbS_LV03_V1_4" VERSION= "2018-06-13" URI = "https://models.geo.admin.ch/BAFU" />
+    < MODEL NAME = "KbS_LV95_V1_4" VERSION = "2018-06-13" URI = "https://models.geo.admin.ch/BAFU" />
+  </ MODELS >
+</ HEADERSECTION >
+```    
 
 Standardmässig sucht ilivalidator die aufgelisteten Modelle lokal oder in den öffentlichen Repositorys http://models.interlis.ch/ und http://models.geo.admin.ch. Altlast4Web Server ohne Zugriff auf die öffentlichen Repositorys oder Instanzen mit eigenen INTERLIS-Modellen halten die Modelle lokal vor.
 
