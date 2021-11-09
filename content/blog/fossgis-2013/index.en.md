@@ -11,5 +11,4 @@ tags:
   - conferences
 published: true
 ---
-
 Die FOSSGIS Konferenz findet in diesem Jahr vom 12. bis 14. Juni in Rapperswil und somit erstmals in der Schweiz statt. Informationen zu den Workshops, Vorträgen und Organisatorisches sind auf der [Konferenz-Website](http://www.fossgis.de/konferenz/2013/) abrufbar. geOps unterstützt die FOSSGIS als Silber-Sponsor und wird mit einem Ausstellungsstand vertreten sein. Wir freuen uns, Sie in Rapperswil zu treffen.
