@@ -7,8 +7,6 @@ summary: Im Rahmen eines Projekt bestand die Anforderung, dass Kunden die
   setzt nun die notwendige Flexibiliät um.
 slug: datenbank-adapter-fur-ubersetzungen-mit-zend-framework
 ---
-**Der Adapter ist noch nicht auf github, aber in einem Stand, der veröffentlicht werden könnte. Lokal liegt die Datei unter https://ssl.geops.de/svn/geops-lib/trunk/Geops/Translate/Adapter/Db.php.**
-
 Im Rahmen eines Projekt bestand die Anforderung, dass Kunden die Übersetzungen der Programmoberfläche frei bearbeiten können. Hierbei kam die bisherige Implementierung der Übersetzungen mittels [GNU gettext](http://www.gnu.org/software/gettext/) in der Applikation an Ihre Grenzen. Ein Adapter für das verwendete [Zend Framework](http://framework.zend.com/about/overview) setzt nun die notwendige Flexibiliät um.
 
 Rahmenbedingungen:
