@@ -5,7 +5,7 @@ summary: geOps publiziert den Quellcode von OpenLayers Editor unter einer
   Funktionen für das präzise und effiziente Erfassen von Geodaten im Browser.
 slug: geops-publiziert-openlayers-editor
 ---
-[![OLE DEMO](/images/blog/geops-publiziert-openlayers-editor/ole-demo-screenshot.png "OLE Demo")](http://ole.geops.de).
+[![OLE DEMO](/images/blog/openlayers-editor-released/ole-demo-screenshot.png "OLE Demo")](http://ole.geops.de).
 
 OpenLayers Editor ist eine einfach einzusetzende JavaScript-Bibliothek, mit der Geodaten im Browser digitalisiert werden können. Neben dem einfachen Erfassen und Bearbeiten von Punkten, Linien und Polygonen bietet OpenLayers Editor Funktionen zum Hochladen von Shapedateien, Snappen auf bestehende Geometrien, sowie zum Verschmelzen, Aufteilen und Validieren von Geometrien.
 
