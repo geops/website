@@ -9,9 +9,6 @@ tags:
   - developers
 published: false
 ---
-
-**Code steht noch nicht auf github. Lokal unter https://ssl.geops.de/svn/altlast/trunk/apps/altlast4web/public/js/Geops/jquery.help.js verfügbar und bereit für die Publikation. Außer dem Code des Plugins sollte noch eine Demo Seite (mittels http://pages.github.com/) auf github gestellt werden.**
-
 Bei der Erstellung einer umfangreichen Applikation stellen sich die Fragen wie die Hilfe zu pflegen und dem Benutzer anzubieten ist. Auf Grund der Möglichkeit bestehende Systeme zu nutzen und das Rad nicht neu zu erfinden, bietet es sich an einen externen Dienst für die Hilfe anzubinden. Im einfachsten Fall ist dieser externe Dienst eine simple Website mit statischen Inhalten. Weitergehende Möglichkeiten bietet die Verwaltung der Hilfetext in bestehenden [CMS](http://de.wikipedia.org/wiki/Content-Management-System "Wikipedia-Artikel zu Content-Management-Systemen") oder Wikis. Bleibt die Frage wie die Verknüpfung der eigenen Applikation mit der externen Datenquelle hergestellt wird.
 
 Wenn die Applikation zu der Hilfe angeboten werden soll eine Website ist, bietet es sich an Links auf Hilfetext an geeigneter Stelle unterzubringen. Dies hat jedoch zur Folge, dass die Hilfelinks immer Platz beanspruchen und das Layout beeinflussen. Zudem muss beachtet werden, dass der Benutzer beim Aufruf der Hilfe die aktuelle Seite verlässt und damit noch nicht gespeicherte Daten verliert.
