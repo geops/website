@@ -10,5 +10,4 @@ tags:
   - conferences
 published: true
 ---
-
 Die FOSSGIS Konferenz findet in diesem Jahr vom 2. bis 5. März in Osnabrück statt. Informationen zu den Workshops, Vorträgen und Organisatorisches sind im Wiki zur Konferenz abrufbar.
