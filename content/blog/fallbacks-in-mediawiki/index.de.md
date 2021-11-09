@@ -14,8 +14,6 @@ summary: >-
   Alle Kunden können so direkt von verbesserter Dokumentation profitieren und gleichzeitig individuelle Inhalte integrieren. Die Inhalte der Hilfe können dabei vom Kunden einfach und flexibel im bewährten MediaWiki angepasst werden."
 slug: fallbacks-in-mediawiki
 ---
-**Die Extension steht derzeit noch nicht auf github. Lokal ist sie unter https://ssl.geops.de/svn/mediawiki-clientredirect verfügbar.** Außerdem enthält das Repository 2 Dateien, die die PDFBook-Extension um die Redirects erweitern. Wollen wir diese überhaupt im Zuge dieses Artikels veröffentlichen?
-
 geOps bietet zu seinen Applikationen Hilfetexte als Wiki-Artikel an. Die Texte können also einfach angepasst werden und werden kontextsensitiv präsentiert. _Letzteres wird in einem nachfolgenden Artikel konkret erklärt._
 
 Wir bieten eine Sammlung von Hilfetexten an, die auf die gesamte Produktlinie zutreffend sind. Diese Sammlung bildet sozusagen den Grundstock an Hilfetexten für alle Benutzer der [Software-Produktlinie](http://www.sei.cmu.edu/productlines/ "Einführung in Software-Produktlinien der Cargenie Mellon University"). Varianten der Produktlinie werden als Anwendungen beim Kunden genutzt. Ebenso wie Synergieeffekte  bei der Entwicklung von Anwendungen genutzt werden, wollten wir diese beim Inhalt des Hilfesystems nutzen.
