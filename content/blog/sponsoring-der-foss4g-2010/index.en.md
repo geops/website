@@ -11,5 +11,4 @@ tags:
   - conferences
 published: true
 ---
-
 Auf der [FOSS4G](http://2010.foss4g.org/) dreht sich alles um die Technologien, die die Grundlage unserer Software-Lösungen darstellen. geOps unterstützt die FOSS4G daher als Sponsor.
