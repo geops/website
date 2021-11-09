@@ -9,5 +9,4 @@ tags:
   - conferences
 published: true
 ---
-
-geOps ist im Rahmen des [OSGeo](http://www.osgeo.org/)\-Parks mit einem Vortrag zur Leistungsfähigkeit aktueller WMS-Dienste beteiligt. Unser Vortrag steht als [englische Version](/images/blog/intergeo-in-karlsruhe/geops_wmsperformanz_090922.pdf>PDF</a> "<a href=") zur Verfügung.
+geOps ist im Rahmen des [OSGeo](http://www.osgeo.org/)\-Parks mit einem Vortrag zur Leistungsfähigkeit aktueller WMS-Dienste beteiligt.
