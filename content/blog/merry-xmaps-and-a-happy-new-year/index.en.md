@@ -9,4 +9,5 @@ tags:
   - geops
 published: true
 ---
-[Original picture © Karl-Heinz Raach](http://www.raach-foto.de/).
+The geOps team wishes a Merry Christmas and a Happy New Year to all customers, partners and friends.
+
