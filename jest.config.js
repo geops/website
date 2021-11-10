@@ -1,4 +1,5 @@
 module.exports = {
+  roots: ["<rootDir>/__tests__/"],
   collectCoverageFrom: [
     "**/*.{js,jsx,ts,tsx}",
     "!**/*.d.ts",
