@@ -1,16 +1,7 @@
 {
   "name": "geops-website",
-  "license": "UNLICENSED",
   "version": "1.0.0",
-  "scripts": {
-    "build": "next build && next-sitemap",
-    "dev": "next",
-    "format": "eslint --cache --fix && prettier --write .",
-    "lint": "next lint",
-    "start": "yarn dev",
-    "test": "jest",
-    "prepare": "husky install"
-  },
+  "license": "UNLICENSED",
   "dependencies": {
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
@@ -34,8 +25,10 @@
     "@testing-library/react": "^12.1.2",
     "autoprefixer": "^10.4.0",
     "babel-jest": "^27.3.1",
+    "cypress": "^8.7.0",
     "eslint": "7.32.0",
     "eslint-config-next": "^11.0.1",
+    "fixpack": "^3.0.6",
     "husky": "^7.0.4",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.3.1",
@@ -44,7 +37,19 @@
     "postcss": "^8.3.11",
     "prettier": "^2.4.1",
     "react-test-renderer": "^17.0.2",
+    "start-server-and-test": "^1.14.0",
     "tailwindcss": "^2.2.19"
+  },
+  "scripts": {
+    "build": "next build && next-sitemap",
+    "cy:open": "cypress open",
+    "cy:test": "start-server-and-test start http://localhost:3000 'cypress run --browser chrome --headless'",
+    "dev": "next",
+    "format": "eslint --cache --fix && prettier --write .",
+    "lint": "next lint",
+    "prepare": "husky install",
+    "start": "yarn dev",
+    "test": "jest"
   },
   "lint-staged": {
     "*.js": [
@@ -52,6 +57,9 @@
       "prettier --write",
       "yarn test --bail --findRelatedTests"
     ],
-    "*.{css,md}": "prettier --write"
+    "*.{css,md}": "prettier --write",
+    "package.json": [
+      "fixpack --sortToTop name --sortToTop descrpition --sortToTop version --sortToTop license --sortToTop private --sortToTop author --sortToTop main --sortToTop proxy --sortToTop dependencies --sortToTop peerDependencies --sortToTop devDependencies --sortToTop scripts"
+    ]
   }
 }
