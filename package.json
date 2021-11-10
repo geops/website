@@ -5,10 +5,11 @@
   "scripts": {
     "build": "next build && next-sitemap",
     "dev": "next",
-    "format": "prettier --write .",
+    "format": "eslint --cache --fix && prettier --write .",
     "lint": "next lint",
     "start": "yarn dev",
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "dependencies": {
     "feed": "^4.2.2",
@@ -35,12 +36,18 @@
     "babel-jest": "^27.3.1",
     "eslint": "7.32.0",
     "eslint-config-next": "^11.0.1",
+    "husky": "^7.0.4",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.3.1",
+    "lint-staged": "^11.2.6",
     "next-sitemap": "^1.6.203",
     "postcss": "^8.3.11",
     "prettier": "^2.4.1",
     "react-test-renderer": "^17.0.2",
     "tailwindcss": "^2.2.19"
+  },
+  "lint-staged": {
+    "*.js": "yarn format",
+    "*.{css,md}": "prettier --write"
   }
 }
