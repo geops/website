@@ -6,7 +6,7 @@ slug: routing
 contactTitle: Interessiert?
 contactSubtitle: >-
   Testen Sie die Leistungen des Routings mit
-  unserer [Demo](https://routing-demo.geops.io/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293).\
+  unserer [Demo](https://routing-demo.geops.io/?mot=rail&resolve-hops=false&via=!ea8f400924c27e0a%7C!df7a9a3dec3a3960&x=979136.73&y=5881128.6&z=8.132015913583293).
 
   Welche Möglichkeiten sich für Ihre eigene Anwendung bieten, können Sie auch in unserem [Developer Portal](https://developer.geops.io/) erkunden.
 frontpage: false
@@ -30,5 +30,3 @@ Das Routing ist für zahlreiche Projekte im Einsatz. Zum Beispiel werden die Rou
 ## Wo entlang und wie
 
 Genaue Routen haben auch das Potential für Analysen der Charakteristika entlang der Route. Auf dieser Basis bieten wir zum Beispiel exakte Höhenprofile oder Zählungen von Objekten wie Bahnübergänge, Ampeln oder Fussgängerquerungen entlang der Route. Hier bieten wir spezifisch auf Ihre Anforderungen angepasste Auswertungen.
-
-![]()

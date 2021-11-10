@@ -6,7 +6,6 @@ cover: /images/solution/routing/routing_02.png
 pageCover: /images/solution/routing/routing_02.png
 pageCoverMobile: /images/solution/routing/routing_mobile.png
 slug: routing
-color: "#549413"
 contactTitle: Interested?
 contactSubtitle: >-
   Test the routing services in our
@@ -19,6 +18,7 @@ tags:
   - javascript
   - realtime
 frontpage: false
+color: "#549413"
 gridImage: /images/solution/routing/routing.png
 ---
 ## Precision for everything
@@ -40,5 +40,3 @@ The Routing service is applied in numerous projects. For example, the routes are
 ## Where to go and how
 
 Exact routes also have the potential to analyze the characteristics along the route. On this basis, we offer, for example, exact height profiles or counts of objects such as level crossings, traffic lights or pedestrian crossings along the route. Here we offer evaluations specifically tailored to your requirements.
-
-![]()
