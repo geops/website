@@ -47,7 +47,6 @@
     "dev": "next",
     "format": "eslint --cache --fix && prettier --write .",
     "lint": "next lint",
-    "prepare": "husky install",
     "start": "yarn dev",
     "test": "jest"
   },
