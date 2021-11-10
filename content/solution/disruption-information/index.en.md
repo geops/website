@@ -4,7 +4,7 @@ summary: When things don't run smoothly in public transport, it is crucial that
   travelers are informed quickly and transparently.
 cover: /images/solution/disruption-information/monitor_schweiz.png
 pageCover: /images/solution/disruption-information/monitor_schweiz.png
-pageCoverMobile: /images/solution/disruption-information/monitor_schweiz_mobile.png
+pageCoverMobile: /images/solution/disruption-information/störmeldungen.png
 slug: disruption-information
 contactTitle: Your individual solution
 contactSubtitle: We design and implement the best-adapted solution for your use
