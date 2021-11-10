@@ -60,6 +60,7 @@ export default function Header({ translationPath }) {
             </a>
           </WebsiteLink>
           <button
+            id="menuButton"
             className="lg:hidden text-blue pr-8 w-16"
             onClick={() => setMenuOpen(true)}
           >
@@ -67,6 +68,7 @@ export default function Header({ translationPath }) {
           </button>
           {/* -------- Mobile Navigation -------- */}
           <div
+            id="menuListMobile"
             className={`fixed inset-0 h-full w-screen bg-gray-dark overflow-scroll lg:hidden transition-all duration-500 ${
               menuOpen ? "opacity-100" : "left-32 opacity-0 pointer-events-none"
             }`}
@@ -150,7 +152,7 @@ export default function Header({ translationPath }) {
             </div>
           </div>
           {/* -------- Desktop Navigation -------- */}
-          <div className="hidden lg:flex h-full">
+          <div id="menuListDesktop" className="hidden lg:flex h-full">
             <ul className="flex text-blue pr-4">
               {menu.map(({ active, href, title }) => (
                 <li className="flex group relative" key={href}>
