@@ -47,7 +47,11 @@
     "tailwindcss": "^2.2.19"
   },
   "lint-staged": {
-    "*.js": "yarn format",
+    "*.js": [
+      "eslint --fix",
+      "prettier --write",
+      "yarn test --bail --findRelatedTests"
+    ],
     "*.{css,md}": "prettier --write"
   }
 }
