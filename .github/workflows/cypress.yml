@@ -26,3 +26,12 @@ jobs:
         with:
           start: yarn start
           browser: firefox
+  
+  cypress-run-edge:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: cypress-io/github-action@v2
+        with:
+          start: yarn start
+          browser: edge
