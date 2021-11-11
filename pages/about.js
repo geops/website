@@ -19,7 +19,6 @@ export default function About({ content, team, technologies }) {
   return (
     <Layout description={content.we1} translationPath="/about">
       <PageHeader
-        id="header"
         src="/images/page/about/header.jpg"
         srcMobile="/images/page/about/header-mobile.jpg"
         title={content.title}

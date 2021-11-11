@@ -28,18 +28,26 @@ const getViewPortName = (viewport) => {
   return `${viewport.preset}, ${viewport.orientation}`;
 };
 
+const selectHeaderLogo = "[data-cy='headerLogo']";
+const selectMainTitle = "[data-cy='pageMainTitle']";
+const selectMenuButton = "[data-cy='menuButton']";
+const selectMenuListDesktop = "[data-cy='menuListDesktop']";
+const selectMenuListMobile = "[data-cy='menuListMobile']";
+
 const commonDesktopNavigationViaMenu = (path, lang = "") => {
   // Start from the index page
-  cy.visit("http://localhost:3000/" + lang);
+  cy.visit(lang);
 
   const pathLang = lang ? lang + "/" : "";
 
   // Find a link with an href attribute containing the path and click it
-  cy.get("#menuListDesktop").should("be.visible");
-  cy.get("#menuListMobile").should("be.not.visible");
-  cy.get("#menuButton").should("be.not.visible");
+  cy.get(selectMenuListDesktop).should("be.visible");
+  cy.get(selectMenuListMobile).should("be.not.visible");
+  cy.get(selectMenuButton).should("be.not.visible");
 
-  const links = cy.get("#menuListDesktop a[href='/" + pathLang + path + "']");
+  const links = cy
+    .get(selectMenuListDesktop)
+    .find("a[href='/" + pathLang + path + "']");
   links.should("to.have.length", 1);
   let indexVisible = 0;
   links.each((elt, idx) => {
@@ -55,19 +63,21 @@ const commonDesktopNavigationViaMenu = (path, lang = "") => {
 
 const commonMobileNavigationViaMenu = (path, lang = "") => {
   // Start from the index page
-  cy.visit("http://localhost:3000/" + lang);
+  cy.visit(lang);
 
   const pathLang = lang ? lang + "/" : "";
 
   // Find a link with an href attribute containing the path and click it
-  cy.get("#menuListDesktop").should("be.not.visible");
-  cy.get("#menuListMobile").should("be.not.visible");
-  cy.get("#menuButton").should("be.visible");
-  cy.get("#menuButton").click();
-  cy.get("#menuListMobile").should("be.visible");
+  cy.get(selectMenuListDesktop).should("be.not.visible");
+  cy.get(selectMenuListMobile).should("be.not.visible");
+  cy.get(selectMenuButton).should("be.visible");
+  cy.get(selectMenuButton).click();
+  cy.get(selectMenuListMobile).should("be.visible");
 
   // There is 2 links one for desktop one for mobil, at least one link should be visible.
-  const links = cy.get("#menuListMobile a[href='/" + pathLang + path + "']");
+  const links = cy
+    .get(selectMenuListMobile)
+    .find("a[href='/" + pathLang + path + "']");
   links.should("to.have.length", 1);
   let indexVisible = 0;
   links.each((elt, idx) => {
@@ -79,6 +89,25 @@ const commonMobileNavigationViaMenu = (path, lang = "") => {
 
   // The new url should include "/solution"
   cy.url().should("include", "/" + pathLang + path);
+  cy.get(selectMainTitle).should("be.visible");
+};
+
+const commonDesktopHomeNavigation = (lang = "") => {
+  // Start from the index page
+  cy.visit(lang);
+
+  cy.get(selectMenuButton).should("be.visible");
+  cy.get(selectHeaderLogo).should("be.visible");
+  cy.get(selectMainTitle).should("be.visible");
+};
+
+const commonMobileHomeNavigation = (lang = "") => {
+  // Start from the index page
+  cy.visit(lang);
+
+  cy.get(selectMenuButton).should("not.be.visible");
+  cy.get(selectHeaderLogo).should("be.visible");
+  cy.get(selectMainTitle).should("be.visible");
 };
 
 describe("app", () => {
@@ -90,21 +119,11 @@ describe("app", () => {
         });
 
         it("using default language (german).", () => {
-          // Start from the index page
-          cy.visit("http://localhost:3000/");
-
-          cy.get("#menuButton").should("not.be.visible");
-          cy.get("a[aria-label='geOps Logo']").should("be.visible");
-          cy.get("div").contains("Performante Karten mit relevanten Inhalten");
+          commonMobileHomeNavigation();
         });
 
         it("using english.", () => {
-          // Start from the index page
-          cy.visit("http://localhost:3000/en");
-
-          cy.get("#menuButton").should("not.be.visible");
-          cy.get("a[aria-label='geOps Logo']").should("be.visible");
-          cy.get("div").contains("High performance maps with focused content");
+          commonMobileHomeNavigation("en");
         });
       });
     });
@@ -116,21 +135,11 @@ describe("app", () => {
         });
 
         it("using default language (german).", () => {
-          // Start from the index page
-          cy.visit("http://localhost:3000/");
-
-          cy.get("#menuButton").should("be.visible");
-          cy.get("a[aria-label='geOps Logo']").should("be.visible");
-          cy.get("div").contains("Performante Karten mit relevanten Inhalten");
+          commonDesktopHomeNavigation();
         });
 
         it("using english.", () => {
-          // Start from the index page
-          cy.visit("http://localhost:3000/en");
-
-          cy.get("#menuButton").should("be.visible");
-          cy.get("a[aria-label='geOps Logo']").should("be.visible");
-          cy.get("div").contains("High performance maps with focused content");
+          commonDesktopHomeNavigation("en");
         });
       });
     });
@@ -145,22 +154,18 @@ describe("app", () => {
 
         it("to the solution page", () => {
           commonDesktopNavigationViaMenu("solution");
-          cy.get("h1").contains("Unsere Lösungen");
         });
 
         it("to the about page", () => {
           commonDesktopNavigationViaMenu("about");
-          cy.get("h1").contains("We map the future");
         });
 
         it("to the blog page", () => {
           commonDesktopNavigationViaMenu("blog");
-          cy.get("h1").contains("Blog");
         });
 
         it("to the karriere page", () => {
           commonDesktopNavigationViaMenu("karriere");
-          cy.get("h1").contains("Karriere");
         });
       });
     });
@@ -173,22 +178,18 @@ describe("app", () => {
 
         it("to the solution page", () => {
           commonMobileNavigationViaMenu("solution");
-          cy.get("h1").contains("Unsere Lösungen");
         });
 
         it("to the about page", () => {
           commonMobileNavigationViaMenu("about");
-          cy.get("h1").contains("We map the future");
         });
 
         it("to the blog page", () => {
           commonMobileNavigationViaMenu("blog");
-          cy.get("h1").contains("Blog");
         });
 
         it("to the karriere page", () => {
           commonMobileNavigationViaMenu("karriere");
-          cy.get("h1").contains("Karriere");
         });
       });
     });
@@ -203,22 +204,18 @@ describe("app", () => {
 
         it("to the solution page", () => {
           commonDesktopNavigationViaMenu("solution", "en");
-          cy.get("h1").contains("Our solutions");
         });
 
         it("to the about page", () => {
           commonDesktopNavigationViaMenu("about", "en");
-          cy.get("h1").contains("We map the future");
         });
 
         it("to the blog page", () => {
           commonDesktopNavigationViaMenu("blog", "en");
-          cy.get("h1").contains("Blog");
         });
 
         it("to the karriere page", () => {
           commonDesktopNavigationViaMenu("career", "en");
-          cy.get("h1").contains("Career");
         });
       });
     });
@@ -231,19 +228,15 @@ describe("app", () => {
 
         it("to the solution page", () => {
           commonMobileNavigationViaMenu("solution", "en");
-          cy.get("h1").contains("Our solutions");
         });
         it("to the about page", () => {
           commonMobileNavigationViaMenu("about", "en");
-          cy.get("h1").contains("We map the future");
         });
         it("to the blog page", () => {
           commonMobileNavigationViaMenu("blog", "en");
-          cy.get("h1").contains("Blog");
         });
         it("to the karriere page", () => {
           commonMobileNavigationViaMenu("career", "en");
-          cy.get("h1").contains("Career");
         });
       });
     });

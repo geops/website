@@ -14,7 +14,9 @@ export default function SolutionIndex({ solutions }) {
     >
       <div className="bg-gray-darker p-8">
         <div className="max-w-screen-md mx-auto py-16 text-white">
-          <h1 className="text-center my-7">{t("solution.header")}</h1>
+          <h1 data-cy="pageMainTitle" className="text-center my-7">
+            {t("solution.header")}
+          </h1>
           <p>{t("solution.text")}</p>
         </div>
         <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 py-16">
