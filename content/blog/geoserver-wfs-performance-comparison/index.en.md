@@ -28,7 +28,7 @@ ows?service=WFS&version=2.0.0&request=GetFeature&typeName={typename}&count=200&s
 
 **Results for osm_mainroads**
 
-<table border="1">
+<table>
    <tbody>
       <tr>
          <th>Format</th>
@@ -67,7 +67,7 @@ ows?service=WFS&version=2.0.0&request=GetFeature&typeName={typename}&count=200&s
 
 **Results for osm_places**
 
-<table border="1">
+<table>
    <tbody>
       <tr>
          <th>Format</th>
