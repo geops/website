@@ -55,11 +55,16 @@ export default function Header({ translationPath }) {
           ref={headerContainer}
         >
           <WebsiteLink href="/">
-            <a aria-label="geOps Logo" className="h-2/5 ml-8">
+            <a
+              data-cy="headerLogo"
+              aria-label="geOps Logo"
+              className="h-2/5 ml-8"
+            >
               <GeopsIcon className="h-full" />
             </a>
           </WebsiteLink>
           <button
+            data-cy="menuButton"
             className="lg:hidden text-blue pr-8 w-16"
             onClick={() => setMenuOpen(true)}
           >
@@ -67,6 +72,7 @@ export default function Header({ translationPath }) {
           </button>
           {/* -------- Mobile Navigation -------- */}
           <div
+            data-cy="menuListMobile"
             className={`fixed inset-0 h-full w-screen bg-gray-dark overflow-scroll lg:hidden transition-all duration-500 ${
               menuOpen ? "opacity-100" : "left-32 opacity-0 pointer-events-none"
             }`}
@@ -150,7 +156,7 @@ export default function Header({ translationPath }) {
             </div>
           </div>
           {/* -------- Desktop Navigation -------- */}
-          <div className="hidden lg:flex h-full">
+          <div data-cy="menuListDesktop" className="hidden lg:flex h-full">
             <ul className="flex text-blue pr-4">
               {menu.map(({ active, href, title }) => (
                 <li className="flex group relative" key={href}>

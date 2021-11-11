@@ -6,7 +6,7 @@ export default function AboutTeaser() {
     <div className="bg-gray-darker">
       <Teaser
         containerClassName="bg-white max-w-screen-xl xl:rounded mx-auto relative -top-16 md:-top-24"
-        toHeading = {(true)}
+        toHeading={true}
         title={t("aboutTeaser.title")}
         text={t("aboutTeaser.text")}
         action={t("website.more")}
