@@ -12,8 +12,8 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 
 * Sie konzipieren Screendesigns, Mockups und Protoypen für Individual-Software und unsere Standard-Produkte.
 * Sie entwerfen Icons und Piktos, bearbeiten Grafiken und Fotos.
-* Sie unterstützen unser Marketing bei Präsentationen, Newslettern, Flyern und Messeauftritten.
 * Sie zeichnen für die grafische Gestaltung unseres Webauftritts verantwortlich.
+* Sie unterstützen unser Marketing bei Präsentationen, Newslettern, Flyern und Messeauftritten.
 
 ## Qualifikationen
 
