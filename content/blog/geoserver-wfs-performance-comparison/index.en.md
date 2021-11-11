@@ -28,127 +28,81 @@ ows?service=WFS&version=2.0.0&request=GetFeature&typeName={typename}&count=200&s
 
 **Results for osm_mainroads**
 
-Format
-
-4 Requests
-
-8 Requests
-
-16 Requests
-
-32 Requests
-
-File size
-
-GML3.2
-
-24,2 req/s\
-140 ms
-
-40 req/s\
-160 ms
-
-43 req/s\
-337 ms
-
-43 req/s\
-700 ms
-
-230 KB
-
-GML2
-
-83 req/s\
-30 ms
-
-124 req/s\
-30 ms
-
-197 req/s\
-45 ms
-
-230 req/s\
-100 ms
-
-150 KB
-
-GeoJSON
-
-81,5 req/s\
-33 ms
-
-110 req/s\
-37 ms
-
-160 req/s\
-62 ms
-
-180 req/s\
-142 ms
-
-150 KB
+<table border="1">
+   <tbody>
+      <tr>
+         <th>Format</th>
+         <th>4 Requests</th>
+         <th>8 Requests</th>
+         <th>16 Requests</th>
+         <th>32 Requests</th>
+         <th>File size</th>
+      </tr>
+      <tr>
+         <td>GML3.2</td>
+         <td>24,2 req/s <br> 140 ms</td>
+         <td>40 req/s <br> 160 ms</td>
+         <td>43 req/s <br> 337 ms</td>
+         <td>43 req/s <br> 700 ms</td>
+         <td>230 KB</td>
+      </tr>
+      <tr>
+         <td>GML2</td>
+         <td>83 req/s <br> 30 ms</td>
+         <td>124 req/s <br> 30 ms</td>
+         <td>197 req/s <br> 45 ms</td>
+         <td>230 req/s <br> 100 ms</td>
+         <td>150 KB</td>
+      </tr>
+      <tr>
+         <td>GeoJSON</td>
+         <td>81,5 req/s <br> 33 ms</td>
+         <td>110 req/s <br> 37 ms</td>
+         <td>160 req/s <br> 62 ms</td>
+         <td>180 req/s <br> 142 ms</td>
+         <td>150 KB</td>
+      </tr>
+   </tbody>
+</table>
 
 **Results for osm_places**
 
-Format
-
-4 Requests
-
-8 Requests
-
-16 Requests
-
-32 Requests
-
-File size
-
-GML3.2
-
-30 req/s\
-110 ms
-
-51 req/s\
-112 ms
-
-53 req/s\
-260 ms
-
-55 req/s\
-510 ms
-
-100 KB
-
-GML2
-
-120 req/s\
-17 ms
-
-140 req/s\
-17 ms
-
-200 req/s\
-44 ms
-
-240 req/s\
-75 ms
-
-70 KB
-
-GeoJSON
-
-117 req/s\
-17 ms
-
-153 req/s\
-18 ms
-
-265 req/s\
-25 ms
-
-310 req/s\
-66 ms
-
-40 KB
+<table border="1">
+   <tbody>
+      <tr>
+         <th>Format</th>
+         <th>4 Requests</th>
+         <th>8 Requests</th>
+         <th>16 Requests</th>
+         <th>32 Requests</th>
+         <th>File size</th>
+      </tr>
+      <tr>
+         <td>GML3.2</td>
+         <td>30 req/s <br> 110 ms</td>
+         <td>51 req/s <br> 112 ms</td>
+         <td>53 req/s <br> 260 ms</td>
+         <td>55 req/s <br> 510 ms</td>
+         <td>100 KB</td>
+      </tr>
+      <tr>
+         <td>GML2</td>
+         <td>120 req/s <br> 17 ms</td>
+         <td>140 req/s <br> 17 ms</td>
+         <td>200 req/s <br> 44 ms</td>
+         <td>240 req/s <br> 75 ms</td>
+         <td>70 KB</td>
+      </tr>
+      <tr>
+         <td>GeoJSON</td>
+         <td>117 req/s <br> 17 ms</td>
+         <td>153 req/s <br> 18 ms</td>
+         <td>265 req/s <br> 25 ms</td>
+         <td>310 req/s <br> 66 ms</td>
+         <td>40 KB</td>
+      </tr>
+   </tbody>
+</table>
 
 The results show clearly how much slower GML 3.2 is compared to GML 2.0 and GeoJSON. While we expected GML 2.0 to perform slightly better that GML 3.2 due to [more efficient XML encodings](http://osgeo-org.1560.n6.nabble.com/WFS-1-0-WFS-1-1-and-WFS-2-0-performance-issue-td5034498.html) the size of the difference is surprising. Especially average response time per request becomes unacceptably high with more than eight concurrent requests. Comparison between GML 2.0 and GeoJSON demonstrates the high impact of the data set and the file size on performance. The more complex dataset  *osm_mainroads* leads to same file size for GML 2.0 and GeoJSON and to a performance benefit for GML. On the other hand, the data set *osm_places* leads to a smaller file size and a performance benefit for GeoJSON. As result, none of both is better in every case. The difference between GML 2.0 and GeoJSON is however not that big.
 
