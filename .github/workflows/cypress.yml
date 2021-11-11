@@ -38,15 +38,3 @@ jobs:
         with:
           start: yarn start
           browser: edge
-
-  cypress-run-mac:
-    runs-on: macos-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Cypress run
-        uses: cypress-io/github-action@v2
-        with:
-          start: yarn start
-          browser: safari
