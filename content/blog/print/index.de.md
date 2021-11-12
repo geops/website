@@ -24,4 +24,4 @@ Wir stellen Ihnen hier einige Links zusammen, mit denen Sie die in der Broschür
 * [mapset-Newsletter](https://geops.sh/mapset)
 * [Developer Portal](https://developer.geops.io)
 
-Mit einer Mail an [info@geops.ch](mailto:info@geops.ch) können Sie gerne Ihr persönliches gedrucktes Exemplar der Broschüre anfordern. 
+Mit einer Mail an [info@geops.ch](mailto:info@geops.ch) können Sie gerne Ihr persönliches gedrucktes Exemplar der Broschüre anfordern. Als PDF können Sie die Broschüre [hier](/images/geops_broschuere_solutions_web.pdf) herunterladen.
