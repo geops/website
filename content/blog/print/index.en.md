@@ -10,6 +10,10 @@ tags:
   - passengerinformation
 published: true
 ---
+Although we are mostly digital, we can also do "paper". In July 2021, we created a brochure that primarily shows our Swiss customers in the public transport sector what solutions we offer in terms of web maps and traveler information systems.
+
+We have put together some links here that you can use to test the offerings described in the brochure for yourself.
+
 * [geOps Map Portal](https://mobility.portal.geops.io)
 * [Worldwide Tracker](https://tracker.geops.ch)
 * [Routing Demo](https://routing-demo.geops.io)
