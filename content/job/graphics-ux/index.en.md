@@ -1,5 +1,5 @@
 ---
-title: Kommunikations-/UX-Designer (m/w/d)
+title: UX-/Grafikdesigner (m/w/d)
 summary: Optik und Funktionalität gehören für Sie ganz eng zusam&shy;men? Sie
   lieben es, attrak&shy;tive Pro&shy;dukte attrak&shy;tiv zu verpacken? Sie
   haben keine Angst, sich in tech&shy;nische Details ein&shy;zu&shy;denken?
@@ -11,9 +11,9 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 ## Aufgaben
 
 * Sie konzipieren Screendesigns, Mockups und Protoypen für Individual-Software und unsere Standard-Produkte.
-* Sie entwerfen Icons und Piktos, bearbeiten Grafiken und Fotos.
-* Sie zeichnen für die grafische Gestaltung unseres Webauftritts verantwortlich.
-* Sie unterstützen unser Marketing bei Präsentationen, Newslettern, Flyern und Messeauftritten.
+* Sie entwerfen Icons und Piktos, entwerfen Grafiken und bearbeiten Fotos.
+* Sie zeichnen für die laufende grafische Gestaltung unseres Webauftritts verantwortlich.
+* Sie unterstützen unser Marketing bei Präsentationen, Newslettern und Flyern.
 
 ## Qualifikationen
 
@@ -23,7 +23,7 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 * Sie sind motiviert und engagiert, unser Auftreten nach Außen aktiv mitzugestalten.
 * Sie teilen unseren Anspruch an die hohe Qualität unserer Arbeit.
 * Sie sind offen und kommunikativ, ein Macher oder eine Macherin und arbeiten gerne im Team.
-* Sie lieben die Flexibilität, Effizienz und die kurzen Wege eines mittel&shy;grossen Unternehmens,  sind aber auch bereit, die damit verbun&shy;dene Verantwortung zu übernehmen.
+* Sie lieben die Flexibilität, Effizienz und die kurzen Wege eines mittel&shy;grossen Unternehmens.
 
 ## Was bieten wir Ihnen?
 
@@ -32,7 +32,7 @@ Software-Entwicklung ohne hochwertige Grafik und UX geht gar nicht. Wir suchen e
 * Attraktive Zusatzleistungen zum Festgehalt (Jobticket und vieles mehr).
 * Individuelle Förderung, interne Weiterbildungen und ein festes Budget für externe Fortbildung.
 * Eine ausgeglichene Work-Life-Balance durch flexible Arbeitszeiten (Voll-/Teilzeit und Möglichkeit für Home Office).
-* In langer Erfahrung gewachsene und laufend weiter optimierte Arbeitsprozesse, die niemand einengen, aber allen die Arbeit erleichtern.
+* In langer Erfahrung gewachsene und laufend weiter optimierte Arbeitsprozesse, die Ihnen die Arbeit erleichtern.
 * Wunderschönes Büro im 9. Stock eines Neubaus direkt am Freiburger Hauptbahnhof.
 
 ## Das klingt nach Ihrem Job? 
