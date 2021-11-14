@@ -1,5 +1,5 @@
 ---
-title: Kommunikations-/UX-Designer (m/w/d)
+title: UX-/Grafikdesigner (m/w/d)
 summary: Optik und Funktionalität gehören für Sie ganz eng zusam&shy;men? Sie
   lieben es, attrak&shy;tive Pro&shy;dukte attrak&shy;tiv zu verpacken? Sie
   haben keine Angst, sich in tech&shy;nische Details ein&shy;zu&shy;denken?
