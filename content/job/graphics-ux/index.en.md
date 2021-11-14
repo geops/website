@@ -17,7 +17,7 @@ Software-Entwicklung ohne hochwertige visuelle Gestaltung und UX geht gar nicht.
 
 ## Qualifikationen
 
-* Du bist ein Design-Allrounder und begeisterst uns mit deinen Skills im Bereich On- und Offline-Medien.
+* Du bist ein Design-Allrounder und begeisterst uns mit deinen Skills mit Schwerpunkt Online-Medien.
 * Du bist routiniert in der Nutzung gängiger Grafik-Software, bist aber auch interessiert, die bei uns verwen&shy;deten Tools zu lernen.
 * Du bist fit in HTML und CSS und kennst dich idealerweise auch mit JavaScript aus.
 * Du bist motiviert und engagiert, unser Auftreten nach Außen zu prägen.
