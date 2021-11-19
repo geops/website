@@ -46,7 +46,10 @@ export default function SolutionGridItem({ position, remaining, solution }) {
             <h2 className="break-words mb-4">{solution.title}</h2>
             <div>{solution.summary}</div>
           </div>
-          <div className="group-hover:translate-x-4 transform transition-all duration-500 w-8">
+          <div
+            className="group-hover:translate-x-4 transform transition-all duration-500 w-8"
+            data-testid="more"
+          >
             <MoreIcon />
           </div>
         </div>
@@ -55,6 +58,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
             {/* Inner container is used to center vertically the images in wide items  */}
             <div className={`${imageInnerContainerClassName}`}>
               <Image
+                data-testid="image"
                 alt={`${solution.title} Teaser`}
                 className="object-contain object-right w-full h-full"
                 layout="responsive"
