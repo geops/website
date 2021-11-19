@@ -41,6 +41,14 @@ export default function Website({ Component, pageProps }) {
           href={`${baseUrl}/feed/feed.json`}
         />
         <link rel="canonical" href={`https://geops.ch${asPath}`} />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@geOps" />
+        <meta name="twitter:creator" content="@geOps" />
+        <meta property="og:url" content={`https://geops.ch${asPath}`} />
+        <meta
+          property="og:image"
+          content="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+        />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />

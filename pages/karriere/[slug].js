@@ -2,6 +2,7 @@ import Article from "../../components/Article.js";
 import { ch, de } from "../../components/Contact.js";
 import ContactPerson from "../../components/ContactPerson.js";
 import Layout from "../../components/Layout.js";
+import Share from "../../components/Share.js";
 
 import getContentBySlug from "../../lib/getContentBySlug";
 import getContentItem from "../../lib/getContentItem";
@@ -20,6 +21,7 @@ export default function Job({ content, job }) {
       description={job.summary}
       translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
     >
+      <Share />
       <Article body={job.body} title={job.title} />
       <ContactPerson
         person={content.contact}
