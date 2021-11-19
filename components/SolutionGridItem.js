@@ -33,16 +33,16 @@ export default function SolutionGridItem({ position, remaining, solution }) {
       >
         <div className="flex flex-col justify-between m-8">
           <div className="mb-4">
-            <div className="h-16 mb-4 relative">
-              {solution.logo && (
+            {solution.logo && (
+              <div className="h-16 mb-4 relative">
                 <Image
                   alt={`${solution.title} Logo`}
                   className="h-full object-contain object-left"
                   layout="fill"
                   src={solution.logo}
                 />
-              )}
-            </div>
+              </div>
+            )}
             <h2 className="break-words mb-4">{solution.title}</h2>
             <div>{solution.summary}</div>
           </div>
