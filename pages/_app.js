@@ -46,7 +46,7 @@ export default function Website({ Component, pageProps }) {
         <meta property="og:url" content={`${baseUrl}/${asPath}`} />
         <meta
           property="og:image"
-          content="https://mobility.portal.geops.io/static/media/geOps_logo_md.3dae10ea.svg"
+          content="https://website-git-olivier-share-geops.vercel.app/favicon.png"
         />
 
         {/* Twitter meta tags */}
@@ -56,7 +56,7 @@ export default function Website({ Component, pageProps }) {
         <meta property="twitter:url" content={`${baseUrl}/${asPath}`} />
         <meta
           property="twitter:image"
-          content="https://mobility.portal.geops.io/static/media/geOps_logo_md.3dae10ea.svg"
+          content="https://website-git-olivier-share-geops.vercel.app/favicon.png"
         />
       </Head>
       <HtmlLang />
