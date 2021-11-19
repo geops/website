@@ -49,6 +49,11 @@ export default function Website({ Component, pageProps }) {
           property="og:image"
           content="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
         />
+        <meta property="twitter:url" content={`https://geops.ch${asPath}`} />
+        <meta
+          property="twitter:image"
+          content="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+        />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />
