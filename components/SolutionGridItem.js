@@ -31,7 +31,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
         className={`${sectionClassName} flex group justify-between overflow-hidden rounded transition-all duration-500 hover:p-2 hover:-m-2 relative`}
         style={{ backgroundColor: solution.color, color }}
       >
-        <div className="flex flex-col justify-between m-8">
+        <div className="flex flex-col justify-between m-4 sm:m-8">
           <div className="mb-4">
             {solution.logo && (
               <div className="h-16 mb-4 relative">

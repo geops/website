@@ -12,7 +12,7 @@ export default function SolutionIndex({ solutions }) {
       title={t("solution.title")}
       translationPath="/solution"
     >
-      <div className="bg-gray-darker p-8">
+      <div className="bg-gray-darker py-8 px-4 sm:px-8">
         <div className="max-w-screen-md mx-auto text-white">
           <h1 data-cy="pageMainTitle" className="text-center mt-8 mb-16">
             {t("solution.header")}
