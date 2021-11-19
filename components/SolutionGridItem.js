@@ -5,20 +5,22 @@ import Link from "./Link";
 
 export default function SolutionGridItem({ position, remaining, solution }) {
   let imageContainerClassName = "";
+  let imageInnerContainerClassName = "";
   let sectionClassName = "";
   if (position === 1 && remaining === 0) {
     sectionClassName = "flex";
   } else if ((position === 0 || position === 4) && remaining === 1) {
-    imageContainerClassName = "xl:block md:max-w-md -m-2 ml-8";
+    imageContainerClassName = "xl:block md:max-w-md";
     sectionClassName = "xl:col-span-2 flex";
   } else if (position === 0 || position === 7) {
     // wide item
     imageContainerClassName =
-      "md:block md:max-w-sm lg:max-w-lg xl:max-w-lg 2xl:max-w-xl -m-2 ml-8 w-full";
-    sectionClassName = "md:col-span-2 flex";
+      "flex flex-col md:max-w-sm lg:max-w-lg xl:max-w-lg 2xl:max-w-xl w-full justify-center";
+    imageInnerContainerClassName = "md:block  w-full";
+    sectionClassName = "md:col-span-2 flex-col sm:flex-row";
   } else if (position === 1 || position === 4) {
     // heigh item
-    imageContainerClassName = "md:block -m-2 h-full";
+    imageContainerClassName = "md:block  h-full";
     sectionClassName = "md:row-span-2 flex-col";
   }
 
@@ -49,15 +51,18 @@ export default function SolutionGridItem({ position, remaining, solution }) {
           </div>
         </div>
         {imageContainerClassName && solution.gridImage && (
-          <div className={`relative ${imageContainerClassName}`}>
-            <Image
-              alt={`${solution.title} Teaser`}
-              className="object-contain object-right"
-              layout="responsive"
-              src={solution.gridImage}
-              height={solution.imageSizes[solution.gridImage].height}
-              width={solution.imageSizes[solution.gridImage].width}
-            />
+          <div className={`${imageContainerClassName}`}>
+            {/* Inner container is used to center vertically the images in wide items  */}
+            <div className={`${imageInnerContainerClassName}`}>
+              <Image
+                alt={`${solution.title} Teaser`}
+                className="object-contain object-right w-full h-full"
+                layout="responsive"
+                src={solution.gridImage}
+                height={solution.imageSizes[solution.gridImage].height}
+                width={solution.imageSizes[solution.gridImage].width}
+              />
+            </div>
           </div>
         )}
       </a>
