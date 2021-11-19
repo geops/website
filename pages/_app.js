@@ -46,7 +46,7 @@ export default function Website({ Component, pageProps }) {
         <meta property="og:url" content={`${baseUrl}/${asPath}`} />
         <meta
           property="og:image"
-          content="https://website-git-olivier-share-geops.vercel.app/favicon.png"
+          content="https://website-git-olivier-share-geops.vercel.app/logo.png"
         />
 
         {/* Twitter meta tags */}
@@ -56,7 +56,7 @@ export default function Website({ Component, pageProps }) {
         <meta property="twitter:url" content={`${baseUrl}/${asPath}`} />
         <meta
           property="twitter:image"
-          content="https://website-git-olivier-share-geops.vercel.app/favicon.png"
+          content="https://website-git-olivier-share-geops.vercel.app/logo.png"
         />
       </Head>
       <HtmlLang />
