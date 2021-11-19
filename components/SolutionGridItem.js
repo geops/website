@@ -58,7 +58,6 @@ export default function SolutionGridItem({ position, remaining, solution }) {
             {/* Inner container is used to center vertically the images in wide items  */}
             <div className={`${imageInnerContainerClassName}`}>
               <Image
-                data-testid="image"
                 alt={`${solution.title} Teaser`}
                 className="object-contain object-right w-full h-full"
                 layout="responsive"
