@@ -41,18 +41,22 @@ export default function Website({ Component, pageProps }) {
           href={`${baseUrl}/feed/feed.json`}
         />
         <link rel="canonical" href={`https://geops.ch${asPath}`} />
+
+        {/* OpenGraph meta tags */}
+        <meta property="og:url" content={`${baseUrl}/${asPath}`} />
+        <meta
+          property="og:image"
+          content="https://mobility.portal.geops.io/static/media/geOps_logo_md.3dae10ea.svg"
+        />
+
+        {/* Twitter meta tags */}
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@geOps" />
         <meta name="twitter:creator" content="@geOps" />
-        <meta property="og:url" content={`https://geops.ch${asPath}`} />
-        <meta
-          property="og:image"
-          content="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
-        />
-        <meta property="twitter:url" content={`https://geops.ch${asPath}`} />
+        <meta property="twitter:url" content={`${baseUrl}/${asPath}`} />
         <meta
           property="twitter:image"
-          content="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+          content="https://mobility.portal.geops.io/static/media/geOps_logo_md.3dae10ea.svg"
         />
       </Head>
       <HtmlLang />

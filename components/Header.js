@@ -45,7 +45,7 @@ export default function Header({ translationPath }) {
     { href: "/blog", title: "Blog" },
     { href: t("career.path"), title: t("career.title") },
   ].map((item) => ({ ...item, active: router.pathname.includes(item.href) }));
-  console.log(menuOpen);
+
   return (
     <>
       <div className="h-16 lg:h-28" ref={placeholderRef} />

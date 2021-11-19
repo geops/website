@@ -16,12 +16,17 @@ export default function Layout({
   return (
     <>
       <Head>
+        {/* HTML meta tags */}
         <title>{titl}</title>
-        <meta property="og:title" content={titl} />
         {description && <meta name="description" content={descr} />}
+
+        {/* OpenGraph meta tags */}
+        {<meta name="og:title" content={titl} />}
         {description && <meta name="og:description" content={descr} />}
+
+        {/* Twitter meta tags */}
+        {<meta name="twitter:title" content={titl} />}
         {description && <meta name="twitter:description" content={descr} />}
-        {/* <meta property="og:image" content="" /> */}
       </Head>
       <Header translationPath={translationPath} />
       {children}
