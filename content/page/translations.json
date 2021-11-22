@@ -86,6 +86,9 @@
       "path": "/career",
       "translationPath": "/karriere",
       "title": "Career"
+    },
+    "share": {
+      "title": "Share"
     }
   },
   "de": {
@@ -171,6 +174,9 @@
       "path": "/karriere",
       "translationPath": "/career",
       "title": "Karriere"
+    },
+    "share": {
+      "title": "Teilen"
     }
   }
 }

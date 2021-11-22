@@ -22,14 +22,15 @@ export default function Job({ content, job }) {
       description={job.summary}
       translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
     >
-      {/* >md*/}
-
       <div className="hidden xl:block xl:sticky xl:top-4 mx-auto max-w-screen-lg">
+        {/* >xl*/}
         <Share />
       </div>
       <Article body={job.body} title={job.title} />
-      {/* <md */}
-      <Share />
+      {/* <xl */}
+      <div className="xl:hidden mx-auto max-w-screen-lg">
+        <Share />
+      </div>
       <ContactPerson
         person={content.contact}
         title={content.title}

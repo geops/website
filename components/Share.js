@@ -39,36 +39,38 @@ const socialMedia = [
 const onClick = (href) => {
   window.open(
     href
-      .replace(
-        "{url}",
-        encodeURIComponent(
-          "https://website-git-olivier-share-geops.vercel.app/"
-          // window.location.href
-        )
-      )
+      .replace("{url}", encodeURIComponent(window.location.href))
       .replace("{title}", encodeURIComponent(document.title)),
     "_blank"
   );
 };
+const size = 40; // Size for share button
+const classNameLi =
+  "flex items-center justify-center xl:bg-gray-lighter text-gray-light";
 
 export default function Share() {
   const router = useRouter();
-  console.log(router);
-  const width = 40;
-  const height = 40;
+  const { t } = useI18n();
+
   return (
-    <ul className="relative xl:absolute flex flex-row xl:flex-col items-center justify-center xl:-mx-16 xl:mt-16 ">
+    <ul className="relative xl:absolute flex flex-row xl:flex-col items-center xl:justify-center px-8 xl:px-0 xl:-mx-16 xl:mt-16 ">
+      <li
+        className={`${classNameLi} xl:hidden font-bold mr-2`}
+        style={{ height: size }}
+      >
+        {t("share.title")}
+      </li>
       {socialMedia.map(({ icon, href, title }) => (
         <li
           key={title}
-          className="flex items-center justify-center xl:bg-gray-lighter text-gray-light hover:text-green "
+          className={`${classNameLi} hover:text-green`}
           style={{
-            minWidth: width,
-            maxWidth: width,
-            width: width,
-            minHeight: height,
-            maxHeight: height,
-            height: height,
+            minWidth: size,
+            maxWidth: size,
+            width: size,
+            minHeight: size,
+            maxHeight: size,
+            height: size,
           }}
         >
           <a
