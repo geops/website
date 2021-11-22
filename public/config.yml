@@ -392,12 +392,6 @@ collections:
               - { i18n: true, label: Reading Time, name: readingTime }
               - { i18n: true, label: Telephone, name: telephone }
               - { i18n: true, label: Written By, name: writtenBy }
-          - label: "Share"
-            name: "share"
-            i18n: true
-            widget: "object"
-            fields:
-              - { i18n: true, label: Title, name: title }
   - label: "Person"
     name: "person"
     description: "Beschreibung der Mitarbeiter, werden unter geops.ch/about aufgelistet."
