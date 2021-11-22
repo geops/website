@@ -1,7 +1,4 @@
 module.exports = {
-  images: {
-    formats: ["image/png"],
-  },
   future: {
     strictPostcssConfiguration: true,
   },
