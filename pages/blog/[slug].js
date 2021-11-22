@@ -1,6 +1,7 @@
 import Article from "../../components/Article.js";
 import Layout from "../../components/Layout.js";
 import RelatedList from "../../components/RelatedList.js";
+import Share from "../../components/Share.js";
 
 import getContentList from "../../lib/getContentList";
 import getContentBySlug from "../../lib/getContentBySlug";
@@ -16,6 +17,10 @@ export default function BlogArticle({ item, related }) {
       description={item.summary}
       translationPath={`/blog/${item.translationSlug}`}
     >
+      <div className="hidden xl:block xl:sticky xl:top-4 mx-auto max-w-screen-lg">
+        {/* > xl*/}
+        <Share />
+      </div>
       <Article
         author={item.author}
         body={item.body}
@@ -23,6 +28,10 @@ export default function BlogArticle({ item, related }) {
         imageSizes={item.imageSizes}
         title={item.title}
       />
+      <div className="xl:hidden mx-auto max-w-screen-lg mb-16">
+        {/* < xl*/}
+        <Share />
+      </div>
       <RelatedList list={related} />
     </Layout>
   );

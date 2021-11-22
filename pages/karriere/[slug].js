@@ -27,8 +27,8 @@ export default function Job({ content, job }) {
         <Share />
       </div>
       <Article body={job.body} title={job.title} />
-      {/* <xl */}
       <div className="xl:hidden mx-auto max-w-screen-lg">
+        {/* <xl */}
         <Share />
       </div>
       <ContactPerson
