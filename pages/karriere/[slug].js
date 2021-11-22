@@ -23,12 +23,12 @@ export default function Job({ content, job }) {
       translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
     >
       <div className="hidden xl:block xl:sticky xl:top-4 mx-auto max-w-screen-lg">
-        {/* >xl*/}
+        {/* > xl*/}
         <Share />
       </div>
       <Article body={job.body} title={job.title} />
       <div className="xl:hidden mx-auto max-w-screen-lg">
-        {/* <xl */}
+        {/* < xl */}
         <Share />
       </div>
       <ContactPerson
