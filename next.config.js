@@ -1,6 +1,6 @@
 module.exports = {
   images: {
-    formats: ["image/png", "image/jpeg"],
+    formats: ["image/png"],
   },
   future: {
     strictPostcssConfiguration: true,
