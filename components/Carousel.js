@@ -71,7 +71,7 @@ export default function Carousel({ slides }) {
                     <div className="absolute inset-0 flex flex-col space-y-8 items-center justify-center mx-4">
                       <div
                         data-cy="pageMainTitle"
-                        className="break-words text-white text-center max-w-screen-sm md:leading-normal leading-normal text-shadow -mt-16 font-black text-4xl md:text-5xl"
+                        className="break-words text-white text-center max-w-screen-sm md:leading-normal leading-normal text-shadow -mt-32 lg:-mt-16 font-black text-4xl md:text-5xl"
                       >
                         {slide.title}
                       </div>
