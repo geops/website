@@ -15,12 +15,12 @@ export default function SolutionGridItem({ position, remaining, solution }) {
   } else if (position === 0 || position === 7) {
     // wide item
     imageContainerClassName =
-      "flex flex-col md:max-w-sm lg:max-w-lg xl:max-w-lg 2xl:max-w-xl w-full justify-center";
-    imageInnerContainerClassName = "md:block  w-full";
+      "flex flex-col md:max-w-sm lg:max-w-lg xl:max-w-lg 2xl:max-w-xl md:w-full justify-center ";
+    imageInnerContainerClassName = "md:block w-full";
     sectionClassName = "md:col-span-2 flex-col sm:flex-row";
   } else if (position === 1 || position === 4) {
     // heigh item
-    imageContainerClassName = "md:block  h-full";
+    imageContainerClassName = "md:block h-full";
     sectionClassName = "md:row-span-2 flex-col";
   }
 
@@ -54,7 +54,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
           </div>
         </div>
         {imageContainerClassName && solution.gridImage && (
-          <div className={`${imageContainerClassName}`}>
+          <div className={`-m-2 ${imageContainerClassName}`}>
             {/* Inner container is used to center vertically the images in wide items  */}
             <div className={`${imageInnerContainerClassName}`}>
               <Image
