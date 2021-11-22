@@ -1,4 +1,3 @@
-import { useI18n } from "../lib/i18n";
 import { useRouter } from "next/router";
 import CaretIcon from "./icons/CaretIcon.js";
 import GitHubIcon from "./icons/GitHubIcon.js";
@@ -45,25 +44,16 @@ const onClick = (href) => {
   );
 };
 const size = 40; // Size for share button
-const classNameLi =
-  "flex items-center justify-center xl:bg-gray-lighter text-gray-light";
 
 export default function Share() {
   const router = useRouter();
-  const { t } = useI18n();
 
   return (
     <ul className="relative xl:absolute flex flex-row xl:flex-col items-center xl:justify-center px-8 xl:px-0 xl:-mx-16 xl:mt-16 ">
-      <li
-        className={`${classNameLi} xl:hidden font-bold mr-2`}
-        style={{ height: size }}
-      >
-        {t("share.title")}
-      </li>
       {socialMedia.map(({ icon, href, title }) => (
         <li
           key={title}
-          className={`${classNameLi} hover:text-green`}
+          className={`flex items-center justify-center xl:bg-gray-lighter text-gray-light hover:text-green`}
           style={{
             minWidth: size,
             maxWidth: size,
