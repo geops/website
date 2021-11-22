@@ -11,6 +11,7 @@ import { useI18n } from "../../lib/i18n";
 
 export default function Job({ content, job }) {
   const { t } = useI18n();
+  const size = 55; // Size for share button
 
   if (!job) {
     return null;
@@ -21,8 +22,14 @@ export default function Job({ content, job }) {
       description={job.summary}
       translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
     >
-      <Share />
+      {/* >md*/}
+
+      <div className="hidden xl:block xl:sticky xl:top-4 mx-auto max-w-screen-lg">
+        <Share />
+      </div>
       <Article body={job.body} title={job.title} />
+      {/* <md */}
+      <Share />
       <ContactPerson
         person={content.contact}
         title={content.title}

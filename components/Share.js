@@ -39,7 +39,13 @@ const socialMedia = [
 const onClick = (href) => {
   window.open(
     href
-      .replace("{url}", encodeURIComponent(window.location.href))
+      .replace(
+        "{url}",
+        encodeURIComponent(
+          "https://website-git-olivier-share-geops.vercel.app/"
+          // window.location.href
+        )
+      )
       .replace("{title}", encodeURIComponent(document.title)),
     "_blank"
   );
@@ -48,28 +54,36 @@ const onClick = (href) => {
 export default function Share() {
   const router = useRouter();
   console.log(router);
+  const width = 40;
+  const height = 40;
   return (
-    <div className="sticky bg-gray-lighter top-4 mx-auto  max-w-screen-lg mt">
-      <ul
-        className="absolute flex flex-col items-center justify-center -mx-16 mt-16 bg-gray-lighter text-gray-light"
-        style={{ width: "55px" }}
-      >
-        {socialMedia.map(({ icon, href, title }) => (
-          <li key={title} className="p-2 hover:text-green">
-            <a
-              title={title}
-              href=""
-              target="external"
-              onClick={(evt) => {
-                onClick(href);
-                evt.preventDefault();
-              }}
-            >
-              {icon}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </div>
+    <ul className="relative xl:absolute flex flex-row xl:flex-col items-center justify-center xl:-mx-16 xl:mt-16 ">
+      {socialMedia.map(({ icon, href, title }) => (
+        <li
+          key={title}
+          className="flex items-center justify-center xl:bg-gray-lighter text-gray-light hover:text-green "
+          style={{
+            minWidth: width,
+            maxWidth: width,
+            width: width,
+            minHeight: height,
+            maxHeight: height,
+            height: height,
+          }}
+        >
+          <a
+            title={title}
+            href=""
+            target="external"
+            onClick={(evt) => {
+              onClick(href);
+              evt.preventDefault();
+            }}
+          >
+            {icon}
+          </a>
+        </li>
+      ))}
+    </ul>
   );
 }
