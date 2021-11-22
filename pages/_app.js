@@ -53,11 +53,10 @@ export default function Website({ Component, pageProps }) {
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@geOps" />
         <meta name="twitter:creator" content="@geOps" />
-        {/* <meta property="twitter:url" content={`${baseUrl}/${asPath}`} />
         <meta
           property="twitter:image"
           content="https://website-git-olivier-share-geops.vercel.app/logo191.png"
-        /> */}
+        />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />
