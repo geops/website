@@ -47,14 +47,12 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
           <h1
             data-cy="pageMainTitle"
             className={`${
-              titleDown
-                ? "lg:mb-8 lg:text-gray-darker lg:text-shadow-none"
-                : "mb-8"
-            } mt-16 mx-auto max-w-screen-lg`}
+              titleDown ? "lg:text-gray-darker lg:text-shadow-none" : ""
+            } mx-auto max-w-screen-lg`}
           >
             {title}
           </h1>
-          {text && <strong className="block mb-16">{text}</strong>}
+          {text && <strong className="mt-8">{text}</strong>}
         </div>
       </div>
     </>

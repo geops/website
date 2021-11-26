@@ -2,6 +2,7 @@ import Article from "../../components/Article.js";
 import { ch, de } from "../../components/Contact.js";
 import ContactPerson from "../../components/ContactPerson.js";
 import Layout from "../../components/Layout.js";
+import Share from "../../components/Share.js";
 
 import getContentBySlug from "../../lib/getContentBySlug";
 import getContentItem from "../../lib/getContentItem";
@@ -10,6 +11,7 @@ import { useI18n } from "../../lib/i18n";
 
 export default function Job({ content, job }) {
   const { t } = useI18n();
+  const size = 55; // Size for share button
 
   if (!job) {
     return null;
@@ -20,7 +22,15 @@ export default function Job({ content, job }) {
       description={job.summary}
       translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
     >
+      <div className="hidden xl:block xl:sticky xl:top-4 mx-auto max-w-screen-lg">
+        {/* > xl*/}
+        <Share />
+      </div>
       <Article body={job.body} title={job.title} />
+      <div className="xl:hidden mx-auto max-w-screen-lg">
+        {/* < xl */}
+        <Share />
+      </div>
       <ContactPerson
         person={content.contact}
         title={content.title}
