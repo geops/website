@@ -2,7 +2,6 @@ module.exports = {
   future: {
     strictPostcssConfiguration: true,
   },
-  target: "serverless",
 
   async redirects() {
     return redirects.split("\n").map((redirect) => {

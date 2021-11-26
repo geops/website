@@ -12,7 +12,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
           src &&
           srcMobile &&
           titleDown === undefined &&
-          "h-[calc(100vh-8rem)] lg:h-auto lg:py-16"
+          "h-[calc(100vh-8rem)] lg:h-[50vh] lg:py-16"
         }`}
       >
         <div className={`relative ${titleDown ? "h-[50vh]" : "h-full"}`}>
@@ -20,6 +20,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
             <Image
               alt={`${title} Cover`}
               className="object-cover w-full"
+              data-cy="pageHeaderImage"
               layout="fill"
               src={src}
             />
@@ -40,10 +41,15 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
             titleDown === undefined &&
             src &&
             srcMobile &&
-            "absolute lg:static text-white lg:text-gray-darker text-shadow lg:text-shadow-none"
+            "absolute text-white text-shadow"
           }`}
         >
-          <h1 data-cy="pageMainTitle" className={`mx-auto max-w-screen-lg`}>
+          <h1
+            data-cy="pageMainTitle"
+            className={`${
+              titleDown ? "lg:text-gray-darker lg:text-shadow-none" : ""
+            } mx-auto max-w-screen-lg`}
+          >
             {title}
           </h1>
           {text && <strong className="mt-8">{text}</strong>}
