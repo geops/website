@@ -12,7 +12,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
           src &&
           srcMobile &&
           titleDown === undefined &&
-          "h-[calc(100vh-8rem)] lg:h-[50vh] lg:py-16"
+          "h-[calc(100vh-8rem)] lg:h-[50vh]"
         }`}
       >
         <div className={`relative ${titleDown ? "h-[50vh]" : "h-full"}`}>
