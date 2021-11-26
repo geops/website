@@ -52,7 +52,7 @@ export default function Share() {
       {socialMedia.map(({ icon, href, title }) => (
         <li
           key={title}
-          className={`flex items-center justify-center xl:bg-gray-lighter text-gray-light hover:text-green`}
+          className={`flex items-center justify-center text-gray-light hover:text-green`}
           style={{
             minWidth: size,
             maxWidth: size,
