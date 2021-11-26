@@ -1,35 +1,34 @@
 import { useRouter } from "next/router";
-import CaretIcon from "./icons/CaretIcon.js";
 import GitHubIcon from "./icons/GitHubIcon.js";
-import TwitterIcon from "./icons/TwitterIcon.js";
-import XingIcon from "./icons/XingIcon.js";
-import LinkedInIcon from "./icons/LinkedInIcon.js";
-import FacebookIcon from "./icons/FacebookIcon.js";
-import MailIcon from "./icons/MailIcon.js";
+import TwitterIcon from "./icons/TwitterIcon2.js";
+import XingIcon from "./icons/XingIcon2.js";
+import LinkedInIcon from "./icons/LinkedInIcon2.js";
+import FacebookIcon from "./icons/FacebookIcon2.js";
+import MailIcon from "./icons/MailIcon2.js";
 
 const socialMedia = [
   {
-    icon: <TwitterIcon />,
+    icon: <TwitterIcon className="w-full" />,
     href: "http://www.twitter.com/intent/tweet?url={url}&text={title}",
     title: "Twitter",
   },
   {
-    icon: <LinkedInIcon />,
+    icon: <LinkedInIcon className="w-full" />,
     href: "https://www.linkedin.com/sharing/share-offsite/?url={url}",
     title: "LinkedIn",
   },
   {
-    icon: <FacebookIcon />,
+    icon: <FacebookIcon className="w-full" />,
     href: "http://www.facebook.com/sharer.php?u={url}&t={title}",
     title: "Facebbok",
   },
   {
-    icon: <XingIcon />,
+    icon: <XingIcon className="w-full" />,
     href: "https://www.xing.com/spi/shares/new?url={url}",
     title: "Xing",
   },
   {
-    icon: <MailIcon />,
+    icon: <MailIcon className="w-full" />,
     href: "mailto:?body={url}",
     title: "Mail",
   },
@@ -67,6 +66,7 @@ export default function Share() {
             title={title}
             href=""
             target="external"
+            className="px-3"
             onClick={(evt) => {
               onClick(href);
               evt.preventDefault();
