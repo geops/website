@@ -8,6 +8,7 @@ summary: Transportunternehmen erstellen mit mapset auf einfache Weise grafisch
   werden der Aufwand für die Erstellung von Plänen oder die Kosten für externe
   Agenturen reduziert.
 created: 2021-12-08
+slug: mapset-newsletter-01
 published: true
 ---
 Wir möchten Ihnen **mapset**, ein neues Werkzeug zum Erstellen von Situationsplänen für den öffentlichen Verkehr, vorstellen.\
