@@ -45,7 +45,13 @@ Eine genaue Beschreibung der Funktionen finden Sie im [Handbuch](https://mapset
 
 Vor über einem Jahr haben wir unseren Firmensitz nach Olten verlegt. Aufgrund der Covid-Lage stand unser Büro allerdings meistens leer. Wir haben nun grosse Hoffnung, dass wir das Büro künftig wieder regelmässig als Arbeitsort für unser Team und als Treffpunkt mit unseren Kunden nutzen können.
 
-Aus diesem Grund veranstalten wir **am 09.07.2021 ab 17 Uhr** einen Eröffnungs-Apéro in der Solothurnerstrasse 235.
+Aus diesem Grund veranstalten wir 
+
+**am 09.07.2021** 
+
+**ab 17 Uhr** 
+
+einen Eröffnungs-Apéro in der Solothurnerstrasse 235.
 
 Ganz herzlich laden wir auch Sie als Kunde oder Interessierte an **mapset** zu diesem Event ein. Wir haben Getränke 🍺 und ein Pizzamobil 🍕 organisiert.
 Treffen Sie nicht nur unser Team sondern auch Kolleginnen und Kollegen aus der Branche.
