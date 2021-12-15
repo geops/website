@@ -1,6 +1,6 @@
 ---
 title: "mapset Newsletter #02"
-summary: seit dem letzten Newsletter hat sich einiges getan. Wir konnten neue,
+summary: Seit dem letzten Newsletter hat sich einiges getan. Wir konnten neue,
   wichtige Kunden für mapset gewinnen. Dazu gehören die Verkehrsbetriebe Zürich
   VBZ und der Regionalverkehr Bern-Solothurn sowie BOGG, die Busbetriebe für
   Olten und Umgebung. Parallel zur Ausdehnung der mapset-Nutzer haben wir neue
@@ -14,17 +14,11 @@ tags:
   - mapset
 published: true
 ---
-
-
-Guten Tag
-
-seit dem letzten Newsletter hat sich einiges getan. Wir konnten neue, wichtige Kunden für mapset gewinnen. Dazu gehören die Verkehrsbetriebe Zürich VBZ und der Regionalverkehr Bern-Solothurn sowie BOGG, die Busbetriebe für Olten und Umgebung. Parallel zur Ausdehnung der mapset-Nutzer haben wir neue Funktionen entwickelt, um den Anforderungen aller Kunden entgegen zu kommen. Selbstverständlich stehen allen Nutzern die neuen Funktionen ohne Zusatzkosten zur Verfügung.
+Seit dem letzten Newsletter hat sich einiges getan. Wir konnten neue, wichtige Kunden für mapset gewinnen. Dazu gehören die Verkehrsbetriebe Zürich VBZ und der Regionalverkehr Bern-Solothurn sowie BOGG, die Busbetriebe für Olten und Umgebung. Parallel zur Ausdehnung der mapset-Nutzer haben wir neue Funktionen entwickelt, um den Anforderungen aller Kunden entgegen zu kommen. Selbstverständlich stehen allen Nutzern die neuen Funktionen ohne Zusatzkosten zur Verfügung.
 
 Neben der bekannten Schweizer Version unter [mapset.ch](https://mapset.ch/) steht nun auch eine internationale Version unter der Adresse [mapset.io](https://mapset.io/) zur Verfügung. Die Schweizer Version von mapset verwendet weiterhin das offizielle Kartenbild der SBB, wie es im System Trafimage entwickelt wird, sowie die speziellen Icons und Piktogramme des öffentlichen Verkehrs der Schweiz. Die internationale Version hat ein eigenes, leicht abweichendes Kartenbild und allgemein gehaltene Symbole. Wir werden beide Varianten parallel betreiben und weiterentwickeln, so dass für unsere Schweizer Kunden – abgesehen von stetigen Verbesserungen – keine grundlegenden Änderungen der Darstellung geplant sind.
 
 ## Neue Funktionen in mapset
-
- 
 
 ### Verbesserte Kartengrundlagen
 
@@ -32,11 +26,11 @@ Die Hintergrundkarte in mapset wurde ganz wesentlich verbessert. Wir zeigen jetz
 
 ![](/images/blog/mapset-newsletter-02/85af2841-40cf-45f5-93b4-55620a438bd4.png)
 
-Am Beispiel Worblaufen sind die Verbesserungen vom alten (links) zum neuen Kartenbild (rechts) gut erkennbar.
+*Am Beispiel Worblaufen sind die Verbesserungen vom alten (links) zum neuen Kartenbild (rechts) gut erkennbar.*
 
 ### Zeichnen von Flächen
 
-Ab sofort haben Sie die Möglichkeit, Ihre Pläne durch das Einzeichnen von Polygon-Flächen noch informativer zu gestalten. Beispielsweise lassen sich Baustellen oder andere Ereignisse an Haltestellen, Bahnhöfen und im Umfeld grafisch darstellen. Mit Hilfe des überarbeiteten Feature-Styler-Popups können diese Flächen nach Belieben gestaltet werden. Zur Gestaltung der Flächen stehen unterschiedliche Linien und Füllmuster zur Verfügung.
+Ab sofort haben Sie die Möglichkeit, Ihre Pläne durch das Einzeichnen von Polygon-Flächen noch informativer zu gestalten. Beispielsweise lassen sich Baustellen oder andere Ereignisse an Haltestellen, Bahnhöfen und im Umfeld grafisch darstellen. Mit Hilfe des überarbeiteten Feature-Stylers können diese Flächen nach Belieben gestaltet werden. Zur Gestaltung der Flächen stehen unterschiedliche Linien und Füllmuster zur Verfügung.
 
 ![](/images/blog/mapset-newsletter-02/a42f21db-adc0-46ef-8c73-81b3884bfed5-1-.png)
 
@@ -61,7 +55,7 @@ Wenn auch Sie Ihre eigenen Designelemente in mapset verwenden möchten, sprechen
 Sie möchten mehr über mapset erfahren? Dann besuchen Sie uns virtuell auf der digitalen IT-TRANS, die internationale Konferenz und Fachmesse für intelligente Lösungen im öffentlichen Personenverkehr vom 01.12. - 03.12.2020. Am 02.12.2020 um 13:30 Uhr laden wir Sie herzlich zu unserem Roundtable ein. Innerhalb von 45 Minuten stellen wir Ihnen mapset live vor und beantworten gerne Ihre Fragen. Alles was Sie hierfür tun müssen ist die Sicherung eines *kostenfreien* [Networking-Tickets](https://www.it-trans.org/de/tickets/). Mit diesem Ticket erhalten Sie nicht nur Zugang zu unserem Roundtable, sondern können an weiteren Live-Streams teilnehmen. Des Weiteren besteht die Möglichkeit sich mit anderen Teilnehmern zu vernetzen, sich per Chat oder Videocall auszutauschen oder Termine zu vereinbaren. 
 
 Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessieren könnte? Dann leiten Sie diese Mail einfach weiter oder verweisen auf unser [Newsletter-Abonnement](https://geops.sh/mapset).
- 
+
 Interessieren Sie sich auch für unsere sonstigen Angebote wie Karten- und Routing-Dienste oder Echtzeit-Fahrgastinformationen? Dann empfehlen wir Ihnen, zusätzlich unseren [allgemeinen Newsletter](http://geops.sh/geopsnews) zu abonnieren.
 
 Falls Sie mapset noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://editor.mapset.ch/) aus. Mit ihr können Sie mapset und seine umfangreichen Funktionen testen. Auf der Homepage unter [mapset.ch](https://mapset.ch/) finden Sie auch ein Video, das die einfache Bedienung von mapset und die Gestaltungsmöglichkeiten von Plänen zeigt.
