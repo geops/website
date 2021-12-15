@@ -7,6 +7,7 @@ summary: seit dem letzten Newsletter hat sich einiges getan. Wir konnten neue,
   Funktionen entwickelt, um den Anforderungen aller Kunden entgegen zu kommen.
   Selbstverständlich stehen allen Nutzern die neuen Funktionen ohne Zusatzkosten
   zur Verfügung.
+cover: /images/blog/mapset-newsletter-02/newletter-–-2-v2.png
 created: 2020-07-04
 slug: mapset-newsletter-02
 tags:
