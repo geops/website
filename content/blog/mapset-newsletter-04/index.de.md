@@ -9,7 +9,6 @@ published: true
 ---
 ## mapset – Pläne für den öffentlichen Verkehr
 
-Guten Tag,
 **mapset** hat sich auch in den letzten Monaten stetig weiterentwickelt. Es sind zunehmend die kleinen Verbesserungen, die die Arbeit mit **mapset** noch schneller und praktischer machen.
 
 ## Hilfe
@@ -21,7 +20,7 @@ entwickelt.
 Unter der Adresse [mapset.ch/guide](https://mapset.ch/guide "mapset guide") finden Sie eine Beschreibung aller Funktionen von mapset. Selbstverständlich wird die Seite laufend gepflegt und um die Beschreibung aller Neuerungen erweitert.
 
 *Kontext-Hilfe*
-In allen Dialogen finden sie jetzt ein *?*-Symbol. Ein Klick auf das Symbol öffnet das entsprechende Kapitel in der Anleitung.
+In allen Dialogen finden Sie jetzt ein *?*-Symbol. Ein Klick auf das Symbol öffnet das entsprechende Kapitel in der Anleitung.
 
 *Start-Tipps*
 Bei jedem Start von mapset erscheint ein Dialog mit einem Hinweise auf spezielle Funktionen. Wahlweise können alle Tips nacheinander durchgeblättert werden, oder die Anzeige der Tips kann dauerhaft deaktiviert werden.
@@ -43,15 +42,11 @@ Eine genaue Beschreibung der Funktionen finden Sie im [Handbuch](https://mapset
 
 Vor über einem Jahr haben wir unseren Firmensitz nach Olten verlegt. Aufgrund der Covid-Lage stand unser Büro allerdings meistens leer. Wir haben nun grosse Hoffnung, dass wir das Büro künftig wieder regelmässig als Arbeitsort für unser Team und als Treffpunkt mit unseren Kunden nutzen können.
 
-Aus diesem Grund veranstalten wir\
-**am 09.07.2021**\
-**ab 17 Uhr**\
-einen Eröffnungs-Apéro in der Solothurnerstrasse 235.
+Aus diesem Grund veranstalten wir am 09.07.2021 ab 17 Uhr einen Eröffnungs-Apéro in der Solothurnerstrasse 235.
 
 Ganz herzlich laden wir auch Sie als Kunde oder Interessierte an **mapset** zu diesem Event ein. Wir haben Getränke 🍺 und ein Pizzamobil 🍕 organisiert.
 Treffen Sie nicht nur unser Team sondern auch Kolleginnen und Kollegen aus der Branche.
-Damit wir die ungefähre Personenzahl abschätzen können, bitte wir um unverbindliche Anmeldung an [apero@geops.ch](mailto:apero@geops.ch?subject=Apero%20am%2009.07.).
-Die Lage entnehmen Sie den Abbildungen oben oder diesem [dynamischen mapset-Plan](https://geops.sh/32A39B189420DDDBA).
+Damit wir die ungefähre Personenzahl abschätzen können, bitte wir um unverbindliche Anmeldung. Die Lage entnehmen Sie den Abbildungen oben oder diesem [dynamischen mapset-Plan](https://geops.sh/32A39B189420DDDBA).
 
 ## Bleiben Sie in Kontakt 
 
