@@ -36,7 +36,7 @@ Um Ihre gespeicherten Pläne wieder zu öffnen, steht Ihnen das neue Werkzeug "P
 
 ## Routing
 
-geOps entwickelt schon seit geraumer Zeit eine Software für die Ermittlung geographischer Routenverläufe für verschiedene Fortbewegungsarten. Dieses sogenannte Routing ist für zahlreiche unserer Projekte im Einsatz. Zum Beispiel werden die Routenverläufe in unserem [Echtzeit-Tracker](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=925472&y=5920000&z=9) darüber berechnet. Als weiteres Beispiel nutzt die SBB das Routing für Züge, Trams, Busse und Seilbahnen, um den Reisenden detaillierte Infos zum Routenverlauf anzuzeigen.\
+geOps entwickelt schon seit geraumer Zeit eine Software für die Ermittlung geographischer Routenverläufe für verschiedene Fortbewegungsarten. Dieses sogenannte Routing ist für zahlreiche unserer Projekte im Einsatz. Zum Beispiel werden die Routenverläufe in unserem [Echtzeit-Tracker](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=925472&y=5920000&z=9) darüber berechnet. Als weiteres Beispiel nutzt die SBB das Routing für Züge, Trams, Busse und Seilbahnen, um den Reisenden detaillierte Infos zum Routenverlauf anzuzeigen.
 Neu steht das Routing auch in mapset zur Verfügung, um schneller als bisher Routenverläufe in den Plan einzuzeichnen. Besonders interessant ist dabei das Routing für Fusswege. Jetzt genügt ein Klick auf den Start- und Endpunkt des Fusswegs und der Verlauf wird automatisch berechnet. Nach dem initialen Routing können die Linien über die bekannten Bearbeitungsfunktionen nachbearbeitet werden, wenn der genaue Verlauf angepasst oder die Darstellungsart geändert werden sollen.
 
 ![](/images/blog/mapset-newsletter-03/a7384014-72a1-4ce4-8e52-28fab9ba4194.gif)
@@ -55,12 +55,12 @@ Als Termin für das Webinar ist Donnerstag 11. März um 16 Uhr vorgesehen. Um di
 
 ## Ihre Kontaktmöglichkeiten 
 
-Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://geops.sh/mapset).\
- \
+Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://geops.sh/mapset).
+
 Interessieren Sie sich auch für unsere sonstigen Angebote wie Karten- und Routing-Dienste oder Echtzeit-Fahrgastinformationen? Dann empfehlen wir Ihnen, zusätzlich unseren [allgemeinen Newsletter](http://geops.sh/geopsnews) zu abonnieren.
 
 Falls Sie mapset noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://editor.mapset.ch/) aus. Mit ihr können Sie mapset und seine umfangreichen Funktionen testen. Auf der Homepage unter [mapset.ch](https://mapset.ch/) finden sie auch ein Video, das die einfache Bedienung von mapset und die Gestaltungsmöglichkeiten von Plänen zeigt.
 
-Sollten Sie Fragen haben, zögern Sie bitte nicht und schreiben an [support@mapset.ch](mailto:support@mapset.ch) oder rufen uns unter +41 79 925 15 37 an.\
- \
+Sollten Sie Fragen haben, zögern Sie bitte nicht und schreiben an [support@mapset.ch](mailto:support@mapset.ch) oder rufen uns unter +41 79 925 15 37 an.
+
 Wir freuen uns, mit Ihnen in Kontakt zu bleiben.
