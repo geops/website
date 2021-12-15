@@ -6,6 +6,7 @@ summary: "vor drei Monaten haben Sie den letzten Newsletter für mapset erhalten
   abzuspeichern. Die zweite neue Funktion integriert unsere
   Routing-Schnittstelle in mapset, so dass Fusswege oder die Verläufe
   verschiedenster Verkehrsmittel automatisch gezeichnet werden können. "
+cover: /images/blog/mapset-newsletter-03/newletter-–-3-v2.png
 created: 2021-02-10
 slug: mapset-newsletter-03
 tags:
