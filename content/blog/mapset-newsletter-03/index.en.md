@@ -1,6 +1,6 @@
 ---
 title: "mapset Newsletter #03"
-summary: "vor drei Monaten haben Sie den letzten Newsletter für mapset erhalten.
+summary: "Vor drei Monaten haben Sie den letzten Newsletter für mapset erhalten.
   Wir möchten den Zeitpunkt nutzen, um ihnen zwei sehr nützliche neue Funktionen
   vorzustellen. Mit der einen Neuerung wird es möglich, Pläne unter einem Namen
   abzuspeichern. Die zweite neue Funktion integriert unsere
@@ -15,9 +15,7 @@ published: true
 ---
 ## mapset – Pläne für den öffentlichen Verkehr
 
-Guten Tag,
-
-vor drei Monaten haben Sie den letzten Newsletter für mapset erhalten. Wir möchten den Zeitpunkt nutzen, um ihnen zwei sehr nützliche neue Funktionen vorzustellen. Mit der einen Neuerung wird es möglich, **Pläne unter einem Namen abzuspeichern**. Die zweite neue Funktion integriert unsere **Routing**-Schnittstelle in mapset, so dass Fusswege oder die Verläufe verschiedenster Verkehrsmittel automatisch gezeichnet werden können. 
+Vor drei Monaten haben Sie den letzten Newsletter für mapset erhalten. Wir möchten den Zeitpunkt nutzen, um ihnen zwei sehr nützliche neue Funktionen vorzustellen. Mit der einen Neuerung wird es möglich, **Pläne unter einem Namen abzuspeichern**. Die zweite neue Funktion integriert unsere **Routing**-Schnittstelle in mapset, so dass Fusswege oder die Verläufe verschiedenster Verkehrsmittel automatisch gezeichnet werden können. 
 
 ## Speichern von Plänen
 
