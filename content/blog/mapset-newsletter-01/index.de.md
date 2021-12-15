@@ -13,7 +13,6 @@ published: true
 ---
 ## mapset – Pläne für den öffentlichen Verkehr
 
-Guten Tag,
 Wir möchten Ihnen **mapset**, ein neues Werkzeug zum Erstellen von Situationsplänen für den öffentlichen Verkehr, vorstellen.
 
 Transportunternehmen erstellen mit **mapset** auf einfache Weise grafisch hochstehende Pläne, die auf den attraktiven Karten der SBB basieren. Mit **mapset** lassen sich Haltestellen lokalisieren, Baustellen und Bahnersatz erklären oder Events im Bahnhofsumfeld darstellen. **mapset** hilft, die Kundeninformation und Kundenführung entscheidend zu verbessern. Gleichzeitig werden der Aufwand für die Erstellung von Plänen oder die Kosten für externe Agenturen reduziert.
@@ -39,8 +38,6 @@ In den nächsten Wochen veranstalten wir regelmässig Webinare, um die Funktione
 ## mapset Newsletter
 
 Gerne halten wir Sie mit einem Newsletter künftig über alle Neuigkeiten rund um **mapset** auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von **mapset** kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten.
-
-**Wichtig: mit dieser Mail haben wir Sie einmalig angeschrieben. Sie sind damit noch nicht für den mapset Newsletter registriert. Wenn Sie den Newsletter abonnieren wollen, klicken Sie bitte [hier](http://eepurl.com/gRlRvv).**
 
 Sind Sie der falsche Ansprechpartner oder kennen Sie jemanden, der sich für **mapset** interessieren könnte? Dann leiten Sie diese Mail einfach weiter oder verweisen auf unser [Newsletter-Abonnement](http://eepurl.com/gRlRvv).
 
