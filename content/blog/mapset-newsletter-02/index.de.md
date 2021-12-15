@@ -55,14 +55,14 @@ Wenn auch Sie Ihre eigenen Designelemente in mapset verwenden möchten, sprechen
 
 ## Ihre Kontaktmöglichkeiten 
 
-Sie möchten mehr über mapset erfahren? Dann besuchen Sie uns virtuell auf der digitalen IT-TRANS, die internationale Konferenz und Fachmesse für intelligente Lösungen im öffentlichen Personenverkehr vom 01.12. - 03.12.2020. Am 02.12.2020 um 13:30 Uhr laden wir Sie herzlich zu unserem Roundtable ein. Innerhalb von 45 Minuten stellen wir Ihnen mapset live vor und beantworten gerne Ihre Fragen. Alles was Sie hierfür tun müssen ist die Sicherung eines *kostenfreien* [Networking-Tickets](https://www.it-trans.org/de/tickets/). Mit diesem Ticket erhalten Sie nicht nur Zugang zu unserem Roundtable, sondern können an weiteren Live-Streams teilnehmen. Des Weiteren besteht die Möglichkeit sich mit anderen Teilnehmern zu vernetzen, sich per Chat oder Videocall auszutauschen oder Termine zu vereinbaren. \
-\
-Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessieren könnte? Dann leiten Sie diese Mail einfach weiter oder verweisen auf unser [Newsletter-Abonnement](https://geops.sh/mapset).\
- \
+Sie möchten mehr über mapset erfahren? Dann besuchen Sie uns virtuell auf der digitalen IT-TRANS, die internationale Konferenz und Fachmesse für intelligente Lösungen im öffentlichen Personenverkehr vom 01.12. - 03.12.2020. Am 02.12.2020 um 13:30 Uhr laden wir Sie herzlich zu unserem Roundtable ein. Innerhalb von 45 Minuten stellen wir Ihnen mapset live vor und beantworten gerne Ihre Fragen. Alles was Sie hierfür tun müssen ist die Sicherung eines *kostenfreien* [Networking-Tickets](https://www.it-trans.org/de/tickets/). Mit diesem Ticket erhalten Sie nicht nur Zugang zu unserem Roundtable, sondern können an weiteren Live-Streams teilnehmen. Des Weiteren besteht die Möglichkeit sich mit anderen Teilnehmern zu vernetzen, sich per Chat oder Videocall auszutauschen oder Termine zu vereinbaren.
+
+Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessieren könnte? Dann leiten Sie diese Mail einfach weiter oder verweisen auf unser [Newsletter-Abonnement](https://geops.sh/mapset).
+
 Interessieren Sie sich auch für unsere sonstigen Angebote wie Karten- und Routing-Dienste oder Echtzeit-Fahrgastinformationen? Dann empfehlen wir Ihnen, zusätzlich unseren [allgemeinen Newsletter](http://geops.sh/geopsnews) zu abonnieren.
 
 Falls Sie mapset noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://editor.mapset.ch/) aus. Mit ihr können Sie mapset und seine umfangreichen Funktionen testen. Auf der Homepage unter [mapset.ch](https://mapset.ch/) finden Sie auch ein Video, das die einfache Bedienung von mapset und die Gestaltungsmöglichkeiten von Plänen zeigt.
 
-Sollten Sie Fragen haben, zögern Sie bitte nicht und schreiben an [support@mapset.ch](mailto:support@mapset.ch) oder rufen uns unter +41 79 925 15 37 an.\
- \
+Sollten Sie Fragen haben, zögern Sie bitte nicht und schreiben an [support@mapset.ch](mailto:support@mapset.ch) oder rufen uns unter +41 79 925 15 37 an.
+
 Wir freuen uns, mit Ihnen in Kontakt zu bleiben.
