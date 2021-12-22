@@ -2,6 +2,7 @@ backend:
   name: github
   repo: geops/website
   branch: main
+  base_url: https://geops.ch
   #name: git-gateway
 
 # Used for testing.
