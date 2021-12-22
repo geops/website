@@ -4,7 +4,7 @@ summary: mapset hat sich auch in den letzten Monaten stetig weiterentwickelt. Es
   sind zunehmend die kleinen Verbesserungen, die die Arbeit mit mapset noch
   schneller und praktischer machen.
 cover: /images/blog/mapset-newsletter-04/newletter-–-4-v2.png
-created: 2021-12-08
+created: 2021-07-10
 slug: mapset-newsletter-04
 tags:
   - mapset
