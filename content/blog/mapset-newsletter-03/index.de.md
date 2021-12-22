@@ -40,7 +40,7 @@ Da *mapset* primär für die Erstellung von Detailplänen um Haltestellen gedach
 
 ## Webinar
 
-Wir bieten Ihnen für die Schulung in *mapset* ein Webinar an. Nutzen Sie die Gelegenheit, um die Funktionen in *mapset* noch besser kennenzulernen. Stellen sie Fragen an die Entwickler. Treffen Sie andere Nutzer und Interessenten von *mapset* und tauschen Sie sich untereinander aus.
+Wir bieten Ihnen für die Schulung in *mapset* ein Webinar an. Nutzen Sie die Gelegenheit, um die Funktionen in *mapset* noch besser kennenzulernen. Stellen Sie Fragen an die Entwickler. Treffen Sie andere Nutzer und Interessenten von *mapset* und tauschen Sie sich untereinander aus.
 
 Das Webinar ist sowohl für bestehende Nutzer von *mapset* gedacht wie auch für alle, die sich einen ersten Eindruck der Lösung verschaffen möchten.
 
@@ -52,7 +52,7 @@ Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um *ma
 
 Interessieren Sie sich auch für unsere sonstigen Angebote wie Karten- und Routing-Dienste oder Echtzeit-Fahrgastinformationen? Dann empfehlen wir Ihnen, zusätzlich unseren [allgemeinen Newsletter](http://geops.sh/geopsnews) zu abonnieren.
 
-Falls Sie *mapset* noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://editor.mapset.ch/) aus. Mit ihr können Sie *mapset* und seine umfangreichen Funktionen testen. Auf der Homepage unter [mapset.ch](https://mapset.ch/) finden sie auch ein Video, das die einfache Bedienung von *mapset* und die Gestaltungsmöglichkeiten von Plänen zeigt.
+Falls Sie *mapset* noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://editor.mapset.ch/) aus. Mit Ihr können Sie *mapset* und seine umfangreichen Funktionen testen. Auf der Homepage unter [mapset.ch](https://mapset.ch/) finden Sie auch ein Video, das die einfache Bedienung von *mapset* und die Gestaltungsmöglichkeiten von Plänen zeigt.
 
 Sollten Sie Fragen haben, zögern Sie bitte nicht und schreiben an [support@mapset.ch](mailto:support@mapset.ch) oder rufen uns unter +41 79 925 15 37 an.
 
