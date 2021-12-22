@@ -9,11 +9,11 @@ published: true
 ---
 ## mapset – Pläne für den öffentlichen Verkehr
 
-**mapset** hat sich auch in den letzten Monaten stetig weiterentwickelt. Es sind zunehmend die kleinen Verbesserungen, die die Arbeit mit **mapset** noch schneller und praktischer machen.
+*mapset* hat sich auch in den letzten Monaten stetig weiterentwickelt. Es sind zunehmend die kleinen Verbesserungen, die die Arbeit mit *mapset* noch schneller und praktischer machen.
 
 ## Hilfe
 
-Die Nutzung von **mapset** ist im Grunde selbsterklärend. Es ist ein wichtiges Ziel unseres Tools, dass alle Funktionen intuitiv verstanden werden, so dass auch Gelegenheitsnutzer ohne Probleme Pläne nach Wunsch erstellen können. Dennoch haben wir gesehen, dass für die Nutzung aller, auch der etwas versteckteren, Funktionen in **mapset** eine Anleitung hilfreich ist. Deshalb haben wir drei Arten von Hilfen und Anleitungen
+Die Nutzung von *mapset* ist im Grunde selbsterklärend. Es ist ein wichtiges Ziel unseres Tools, dass alle Funktionen intuitiv verstanden werden, so dass auch Gelegenheitsnutzer ohne Probleme Pläne nach Wunsch erstellen können. Dennoch haben wir gesehen, dass für die Nutzung aller, auch der etwas versteckteren, Funktionen in *mapset* eine Anleitung hilfreich ist. Deshalb haben wir drei Arten von Hilfen und Anleitungen
 entwickelt.
 
 *Handbuch*
@@ -29,7 +29,7 @@ Bei jedem Start von mapset erscheint ein Dialog mit einem Hinweise auf spezielle
 
 ## Skalieren von Zeichnungen
 
-Wenn Pläne aus **mapset** dynamisch in Webseiten oder Social Media eingebunden werden, kann der Plan navigiert, also verschoben sowie verkleinert und vergrössert werden. Dabei stellte sich das Problem, dass die Zeichenelemente, die für einen bestimmten Ausschnitt optimiert waren, nicht mehr zueinander passten und sich überlagert haben.
+Wenn Pläne aus *mapset* dynamisch in Webseiten oder Social Media eingebunden werden, kann der Plan navigiert, also verschoben sowie verkleinert und vergrössert werden. Dabei stellte sich das Problem, dass die Zeichenelemente, die für einen bestimmten Ausschnitt optimiert waren, nicht mehr zueinander passten und sich überlagert haben.
 Daher steht nun eine neue Funktion zur Verfügung, mit der die Anzeige von Zeichenelementen auf einen bestimmten Massstab begrenzt werden kann. Beim Ein- oder Auszoomen erscheinen die Zeichnungen damit immer so, dass alles gut zueinander passt.
 Die Abbildung zeigt am Beispiel unseres Büros in Olten, wie ein Plan in verschiedenen Massstäben aussehen kann.
 Eine genaue Beschreibung der Funktionen finden Sie im [Handbuch](https://mapset.ch/guide/#zoom-einschr%C3%A4nkungen).
@@ -44,17 +44,17 @@ Vor über einem Jahr haben wir unseren Firmensitz nach Olten verlegt. Aufgrund d
 
 Aus diesem Grund veranstalten wir am 09.07.2021 ab 17 Uhr einen Eröffnungs-Apéro in der Solothurnerstrasse 235.
 
-Ganz herzlich laden wir auch Sie als Kunde oder Interessierte an **mapset** zu diesem Event ein. Wir haben Getränke 🍺 und ein Pizzamobil 🍕 organisiert.
+Ganz herzlich laden wir auch Sie als Kunde oder Interessierte an *mapset* zu diesem Event ein. Wir haben Getränke 🍺 und ein Pizzamobil 🍕 organisiert.
 Treffen Sie nicht nur unser Team sondern auch Kolleginnen und Kollegen aus der Branche.
 Damit wir die ungefähre Personenzahl abschätzen können, bitte wir um unverbindliche Anmeldung. Die Lage entnehmen Sie den Abbildungen oben oder diesem [dynamischen mapset-Plan](https://geops.sh/32A39B189420DDDBA).
 
 ## Bleiben Sie in Kontakt 
 
-Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um **mapset** auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://geops.sh/mapset).
+Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um *mapset* auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://geops.sh/mapset).
 
 Interessieren Sie sich auch für unsere sonstigen Angebote wie Karten- und Routing-Dienste oder Echtzeit-Fahrgastinformationen? Dann empfehlen wir Ihnen, zusätzlich unseren [allgemeinen Newsletter](http://geops.sh/geopsnews) zu abonnieren.
 
-Falls Sie **mapset** noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://editor.mapset.ch/) aus. Mit ihr können Sie **mapset** und seine umfangreichen Funktionen testen. Auf der Homepage unter [mapset.ch](https://mapset.ch/) finden sie auch ein Video, das die einfache Bedienung von **mapset** und die Gestaltungsmöglichkeiten von Plänen zeigt. Unter [mapset.ch/guide](https://mapset.ch/guide "mapset guide") finden Sie ein Handbuch mit Beschreibung aller Funktionen von mapset.
+Falls Sie *mapset* noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://editor.mapset.ch/) aus. Mit ihr können Sie *mapset* und seine umfangreichen Funktionen testen. Auf der Homepage unter [mapset.ch](https://mapset.ch/) finden sie auch ein Video, das die einfache Bedienung von *mapset* und die Gestaltungsmöglichkeiten von Plänen zeigt. Unter [mapset.ch/guide](https://mapset.ch/guide "mapset guide") finden Sie ein Handbuch mit Beschreibung aller Funktionen von mapset.
 
 Sollten Sie Fragen haben, zögern Sie bitte nicht und schreiben an [support@mapset.ch](mailto:support@mapset.ch) oder rufen uns unter +41 79 925 15 37 an.
 
