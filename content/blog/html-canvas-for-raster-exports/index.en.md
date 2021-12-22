@@ -6,6 +6,7 @@ summary: Several geOps applications (e.g. trafimage-maps, mapset) have features
   desired map extent with the desired resolution and exporting the canvas in a
   defined raster format (png, jpg, etc.).
 author: Daniel Marsh-Hunn
+cover: /images/blog/determining-maximum-html-canvas-sizes-for-raster-exports/offscreencanvas_item.png
 created: 2021-12-22
 slug: html-canvas-for-raster-exports
 tags:
@@ -25,3 +26,5 @@ However, this approach turned out to be incompatible on iOS devices. On iOS, We
 Luckily there is an npm package that takes care of the heavy lifting for us. [Canvas-size](https://www.npmjs.com/package/canvas-size) runs tests using a set of predefined size values for a variety of  browser and platform combinations. Tests validate the ability to read pixel data from canvas elements of the predefined dimensions by decreasing canvas height and/or width until a test succeeds.  This approach completely avoids using the WebGL parameters such as the draw buffer, and therefore runs smoothly on all devices including iOS. Furthermore, the calculation is faster and less prone to error. 
 
 The package also includes methods for asynchronous testing by using [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) and [OffscreenCanvas](https://developer.mozilla.org/en-US/docs/Web/API/OffscreenCanvas). These tests are run on a separate thread, which can prevent the browser from becoming unresponsive while testing on the browser's main thread. This feature may prove useful in future projects.
+
+![offscreencanvas](/images/blog/determining-maximum-html-canvas-sizes-for-raster-exports/offscreencanvas.png)
