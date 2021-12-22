@@ -4,9 +4,7 @@ summary: Transportunternehmen erstellen mit mapset auf einfache Weise grafisch
   hochstehende Pläne, die auf den attraktiven Karten der SBB basieren. Mit
   mapset lassen sich Haltestellen lokalisieren, Baustellen und Bahnersatz
   erklären oder Events im Bahnhofsumfeld darstellen. mapset hilft, die
-  Kundeninformation und Kundenführung entscheidend zu verbessern. Gleichzeitig
-  werden der Aufwand für die Erstellung von Plänen oder die Kosten für externe
-  Agenturen reduziert.
+  Kundeninformation und Kundenführung entscheidend zu verbessern.
 cover: /images/blog/mapset-newsletter-01/newletter-–-1-v2.png
 created: 2020-02-03
 slug: mapset-newsletter-01
