@@ -7,7 +7,6 @@ summary: Transportunternehmen erstellen mit mapset auf einfache Weise grafisch
   Kundeninformation und Kundenführung entscheidend zu verbessern. Gleichzeitig
   werden der Aufwand für die Erstellung von Plänen oder die Kosten für externe
   Agenturen reduziert.
-created: 2021-12-08
 slug: mapset-newsletter-01
 published: true
 ---
