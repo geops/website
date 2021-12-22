@@ -1,12 +1,8 @@
 ---
 title: "mapset Newsletter #02"
-summary: Seit dem letzten Newsletter hat sich einiges getan. Wir konnten neue,
-  wichtige Kunden für mapset gewinnen. Dazu gehören die Verkehrsbetriebe Zürich
-  VBZ und der Regionalverkehr Bern-Solothurn sowie BOGG, die Busbetriebe für
-  Olten und Umgebung. Parallel zur Ausdehnung der mapset-Nutzer haben wir neue
-  Funktionen entwickelt, um den Anforderungen aller Kunden entgegen zu kommen.
-  Selbstverständlich stehen allen Nutzern die neuen Funktionen ohne Zusatzkosten
-  zur Verfügung.
+summary: Wir konnten neue, wichtige Kunden für mapset gewinnen. Gleichzeitig
+  haben wir neue Funktionen entwickelt, um den Anforderungen aller Kunden
+  entgegen zu kommen. Die neuen Funktionen stehen allen Nutzern zur Verfügung.
 cover: /images/blog/mapset-newsletter-02/newletter-–-2-v2.png
 created: 2020-07-04
 slug: mapset-newsletter-02
