@@ -1,8 +1,7 @@
 ---
 title: "mapset Newsletter #02"
-summary: Wir konnten neue, wichtige Kunden für mapset gewinnen. Gleichzeitig
-  haben wir neue Funktionen entwickelt, um den Anforderungen aller Kunden
-  entgegen zu kommen. Die neuen Funktionen stehen allen Nutzern zur Verfügung.
+summary: Wir berichten über neue Kunden von mapset und stellen einige neue
+  Funktionen vor.
 created: 2021-12-08
 slug: mapset-newsletter-02
 published: true
