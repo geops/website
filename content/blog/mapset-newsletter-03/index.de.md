@@ -1,11 +1,8 @@
 ---
 title: "mapset Newsletter #03"
-summary: "Vor drei Monaten haben Sie den letzten Newsletter für mapset erhalten.
-  Wir möchten den Zeitpunkt nutzen, um ihnen zwei sehr nützliche neue Funktionen
-  vorzustellen. Mit der einen Neuerung wird es möglich, Pläne unter einem Namen
-  abzuspeichern. Die zweite neue Funktion integriert unsere
-  Routing-Schnittstelle in mapset, so dass Fusswege oder die Verläufe
-  verschiedenster Verkehrsmittel automatisch gezeichnet werden können. "
+summary: "Wir stellen zwei neue Funktionen vor: das Speichern von Plänen unter
+  einem frei wählbaren Titel und die Integration unseres Routings zum schnellen
+  Zeichnen von Wegen."
 created: 2021-12-08
 slug: mapset-newsletter-03
 published: true
