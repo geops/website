@@ -1,10 +1,10 @@
 ---
-title: Bestimmung der maximalen HTML Canvas-Größen für Rasterexporte
+title: Bestimmung der maximalen HTML Canvas-Grössen für Rasterexporte
 summary: Mehrere geOps-Anwendungen verfügen über Funktionen zum Export
   hochauflösender Karten als Rasterbilder. Dies wird im Javascript-Frontend
   durch die Erstellung eines temporären HTML-Canvas-Elements gehandhabt. Wir
-  erklären, wie man die maximale Größe des Canvas und damit die Auflösung und
-  Größe für Ausdrucke berechnet.
+  erklären, wie man die maximale Grösse des Canvas und damit die Auflösung und
+  Grösse für Ausdrucke berechnet.
 created: 2021-12-22
 slug: html-canvas-fuer-raster-exporte
 published: true
