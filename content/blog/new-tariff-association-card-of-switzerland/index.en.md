@@ -7,6 +7,9 @@ author: Uli Müller
 cover: /images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_title.png
 created: 2021-10-06
 slug: new-tariff-association-card-of-switzerland
+tags:
+  - maps
+  - passengerinformation
 frontpage: true
 frontpageImage: /images/blog/die-neue-tarifverbundkarte-der-schweiz/mockup_02-1.png
 frontpageWeight: 0
