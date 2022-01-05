@@ -3,6 +3,7 @@ title: "mapset Newsletter #05"
 summary: Der neue Newsletter berichtet über den Einsatz von mapset auf digitalen
   Stelen und stellt spannende Funktionen in Videos vor.
 author: Maja Schudel
+cover: /images/blog/mapset-newsletter-05/newletter-–-7-v2-–-1.png
 created: 2021-12-08
 slug: mapset-newsletter-05
 tags:
@@ -99,8 +100,8 @@ Aus diesem Grund sind diverse Layer in mapset ausblendbar. Neu können auch Gew�
 
 ![](/images/blog/mapset-newsletter-05/3d29ebae-c0ab-db38-6f53-73c108dc89df.gif)
 
-Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=cf7beea702&e=0e25b630dd).\
- \
+Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=cf7beea702&e=0e25b630dd).
+
 Interessieren Sie sich auch für unsere weiteren Angebote wie Karten- und Routing-Dienste oder Echtzeit-Fahrgastinformationen? Dann empfehlen wir Ihnen, zusätzlich unseren [allgemeinen Newsletter](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=d4fbdcb8cd&e=0e25b630dd) zu abonnieren.
 
 Falls Sie mapset noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=884b2baf81&e=0e25b630dd) aus. Mit ihr können Sie mapset und seine umfangreichen Funktionen unverbindlich testen. Auf der Homepage unter [mapset.ch](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=70ba4a063e&e=0e25b630dd) finden sie auch ein Video, das die einfache Bedienung von mapset und die Gestaltungsmöglichkeiten von Plänen zeigt.

@@ -76,8 +76,6 @@ Während einige Bahnhöfe genau in Ost-West-Ausrichtung liegen und sich so beste
 
 ![](/images/blog/mapset-newsletter-05/fc0b6d9f-5096-5425-df50-77cc0b96591d.gif)
 
-
-
 ## Die richtige Zoomstufe machts aus
 
 Die Abbildung von Icons, Linien und Texten lässt sich dank der vielseitigen Tools sehr individuell gestalten. Sobald man jedoch die Zoomstufe ändert, ist die Darstellung nicht mehr ideal: Zeichnungen, die auf grossen Zoomstufen gemacht werden, sind auf kleinen Zoomstufen nicht mehr eindeutig zuordenbar. Umgekehrt werden Elemente, die auf kleinen Zoomstufen eingezeichnet werden, auf grossen Stufen weit auseinandergezogen und passen nicht auf die exakten Gegebenheiten.
@@ -85,8 +83,6 @@ Die Abbildung von Icons, Linien und Texten lässt sich dank der vielseitigen Too
 Um das zu vermeiden, haben wir die Funktion «Auf Zoomstufen beschränken» eingeführt. Mit einem Schieberegler lassen sich die Zoomstufen auswählen, in denen die Elemente angezeigt werden sollen. Zoomt man dann über diese Stufe hinaus, verschwinden die Elemente.
 
 ![](/images/blog/mapset-newsletter-05/d5a19272-162a-facb-9cb5-5571a58c33da.gif)
-
-
 
 ### Weniger Layer lenken den Fokus auf das Wesentliche
 
@@ -96,8 +92,8 @@ Aus diesem Grund sind diverse Layer in mapset ausblendbar. Neu können auch Gew�
 
 ![](/images/blog/mapset-newsletter-05/3d29ebae-c0ab-db38-6f53-73c108dc89df.gif)
 
-Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=cf7beea702&e=0e25b630dd).\
- \
+Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um mapset auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen von mapset kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=cf7beea702&e=0e25b630dd).
+
 Interessieren Sie sich auch für unsere weiteren Angebote wie Karten- und Routing-Dienste oder Echtzeit-Fahrgastinformationen? Dann empfehlen wir Ihnen, zusätzlich unseren [allgemeinen Newsletter](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=d4fbdcb8cd&e=0e25b630dd) zu abonnieren.
 
 Falls Sie mapset noch nicht nutzen, probieren Sie am besten unsere Demo-Version unter [mapset.ch](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=884b2baf81&e=0e25b630dd) aus. Mit ihr können Sie mapset und seine umfangreichen Funktionen unverbindlich testen. Auf der Homepage unter [mapset.ch](https://mapset.us4.list-manage.com/track/click?u=23161055bb6a407f7e6c00038&id=70ba4a063e&e=0e25b630dd) finden sie auch ein Video, das die einfache Bedienung von mapset und die Gestaltungsmöglichkeiten von Plänen zeigt.
