@@ -31,7 +31,7 @@ export default function BlogListItem({ item }) {
           <p>{item.summary}</p>
           <div className="flex items-center text-blue mt-8">
             {t("website.readMore")}
-            <div className="w-6 ml-2 mt-1 transition duration-300 transform group-hover:translate-x-2">
+            <div className="w-6 ml-2 mt-1 transition duration-300 group-hover:translate-x-2">
               <CaretIcon direction="right" />
             </div>
           </div>

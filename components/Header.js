@@ -172,7 +172,7 @@ export default function Header({ translationPath }) {
                   {/* -------- Desktop About Navigation -------- */}
                   {href === "/about" && (
                     <ul
-                      className={`${styles.aboutNavigation} absolute bg-white border-gray-lighter border divide-y divide-gray-lighter left-1/2 transform -translate-x-1/2 rounded-b hidden group-hover:block`}
+                      className={`${styles.aboutNavigation} absolute bg-white border-gray-lighter border divide-y divide-gray-lighter left-1/2 -translate-x-1/2 rounded-b hidden group-hover:block`}
                     >
                       {aboutMenu.map((aboutItem) => (
                         <li

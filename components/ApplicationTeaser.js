@@ -29,7 +29,7 @@ export default function ApplicationTeaser({ jobs }) {
           href="mailto:karriere@geops.de"
         >
           {t("applicationTeaser.altAction")}
-          <div className="w-6 ml-2 mt-1 transition duration-300 transform group-hover:translate-x-2">
+          <div className="w-6 ml-2 mt-1 transition duration-300 group-hover:translate-x-2">
             <CaretIcon direction="right" />
           </div>
         </a>

@@ -47,7 +47,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
             <div>{solution.summary}</div>
           </div>
           <div
-            className="group-hover:translate-x-4 transform transition-all duration-500 w-8"
+            className="group-hover:translate-x-4 transition-all duration-500 w-8"
             data-testid="more"
           >
             <MoreIcon />

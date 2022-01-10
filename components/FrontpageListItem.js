@@ -29,7 +29,7 @@ export default function FrontpageListItem({ item, side }) {
         </Button>
       </div>
       <div
-        className={`transform transition-transform duration-1000 ${rotate} relative h-96 w-full md:w-1/2`}
+        className={`transition-transform duration-1000 ${rotate} relative h-96 w-full md:w-1/2`}
         ref={imgRef}
       >
         <Image

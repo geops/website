@@ -15,7 +15,7 @@ export default function Teaser(props) {
   return (
     <section className={props.containerClassName || "bg-white"}>
       <div
-        className="container mx-auto px-8 py-16 md:py-24 text-center flex flex-col items-center transform transition-opacity duration-1000"
+        className="container mx-auto px-8 py-16 md:py-24 text-center flex flex-col items-center transition-opacity duration-1000"
         ref={contentRef}
       >
         <div

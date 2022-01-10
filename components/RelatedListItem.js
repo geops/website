@@ -17,7 +17,7 @@ export default function RelatedListItem({ dark, item }) {
           <div className="hidden lg:block aspect-w-4 aspect-h-3 mb-4 overflow-hidden rounded">
             <Image
               alt={`${item.title} Cover`}
-              className="object-cover transition duration-300 transform group-hover:scale-110"
+              className="object-cover transition duration-300 group-hover:scale-110"
               layout="fill"
               src={item.cover}
             />
@@ -35,7 +35,7 @@ export default function RelatedListItem({ dark, item }) {
           }`}
         >
           <div>{t("website.readMore")}</div>
-          <div className="w-6 ml-2 mt-1 transition duration-300 transform group-hover:translate-x-2">
+          <div className="w-6 ml-2 mt-1 transition duration-300 group-hover:translate-x-2">
             <CaretIcon direction="right" />
           </div>
         </div>
