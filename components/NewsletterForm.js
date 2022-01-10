@@ -4,21 +4,28 @@ import CheckmarkCircleIcon from "./icons/CheckmarkCircleIcon.js";
 import MailCircleIcon from "./icons/MailCircleIcon.js";
 import PointerCircleIcon from "./icons/PointerCircleIcon.js";
 import { useI18n } from "../lib/i18n";
+
 const newsletterFormEndpoint =
   "https://geops.us4.list-manage.com/subscribe/post?u=23161055bb6a407f7e6c00038&amp;id=c9694280f7";
+
 export default function NewsletterForm({ translations }) {
   const refHeader = createRef();
   const [submitted, setSubmitted] = useState(false);
   const { language } = useI18n();
-  const handleSubmit = (event) => {
-    const body = new FormData(event.target);
+
+  const handleSubmit = async (event) => {
     event.preventDefault();
     refHeader.current.scrollIntoView({ behavior: "smooth" });
     try {
-      fetch(newsletterFormEndpoint, { method: "POST", body });
+      await fetch(newsletterFormEndpoint, {
+        body: new FormData(event.target),
+        method: "POST",
+        mode: "no-cors",
+      });
+      setSubmitted(true);
     } catch (error) {}
-    setSubmitted(true);
   };
+
   return (
     <form
       className="container mx-auto max-w-screen-lg p-8"
