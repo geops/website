@@ -47,7 +47,9 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
           <h1
             data-cy="pageMainTitle"
             className={`${
-              titleDown ? "lg:text-gray-darker lg:text-shadow-none" : ""
+              titleDown || (!src && !srcMobile)
+                ? "lg:text-gray-darker lg:text-shadow-none mt-8"
+                : ""
             } mx-auto max-w-screen-lg`}
           >
             {title}
