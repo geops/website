@@ -1,5 +1,5 @@
 ---
-title: How to set up a Django to only allow CORS requests in DEBUG mode
+title: Set up Django to only allow CORS requests in DEBUG mode
 summary: This post is about how to set up a Django project to only allow CORS
   requests in DEBUG mode, even if they require a login to the backend. In our
   case, this has been useful to test frontend customizations on the internal dev
