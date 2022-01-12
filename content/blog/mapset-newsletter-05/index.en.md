@@ -28,7 +28,7 @@ Sie haben keine digitalen Stelen? Kein Problem, die mapset Pläne lassen sich na
 
 Icons lassen sich zu Gruppen zusammenfassen. Diese Funktion stellt sicher, dass Icons beim Vergrössern oder Verkleinern der Karte ihre relative Position zueinander beibehalten. Um Icons zu gruppieren, klicken Sie die gewünschten Icons nacheinander an, während Sie die Steuerungstaste STRG gedrückt halten.
 
-![](/images/blog/mapset-newsletter-05/4bbd143b-2bb2-ef1a-6ee5-31d6eb1a4d30.gif)
+<a href="https://youtu.be/ktA1ps4_B7s"><img src="/images/blog/mapset-newsletter-05/4bbd143b-2bb2-ef1a-6ee5-31d6eb1a4d30.gif"></a>
 
 ### Manuelles Anpassen von Routen
 
@@ -36,7 +36,7 @@ Wenn Sie mit dem Routing-Tool eine Route erstellt haben und den Dialog schliesse
 
 Durch Ziehen lässt sich der Routenverlauf manuell abändern, z. B. im Falle einer Umleitung aufgrund einer Strassensperrung, welche vom Routing-Tool nicht berücksichtigt wird.
 
-![](/images/blog/mapset-newsletter-05/268c7764-2f70-f38b-6b1e-4ea9a89f3fea.gif)
+<a href="https://youtu.be/iGLf2TN43pg"><img src="/images/blog/mapset-newsletter-05/268c7764-2f70-f38b-6b1e-4ea9a89f3fea.gif"></a>
 
 ## Individualisieren
 
@@ -44,13 +44,13 @@ Durch Ziehen lässt sich der Routenverlauf manuell abändern, z. B. im Falle ein
 
 Mit diesem Tool können Sie eigene Icons gestalten, um z. B. die Symbole für Ihre Bus- oder Bahnlinien zu zeichnen. Wählen Sie die Farbe und Nummer entsprechend der Linie in Ihrem Fahrplan. Die Funktion finden Sie im Piktogramm-Tool im Register «Individuell».
 
-![](/images/blog/mapset-newsletter-05/ee03f903-4d1f-d51a-44d4-a55e4cf263f3.gif)
+<a href="https://youtu.be/oowHItwkR_E"><img src="/images/blog/mapset-newsletter-05/ee03f903-4d1f-d51a-44d4-a55e4cf263f3.gif"></a>
 
 ### Bild einfügen
 
 Mit diesem Tool können Sie Bilder von realen Objekten (z. B. Züge, Busse...) in die Hintergrundkarte setzen. Die Bilder skalieren mit der Karte mit. Diese Funktion ist nur für hohe Zoom-Stufen verfügbar. Diese Funktion ist nur sichtbar, wenn sie für Ihren Account freigeschaltet ist. 
 
-![](/images/blog/mapset-newsletter-05/9a78eaaa-d7c8-50f0-8db8-f95bca50aff7.gif)
+<a href="https://youtu.be/pWlMe_jsLxU"><img src="/images/blog/mapset-newsletter-05/9a78eaaa-d7c8-50f0-8db8-f95bca50aff7.gif"></a>
 
 ## Speichern und Teilen
 
@@ -58,7 +58,7 @@ Mit diesem Tool können Sie Bilder von realen Objekten (z. B. Züge, Busse...) i
 
 Sie können Ihrem Plan einen Namen geben und ihn so speichern. Klicken Sie in Ihrem Plan auf den Text «Unbenannter Plan» in der Kopfzeile und geben Sie den gewünschten Namen ein. So finden Sie ihn später wieder und können ihn weiterbearbeiten.
 
-![](/images/blog/mapset-newsletter-05/f54ce5d5-246f-b84d-06ca-f3e02b54b11a.gif)
+<a href="https://youtu.be/AvI840hDHk8"><img src="/images/blog/mapset-newsletter-05/f54ce5d5-246f-b84d-06ca-f3e02b54b11a.gif"></a>
 
 ### Pläne teilen
 
@@ -70,7 +70,7 @@ Unter dem Teilen-Button erhalten Sie zwei unterschiedliche Links. Der «Link zum
 
 Ihren fertigen Plan können Sie anschliessend als Rasterbild herunterladen. Die maximal mögliche Auflösung ist für den Druck bis A1 geeignet.
 
-![](/images/blog/mapset-newsletter-05/fc24e625-7875-31b0-e68b-1f704c0c7a12.gif)
+<a href="https://youtu.be/vipjwWdwv4A"><img src="/images/blog/mapset-newsletter-05/fc24e625-7875-31b0-e68b-1f704c0c7a12.gif"></a>
 
 ## Mit einer Drehung zum richtigen Format
 
@@ -78,9 +78,7 @@ Sie können es drehen und wenden, wie Sie wollen: Die neue Funktion zum Drehen d
 
 Während einige Bahnhöfe genau in Ost-West-Ausrichtung liegen und sich so bestens für ein Querformat eignen, liegen andere auf der Nord-Süd-Achse und können im Hochformat optimal abgebildet werden. Was aber, wenn Sie trotz eines Ost-West-Bahnhofs für Ihre Anwendung ein hochformatiges Bild benötigen? Kein Problem – die Karte in mapset ist nun drehbar. Mit ALT und SHIFT können Sie die Karte mit der Maus um 360 Grad drehen. Die Labels drehen mit, sodass mit der Drehung keine Informationen verlorengehen.
 
-![](/images/blog/mapset-newsletter-05/fc0b6d9f-5096-5425-df50-77cc0b96591d.gif)
-
-
+<a href="https://youtu.be/Enys5qNGEdc"><img src="/images/blog/mapset-newsletter-05/fc0b6d9f-5096-5425-df50-77cc0b96591d.gif"></a>
 
 ## Die richtige Zoomstufe machts aus
 
@@ -88,9 +86,7 @@ Die Abbildung von Icons, Linien und Texten lässt sich dank der vielseitigen Too
 
 Um das zu vermeiden, haben wir die Funktion «Auf Zoomstufen beschränken» eingeführt. Mit einem Schieberegler lassen sich die Zoomstufen auswählen, in denen die Elemente angezeigt werden sollen. Zoomt man dann über diese Stufe hinaus, verschwinden die Elemente.
 
-![](/images/blog/mapset-newsletter-05/d5a19272-162a-facb-9cb5-5571a58c33da.gif)
-
-
+<a href="https://youtu.be/p_nJNB1tgX8"><img src="/images/blog/mapset-newsletter-05/d5a19272-162a-facb-9cb5-5571a58c33da.gif"></a>
 
 ### Weniger Layer lenken den Fokus auf das Wesentliche
 
