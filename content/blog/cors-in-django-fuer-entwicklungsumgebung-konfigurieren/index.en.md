@@ -1,37 +1,36 @@
 ---
-title: CORS in Django für Entwicklungsumgebung konfigurieren
-summary: In diesem Beitrag geht es darum, wie man ein Django-Projekt so aufbaut,
-  dass es nur im DEBUG-Modus CORS-Requests zuläst, auch wenn diese einen Login
-  im Backend erfordern. Bei uns hat sich das als hilfreich herausgestellt um
-  Frontendanpassungen an der internen Dev-Umgebung zu testen ohne dafür das
-  Backend lokal starten zu müssen.
+title: How to set up a Django to only allow CORS requests in DEBUG mode
+summary: This post is about how to set up a Django project to only allow CORS
+  requests in DEBUG mode, even if they require a login to the backend. In our
+  case, this has been useful to test frontend customizations on the internal dev
+  environment without having to start the backend locally.
 author: Milan Oberkirch
 created: 2022-01-12
-slug: cors-in-django-fuer-entwicklungsumgebung-konfigurieren
+slug: cors-in-django-in-debug-mode
 tags:
   - python
   - developers
 published: true
 ---
-In diesem Beitrag geht es darum, wie man ein Django-Projekt so aufbaut, dass es nur im DEBUG-Modus CORS-Requests zuläst, auch wenn diese einen Login im Backend erfordern. Bei uns hat sich das als hilfreich herausgestellt um Frontendanpassungen an der internen Dev-Umgebung zu testen ohne dafür das Backend lokal starten zu müssen.
+This post is about how to set up a Django project to only allow CORS requests in DEBUG mode, even if they require a login to the backend. In our case, this has been useful to test frontend customizations on the internal dev environment without having to start the backend locally.
 
-Es geht hier also um Projekte, bei denen in Produktion *kein* CORS verwendet wird, da Backend und Frontend hinter der gleichen Domain per Reverse-Proxy vereint werden.
+So we are talking about projects where CORS is not used in production, because backend and frontend are united behind the same domain via reverse proxy.
 
-## Was ist CORS?
+## What is CORS?
 
-Ohne spezielle HTTP-Header weigern sich alle modernen Browser, Daten einer Seite an einen Server mit einer anderen Domain zu schicken. Der Mechanismus um das explizit zu freizuschalten nennt sich "Cross Origin Resource Sharing", kurz CORS. Mit dem Standardverhalten, also erst mal alles zu blocken, werden Phishing-Attacken erschwert, da das Formular zur Eingabe sensibler Daten bei der gleichen Domain gehostet werden muss, bei der die Daten empfangen werden.
+Without special HTTP headers, all modern browsers refuse to send data from a page to a server with a different domain. The mechanism to explicitly enable this is called "Cross Origin Resource Sharing", or CORS for short. With the default behavior of first blocking everything, phishing attacks are made more difficult because the form for entering sensitive data must be hosted at the same domain where the data is received.
 
-Auch bei Cookies, also insbesondere dem Session-Cookie, muss man explizit dazu sagen, wenn es über unterschiedliche Seiten hinweg gültig sein soll.
+Also with cookies, especially the session cookie, you have to be explicit about whether you want it to be valid across different domains.
 
-## Was tun?
+## What to do.
 
-Dieses Standardverhalten für öffentlich erreichbare Instanzen wollen wir nicht ändern. Mit der vorgeschlagenen Konfiguration vergrößert sich die Angriffsfläche zwar nur minimal, für den produktiven Einsatz dennoch unerwünscht.
+We do not want to change this default behavior for publicly accessible instances. With the proposed configuration, the attack surface increases only minimally, but it is still undesirable for productive use.
 
-Stattdessen verwenden wir die DEBUG-Flag, um die Zugriffe von 127.0.0.1 und localhost zu ermöglichen. Die Annahme ist dabei natürlich, dass DEBUG nur bei internen Instanzen gesetzt ist.
+Instead, we use the DEBUG flag to allow access from 127.0.0.1 and localhost. The assumption here is, of course, that DEBUG is only set for internal instances.
 
-Um die CORS-Header zu setzen verwenden wir [django-cors-headers](https://github.com/adamchainz/django-cors-headers) (muss also installiert sein).
+To set the CORS headers we use [django-cors-headers](https://github.com/adamchainz/django-cors-headers) (so it must be installed).
 
-Wenn es produktiv keine APIs gibt, die CORS unterstützen sollen, sieht die Konfiguration so aus:
+If there are no APIs in production that should support CORS, the configuration looks like this:
 
 ```python
 if DEBUG:
@@ -68,9 +67,9 @@ MIDDLEWARE += [
 ]
 ```
 
-Bei älteren Django-Versionen (<=3) braucht es zusätzlich noch einen [Workaround](https://github.com/zvyn/django-samesite-none) um das "None" an den Cookies auch wirklich zu setzen.
+With older Django versions (<=3) an additional [workaround](https://github.com/zvyn/django-samesite-none) is needed to actually set the SameSite cookie property to "None".
 
-Mit öffentlichen APIs mit CORS-Support macht die Unterscheidung der CORS- und Cookie-Settings weiterhin Sinn, aber die INSTALLED_APPS und MIDDLEWARE könnte man wieder zusammenlegen:
+With public APIs with CORS support, the distinction between CORS and cookie settings still makes sense, but the INSTALLED_APPS and MIDDLEWARE could be merged again:
 
 ```python
 if DEBUG:
@@ -108,21 +107,21 @@ MIDDLEWARE += [
 ]
 ```
 
-Je nach Anwendung kann das natürlich auch alles noch variieren, aber hoffentlich ist mit den Code-Schnipseln oben schon mal ein Anfang gegeben.
+Your milage may vary of cause, but I hope the examples above serve as a good entry point.
 
-## Frontendanpassungen
+## Frontend configuration
 
-Um die CORS-Funktionalität zu verwenden muss im Frontend noch (hier dann nur lokal, bzw. über Umgebungsvariablen) der Request angepasst werden.
+In order to use the CORS functionality, the request has to be adapted in the frontend  as well (ideally with an environment variable as feature-flag).
 
-Beispiel für fetch:
+Example for fetch:
 
-```python
+```javascript
 const fetchResponsePromise = fetch(resource, {"mode": "cors", "credentials": "include"})
 ```
 
-Oder graphql-request:
+or for graphql-request:
 
-```python
+```javascript
 const graphQLClient = new GraphQLClient(endpoint, {
   credentials: 'include',
   mode: 'cors',
