@@ -26,7 +26,7 @@ Sie haben keine digitalen Stelen? Kein Problem, die mapset Pläne lassen sich na
 
 ### Icons gruppieren
 
-Icons lassen sich zu Gruppen zusammenfassen. Diese Funktion stellt sicher, dass Icons beim Vergrössern oder Verkleinern der Karte ihre relative Position zueinander beibehalten. Um Icons zu gruppieren, klicken Sie die gewünschten Icons nacheinander an, während Sie die Steuerungstaste *STRG* gedrückt halten.
+Icons lassen sich zu Gruppen zusammenfassen. Diese Funktion stellt sicher, dass Icons beim Vergrössern oder Verkleinern der Karte ihre relative Position zueinander beibehalten. Um Icons zu gruppieren, klicken Sie die gewünschten Icons nacheinander an, während Sie die Steuerungstaste <kbd>STRG</kbd> gedrückt halten.
 
 [![](/images/blog/mapset-newsletter-05/gruppieren.gif)](https://youtu.be/ktA1ps4_B7s)
 
@@ -76,7 +76,7 @@ Ihren fertigen Plan können Sie anschliessend als Rasterbild herunterladen. Die 
 
 Sie können es drehen und wenden, wie Sie wollen: Die neue Funktion zum Drehen der Grundkarte sorgt für noch mehr Flexibilität bei den mapset Plänen.
 
-Während einige Bahnhöfe genau in Ost-West-Ausrichtung liegen und sich so bestens für ein Querformat eignen, liegen andere auf der Nord-Süd-Achse und können im Hochformat optimal abgebildet werden. Was aber, wenn Sie trotz eines Ost-West-Bahnhofs für Ihre Anwendung ein hochformatiges Bild benötigen? Kein Problem – die Karte in mapset ist nun drehbar. Mit *ALT* und *SHIFT* können Sie die Karte mit der Maus um 360 Grad drehen. Die Labels drehen mit, sodass mit der Drehung keine Informationen verlorengehen.
+Während einige Bahnhöfe genau in Ost-West-Ausrichtung liegen und sich so bestens für ein Querformat eignen, liegen andere auf der Nord-Süd-Achse und können im Hochformat optimal abgebildet werden. Was aber, wenn Sie trotz eines Ost-West-Bahnhofs für Ihre Anwendung ein hochformatiges Bild benötigen? Kein Problem – die Karte in mapset ist nun drehbar. Mit <kbd>ALT</kbd> und <kbd>SHIFT</kbd> können Sie die Karte mit der Maus um 360 Grad drehen. Die Labels drehen mit, sodass mit der Drehung keine Informationen verlorengehen.
 
 [![](/images/blog/mapset-newsletter-05/drehen.gif)](https://youtu.be/Enys5qNGEdc)
 
