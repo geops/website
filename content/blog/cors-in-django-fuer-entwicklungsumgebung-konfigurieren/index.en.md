@@ -5,6 +5,7 @@ summary: This post is about how to set up a Django project to only allow CORS
   case, this has been useful to test frontend customizations on the internal dev
   environment without having to start the backend locally.
 author: Milan Oberkirch
+cover: /images/blog/how-to-set-up-a-django-to-only-allow-cors-requests-in-debug-mode/cors_01.png
 created: 2022-01-12
 slug: cors-in-django-in-debug-mode
 tags:
