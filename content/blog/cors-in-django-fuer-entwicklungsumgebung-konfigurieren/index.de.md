@@ -1,10 +1,9 @@
 ---
-title: CORS in Django für Entwicklungsumgebung konfigurieren
+title: CORS in Django für Entwicklungsumgebung
 summary: In diesem Beitrag geht es darum, wie man ein Django-Projekt so aufbaut,
-  dass es nur im DEBUG-Modus CORS-Requests zuläst, auch wenn diese einen Login
-  im Backend erfordern. Bei uns hat sich das als hilfreich herausgestellt um
-  Frontendanpassungen an der internen Dev-Umgebung zu testen ohne dafür das
-  Backend lokal starten zu müssen.
+  dass es nur im DEBUG-Modus CORS-Requests zulässt, auch wenn diese einen Login
+  im Backend erfordern. Das Setup vereinfacht Tests in internen
+  Entwicklungsumgebungen.
 created: 2022-01-12
 slug: cors-in-django-fuer-entwicklungsumgebung-konfigurieren
 published: true
