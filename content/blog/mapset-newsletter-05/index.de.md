@@ -74,7 +74,7 @@ Sie können es drehen und wenden, wie Sie wollen: Die neue Funktion zum Drehen d
 
 Während einige Bahnhöfe genau in Ost-West-Ausrichtung liegen und sich so bestens für ein Querformat eignen, liegen andere auf der Nord-Süd-Achse und können im Hochformat optimal abgebildet werden. Was aber, wenn Sie trotz eines Ost-West-Bahnhofs für Ihre Anwendung ein hochformatiges Bild benötigen? Kein Problem – die Karte in mapset ist nun drehbar. Mit <kbd>ALT</kbd> und <kbd>SHIFT</kbd> können Sie die Karte mit der Maus um 360 Grad drehen. Die Labels drehen mit, sodass mit der Drehung keine Informationen verlorengehen.
 
-[![](/images/blog/mapset-newsletter-05/drehen.gif)](https://youtu.be/Enys5qNGEdc)
+[![](/images/blog/mapset-newsletter-05/drehen.gif)](https://www.youtube.com/watch?v=Zj-q6gYtlWI)
 
 ## Die richtige Zoomstufe machts aus
 
