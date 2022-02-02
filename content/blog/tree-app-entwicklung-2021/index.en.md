@@ -20,7 +20,7 @@ Luzern hat den Anfang gewagt und die kantonalen Standortstypen in die Tree-App i
 
 Um den kantonalen Anforderungen noch besser zu entsprechen, kann neben dem Standortstyp auch die exakte Höhenstufe des Standorts mitgegeben werden. Die bundesweiten Höhendaten sind als Raster generiert und haben deshalb nicht die kleinräumige Auflösung, die der Standortskarte entspricht. In einigen Fällen könnte deshalb keine automatische Empfehlung erfolgen, der Workaround im manuellen Modus ist möglich, erfordert aber ein gewisses Mass an Fachwissen.
 
- Die Planung geht weiter: für dieses Jahr gibt es bereits weitere Kantone, die ihre Daten einbinden werden.
+Die Planung geht weiter: für dieses Jahr gibt es bereits weitere Kantone, die ihre Daten einbinden werden.
 
 ## Kantonale Lösungen
 
