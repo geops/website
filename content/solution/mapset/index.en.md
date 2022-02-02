@@ -4,7 +4,7 @@ summary: mapset allows easy creation of clear and visually appealing plans for
   public transport concerns.
 cover: /images/solution/mapset/mapset_teaser_startseite.png
 pageCover: /images/solution/mapset/mapset_headerbild_1.png
-pageCoverMobile: /images/solution/mapset/mobile_mapset_4-v2.png
+pageCoverMobile: /images/solution/mapset/mobile_mapset_4.png
 slug: mapset
 contactEmail: support@mapset.ch
 contactSubtitle: >-
