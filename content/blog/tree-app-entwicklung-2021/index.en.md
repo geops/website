@@ -4,6 +4,7 @@ summary: Nicht nur die Bäume wachsen stetig, auch unsere Tree-App hat im letzte
   Jahr zahlreiche neue Funktionen erhalten. Eine Auswahl möchten wir hier
   vorstellen.
 author: Elke Erhardt
+cover: /images/blog/tree-app-entwicklung-2021/thumbnail_treeapp_0.png
 created: 2022-02-02
 slug: tree-app-entwicklung-2021
 tags:
