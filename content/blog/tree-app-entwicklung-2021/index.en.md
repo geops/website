@@ -26,7 +26,7 @@ Um den kantonalen Anforderungen noch besser zu entsprechen, kann neben dem Stand
 
 Nochmals startet Luzern als Vorreiter mit einem eigenen Profil, das kantonale Standortsbeschreibungen und deren Vergleich enthält. Besonders der Vergleich von Standortstypen bietet einen besseren Überblick der Unterschiede und begünstigt eine fundierte Entscheidungshilfe bei der Bewirtschaftung von Waldflächen. Die Tree-App soll ein Tool sein, mit dem Waldbewirtschafter standortgenau umfangeiche Informationen erhalten. Mit der Einbindung von kantonalen Besonderheiten haben wir die technische Voraussetzung geschaffen.
 
-![]()
+![](/images/blog/tree-app-entwicklung-2021/vergleichsauswahl.png)
 
 Die Kantone Basel-Land und St. Gallen planen ebenfalls die Einbindung ihrer kantonalen Standortsbeschreibungen.
 
