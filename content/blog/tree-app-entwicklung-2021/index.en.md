@@ -17,7 +17,7 @@ published: true
 
 Luzern hat den Anfang gewagt und die kantonalen Standortstypen in die Tree-App integriert. Zum Jahresende kamen noch die Daten von Zürich, Fribourg und Neuchâtel hinzu. Bei diesen Kantonen erhält man jetzt mit nur einem Klick auf die Karte direkt eine Baumartenempfehlung. Das gilt überall, wo in den kantonalen Daten Standortstypen kartiert sind. Ohne diese Grundlage kann der Standortstyp weiterhin manuell ausgewählt werden. Detaillierte Ortskenntnisse oder Fachwissen über Standortstypen sind nun in diesen Kantonen nicht mehr zwingend notwendig, um die korrekte Baumartenempfehlung zu bekommen. 
 
-![](/images/blog/tree-app-entwicklung-2021/image2021-12-16_15-1-2.png)
+![](/images/blog/tree-app-entwicklung-2021/tree_app_map.png)
 
 Um den kantonalen Anforderungen noch besser zu entsprechen, kann neben dem Standortstyp auch die exakte Höhenstufe des Standorts mitgegeben werden. Die bundesweiten Höhendaten sind als Raster generiert und haben deshalb nicht die kleinräumige Auflösung, die der Standortskarte entspricht. In einigen Fällen könnte deshalb keine automatische Empfehlung erfolgen, der Workaround im manuellen Modus ist möglich, erfordert aber ein gewisses Mass an Fachwissen.
 
