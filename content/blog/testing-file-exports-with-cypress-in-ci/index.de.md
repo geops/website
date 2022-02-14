@@ -1,5 +1,5 @@
 ---
-title: Testing file exports with Cypress in CIx
+title: Testing file exports with Cypress in CI
 summary: ""
 slug: testing-file-exports-with-cypress-in-ci
 ---
