@@ -14,4 +14,4 @@ Seit mehreren Jahren unterstützen wir den ÄRZTE OHNE GRENZEN e.V.. Auch 2020 k
 
 ![](/images/blog/aerzte-ohne-grenzen-2020/Logo%20Partner-Unternehmen.png)
 
-Wer den ÄRZTE OHNE GRENZEN e.V. ebenfalls unterstützen möchte, kann sich [hier](https://www.aerzte-ohne-grenzen.de/spenden-retten-menschenleben) über Spendenmöglichkeiten informieren
+Wer den ÄRZTE OHNE GRENZEN e.V. ebenfalls unterstützen möchte, kann sich [hier](https://www.aerzte-ohne-grenzen.de/spenden-retten-menschenleben) über Spendenmöglichkeiten informieren.
