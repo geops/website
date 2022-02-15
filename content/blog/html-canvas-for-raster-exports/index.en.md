@@ -1,5 +1,5 @@
 ---
-title: Determining maximum HTML Canvas sizesxyz
+title: Determining maximum HTML Canvas sizes
 summary: Several geOps applications have features to export high-resolution maps
   as raster images. We explain how to calculate the maximum size of the Canvas
   and by this the resolution and size for printouts.
@@ -13,6 +13,8 @@ tags:
   - javascript
 published: true
 ---
+xyz
+
 Several geOps applications (e.g. [fare networks](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public), [mapset](https://editor.mapset.io/)) have features to export high-resolution maps as raster images. This is handled in the javascript frontend by creating a temporary HTML Canvas element containing the desired map extent with the desired resolution and exporting the canvas in a defined raster format (png, jpg, etc.). The maximum resolution depends on multiple factors though, including the browser configuration, WebGL settings and hardware components. If the canvas size limit is exceeded, the rendered canvas is unusable for exporting. Canvas size limits therefore need to be collected before the export canvas is created. Today we’re going to focus on how to acquire maximum HTML Canvas sizes for raster exports. 
 
 Calculating maximum canvas sizes can be heavy on performance, which is why this is done once and the result is stored in the browser local storage. 
