@@ -16,4 +16,4 @@ Wir stellen hierzu Daten von [OpenStreetMap](http://www.openstreetmap.org/) und 
 
 Hoffen wir, dass der Winter nicht so grün wird wie in der virtuellen Welt.
 
-Viel Freude beim Erkunden der Karte, wunderschöne Festtage und einen guten Rutsch ins Neue Jahr.
+Viel Freude beim Erkunden der Karte, wunderschöne Festtage und einen guten Rutsch ins Neue Jahr. 
