@@ -1,5 +1,5 @@
 ---
-title: Mitglied im Freiburger Medienforum
+title: Mitglied im Freiburger Medienforumxxx
 summary: geOps ist seit Juli Mitglied im Freiburger Medienforum mff und betont
   damit sein Engagement, in Sachen Medien und IT-Sicherheit auch im regionalen
   Umfeld stets auf dem Laufenden zu bleiben.
