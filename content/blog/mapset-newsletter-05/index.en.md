@@ -1,7 +1,7 @@
 ---
 title: "mapset Newsletter #05"
 summary: Der neue Newsletter berichtet über den Einsatz von mapset auf digitalen
-  Stelen und stellt spannende Funktionen in Videos vor.
+  Stelen und stellt spannende Funktionen in Videos vor.123
 author: Maja Schudel
 cover: /images/blog/mapset-newsletter-05/newletter-–-7-v2-–-1.png
 created: 2021-12-08
