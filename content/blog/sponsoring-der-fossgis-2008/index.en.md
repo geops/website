@@ -1,5 +1,5 @@
 ---
-title: Sponsoring der FOSSGIS 2008
+title: Sponsoring der FOSSGIS 2008xxx
 summary: FOSSGIS ist die Abkürzung für Freie und Open Source Software für
   Geoinformationssysteme und ist die führende Konferenz zu diesem Thema im
   deutschsprachigen Raum. geOps beteiligt sich als Sponsor daran.
