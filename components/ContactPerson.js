@@ -14,14 +14,14 @@ export default function ContactPerson({ person, subtitle, title }) {
     ? "prose prose-2xl text-gray-darker mx-auto my-8 font-regular link-text-green"
     : "prose prose-2xl text-gray-darker mx-auto mt-2 font-bold w-2/3";
   return (
-    <section className="container mx-auto mb-16 mt-16 lg:mb-24 lg:mt-24 max-w-screen-lg">
+    <section className="container mx-auto mb-16 mt-16 max-w-screen-lg lg:mb-24 lg:mt-24">
       <div
-        className={`bg-gray-lighter md:flex flex-row-reverse justify-center m-8 mb-0 p-8 text-center ${
+        className={`m-8 mb-0 flex-row-reverse justify-center bg-gray-lighter p-8 text-center md:flex ${
           person.photo && "md:text-left"
         }`}
       >
         <div>
-          <h2 className="md:text-5xl text-4xl">
+          <h2 className="text-4xl md:text-5xl">
             {title || t("contactPerson.title")}
           </h2>
           {subtitle ? (
@@ -60,14 +60,14 @@ export default function ContactPerson({ person, subtitle, title }) {
         {person.photo && (
           <Image
             alt={`${person.name} portrait`}
-            className="object-cover object-top w-64 h-64 rounded-full self-center mx-auto md:mr-20 md:ml-0"
+            className="mx-auto h-64 w-64 self-center rounded-full object-cover object-top md:mr-20 md:ml-0"
             layout="fill"
             src={person.photo}
           />
         )}
       </div>
       <div
-        className="border-gray-lighter mx-auto relative h-0 w-0"
+        className="relative mx-auto h-0 w-0 border-gray-lighter"
         style={arrowDown}
       />
     </section>

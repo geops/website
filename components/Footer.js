@@ -5,7 +5,7 @@ import Link from "./Link.js";
 export default function Footer() {
   const { t } = useI18n();
   return (
-    <div className="bg-gray-darker relative">
+    <div className="relative bg-gray-darker">
       <div className="container mx-auto px-8 py-4 text-gray-light">
         <Link href={t("imprint.path")}>
           <a className="hover:text-green">{t("imprint.title")}</a>

@@ -8,13 +8,13 @@ export default function RelatedListItem({ dark, item }) {
   return (
     <Link href={`/${item.collection}/${item.slug}`}>
       <a
-        className="break-words group min-w-0"
+        className="group min-w-0 break-words"
         data-rank-age={item.rank.age}
         data-rank-col={item.rank.col}
         data-rank-tag={item.rank.tag}
       >
         {item.cover && (
-          <div className="hidden lg:block aspect-w-4 aspect-h-3 mb-4 overflow-hidden rounded">
+          <div className="aspect-w-4 aspect-h-3 mb-4 hidden overflow-hidden rounded lg:block">
             <Image
               alt={`${item.title} Cover`}
               className="object-cover transition duration-300 group-hover:scale-110"
@@ -30,12 +30,12 @@ export default function RelatedListItem({ dark, item }) {
         <h3 className="mb-4 mt-2">{item.title}</h3>
         <p>{item.summary}</p>
         <div
-          className={`flex items-center mt-4 ${
+          className={`mt-4 flex items-center ${
             dark ? "text-green" : "text-blue"
           }`}
         >
           <div>{t("website.readMore")}</div>
-          <div className="w-6 ml-2 mt-1 transition duration-300 group-hover:translate-x-2">
+          <div className="ml-2 mt-1 w-6 transition duration-300 group-hover:translate-x-2">
             <CaretIcon direction="right" />
           </div>
         </div>

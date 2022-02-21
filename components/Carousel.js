@@ -32,7 +32,7 @@ export default function Carousel({ slides }) {
           <CarouselKeyboardNavigation />
           <Slider
             aria-label="Slider"
-            className="bg-gray-darker h-screen overflow-hidden relative"
+            className="relative h-screen overflow-hidden bg-gray-darker"
             classNameAnimation="transition ease-in-out duration-1000"
           >
             {slides.map((slide) => (
@@ -52,7 +52,7 @@ export default function Carousel({ slides }) {
                       <div className="lg:hidden">
                         <Image
                           alt={slide.title}
-                          className="object-cover h-full w-full"
+                          className="h-full w-full object-cover"
                           layout="fill"
                           priority
                           src={slide.imageMobile}
@@ -62,21 +62,21 @@ export default function Carousel({ slides }) {
                     <div className={slide.imageMobile ? "hidden lg:block" : ""}>
                       <Image
                         alt={slide.title}
-                        className="object-cover h-full w-full"
+                        className="h-full w-full object-cover"
                         layout="fill"
                         priority
                         src={slide.image}
                       />
                     </div>
-                    <div className="absolute inset-0 flex flex-col space-y-8 items-center justify-center mx-4">
+                    <div className="absolute inset-0 mx-4 flex flex-col items-center justify-center space-y-8">
                       <div
                         data-cy="pageMainTitle"
-                        className="break-words text-white text-center max-w-screen-sm md:leading-normal leading-normal text-shadow -mt-32 lg:-mt-16 font-black text-4xl md:text-5xl"
+                        className="text-shadow -mt-32 max-w-screen-sm break-words text-center text-4xl font-black leading-normal text-white md:text-5xl md:leading-normal lg:-mt-16"
                       >
                         {slide.title}
                       </div>
                       {slide.summary && (
-                        <h2 className="max-w-screen-sm text-center text-xl text-white text-shadow">
+                        <h2 className="text-shadow max-w-screen-sm text-center text-xl text-white">
                           {slide.summary}
                         </h2>
                       )}
@@ -89,10 +89,10 @@ export default function Carousel({ slides }) {
               </Slide>
             ))}
           </Slider>
-          <DotGroup className="absolute right-8 bottom-32 text-white font-bold hidden lg:block" />
+          <DotGroup className="absolute right-8 bottom-32 hidden font-bold text-white lg:block" />
           <button
             aria-label={t("website.down")}
-            className="absolute w-16 bottom-32 left-1/2 focus:ring-0 text-white -ml-8 animate-pulse"
+            className="absolute bottom-32 left-1/2 -ml-8 w-16 animate-pulse text-white focus:ring-0"
             onClick={() =>
               window.scroll({
                 top: containerRef.current.clientHeight,

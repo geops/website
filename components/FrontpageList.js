@@ -5,7 +5,7 @@ export default function FrontpageList({ items }) {
   const { t } = useI18n();
   return (
     <div className="bg-gray-darker text-gray-lighter">
-      <div className="container mx-auto px-8 pb-16 md:pb-24 space-y-32 md:space-y-48 xl:space-y-64">
+      <div className="container mx-auto space-y-32 px-8 pb-16 md:space-y-48 md:pb-24 xl:space-y-64">
         <h2 className="-mb-16 text-center text-5xl">
           {t("frontpage.listTitle")}
         </h2>

@@ -48,7 +48,7 @@ export default function Share() {
   const router = useRouter();
 
   return (
-    <ul className="relative xl:absolute flex flex-row xl:flex-col items-center xl:justify-center px-8 xl:px-0 xl:-mx-16 xl:mt-16 ">
+    <ul className="relative flex flex-row items-center px-8 xl:absolute xl:-mx-16 xl:mt-16 xl:flex-col xl:justify-center xl:px-0 ">
       {socialMedia.map(({ icon, href, title }) => (
         <li
           key={title}

@@ -49,7 +49,7 @@ export default function Contact() {
   const { t } = useI18n();
   const goTop = () => window.scroll({ top: 0, behavior: "smooth" });
   return (
-    <div className="bg-gray-dark text-gray-light relative">
+    <div className="relative bg-gray-dark text-gray-light">
       <button
         aria-label={t("website.up")}
         onClick={goTop}
@@ -57,7 +57,7 @@ export default function Contact() {
       >
         <CaretIcon direction="top" />
       </button>
-      <div className="container mx-auto px-8 py-16 md:py-24 md:flex justify-between">
+      <div className="container mx-auto justify-between px-8 py-16 md:flex md:py-24">
         <h2 className="text-4xl font-bold">{t("contact.title")}</h2>
         <div className="mt-8 md:mt-0">
           <strong>geOps AG</strong> <br />

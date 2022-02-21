@@ -23,7 +23,7 @@ export default function Circle({ children, delay = "0", size = "large" }) {
 
   return (
     <div
-      className={`bg-orange-dark rounded-full flex flex-col flex-wrap justify-center content-center mx-auto text-white font-bold text-center duration-1000 ${delays[delay]} ${sizes[size]}`}
+      className={`mx-auto flex flex-col flex-wrap content-center justify-center rounded-full bg-orange-dark text-center font-bold text-white duration-1000 ${delays[delay]} ${sizes[size]}`}
       ref={circleRef}
     >
       {children}

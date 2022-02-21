@@ -19,7 +19,7 @@
 }
 
 body {
-  @apply leading-9 text-lg;
+  @apply text-lg leading-9;
   font-family: "Lato";
 }
 
@@ -29,17 +29,17 @@ button:focus {
 
 h1,
 .prose h1 {
-  @apply font-black leading-snug text-4xl md:text-5xl;
+  @apply text-4xl font-black leading-snug md:text-5xl;
 }
 h2 {
-  @apply font-extrabold text-3xl;
+  @apply text-3xl font-extrabold;
 }
 h3 {
-  @apply font-extrabold text-2xl;
+  @apply text-2xl font-extrabold;
 }
 
 .prose a {
-  @apply no-underline text-blue hover:text-blue-light;
+  @apply text-blue no-underline hover:text-blue-light;
 }
 .prose h2 {
   @apply text-2xl;
@@ -50,7 +50,7 @@ h3 {
 .prose p,
 .prose ol,
 .prose ul {
-  @apply leading-9 text-lg;
+  @apply text-lg leading-9;
 }
 .prose ul {
   @apply pl-2;
@@ -72,10 +72,10 @@ h3 {
 }
 
 .block-desktop {
-  @apply w-full mx-auto hidden lg:block;
+  @apply mx-auto hidden w-full lg:block;
 }
 .block-mobile {
-  @apply w-full mx-auto lg:hidden;
+  @apply mx-auto w-full lg:hidden;
 }
 
 .link-text-green a {
@@ -88,7 +88,7 @@ h3 {
 #team::before,
 #tech::before {
   content: "";
-  @apply block -mt-32 h-32 invisible;
+  @apply invisible -mt-32 block h-32;
 }
 
 /* Start purging... */

@@ -49,23 +49,23 @@ export default function Header({ translationPath }) {
   return (
     <>
       <div className="h-16 lg:h-28" ref={placeholderRef} />
-      <div className="fixed bg-white border-blue border-b-4 top-0 w-full z-30">
+      <div className="fixed top-0 z-30 w-full border-b-4 border-blue bg-white">
         <div
-          className={`container mx-auto flex items-center justify-between h-16 transition-all ${styles.headerContainer}`}
+          className={`container mx-auto flex h-16 items-center justify-between transition-all ${styles.headerContainer}`}
           ref={headerContainer}
         >
           <WebsiteLink href="/">
             <a
               data-cy="headerLogo"
               aria-label="geOps Logo"
-              className="h-2/5 ml-8"
+              className="ml-8 h-2/5"
             >
               <GeopsIcon className="h-full" />
             </a>
           </WebsiteLink>
           <button
             data-cy="menuButton"
-            className="lg:hidden text-blue pr-8 w-16"
+            className="w-16 pr-8 text-blue lg:hidden"
             onClick={() => setMenuOpen(true)}
           >
             <MenuIcon />
@@ -73,26 +73,26 @@ export default function Header({ translationPath }) {
           {/* -------- Mobile Navigation -------- */}
           <div
             data-cy="menuListMobile"
-            className={`fixed inset-0 h-full w-screen bg-gray-dark overflow-scroll lg:hidden transition-all duration-500 ${
-              menuOpen ? "opacity-100" : "left-32 opacity-0 pointer-events-none"
+            className={`fixed inset-0 h-full w-screen overflow-scroll bg-gray-dark transition-all duration-500 lg:hidden ${
+              menuOpen ? "opacity-100" : "pointer-events-none left-32 opacity-0"
             }`}
           >
-            <div className="container mx-auto flex flex-col h-full">
-              <div className="flex-none flex items-center justify-between h-16">
+            <div className="container mx-auto flex h-full flex-col">
+              <div className="flex h-16 flex-none items-center justify-between">
                 <WebsiteLink href="/">
-                  <a className="h-1/2 ml-8" onClick={() => setMenuOpen(false)}>
+                  <a className="ml-8 h-1/2" onClick={() => setMenuOpen(false)}>
                     <GeopsIcon className="h-full" white />
                   </a>
                 </WebsiteLink>
                 <button
-                  className="text-green pr-8 w-16"
+                  className="w-16 pr-8 text-green"
                   onClick={() => setMenuOpen(false)}
                 >
                   <CloseIcon />
                 </button>
               </div>
-              <div className="flex flex-col justify-between flex-grow">
-                <ul className="divide-y divide-gray font-bold mt-8 mx-8 text-white text-2xl">
+              <div className="flex flex-grow flex-col justify-between">
+                <ul className="mx-8 mt-8 divide-y divide-gray text-2xl font-bold text-white">
                   {menu.map((item) => (
                     <li className="relative" key={item.href}>
                       <WebsiteLink href={item.href}>
@@ -139,7 +139,7 @@ export default function Header({ translationPath }) {
                   ))}
                 </ul>
                 {/* -------- Mobile Translation Navigation -------- */}
-                <div className="border-gray border-t mx-8 py-4 space-x-2 text-gray-light text-right">
+                <div className="mx-8 space-x-2 border-t border-gray py-4 text-right text-gray-light">
                   {language === "de" ? (
                     <strong>DE</strong>
                   ) : (
@@ -156,14 +156,14 @@ export default function Header({ translationPath }) {
             </div>
           </div>
           {/* -------- Desktop Navigation -------- */}
-          <div data-cy="menuListDesktop" className="hidden lg:flex h-full">
-            <ul className="flex text-blue pr-4">
+          <div data-cy="menuListDesktop" className="hidden h-full lg:flex">
+            <ul className="flex pr-4 text-blue">
               {menu.map(({ active, href, title }) => (
-                <li className="flex group relative" key={href}>
+                <li className="group relative flex" key={href}>
                   <WebsiteLink href={href}>
                     <a
-                      className={`flex items-center px-8 mt-1 pb-1 ${
-                        active ? "text-green-light border-b-4" : ""
+                      className={`mt-1 flex items-center px-8 pb-1 ${
+                        active ? "border-b-4 text-green-light" : ""
                       }`}
                     >
                       {title}
@@ -172,11 +172,11 @@ export default function Header({ translationPath }) {
                   {/* -------- Desktop About Navigation -------- */}
                   {href === "/about" && (
                     <ul
-                      className={`${styles.aboutNavigation} absolute bg-white border-gray-lighter border divide-y divide-gray-lighter left-1/2 -translate-x-1/2 rounded-b hidden group-hover:block`}
+                      className={`${styles.aboutNavigation} absolute left-1/2 hidden -translate-x-1/2 divide-y divide-gray-lighter rounded-b border border-gray-lighter bg-white group-hover:block`}
                     >
                       {aboutMenu.map((aboutItem) => (
                         <li
-                          className="relative whitespace-nowrap hover:bg-gray-lighter transition duration-300 ease-in-out"
+                          className="relative whitespace-nowrap transition duration-300 ease-in-out hover:bg-gray-lighter"
                           key={aboutItem.href}
                         >
                           <WebsiteLink href={aboutItem.href}>
@@ -191,7 +191,7 @@ export default function Header({ translationPath }) {
             </ul>
             {/* -------- Desktop Translation Navigation -------- */}
             <div className="flex items-center">
-              <div className="border-gray-lighter border-l space-x-2 h-8 px-8 mb-1 text-gray">
+              <div className="mb-1 h-8 space-x-2 border-l border-gray-lighter px-8 text-gray">
                 {language === "de" ? (
                   <strong>DE</strong>
                 ) : (

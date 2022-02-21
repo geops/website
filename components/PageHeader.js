@@ -19,7 +19,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
           {src && (
             <Image
               alt={`${title} Cover`}
-              className="object-cover w-full"
+              className="w-full object-cover"
               data-cy="pageHeaderImage"
               layout="fill"
               src={src}
@@ -29,7 +29,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
             <div className="lg:hidden">
               <Image
                 alt={`${title} Cover`}
-                className="object-cover w-full"
+                className="w-full object-cover"
                 layout="fill"
                 src={srcMobile}
               />
@@ -37,18 +37,18 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
           )}
         </div>
         <div
-          className={`container mx-auto px-8 text-center flex flex-col justify-center bottom-0 top-0 left-0 right-0 ${
+          className={`container bottom-0 top-0 left-0 right-0 mx-auto flex flex-col justify-center px-8 text-center ${
             titleDown === undefined &&
             src &&
             srcMobile &&
-            "absolute text-white text-shadow"
+            "text-shadow absolute text-white"
           }`}
         >
           <h1
             data-cy="pageMainTitle"
             className={`${
               titleDown || (!src && !srcMobile)
-                ? "lg:text-gray-darker lg:text-shadow-none mt-8"
+                ? "lg:text-shadow-none mt-8 lg:text-gray-darker"
                 : ""
             } mx-auto max-w-screen-lg`}
           >

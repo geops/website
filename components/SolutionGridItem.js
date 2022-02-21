@@ -28,13 +28,13 @@ export default function SolutionGridItem({ position, remaining, solution }) {
   return (
     <Link href={`/solution/${solution.slug}`}>
       <a
-        className={`${sectionClassName} flex group justify-between overflow-hidden rounded transition-all duration-500 hover:p-2 hover:-m-2 relative`}
+        className={`${sectionClassName} group relative flex justify-between overflow-hidden rounded transition-all duration-500 hover:-m-2 hover:p-2`}
         style={{ backgroundColor: solution.color, color }}
       >
-        <div className="flex flex-col justify-between m-4 sm:m-8">
+        <div className="m-4 flex flex-col justify-between sm:m-8">
           <div className="mb-4">
             {solution.logo && (
-              <div className="h-16 mb-4 relative">
+              <div className="relative mb-4 h-16">
                 <Image
                   alt={`${solution.title} Logo`}
                   className="h-full object-contain object-left"
@@ -43,11 +43,11 @@ export default function SolutionGridItem({ position, remaining, solution }) {
                 />
               </div>
             )}
-            <h2 className="break-words mb-4">{solution.title}</h2>
+            <h2 className="mb-4 break-words">{solution.title}</h2>
             <div>{solution.summary}</div>
           </div>
           <div
-            className="group-hover:translate-x-4 transition-all duration-500 w-8"
+            className="w-8 transition-all duration-500 group-hover:translate-x-4"
             data-testid="more"
           >
             <MoreIcon />
@@ -59,7 +59,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
             <div className={`${imageInnerContainerClassName}`}>
               <Image
                 alt={`${solution.title} Teaser`}
-                className="object-contain object-right w-full h-full"
+                className="h-full w-full object-contain object-right"
                 layout="responsive"
                 src={solution.gridImage}
                 height={solution.imageSizes[solution.gridImage].height}

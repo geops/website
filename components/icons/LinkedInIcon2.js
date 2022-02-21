@@ -5,7 +5,7 @@ export default function LinkedInIcon({ className }) {
       width="21.074"
       height="21.036"
       viewBox="0 0 21.074 21.036"
-      className={`fill-current h-6 ${className}`}
+      className={`h-6 fill-current ${className}`}
     >
       <g transform="translate(-210.188 -471.208)">
         <g transform="translate(210.188 471.208)">

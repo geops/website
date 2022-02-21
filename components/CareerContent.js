@@ -8,7 +8,7 @@ import CheckmarkCircleIcon from "./icons/CheckmarkCircleIcon.js";
 export default function CareerContent({ content }) {
   const { t } = useI18n();
   return (
-    <div className="mx-auto p-8 prose prose-xl max-w-screen-lg">
+    <div className="prose prose-xl mx-auto max-w-screen-lg p-8">
       <h2>{content.summaryTitle}</h2>
       <p className="pb-16">{content.summary}</p>
       <h2 className="pb-4">{content.offerTitle}</h2>

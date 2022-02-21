@@ -14,13 +14,13 @@ export default function FrontpageListItem({ item, side }) {
   const { t } = useI18n();
   return (
     <div
-      className={`flex flex-col-reverse md:flex-row items-center my-32 md:my-64 md:space-x-16 ${
+      className={`my-32 flex flex-col-reverse items-center md:my-64 md:flex-row md:space-x-16 ${
         side === "left" && "md:flex-row-reverse md:space-x-reverse"
       }`}
       style={scrollSnapStyle}
     >
-      <div className="mt-8 md:mt-0 w-full md:w-1/2">
-        <h3 className="font-extrabold text-3xl">
+      <div className="mt-8 w-full md:mt-0 md:w-1/2">
+        <h3 className="text-3xl font-extrabold">
           {item.frontpageTitle || item.title}
         </h3>
         <p className="my-8">{item.summary}</p>

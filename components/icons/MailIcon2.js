@@ -5,7 +5,7 @@ export default function MailIcon({ className }) {
       width="26.385"
       height="21.108"
       viewBox="0 0 26.385 21.108"
-      className={`fill-current h-6 ${className}`}
+      className={`h-6 fill-current ${className}`}
     >
       <g transform="translate(-2.639 -5.277)">
         <path
