@@ -1,12 +1,89 @@
 @tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @import "highlight.js/styles/stackoverflow-dark.css";
 
-/* Start purging... */
-@tailwind components;
-/* Stop purging. */
+@layer base {
+  body {
+    @apply text-lg leading-9;
+    font-family: "Lato";
+  }
 
-@responsive {
+  button:focus {
+    @apply outline-none;
+  }
+
+  h1 {
+    @apply text-4xl font-black leading-snug md:text-5xl;
+  }
+  h2 {
+    @apply text-3xl font-extrabold;
+  }
+  h3 {
+    @apply text-2xl font-extrabold;
+  }
+}
+
+@layer components {
+  .prose a {
+    @apply text-blue no-underline hover:text-blue-light;
+  }
+  .prose h1 {
+    @apply text-4xl font-black leading-snug md:text-5xl;
+  }
+  .prose h2 {
+    @apply text-2xl;
+  }
+  .prose h3 {
+    @apply text-xl;
+  }
+  .prose p,
+  .prose ol,
+  .prose ul {
+    @apply text-lg leading-9;
+  }
+  .prose ul {
+    @apply pl-2;
+    list-style-type: ">";
+  }
+  .prose ul > li {
+    @apply pl-2;
+  }
+  .prose ul > li::before {
+    @apply hidden;
+  }
+  .prose ul > li::marker {
+    @apply text-green;
+  }
+
+  /* Show disc for lists in Netlify CMS. */
+  .cms-editor-visual ul {
+    @apply list-disc;
+  }
+
+  .block-desktop {
+    @apply mx-auto hidden w-full lg:block;
+  }
+  .block-mobile {
+    @apply mx-auto w-full lg:hidden;
+  }
+
+  .link-text-green a {
+    @apply text-green;
+  }
+
+  /* Scroll offset for navigation anchors to avoid header from covering the anchor. */
+  #we::before,
+  #work::before,
+  #team::before,
+  #tech::before {
+    content: "";
+    @apply invisible -mt-32 block h-32;
+  }
+}
+
+@layer utilities {
   .text-shadow {
     text-shadow: 0 0 10px black;
   }
@@ -17,80 +94,3 @@
     text-shadow: none;
   }
 }
-
-body {
-  @apply text-lg leading-9;
-  font-family: "Lato";
-}
-
-button:focus {
-  @apply outline-none;
-}
-
-h1,
-.prose h1 {
-  @apply text-4xl font-black leading-snug md:text-5xl;
-}
-h2 {
-  @apply text-3xl font-extrabold;
-}
-h3 {
-  @apply text-2xl font-extrabold;
-}
-
-.prose a {
-  @apply text-blue no-underline hover:text-blue-light;
-}
-.prose h2 {
-  @apply text-2xl;
-}
-.prose h3 {
-  @apply text-xl;
-}
-.prose p,
-.prose ol,
-.prose ul {
-  @apply text-lg leading-9;
-}
-.prose ul {
-  @apply pl-2;
-  list-style-type: ">";
-}
-.prose ul > li {
-  @apply pl-2;
-}
-.prose ul > li::before {
-  @apply hidden;
-}
-.prose ul > li::marker {
-  @apply text-green;
-}
-
-/* Show disc for lists in Netlify CMS. */
-.cms-editor-visual ul {
-  @apply list-disc;
-}
-
-.block-desktop {
-  @apply mx-auto hidden w-full lg:block;
-}
-.block-mobile {
-  @apply mx-auto w-full lg:hidden;
-}
-
-.link-text-green a {
-  @apply text-green;
-}
-
-/* Scroll offset for navigation anchors to avoid header from covering the anchor. */
-#we::before,
-#work::before,
-#team::before,
-#tech::before {
-  content: "";
-  @apply invisible -mt-32 block h-32;
-}
-
-/* Start purging... */
-@tailwind utilities;
-/* Stop purging. */
