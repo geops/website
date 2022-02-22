@@ -1,8 +1,4 @@
 module.exports = {
-  future: {
-    strictPostcssConfiguration: true,
-  },
-
   async redirects() {
     return redirects.split("\n").map((redirect) => {
       const [source, destination] = redirect.split(" ");

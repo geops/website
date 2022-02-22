@@ -1,5 +1,9 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"]
+}
+
 class WebsiteDocument extends Document {
   render() {
     return (
