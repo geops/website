@@ -1,9 +1,6 @@
 const { withSentryConfig } = require("@sentry/nextjs");
 
 const nextConfig = {
-  future: {
-    strictPostcssConfiguration: true,
-  },
 
   async redirects() {
     return redirects.split("\n").map((redirect) => {
