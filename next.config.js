@@ -1,5 +1,3 @@
-const { withSentryConfig } = require("@sentry/nextjs");
-
 const nextConfig = {
   future: {
     strictPostcssConfiguration: true,
@@ -13,9 +11,7 @@ const nextConfig = {
   },
 };
 
-module.exports = process.env.SENTRY_PROJECT
-  ? withSentryConfig(nextConfig, { silent: true })
-  : nextConfig;
+module.exports = nextConfig;
 
 // Redirects from old Drupal website to Next.js based website.
 const redirects = `/node/6 /en/imprint
