@@ -3,10 +3,9 @@ title: Plans for public Transport
 summary: mapset allows easy creation of clear and visually appealing plans for
   public transport concerns.
 cover: /images/solution/mapset/mapset_teaser_startseite.png
-pageCover: /images/solution/mapset/mapset_solutions.png
-pageCoverMobile: /images/solution/mapset/header_mapset_mobil.png
+pageCover: /images/solution/mapset/mapset_headerbild_1.png
+pageCoverMobile: /images/solution/mapset/mobile_mapset_4.png
 slug: mapset
-color: "#1789C9"
 contactEmail: support@mapset.ch
 contactSubtitle: >-
   We will keep you up to date on the latest news via our Twitter accounts
@@ -23,11 +22,11 @@ tags:
   - mapset
   - passengerinformation
   - railreplacement
-  - maps
 frontpage: true
 frontpageTitle: mapset
 frontpageImage: /images/solution/mapset/mapset_teaser_startseite.png
 frontpageWeight: 1
+color: "#1789C9"
 gridImage: /images/solution/mapset/mapset_cover.png
 logo: /images/solution/mapset/Mapset_Logo.svg
 published: true
