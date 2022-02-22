@@ -6,24 +6,21 @@ import PointerCircleIcon from "./icons/PointerCircleIcon.js";
 import { useI18n } from "../lib/i18n";
 
 const newsletterFormEndpoint =
-  "https://geops.us4.list-manage.com/subscribe/post?u=23161055bb6a407f7e6c00038&amp;id=c9694280f7";
+  "https://geops.us4.list-manage.com/subscribe/post-json?u=23161055bb6a407f7e6c00038&id=c9694280f7";
 
 export default function NewsletterForm({ translations }) {
   const refHeader = createRef();
+  const [email, setEmail] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const { language } = useI18n();
 
   const handleSubmit = async (event) => {
     event.preventDefault();
     refHeader.current.scrollIntoView({ behavior: "smooth" });
-    try {
-      await fetch(newsletterFormEndpoint, {
-        body: new FormData(event.target),
-        method: "POST",
-        mode: "no-cors",
-      });
-      setSubmitted(true);
-    } catch (error) {}
+    await fetch(`${newsletterFormEndpoint}&EMAIL=${email}&c=?`, {
+      mode: "no-cors",
+    });
+    setSubmitted(true);
   };
 
   return (
@@ -54,6 +51,10 @@ export default function NewsletterForm({ translations }) {
           <label className="block">
             {translations.email}*
             <input
+              autoCapitalize="off"
+              autoCorrect="off"
+              onChange={(e) => setEmail(e.target.value)}
+              value={email}
               type="email"
               className="block h-14 w-full rounded border-2 border-gray-light focus:border-blue focus:ring-0"
               required

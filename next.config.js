@@ -1,15 +1,20 @@
-module.exports = {
-  future: {
-    strictPostcssConfiguration: true,
-  },
+const { withSentryConfig } = require("@sentry/nextjs");
 
-  async redirects() {
-    return redirects.split("\n").map((redirect) => {
-      const [source, destination] = redirect.split(" ");
-      return { source, destination, permanent: true };
-    });
+module.exports = withSentryConfig(
+  {
+    future: {
+      strictPostcssConfiguration: true,
+    },
+
+    async redirects() {
+      return redirects.split("\n").map((redirect) => {
+        const [source, destination] = redirect.split(" ");
+        return { source, destination, permanent: true };
+      });
+    },
   },
-};
+  { silent: true }
+);
 
 // Redirects from old Drupal website to Next.js based website.
 const redirects = `/node/6 /en/imprint
