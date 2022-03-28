@@ -15,6 +15,10 @@ const TechnologyCarousel = dynamic(
   { ssr: false }
 );
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"]
+}
+
 export default function About({ content, team, technologies }) {
   return (
     <Layout description={content.we1} translationPath="/about">

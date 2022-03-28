@@ -9,6 +9,10 @@ import getContentList from "../../lib/getContentList";
 import getContentBySlug from "../../lib/getContentBySlug";
 import getRelatedContentList from "../../lib/getRelatedContentList";
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"]
+}
+
 export default function Solution({ related, solution }) {
   if (!solution) {
     return null;

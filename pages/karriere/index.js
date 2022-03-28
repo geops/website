@@ -7,6 +7,10 @@ import getContentItem from "../../lib/getContentItem";
 import getContentList from "../../lib/getContentList";
 import { useI18n } from "../../lib/i18n";
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"]
+}
+
 export default function Career({ content, jobs }) {
   const { t } = useI18n();
   return (
