@@ -18,6 +18,6 @@ Die Verwendung des NPM-Pakets ist in drei Schritten schnell erklärt:
 2. Das Export NPM-Script ergänzen: `next build && next export && next-nginx-routes`
 3. Die generierte Nginx-Konfigurationsdatei in der Haupt-Konfiguration einbinden.
 
-Alle drei Schritte sind in einem [kleinen Beispiel-Projekt](https://github.com/geops/next-nginx-routes/example) auf GitHub zu finden. 
+Alle drei Schritte sind in einem [kleinen Beispiel-Projekt](https://github.com/geops/next-nginx-routes/tree/main/example) auf GitHub zu finden. 
 
 Bisher haben wir diesen Ansatz erst in wenigen Projekten eingesetzt, daher sind nicht unbedingt alle Anwendungsfälle abgedeckt. In solchen Fällen freuen wir uns natürlich immer über Pull Requests.
