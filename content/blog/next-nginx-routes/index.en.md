@@ -3,6 +3,7 @@ title: Next.js routing with Nginx
 summary: Automatically generate a Nginx routing configuration for static Next.js
   projects.
 author: Friedjoff Trautwein
+cover: /images/blog/next-js-routing-with-nginx/next-nginx-cover.png
 created: 2022-03-28
 slug: next-nginx-routes
 tags:
