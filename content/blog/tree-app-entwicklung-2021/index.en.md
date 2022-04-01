@@ -10,7 +10,6 @@ slug: tree-app-entwicklung-2021
 tags:
   - treeapp
   - environment
-  - javascript
 published: true
 ---
 ## Mehr Daten für eine schnellere Empfehlung
