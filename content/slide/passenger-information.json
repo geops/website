@@ -1,12 +1,10 @@
 {
   "en": {
     "title": "Reliable passenger information for public transport",
-    "summary": "",
-    "image": "/images/slide/components-for-precise-information-on-passengers-journey/fahrgastinformation.jpg",
+    "image": "/images/slide/passenger-information.jpg",
     "weight": 5
   },
   "de": {
-    "title": "Zuverlässige Reisendeninformation im öffentlichen Verkehr",
-    "summary": ""
+    "title": "Zuverlässige Reisendeninformation im öffentlichen Verkehr"
   }
 }
