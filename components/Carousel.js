@@ -25,7 +25,7 @@ export default function Carousel({ slides }) {
         <CarouselProvider
           className={`${styles.carousel}`}
           infinite
-          // isPlaying
+          isPlaying
           lockOnWindowScroll
           naturalSlideWidth={1600}
           naturalSlideHeight={1200}
