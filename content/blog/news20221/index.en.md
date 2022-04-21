@@ -98,6 +98,6 @@ Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten bei geOps auf
 
 Interessieren Sie sich speziell für mapset? Dann empfehlen wir Ihnen, zusätzlich unseren [mapset-Newsletter](https://geops.sh/mapset) zu abonnieren.
 
-Wenn Sie Fragen haben oder eine persönliche Beratung wünschen, zögern Sie bitte nicht und nehmen Sie mit uns Kontakt auf.\
- \
+Wenn Sie Fragen haben oder eine persönliche Beratung wünschen, zögern Sie bitte nicht und nehmen Sie mit uns Kontakt auf.
+
 Wir freuen uns auf Ihre Fragen und Reaktionen.
