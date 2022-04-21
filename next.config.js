@@ -1,7 +1,6 @@
 const { withSentryConfig } = require("@sentry/nextjs");
 
 const nextConfig = {
-
   async redirects() {
     return redirects.split("\n").map((redirect) => {
       const [source, destination] = redirect.split(" ");

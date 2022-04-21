@@ -3,14 +3,16 @@
   @apply p-1;
 }
 .carousel :global .carousel__dot::before {
-  content: "○";
+  content: "●";
+  text-shadow: 0 0 10px black;
 }
 .carousel :global .carousel__dot--selected::before {
-  content: "●";
+  content: "⦿";
+  font-size: 2rem;
 }
 
 .intersectionContainer {
-  @apply h-screen;
+  height: 70vh;
 }
 
 .intersectionContainer:global(.noo + div) {

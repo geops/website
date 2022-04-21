@@ -2,16 +2,18 @@ import dynamic from "next/dynamic";
 import Image from "next/image";
 import { CarouselProvider, DotGroup, Slider, Slide } from "pure-react-carousel";
 import { useRef } from "react";
+import "pure-react-carousel/dist/react-carousel.es.css";
+
 import { useI18n } from "../lib/i18n";
 import useIntersectionOberserver from "../lib/useIntersectionOberserver";
 import Button from "./Button.js";
-import CaretIcon from "./icons/CaretIcon.js";
-import "pure-react-carousel/dist/react-carousel.es.css";
 import styles from "./Carousel.module.css";
+
 const CarouselKeyboardNavigation = dynamic(
   () => import("./CarouselKeyboardNavigation"),
   { ssr: false }
 );
+
 export default function Carousel({ slides }) {
   const { t } = useI18n();
   const containerRef = useRef(null);
@@ -68,15 +70,15 @@ export default function Carousel({ slides }) {
                         src={slide.image}
                       />
                     </div>
-                    <div className="absolute inset-0 mx-4 flex flex-col items-center justify-center space-y-8">
+                    <div className="absolute flex flex-col space-y-8 lg:items-end mt-8 lg:mt-16 inset-x-8 lg:inset-x-16">
                       <div
                         data-cy="pageMainTitle"
-                        className="text-shadow -mt-32 max-w-screen-sm break-words text-center text-4xl font-black leading-normal text-white md:text-5xl md:leading-normal lg:-mt-16"
+                        className="break-words text-white lg:text-right max-w-screen-sm md:leading-normal leading-normal text-shadow font-black text-4xl md:text-5xl"
                       >
                         {slide.title}
                       </div>
                       {slide.summary && (
-                        <h2 className="text-shadow max-w-screen-sm text-center text-xl text-white">
+                        <h2 className="max-w-screen-sm text-right text-xl text-white text-shadow">
                           {slide.summary}
                         </h2>
                       )}
@@ -89,19 +91,7 @@ export default function Carousel({ slides }) {
               </Slide>
             ))}
           </Slider>
-          <DotGroup className="absolute right-8 bottom-32 hidden font-bold text-white lg:block" />
-          <button
-            aria-label={t("website.down")}
-            className="absolute bottom-32 left-1/2 -ml-8 w-16 animate-pulse text-white focus:ring-0"
-            onClick={() =>
-              window.scroll({
-                top: containerRef.current.clientHeight,
-                behavior: "smooth",
-              })
-            }
-          >
-            <CaretIcon direction="bottom" />
-          </button>
+          <DotGroup className="absolute right-4 top-1/2 -mt-36 lg:-mt-28 flex flex-col text-white font-bold" />
         </CarouselProvider>
       </div>
     </div>

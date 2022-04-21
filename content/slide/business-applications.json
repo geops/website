@@ -1,12 +1,10 @@
 {
   "en": {
     "title": "Intuitive and effective applications for your business case",
-    "summary": "",
-    "image": "/images/slide/business-applications/business_solutions.jpg",
+    "image": "/images/slide/business-applications.jpg",
     "weight": 3
   },
   "de": {
-    "title": "Effektive und intuitive Apps für Ihren Business Case",
-    "summary": ""
+    "title": "Effektive und intuitive Apps für Ihren Business Case"
   }
 }
