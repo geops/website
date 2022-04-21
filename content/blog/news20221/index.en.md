@@ -7,7 +7,7 @@ author: Uli Müller
 cover: /images/blog/geops-news-i-2022/newsi2002.png
 created: 2022-04-21
 slug: news20221
-frontpage: true
+frontpage: false
 published: true
 ---
 <!--StartFragment-->
