@@ -1,6 +1,6 @@
 ---
 title: geOps News I/2022
-summary: News zu Weiter­ent­wick­lungen unserer Produkte und zu anstehenden Events.
+summary: News zu unseren Produkte und Projekten sowie zu den nächsten Events.
 author: Uli Müller
 cover: /images/blog/geops-news-i-2022/newsi2002.png
 created: 2022-04-21
@@ -8,8 +8,6 @@ slug: news20221
 frontpage: false
 published: true
 ---
-<!--StartFragment-->
-
 Liebe Leserinnen und Leser
 
 In unserem aktuellen Newsletter stellen wir Ihnen die neuesten Weiter­ent­wick­lungen unserer Produkte vor und informieren Sie über spannende Projekte.
@@ -18,11 +16,7 @@ Erfahren Sie ausserdem, an welchen Messen Sie uns in diesem Jahr antreffen werde
 
 Viel Freude beim Lesen!
 
-<!--EndFragment-->
-
-
-
-<!--StartFragment-->
+![](/images/blog/geops-news-i-2022/newsletter20221_01.jpg)
 
 Unser [mobility-portal](https://mobility.portal.geops.io/world.geops.transit?baselayers=world.geops.travic,ch.sbb.netzkarte,ch.sbb.netzkarte.dark,world.geops.aerial&lang=en&layers=paerke,strassennamen,haltekanten,haltestellen,pois,world.geops.traviclive) ist ein Schaufenster für viele Karten und Pläne des öffentlichen Verkehrs. Wir haben das Portal in den letzten Monaten laufend angepasst und mit neuen Kartenthemen ergänzt.
 
@@ -31,5 +25,3 @@ Wir freuen uns besonders, dass unser weltweiter öV-Tracker im Portal integriert
 Selbstverständlich können wir für die spezifischen Anforderungen eines Unternehmens auch eigenständige Instanzen des Trackers zur Verfügung stellen, in denen die Fahrzeuge anderer Unternehmen ausgeblendet werden, oder in denen eine zum Corporate Design des Unternehmens passende Darstellung umgesetzt wird.
 
 Im mobility-portal ist auch unsere neue Satellitenkarte als Hintergrund inte­griert. Wie bei unseren Standardkarten werden auch bei der Satellitenkarte wichtige Daten des öffentlichen Verkehrs, insbesondere Bahnlinien und Haltestellen, angezeigt.
-
-<!--EndFragment-->
