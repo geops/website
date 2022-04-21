@@ -1,13 +1,10 @@
 {
   "en": {
     "title": "Comprehending, analyzing and presenting data",
-    "summary": "",
-    "image": "/images/slide/comprehending-analyzing-and-presenting-data/slider_bahn_n.jpg",
-    "imageMobile": "/images/slide/comprehending-analyzing-and-presenting-data/slider_s-bahn_mobil.png",
+    "image": "/images/slide/comprehending-analyzing-and-presenting-data.jpg",
     "weight": 4
   },
   "de": {
-    "title": "Daten verstehen, analysieren und präsentieren",
-    "summary": ""
+    "title": "Daten verstehen, analysieren und präsentieren"
   }
 }
