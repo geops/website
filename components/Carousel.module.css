@@ -4,6 +4,7 @@
 }
 .carousel :global .carousel__dot::before {
   content: "●";
+  text-shadow: 0 0 10px black;
 }
 .carousel :global .carousel__dot--selected::before {
   content: "⦿";

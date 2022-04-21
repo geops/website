@@ -91,7 +91,7 @@ export default function Carousel({ slides }) {
               </Slide>
             ))}
           </Slider>
-          <DotGroup className="absolute right-4 top-48 lg:top-64 flex flex-col text-white font-bold" />
+          <DotGroup className="absolute right-4 top-1/2 -mt-36 lg:-mt-28 flex flex-col text-white font-bold" />
         </CarouselProvider>
       </div>
     </div>
