@@ -1,5 +1,5 @@
 ---
-title: geOps News i/2022
+title: geOps News I/2022
 summary: In unserem aktuellen Newsletter stellen wir Ihnen die neuesten
   Weiter­ent­wick­lungen unserer Produkte vor und informieren Sie über spannende
   Projekte.
