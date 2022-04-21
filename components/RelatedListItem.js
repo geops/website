@@ -10,7 +10,6 @@ export default function RelatedListItem({ dark, item }) {
       <a
         className="group min-w-0 break-words"
         data-rank-age={item.rank.age}
-        data-rank-col={item.rank.col}
         data-rank-tag={item.rank.tag}
       >
         {item.cover && (
