@@ -25,7 +25,7 @@ export default function ApplicationTeaser({ jobs }) {
           {t("applicationTeaser.altText")}
         </p>
         <a
-          className="group text-shadow-white mt-8 flex items-center font-bold text-green"
+          className="text-shadow-white group mt-8 flex items-center font-bold text-green"
           href="mailto:karriere@geops.de"
         >
           {t("applicationTeaser.altAction")}

@@ -10,8 +10,8 @@ import getContentList from "../lib/getContentList";
 import { useI18n } from "../lib/i18n";
 
 export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"]
-}
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
 
 export default function Frontpage({ items, slides }) {
   const { t } = useI18n();

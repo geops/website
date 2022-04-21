@@ -16,8 +16,8 @@ const TechnologyCarousel = dynamic(
 );
 
 export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"]
-}
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
 
 export default function About({ content, team, technologies }) {
   return (
