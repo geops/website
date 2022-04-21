@@ -80,7 +80,7 @@ Vom 10. bis 12. Mai findet in der Messe in Karlsruhe wieder die [IT-Trans](http
 
 ### GEOSummit
 
-Am 1. Juni nehmen wir an der Ausstellung auf dem [GEOSummit](https://www.geosummit.ch/veranstaltungen-2022/ausstellung-1-juni-2022.html) teil. Der GEOSummit ist das Event der GIS-Branche in der Schweiz. Dieser Jahr ist der GEOSummit für uns besonders interessant, da auf der parallel stattfindenden Konferenz ein Schwerpunktthema der Mobilität gewidmet ist. Ausserdem findet der GEOSummit dieses Jahr an der Fachhochschule Nordwestschweiz in Olten statt, also direkt vor unseren Haustür. Wir freuen uns, wenn Sie anlässlich der Ausstellung einen Termin mit uns vereinbaren.
+Am 1. Juni nehmen wir an der Ausstellung auf dem [GEOSummit](https://www.geosummit.ch/veranstaltungen-2022/ausstellung-1-juni-2022.html) teil. Der GEOSummit ist das Event der GIS-Branche in der Schweiz. Dieses Jahr ist der GEOSummit für uns besonders interessant, da auf der parallel stattfindenden Konferenz ein Schwerpunktthema der Mobilität gewidmet ist. Ausserdem findet der GEOSummit dieses Jahr an der Fachhochschule Nordwestschweiz in Olten statt, also direkt vor unseren Haustür. Wir freuen uns, wenn Sie anlässlich der Ausstellung einen Termin mit uns vereinbaren.
 
 ![](/images/blog/geops-news-i-2022/newsletter20221_07.jpg)
 
@@ -96,6 +96,6 @@ Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten bei geOps auf
 
 Interessieren Sie sich speziell für mapset? Dann empfehlen wir Ihnen, zusätzlich unseren [mapset-Newsletter](https://geops.sh/mapset) zu abonnieren.
 
-Wenn Sie Fragen haben oder eine persönliche Beratung wünschen, zögern Sie bitte nicht und nehmen Sie mit uns Kontakt auf.\
- \
+Wenn Sie Fragen haben oder eine persönliche Beratung wünschen, zögern Sie bitte nicht und nehmen Sie mit uns Kontakt auf.
+
 Wir freuen uns auf Ihre Fragen und Reaktionen.
