@@ -5,7 +5,7 @@ summary: Du bist bereits Linux-Experte/in oder möchtest eine/r werden? Du kan
   von erfahrenen Entwicklern zu lernen? Dann komm zu uns ins Dreiländereck und
   arbeite gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen
   Mobilität und Umwelt.
-slug: fachinformatik-systemintegration
+slug: systemintegration
 created: 2022-04-25
 ---
 Du bist bereits Linux-Experte/in oder möchtest eine/r werden? Du kannst dich für moderne Open Source Technologien begeistern und freust dich darauf, von erfahrenen Entwicklern zu lernen? Dann komm zu uns ins Dreiländereck und arbeite gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) suchen wir eine/n Auszubildende/n als Fachinformatiker/-in (Systemintegration).
