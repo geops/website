@@ -10,8 +10,8 @@ import getContentList from "../../lib/getContentList";
 import { useI18n } from "../../lib/i18n";
 
 export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"]
-}
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
 
 export default function Job({ content, job }) {
   const { t } = useI18n();
@@ -26,12 +26,12 @@ export default function Job({ content, job }) {
       description={job.summary}
       translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
     >
-      <div className="hidden xl:block xl:sticky xl:top-4 mx-auto max-w-screen-lg">
+      <div className="mx-auto hidden max-w-screen-lg xl:sticky xl:top-4 xl:block">
         {/* > xl*/}
         <Share />
       </div>
       <Article body={job.body} title={job.title} />
-      <div className="xl:hidden mx-auto max-w-screen-lg">
+      <div className="mx-auto max-w-screen-lg xl:hidden">
         {/* < xl */}
         <Share />
       </div>

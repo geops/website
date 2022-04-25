@@ -8,9 +8,9 @@ export default function BlogListItem({ item }) {
   const created = new Date(item.created);
   return (
     <Link href={`/blog/${item.slug}`}>
-      <article className="container mx-auto lg:w-4/6 px-8 py-16 border-white border-b-2 flex items-center cursor-pointer group">
+      <article className="group container mx-auto flex cursor-pointer items-center border-b-2 border-white px-8 py-16 lg:w-4/6">
         {item.cover && (
-          <div className="hidden lg:block flex-none mr-8 xl:mr-16 h-64 w-64 xl:h-96 xl:w-96 relative rounded overflow-hidden bg-gray-darker">
+          <div className="relative mr-8 hidden h-64 w-64 flex-none overflow-hidden rounded bg-gray-darker lg:block xl:mr-16 xl:h-96 xl:w-96">
             <Image
               alt={`${item.title} Teaser`}
               className="object-cover"
@@ -19,19 +19,19 @@ export default function BlogListItem({ item }) {
             />
           </div>
         )}
-        <div className="break-words min-w-0">
+        <div className="min-w-0 break-words">
           <div className="text-gray">
             {created.toLocaleDateString(language)}
             <span> | </span>
             {item.readingTime} min {t("website.readingTime")}
           </div>
-          <h2 className="text-blue text-4xl font-bold my-4">
+          <h2 className="my-4 text-4xl font-bold text-blue">
             <Link href={`/blog/${item.slug}`}>{item.title}</Link>
           </h2>
           <p>{item.summary}</p>
-          <div className="flex items-center text-blue mt-8">
+          <div className="mt-8 flex items-center text-blue">
             {t("website.readMore")}
-            <div className="w-6 ml-2 mt-1 transition duration-300 transform group-hover:translate-x-2">
+            <div className="ml-2 mt-1 w-6 transition duration-300 group-hover:translate-x-2">
               <CaretIcon direction="right" />
             </div>
           </div>

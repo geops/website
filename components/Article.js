@@ -35,7 +35,7 @@ export default function Article({ author, body, created, imageSizes, title }) {
   const { language, t } = useI18n();
 
   return (
-    <article className="break-words container mx-auto mb-16 px-8 pt-8 lg:pt-0 prose prose-xl max-w-screen-lg">
+    <article className="container prose prose-xl mx-auto mb-16 max-w-screen-lg break-words px-8 pt-8 lg:pt-0">
       {title && (
         <>
           <Head>

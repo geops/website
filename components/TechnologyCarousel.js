@@ -20,7 +20,7 @@ function useWindowSize() {
 export default function TechnologyCarousel({ slides }) {
   const [width] = useWindowSize();
   return (
-    <div className="mx-auto px-8 prose prose-xl max-w-screen-lg">
+    <div className="prose prose-xl mx-auto max-w-screen-lg px-8">
       <CarouselProvider
         visibleSlides={width < 768 ? 3 : 5}
         interval={3000}

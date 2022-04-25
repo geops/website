@@ -5,8 +5,8 @@ import PageHeader from "../components/PageHeader.js";
 import getContentItem from "../lib/getContentItem";
 
 export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"]
-}
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
 
 export default function Newsletter({ translations }) {
   return (

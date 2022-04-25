@@ -10,8 +10,8 @@ import getContentBySlug from "../../lib/getContentBySlug";
 import getRelatedContentList from "../../lib/getRelatedContentList";
 
 export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"]
-}
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
 
 export default function Solution({ related, solution }) {
   if (!solution) {

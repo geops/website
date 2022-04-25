@@ -5,8 +5,8 @@ import getContentList from "../../lib/getContentList";
 import { useI18n } from "../../lib/i18n";
 
 export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"]
-}
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
 
 export default function SolutionIndex({ solutions }) {
   const { t } = useI18n();
@@ -17,13 +17,13 @@ export default function SolutionIndex({ solutions }) {
       translationPath="/solution"
     >
       <div className="bg-gray-darker py-8 px-4 sm:px-8">
-        <div className="max-w-screen-md mx-auto text-white">
-          <h1 data-cy="pageMainTitle" className="text-center mt-8 mb-16">
+        <div className="mx-auto max-w-screen-md text-white">
+          <h1 data-cy="pageMainTitle" className="mt-8 mb-16 text-center">
             {t("solution.header")}
           </h1>
           <p>{t("solution.text")}</p>
         </div>
-        <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 py-16">
+        <div className="container mx-auto grid grid-cols-1 gap-8 py-16 md:grid-cols-2 xl:grid-cols-3">
           {solutions.map((solution, index) => (
             <SolutionGridItem
               key={solution.slug}

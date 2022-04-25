@@ -1,4 +1,6 @@
-module.exports = {
+const { withSentryConfig } = require("@sentry/nextjs");
+
+const nextConfig = {
   async redirects() {
     return redirects.split("\n").map((redirect) => {
       const [source, destination] = redirect.split(" ");
@@ -6,6 +8,10 @@ module.exports = {
     });
   },
 };
+
+module.exports = process.env.SENTRY_PROJECT
+  ? withSentryConfig(nextConfig, { silent: true })
+  : nextConfig;
 
 // Redirects from old Drupal website to Next.js based website.
 const redirects = `/node/6 /en/imprint

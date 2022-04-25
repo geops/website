@@ -34,7 +34,7 @@ export default function Carousel({ slides }) {
           <CarouselKeyboardNavigation />
           <Slider
             aria-label="Slider"
-            className="bg-gray-darker h-screen overflow-hidden relative"
+            className="relative h-screen overflow-hidden bg-gray-darker"
             classNameAnimation="transition ease-in-out duration-1000"
           >
             {slides.map((slide) => (
@@ -54,7 +54,7 @@ export default function Carousel({ slides }) {
                       <div className="lg:hidden">
                         <Image
                           alt={slide.title}
-                          className="object-cover h-full w-full"
+                          className="h-full w-full object-cover"
                           layout="fill"
                           priority
                           src={slide.imageMobile}
@@ -64,21 +64,21 @@ export default function Carousel({ slides }) {
                     <div className={slide.imageMobile ? "hidden lg:block" : ""}>
                       <Image
                         alt={slide.title}
-                        className="object-cover h-full w-full"
+                        className="h-full w-full object-cover"
                         layout="fill"
                         priority
                         src={slide.image}
                       />
                     </div>
-                    <div className="absolute flex flex-col space-y-8 lg:items-end mt-8 lg:mt-16 inset-x-8 lg:inset-x-16">
+                    <div className="absolute inset-x-8 mt-8 flex flex-col space-y-8 lg:inset-x-16 lg:mt-16 lg:items-end">
                       <div
                         data-cy="pageMainTitle"
-                        className="break-words text-white lg:text-right max-w-screen-sm md:leading-normal leading-normal text-shadow font-black text-4xl md:text-5xl"
+                        className="text-shadow max-w-screen-sm break-words text-4xl font-black leading-normal text-white md:text-5xl md:leading-normal lg:text-right"
                       >
                         {slide.title}
                       </div>
                       {slide.summary && (
-                        <h2 className="max-w-screen-sm text-right text-xl text-white text-shadow">
+                        <h2 className="text-shadow max-w-screen-sm text-right text-xl text-white">
                           {slide.summary}
                         </h2>
                       )}
@@ -91,7 +91,7 @@ export default function Carousel({ slides }) {
               </Slide>
             ))}
           </Slider>
-          <DotGroup className="absolute right-4 top-1/2 -mt-36 lg:-mt-28 flex flex-col text-white font-bold" />
+          <DotGroup className="absolute right-4 top-1/2 -mt-36 flex flex-col font-bold text-white lg:-mt-28" />
         </CarouselProvider>
       </div>
     </div>

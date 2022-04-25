@@ -5,7 +5,7 @@ export default function TwitterIcon({ className }) {
       width="25.887"
       height="21.035"
       viewBox="0 0 25.887 21.035"
-      className={`fill-current h-6 ${className}`}
+      className={`h-6 fill-current ${className}`}
     >
       <g transform="translate(-6.93 -9.096)">
         <path

@@ -1,9 +1,7 @@
 module.exports = {
-  mode: "jit",
-  purge: [
+  content: [
     "./components/**/*.js",
-    "./content/**/*.json",
-    "./content/**/*.md",
+    "./content/**/*.{json,md}",
     "./pages/**/*.js",
   ],
   theme: {
@@ -12,6 +10,7 @@ module.exports = {
         light: "#7FA8CC",
         DEFAULT: "#6987a1",
       },
+      current: "currentColor",
       gray: {
         lighter: "#EBEBEB",
         light: "#BEBEBE",

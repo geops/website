@@ -5,7 +5,7 @@ export default function XingIcon(className) {
       width="17.872"
       height="21"
       viewBox="0 0 17.872 21"
-      className={`fill-current h-6 ${className}`}
+      className={`h-6 fill-current ${className}`}
     >
       <g transform="translate(-1037.205 -280)">
         <path

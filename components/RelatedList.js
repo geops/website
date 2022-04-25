@@ -8,8 +8,8 @@ export default function RelatedList({ dark, list }) {
     <div
       className={dark ? "bg-gray-darker text-gray-lighter" : "bg-gray-lighter"}
     >
-      <div className="container mx-auto px-8 py-16 max-w-screen-lg">
-        <span className="text-3xl text-center mb-16 font-bold w-full inline-block">
+      <div className="container mx-auto max-w-screen-lg px-8 py-16">
+        <span className="mb-16 inline-block w-full text-center text-3xl font-bold">
           {t("relatedList.title")}
         </span>
         <div className="grid gap-16 lg:grid-cols-2">

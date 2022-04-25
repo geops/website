@@ -7,14 +7,14 @@ export default function TeamGridItem({ person }) {
   const { language, t } = useI18n();
   return (
     <div className="aspect-w-3 aspect-h-4">
-      <div className="absolute bg-gray-dark rounded overflow-hidden">
+      <div className="absolute overflow-hidden rounded bg-gray-dark">
         {person.photo ? (
           <Image alt={person.name} layout="fill" src={person.photo} />
         ) : (
           <UnknownPersonIcon />
         )}
       </div>
-      <div className="absolute bg-gray-dark bg-opacity-80 text-white left-0 right-0 h-full p-8 transition-opacity duration-300 opacity-0 hover:opacity-100">
+      <div className="absolute left-0 right-0 h-full bg-gray-dark bg-opacity-80 p-8 text-white opacity-0 transition-opacity duration-300 hover:opacity-100">
         <div className="absolute bottom-8">
           <strong>{person.name}</strong>
           <p>

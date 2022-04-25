@@ -8,8 +8,8 @@ import getContentBySlug from "../../lib/getContentBySlug";
 import getRelatedContentList from "../../lib/getRelatedContentList";
 
 export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"]
-}
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
 
 export default function BlogArticle({ item, related }) {
   if (!item) {
@@ -21,7 +21,7 @@ export default function BlogArticle({ item, related }) {
       description={item.summary}
       translationPath={`/blog/${item.translationSlug}`}
     >
-      <div className="hidden xl:block xl:sticky xl:top-4 mx-auto max-w-screen-lg">
+      <div className="mx-auto hidden max-w-screen-lg xl:sticky xl:top-4 xl:block">
         {/* > xl*/}
         <Share />
       </div>
@@ -32,7 +32,7 @@ export default function BlogArticle({ item, related }) {
         imageSizes={item.imageSizes}
         title={item.title}
       />
-      <div className="xl:hidden mx-auto max-w-screen-lg mb-16">
+      <div className="mx-auto mb-16 max-w-screen-lg xl:hidden">
         {/* < xl*/}
         <Share />
       </div>

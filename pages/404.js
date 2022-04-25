@@ -4,7 +4,7 @@ import Button from "../components/Button";
 
 export default function PageNotFound() {
   return (
-    <div className="h-screen flex flex-col items-center justify-center p-8 -mt-10 ">
+    <div className="-mt-10 flex h-screen flex-col items-center justify-center p-8 ">
       <Head>
         <title>Page not found</title>
       </Head>
@@ -42,7 +42,7 @@ export default function PageNotFound() {
           />
         </g>
         <path
-          className="stroke-current text-gray-dark stroke-2"
+          className="stroke-current stroke-2 text-gray-dark"
           d="M773.1 168.6s29.1-41 89.4-41M849.1 143.7l14.8-16.5-16.3-12.9"
           fill="none"
         />

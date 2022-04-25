@@ -15,7 +15,7 @@ export default function Teaser(props) {
   return (
     <section className={props.containerClassName || "bg-white"}>
       <div
-        className="container mx-auto px-8 py-16 md:py-24 text-center flex flex-col items-center transform transition-opacity duration-1000"
+        className="container mx-auto flex flex-col items-center px-8 py-16 text-center transition-opacity duration-1000 md:py-24"
         ref={contentRef}
       >
         <div
@@ -32,7 +32,7 @@ export default function Teaser(props) {
           </h3>
         )}
         {props.text && (
-          <p className="mb-16 md:px-16 lg:px-32 text-left">{props.text}</p>
+          <p className="mb-16 text-left md:px-16 lg:px-32">{props.text}</p>
         )}
         <Button href={props.href}>{props.action}</Button>
       </div>

@@ -26,8 +26,8 @@ jobs:
         with:
           start: yarn start
           browser: firefox
-  
-  # Edge test is unstable 
+
+  # Edge test is unstable
   # cypress-run-edge:
   #   runs-on: windows-latest
   #   steps:

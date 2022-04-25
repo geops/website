@@ -7,11 +7,11 @@
 export default function CaretIcon({ direction }) {
   let className = "fill-current";
   if (direction === "right") {
-    className += " transform rotate-90";
+    className += " rotate-90";
   } else if (direction === "bottom") {
-    className += " transform rotate-180";
+    className += " rotate-180";
   } else if (direction === "left") {
-    className += " transform rotate-270";
+    className += " rotate-270";
   }
   return (
     <svg className={className} viewBox="0 0 24 24">
