@@ -1,5 +1,5 @@
 ---
-title: "Ausbildung Fachinformatiker/-in: Systemintegration"
+title: "Ausbildung Fachinformatiker (m/w/d): Systemintegration"
 summary: Du bist bereits Linux-Experte/in oder möchtest eine/r werden? Du kannst
   dich für moderne Open Source Technologien begeistern und freust dich darauf,
   von erfahrenen Entwicklern zu lernen? Dann komm zu uns ins Dreiländereck und
