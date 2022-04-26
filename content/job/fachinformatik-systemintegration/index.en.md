@@ -10,7 +10,7 @@ created: 2022-04-25
 ---
 Du bist bereits Linux-Experte/in oder möchtest eine/r werden? Du kannst dich für moderne Open Source Technologien begeistern und freust dich darauf, von erfahrenen Entwicklern zu lernen? Dann komm zu uns ins Dreiländereck und arbeite gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) suchen wir eine/n Auszubildende/n als Fachinformatiker/-in (Systemintegration).
 
-## [](<> "Follow link")Bei uns lernst du
+## Bei uns lernst du
 
 * Betreuung und stetige Verbesserung unserer Linux-Infrastruktur
 * Ausbau der Automatisierung
@@ -18,13 +18,13 @@ Du bist bereits Linux-Experte/in oder möchtest eine/r werden? Du kannst dich 
 * Anpassung der Deploy-Tools an wachsende Anforderungen
 * Unterstützung unseres ganzen Teams bei der Arbeit mit Linux und Windows
 
-## [](<> "Follow link")Was du mitbringen solltest
+## Was du mitbringen solltest
 
 Du bist interessiert, dich mit dem kompletten Lebensprozess eines Linux-Servers und der darauf laufenden Anwendungen auseinanderzusetzen. Komplexe Zusammenhänge von Systemen kannst du schnell verstehen. Du arbeitest zuverlässig im Team an deinen Aufgaben und tauscht dich mit diesem selbstständig aus.
 
 Von Vorteil, aber nicht notwendig ist, wenn du bereits erste Erfahrungen mit Linux, Python-Skripte und Versionsverwaltungssystemen wie git gesammelt hast.
 
-## [](<> "Follow link")Was bieten wir dir?
+## Was bieten wir dir?
 
 * Ausbildung durch eine/n erfahrene/n Kollegen/in.
 * Spannende Projekte für namhafte Unternehmen.
@@ -34,12 +34,12 @@ Von Vorteil, aber nicht notwendig ist, wenn du bereits erste Erfahrungen mit Lin
 * Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee sowie regelmässige Team-Events.
 * Schöne und modern ausgestattete Büros direkt am Freiburger Hauptbahnhof.
 
-## [](<> "Follow link")Das klingt nach deinem Job?
+## Das klingt nach deinem Job?
 
-Prima! Dann freuen wir uns auf deine Bewerbung unter [karriere@geops.de![](https://jira.geops.ch/images/icons/mail_small.gif)](mailto:karriere@geops.de "Follow link")
+Prima! Dann freuen wir uns auf deine Bewerbung unter [karriere@geops.de](mailto:karriere@geops.de)
 
 Bei Fragen stehen wir dir gerne zur Verfügung:
 
-[david.weber@geops.de![](https://jira.geops.ch/images/icons/mail_small.gif)](mailto:david.weber@geops.de "Follow link")
+[david.weber@geops.de](mailto:david.weber@geops.de)
 
 +49 761 458 925 30
