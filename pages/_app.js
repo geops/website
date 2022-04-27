@@ -44,19 +44,13 @@ export default function Website({ Component, pageProps }) {
 
         {/* OpenGraph meta tags */}
         <meta property="og:url" content={`${baseUrl}/${asPath}`} />
-        <meta
-          property="og:image"
-          content="https://website-git-olivier-share-geops.vercel.app/logo191.png"
-        />
+        <meta property="og:image" content="/logo191.png" />
 
         {/* Twitter meta tags */}
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@geOps" />
         <meta name="twitter:creator" content="@geOps" />
-        <meta
-          property="twitter:image"
-          content="https://website-git-olivier-share-geops.vercel.app/logo191.png"
-        />
+        <meta property="twitter:image" content="/logo191.png" />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />
