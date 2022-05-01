@@ -18,7 +18,7 @@ Viel Freude beim Lesen!
 
 ## mobility-portal
 
-Unser [mobility-portal](https://mobility.portal.geops.io/world.geops.transit?baselayers=world.geops.travic,ch.sbb.netzkarte,ch.sbb.netzkarte.dark,world.geops.aerial&lang=en&layers=paerke,strassennamen,haltekanten,haltestellen,pois,world.geops.traviclive) ist ein Schaufenster für viele Karten und Pläne des öffentlichen Verkehrs. Wir haben das Portal in den letzten Monaten laufend angepasst und mit neuen Kartenthemen ergänzt.
+Unser [mobility-portal](https://mobility.portal.geops.io/world.geops.transit?baselayers=world.geops.travic,ch.sbb.netzkarte,ch.sbb.netzkarte.dark,world.geops.aerial&lang=de&layers=paerke,strassennamen,haltekanten,haltestellen,pois,world.geops.traviclive) ist ein Schaufenster für viele Karten und Pläne des öffentlichen Verkehrs. Wir haben das Portal in den letzten Monaten laufend angepasst und mit neuen Kartenthemen ergänzt.
 
 Wir freuen uns besonders, dass unser weltweiter öV-Tracker im Portal integriert ist. In dem Zusammenhang haben wir den Tracker an unsere Daten­dreh­scheibe *TRALIS* angebunden. In den früheren Versionen des Trackers wurden nur Daten angezeigt, die im *GTFS*-Format vorhanden waren. Mit der neuen, auf *TRALIS* basierenden Version, können wir nun verschiedenste Formate und Schnittstellen für Soll- und Ist-Daten nutzen, darunter die im professionellen Umfeld verbreiteten Schnittstellen *TRIAS* und *OJP*. Wir schaffen so die Mög­lich­keit, dass auch Transportunternehmen, die ihre Daten nicht als *GTFS* publizieren, oder bei denen die *GTFS*-Daten nicht alle geforderten Infor­ma­tionen beinhalten, den Tracker für die Darstellung der Echtzeitpositionen ihrer Fahrzeuge nutzen können.
 
@@ -36,7 +36,7 @@ Wir erstellen unsere Liniennetzpläne mit einem weitgehend automatisierten Proze
 
 Wir möchten mit unserer Lösung den Plänen, die von Grafikern erstellt und im Detail manuell optimiert werden, keine Konkurrenz machen. Unsere Pläne bie­ten aber den Vorteil, dass sie flexibel nach verschiedensten Aspekten gefiltert werden und laufend automatisch mit neuen Daten aktualisiert werden können. Nicht zuletzt ist die Kosteneinsparung ein wichtiges Argument für den Ent­scheid zugunsten automatisch erstellter Pläne.
 
-Wenn Sie mehr zum Angebot an Liniennetzplänen wissen wollen, empfehlen wir den [Artikel](https://geops.ch/solution/netzplaene) auf unserer Website oder den Test einiger Beispiele im [mobility-portal](https://mobility.portal.geops.io/world.geops.networkplans?lang=en&layers=de.vagfr.topographic).
+Wenn Sie mehr zum Angebot an Liniennetzplänen wissen wollen, empfehlen wir den [Artikel](https://geops.ch/solution/netzplaene) auf unserer Website oder den Test einiger Beispiele im [mobility-portal](https://mobility.portal.geops.io/world.geops.networkplans?lang=de&layers=de.vagfr.topographic).
 
 ## Tarifverbundkarte
 
