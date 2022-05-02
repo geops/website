@@ -29,4 +29,4 @@ We have put together some links here that you can use to test the offerings desc
 * [mapset Newsletter](https://geops.sh/mapset)
 * [Developer Portal](https://developer.geops.io)
 
-You are welcome to request your personal printed copy of the brochure by sending an e-mail to [info@geops.ch](mailto:info@geops.ch). You can download the brochure as a PDF [here](/images/geops_broschuere_solutions_web.pdf).
+You are welcome to request your personal printed copy of the brochure by sending an e-mail to [info@geops.ch](mailto:info@geops.ch). You can download the brochure as a PDF [here](/images/geops_broschuere_solutions_web_EN.pdf).
