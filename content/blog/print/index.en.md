@@ -14,18 +14,18 @@ Although we are mostly digital, we can also do "paper". In July 2021, we created
 
 We have put together some links here that you can use to test the offerings described in the brochure for yourself.
 
-* [geOps Map Portal](https://mobility.portal.geops.io)
-* [Worldwide Tracker](https://tracker.geops.ch)
+* [geOps Map Portal](https://mobility.portal.geops.io?lang=en)
+* [Worldwide Tracker](https://tracker.geops.ch?lang=en)
 * [Routing Demo](https://routing-demo.geops.io)
-* [SBB Map Portal](https://maps.trafimage.ch)
-* [Puntuality Map](https://maps2.trafimage.ch/ch.sbb.netzkarte?layers=ch.sbb.puenktlichkeit-all)
-* [Fare Networks Map of Switzerland](https://maps2.trafimage.ch/ch.sbb.tarifverbundkarte.public)
-* [Map of Construction Projects by SBB](https://company.sbb.ch/de/ueber-die-sbb/projekte/karte.html)
-* [Swiss Station Plans](https://plans.trafimage.ch)
-* [Station Plans on sbb.ch](https://www.sbb.ch/de/bahnhof-services.html)
+* [SBB Map Portal](https://maps.trafimage.ch?lang=en)
+* [Puntuality Map](https://maps2.trafimage.ch/ch.sbb.netzkarte?layers=ch.sbb.puenktlichkeit-all?lang=en)
+* [Fare Networks Map of Switzerland](https://maps2.trafimage.ch/ch.sbb.tarifverbundkarte.public?lang=en)
+* [Map of Construction Projects by SBB](https://company.sbb.ch/en/the-company/projects/map.html)
+* [Swiss Station Plans](https://plans.trafimage.ch?lang=en)
+* [Station Plans on sbb.ch](https://www.sbb.ch/en/station-services.html)
 * [Live Map S-Bahn Munich](https://s-bahn-muenchen-live.de/)
-* [geOps Newsletter](https://geops.ch/newsletter)
-* [Online-Editor mapset](https://mapset.ch)
+* [geOps Newsletter](https://geops.ch/en/newsletter)
+* [Online-Editor mapset](https://mapset.io)
 * [mapset Newsletter](https://geops.sh/mapset)
 * [Developer Portal](https://developer.geops.io)
 
