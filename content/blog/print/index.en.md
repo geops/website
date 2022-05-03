@@ -18,7 +18,7 @@ We have put together some links here that you can use to test the offerings desc
 * [Worldwide Tracker](https://tracker.geops.ch?lang=en)
 * [Routing Demo](https://routing-demo.geops.io)
 * [SBB Map Portal](https://maps.trafimage.ch?lang=en)
-* [Puntuality Map](https://maps2.trafimage.ch/ch.sbb.netzkarte?layers=ch.sbb.puenktlichkeit-all&lang=en)
+* [Punctuality Map](https://maps2.trafimage.ch/ch.sbb.netzkarte?layers=ch.sbb.puenktlichkeit-all&lang=en)
 * [Fare Networks Map of Switzerland](https://maps2.trafimage.ch/ch.sbb.tarifverbundkarte.public?lang=en)
 * [Map of Construction Projects by SBB](https://company.sbb.ch/en/the-company/projects/map.html)
 * [Swiss Station Plans](https://plans.trafimage.ch?lang=en)
