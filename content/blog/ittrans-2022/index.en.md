@@ -1,6 +1,6 @@
 ---
 title: " IT-TRANS 2022"
-summary: Die IT-TRANS findet wieder statt – und wir sind dabei!
+summary: The IT-TRANS takes place again - and we are there!
 author: Maja Schudel
 cover: /images/blog/it-trans-2022/ittrans_logo.jpg
 created: 2022-05-03
@@ -12,6 +12,6 @@ frontpage: true
 frontpageWeight: -2
 published: true
 ---
-Nach einer coronabedingten Pause findet die IT-TRANS dieses Jahr wieder statt, vom 10. bis 12. Mai in der Messe in Karlsruhe. Wir sind als Aussteller an der führenden internationalen Konferenz und Fachmesse für intelligente Lösungen im öffentlichen Verkehr vertreten und präsentieren unsere Lösungen zur digitalen Reisendeninformation.
+After a break due to corona, the IT-TRANS will take place again this year, from 10 to 12 May at the trade fair in Karlsruhe. We will be exhibiting at the leading international conference and trade fair for intelligent solutions in public transport and presenting our solutions for digital passenger information.
 
-Besuchen Sie uns in der dm-Arena am Stand 6. Wir freuen uns auf den persönlichen Austausch. Bitte schreiben Sie uns, wenn wir Ihnen aus unserem Kontingent ein freies Eintritts-Ticket zur Verfügung stellen dürfen.
+Visit us in the dm-Arena at stand 6. We are looking forward to a personal exchange. Please write to us if we can provide you with a free admission ticket from our contingent.
