@@ -1,5 +1,5 @@
 ---
-title: Senior Backend Developer (m/w/d)
+title: Senior Python Softwareentwickler (m/w/d)
 summary: Du liebst es, zusammen mit einem tollen Team leistungsfähige Software
   zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Deine
   bevorzugte Sprache ist Python, und Du bist auch mit C und C++ vertraut? Match!

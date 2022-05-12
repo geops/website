@@ -1,5 +1,5 @@
 ---
-title: Senior Backend Developer
+title: Senior Python Developer
 summary: You love working in an engaged team for creating perfomant software and
   optimizing algorithms for complex problems? Your preferred language is python,
   and you also are familiar with C and C++? Match!
