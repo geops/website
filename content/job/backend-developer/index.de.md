@@ -1,21 +1,20 @@
 ---
 title: Senior Backend Developer (m/w/d)
-summary: Sie lieben es, zusammen mit einem tollen Team leistungsfähige Software
-  zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Ihre
-  bevorzugte Sprache ist Python, und Sie sind auch mit C und C++ vertraut?
-  Match!
+summary: Du liebst es, zusammen mit einem tollen Team leistungsfähige Software
+  zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Deine
+  bevorzugte Sprache ist Python, und Du bist auch mit C und C++ vertraut? Match!
 slug: backend-developer
 created: 2022-05-12
 ---
-Sie lieben es, in einem engagierten Team an der Entwicklung leistungsfähiger Software und der Optimierung von Algorithmen für komplexe Probleme zu arbeiten? Ihre bevorzugte Sprache ist Python, und Sie sind auch mit C und C++ vertraut? Dann kommen Sie ins Dreiländereck nach Freiburg (D) und arbeiten Sie mit uns an spannenden Kundenlösungen für moderne Formen der Mobilität. Wir suchen einen Backend-Entwickler (m/w), in Voll- oder Teilzeit (80%).
+Du liebst es, in einem engagierten Team an der Entwicklung leistungsfähiger Software und der Optimierung von Algorithmen für komplexe Probleme zu arbeiten? Deine bevorzugte Sprache ist Python, und Du bist auch mit C und C++ vertraut? Dann komm ins Dreiländereck nach Freiburg (D) und arbeite mit uns an spannenden Kundenlösungen für moderne Formen der Mobilität. Wir suchen einen Backend-Entwickler (m/w), in Voll- oder Teilzeit (80%).
 
-## Was erwartet Sie?
+## Was erwartet Dich?
 
-Gemeinsam mit dem gesamten Team entwickeln Sie attraktive Lösungen für namhafte Kunden auf Basis unserer Micro-Services-Architektur und verschiedener Schnittstellen und Datenbanken. Ihre Aufgabe ist zum einen die Entwicklung schlanker Backends für unsere Anwendungen, die hauptsächlich auf Python mit Django basieren. Andererseits erstellen Sie neue oder optimieren bestehende Anwendungen mit ausgefeilten Algorithmen, die z.B. für das Routing oder die automatisierte Erstellung von grafischen Netzen für den öffentlichen Nahverkehr eingesetzt werden. Python, C oder C++ sind dabei die wichtigsten Sprachen. Sie werden regelmäßig die Möglichkeit haben, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
+Gemeinsam mit dem gesamten Team entwickelt Du attraktive Lösungen für namhafte Kunden auf Basis unserer Micro-Services-Architektur und verschiedener Schnittstellen und Datenbanken. Deine Aufgabe ist zum einen die Entwicklung schlanker Backends für unsere Anwendungen, die hauptsächlich auf Python mit Django oder Flask basieren. Andererseits erstellst Du neue oder optimierst bestehende Anwendungen mit ausgefeilten Algorithmen, die z.B. für das Routing oder die automatisierte Erstellung von grafischen Netzen für den öffentlichen Nahverkehr eingesetzt werden. Python, C oder C++ sind dabei die wichtigsten Sprachen. Du hast regelmässig die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
 
 ## Qualifikationen
 
-Sie verfügen über umfangreiche Erfahrungen mit Webtechnologien, haben Spaß am Entwickeln und sind an neuen Technologien interessiert. Sie sind vertraut mit objektorientierter Programmierung hauptsächlich mit Python, idealerweise auch mit C und C++. Sie sind vertraut mit Datenbanken wie PostgreSQL und idealerweise auch mit Geo-Operatoren (PostGIS). In Ihrer täglichen Arbeit verwenden Sie gängige Linux-Tools und versionieren Ihren Code mit GIT. Idealerweise, aber nicht zwingend, haben Sie einen Hochschulabschluss in Informatik oder anderen technischen und naturwissenschaftlichen Bereichen. Sie interessieren sich für Herausforderungen und Lösungen im öffentlichen Verkehr, für zukunftsorientierte Mobilitätsformen und für die Umwelt.
+Du verfügst über umfangreiche Erfahrungen mit Webtechnologien, haben Spaß am Entwickeln und sind an neuen Technologien interessiert. Sie sind vertraut mit objektorientierter Programmierung hauptsächlich mit Python, idealerweise auch mit C und C++. Sie sind vertraut mit Datenbanken wie PostgreSQL und idealerweise auch mit Geo-Operatoren (PostGIS). In Ihrer täglichen Arbeit verwenden Sie gängige Linux-Tools und versionieren Ihren Code mit GIT. Idealerweise, aber nicht zwingend, haben Sie einen Hochschulabschluss in Informatik oder anderen technischen und naturwissenschaftlichen Bereichen. Sie interessieren sich für Herausforderungen und Lösungen im öffentlichen Verkehr, für zukunftsorientierte Mobilitätsformen und für die Umwelt.
 
 ## Was bieten wir Ihnen?
 
