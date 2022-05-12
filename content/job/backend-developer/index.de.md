@@ -1,20 +1,20 @@
 ---
 title: Senior Python Softwareentwickler (m/w/d)
 summary: Du liebst es, zusammen mit einem tollen Team leistungsfähige Software
-  zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Deine
-  bevorzugte Sprache ist Python, und Du bist auch mit C und C++ vertraut? Match!
+  zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Mit Python
+  kriegst du jede Aufgabe gelöst, kennst dich aber auch mit C++ aus? Match!
 slug: backend-developer
 created: 2022-05-12
 ---
-Du liebst es, in einem engagierten Team an der Entwicklung leistungsfähiger Software und der Optimierung von Algorithmen für komplexe Probleme zu arbeiten? Deine bevorzugte Sprache ist Python, und du bist auch mit C und C++ vertraut? Dann komm ins Dreiländereck nach Freiburg (D) und arbeite mit uns an spannenden Kundenlösungen für moderne Formen der Mobilität. Wir suchen einen Backend-Entwickler (m/w/d), in Voll- oder Teilzeit.
+Du liebst es, in einem engagierten Team an der Entwicklung leistungsfähiger Software und der Optimierung von Algorithmen für komplexe Probleme zu arbeiten? Deine bevorzugte Sprache ist Python, bist aber auch mit C++ vertraut? Dann komm ins Dreiländereck nach Freiburg (D) und arbeite mit uns an spannenden Kundenlösungen für moderne Formen der Mobilität. Wir suchen einen Backend-Entwickler (m/w/d), in Voll- oder Teilzeit.
 
 ## Was erwartet dich?
 
-Gemeinsam mit dem gesamten Team entwickelst du attraktive Lösungen für namhafte Kunden auf Basis unserer Micro-Services-Architektur und verschiedener Schnittstellen und Datenbanken. Deine Aufgabe ist zum einen die Entwicklung schlanker Backends, die hauptsächlich auf Python mit Django oder Flask basieren. Andererseits erstellst du neue oder optimierst bestehende Algorithmen, die z.B. für das Routing oder die automatisierte Erstellung von grafischen Netzen für den öffentlichen Verkehr eingesetzt werden. Python, C oder C++ sind dabei die wichtigsten Sprachen. Du hast regelmässig die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
+Gemeinsam mit dem gesamten Team entwickelst du attraktive Lösungen für namhafte Kunden auf Basis unserer Micro-Services-Architektur und verschiedener Schnittstellen und Datenbanken. Deine Aufgabe ist zum einen die Entwicklung schlanker Backends, die hauptsächlich auf Python mit Django oder Flask basieren. Andererseits erstellst du neue oder optimierst bestehende Algorithmen, die z.B. für das Routing oder die automatisierte Erstellung von grafischen Netzen für den öffentlichen Verkehr eingesetzt werden. Python und C++ sind dabei die wichtigsten Sprachen. Du hast regelmässig die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
 
 ## Qualifikationen
 
-Du verfügst über umfangreiche Erfahrungen mit objektorientierter Programmierung, hast Spass am Entwickeln und bist an neuen Technologien interessiert. Bei Python kennst du jeden Kniff, idealerweise bist du auch mit C und C++ vertraut. Ebenso kennst du dich mit Datenbanken wie PostgreSQL und idealerweise auch mit Geo-Operatoren (PostGIS) aus. In deiner täglichen Arbeit verwendest du gängige Linux-Tools und versionierst deinen Code mit GIT. Idealerweise, aber nicht zwingend, hast du einen Hochschulabschluss in Informatik oder anderen technischen und naturwissenschaftlichen Bereichen. Du interessierst dich für Herausforderungen und Lösungen im öffentlichen Verkehr, für zukunftsorientierte Mobilitätsformen und für die Umwelt.
+Du verfügst über umfangreiche Erfahrungen mit objektorientierter Programmierung, hast Spass am Entwickeln und bist an neuen Technologien interessiert. Bei Python kennst du jeden Kniff, idealerweise bist du auch mit C++ vertraut. Ebenso kennst du dich mit Datenbanken wie PostgreSQL und idealerweise auch mit Geo-Operatoren (PostGIS) aus. In deiner täglichen Arbeit verwendest du gängige Linux-Tools und versionierst deinen Code mit GIT. Idealerweise, aber nicht zwingend, hast du einen Hochschulabschluss in Informatik oder anderen technischen und naturwissenschaftlichen Bereichen. Du interessierst dich für Herausforderungen und Lösungen im öffentlichen Verkehr, für zukunftsorientierte Mobilitätsformen und für die Umwelt.
 
 ## Was bieten wir dir?
 
