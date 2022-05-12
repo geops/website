@@ -8,7 +8,7 @@ slug: ittrans-2022
 tags:
   - conferences
   - geops
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/it-trans-2022/ittrans_logo.jpg
 frontpageWeight: -2
 published: true
