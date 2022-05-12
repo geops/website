@@ -31,4 +31,4 @@ Du hast umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Int
 
 ## Das klingt nach deinem Job?
 
-Prima! Dann freuen wir uns auf deine Bewerbung. Im besten Fall kannst du uns bereits mit Arbeitsproben begeistern. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Wir freuen uns darauf!
+Perfekt! Dann freuen wir uns auf deine Bewerbung. Im besten Fall kannst du uns bereits mit Arbeitsproben begeistern. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Wir freuen uns darauf!
