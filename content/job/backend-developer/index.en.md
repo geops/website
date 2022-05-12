@@ -2,7 +2,7 @@
 title: Senior Backend Developer
 summary: You love working in an engaged team for creating perfomant software and
   optimizing algorithms for complex problems? Your preferred language is python,
-  and yo also are familiar with C and C++? Match!
+  and you also are familiar with C and C++? Match!
 slug: backend-developer
 created: 2022-05-12
 ---
