@@ -5,7 +5,7 @@ summary: You are a true all-rounder who moves confidently between database,
   technologies and looking forward to exchanging ideas with experienced
   developers?
 slug: fullstack-developer
-created: 2021-05-01
+created: 2022-05-10
 ---
 You are a true all-rounder who moves confidently between database, backend and client application? Are you enthusiastic about modern open source technologies and looking forward to exchanging ideas with experienced developers? Then come to the tri-border region and work with us on exciting customer solutions in the areas of mobility and the environment. For our office in Freiburg (D) we are looking for a fullstack developer, working full- or part-time (80%).
 
