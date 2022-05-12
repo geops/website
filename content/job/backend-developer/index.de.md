@@ -10,7 +10,7 @@ Du liebst es, in einem engagierten Team an der Entwicklung leistungsfähiger Sof
 
 ## Was erwartet Dich?
 
-Gemeinsam mit dem gesamten Team entwickelst Du attraktive Lösungen für namhafte Kunden auf Basis unserer Micro-Services-Architektur und verschiedener Schnittstellen und Datenbanken. Deine Aufgabe ist zum einen die Entwicklung schlanker Backends für unsere Anwendungen, die hauptsächlich auf Python mit Django oder Flask basieren. Andererseits erstellst Du neue oder optimierst bestehende Anwendungen mit ausgefeilten Algorithmen, die z.B. für das Routing oder die automatisierte Erstellung von grafischen Netzen für den öffentlichen Nahverkehr eingesetzt werden. Python, C oder C++ sind dabei die wichtigsten Sprachen. Du hast regelmässig die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
+Gemeinsam mit dem gesamten Team entwickelst Du attraktive Lösungen für namhafte Kunden auf Basis unserer Micro-Services-Architektur und verschiedener Schnittstellen und Datenbanken. Deine Aufgabe ist zum einen die Entwicklung schlanker Backends für unsere Anwendungen, die hauptsächlich auf Python mit Django oder Flask basieren. Andererseits erstellst Du neue oder optimierst bestehende Anwendungen mit ausgefeilten Algorithmen, die z.B. für das Routing oder die automatisierte Erstellung von grafischen Netzen für den öffentlichen Verkehr eingesetzt werden. Python, C oder C++ sind dabei die wichtigsten Sprachen. Du hast regelmässig die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
 
 ## Qualifikationen
 
