@@ -1,20 +1,20 @@
 ---
-title: Senior Backend Developer
+title: Senior Python Developer
 summary: You love working in an engaged team for creating perfomant software and
   optimizing algorithms for complex problems? Your preferred language is python,
-  and you also are familiar with C and C++? Match!
+  and you also are familiar with C++? Match!
 slug: backend-developer
 created: 2022-05-12
 ---
-You love working in an engaged team for creating perfomant software and optimizing algorithms for complex problems? Your preferred language is python, and yo also are familiar with C and C++? Then come to Freiburg (D) in the tri-border region and work with us on exciting customer solutions for modern forms of mobility. We are looking for a backend developer, working full- or part-time.
+You love working in an engaged team for creating perfomant software and optimizing algorithms for complex problems? Your preferred language is python, and yo also are familiar with C++? Then come to Freiburg (D) in the tri-border region and work with us on exciting customer solutions for modern forms of mobility. We are looking for a backend developer, working full- or part-time.
 
 ## What awaits you
 
-Togehter with the whole team you will develop attractive solutions for well-known customers based on our micro-services architecture and various interfaces and databases. Your job will be on the one hand the development of slim backends that are mainly based on Python and Django. On the other hand you will create new or optimize existing algorithms that are used e.g. for routing or automated creation of graphical networks for public transport. Python, C or C++ will be the languages used therefore. You will regularly have the opportunity to try out new technologies and evaluate them together with us. 
+Togehter with the whole team you will develop attractive solutions for well-known customers based on our micro-services architecture and various interfaces and databases. Your job will be on the one hand the development of slim backends that are mainly based on Python and Django. On the other hand you will create new or optimize existing algorithms that are used e.g. for routing or automated creation of graphical networks for public transport. Python or C++ will be the languages used therefore. You will regularly have the opportunity to try out new technologies and evaluate them together with us. 
 
 ## Qualifications
 
-You have extensive experience with object-oriented programming, enjoy developing and are interested in new technologies. You are familiar with mainly with Python, and ideally also with C and C++. You are familiar with databases such as PostgreSQL and ideally also with geo-operators (PostGIS). In your daily work you use common Linux tools and version your code with GIT. Ideally, but not necessarily, you have a university degree in computer science or other technical and scientific fields. You are interested in challenges and solutions for public transport, future-oriented forms of mobility and the environment.
+You have extensive experience with object-oriented programming, enjoy developing and are interested in new technologies. You are familiar with mainly with Python, and ideally also with C++. You are familiar with databases such as PostgreSQL and ideally also with geo-operators (PostGIS). In your daily work you use common Linux tools and version your code with GIT. Ideally, but not necessarily, you have a university degree in computer science or other technical and scientific fields. You are interested in challenges and solutions for public transport, future-oriented forms of mobility and the environment.
 
 ## What do we offer you?
 
