@@ -3,7 +3,7 @@ title: " IT-TRANS 2022"
 summary: Die IT-TRANS findet wieder statt – und wir sind dabei!
 created: 2022-05-03
 slug: ittrans-2022
-frontpage: true
+frontpage: false
 published: true
 ---
 Nach einer coronabedingten Pause findet die[ IT-TRANS](https://www.it-trans.org/) dieses Jahr wieder statt, vom 10. bis 12. Mai in der Messe in Karlsruhe. Wir sind als Aussteller an der führenden internationalen Konferenz und Fachmesse für intelligente Lösungen im öffentlichen Verkehr vertreten und präsentieren unsere Lösungen zur digitalen Reisendeninformation.
