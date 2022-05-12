@@ -16,7 +16,7 @@ Gemeinsam mit dem gesamten Team entwickelst Du attraktive Lösungen für namhaft
 
 Du verfügst über umfangreiche Erfahrungen mit Webtechnologien, hast Spass am Entwickeln und bist an neuen Technologien interessiert. Du bist vertraut mit objektorientierter Programmierung hauptsächlich mit Python, idealerweise auch mit C und C++. Du bist ebenso vertraut mit Datenbanken wie PostgreSQL und idealerweise auch mit Geo-Operatoren (PostGIS). In Deiner täglichen Arbeit verwendest Du gängige Linux-Tools und versionierst Deinen Code mit GIT. Idealerweise, aber nicht zwingend, hast Du einen Hochschulabschluss in Informatik oder anderen technischen und naturwissenschaftlichen Bereichen. Du interessierst Dich für Herausforderungen und Lösungen im öffentlichen Verkehr, für zukunftsorientierte Mobilitätsformen und für die Umwelt.
 
-## Was bieten wir Ihnen?
+## Was bieten wir Dir?
 
 * Einen sicheren Arbeitsplatz mit vielen Entwicklungsmöglichkeiten in einem wachsenden Unternehmen.
 * Spannende Projekte für namhafte Unternehmen.
@@ -29,6 +29,6 @@ Du verfügst über umfangreiche Erfahrungen mit Webtechnologien, hast Spass am E
 * Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee und regelmäßige Teamevents.
 * Schöne, gut ausgestattete Büroräume, die mit öffentlichen Verkehrsmitteln gut erreichbar sind. 
 
-## Das klingt nach Ihrem Job?
+## Das klingt nach Deinem Job?
 
-Prima! Dann freuen wir uns auf Ihre Bewerbung. Im besten Fall können Sie uns bereits mit Arbeitsproben beeindrucken. Bitte teilen Sie uns auch mit, wann Sie anfangen können und in welchem Umfang (Voll- oder Teilzeit). Wir freuen uns auf Sie!
+Perfekt! Dann freuen wir uns auf Deine Bewerbung. Im besten Fall kannst Du uns bereits mit Arbeitsproben beeindrucken. Bitte teile uns uns auch mit, wann Du anfangen kannst und in welchem Umfang (Voll- oder Teilzeit). Wir freuen uns auf Dich!
