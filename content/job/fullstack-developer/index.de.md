@@ -1,12 +1,12 @@
 ---
 title: Senior Full Stack Entwickler (m/w/d)
-summary: Du bist ein echter Allrounder, der sich siegessicher zwischen
+summary: Du bist ein echter Allrounder, der sich routiniert zwischen
   Daten&shy;bank, Backend und Client-Anwen&shy;dung bewegt? Du begeisterst dich
   für moderne Open Source Techno&shy;lo&shy;gien und freust dich auf den
   Austausch mit anderen erfahrenen Entwicklern?
 slug: fullstack-entwickler
 ---
-Du bist ein echter Allrounder, der sich siegessicher zwischen Datenbank, Backend und Client-Anwendung bewegt? Du begeisterst dich für moderne Open Source Technologien und freust dich auf den Austausch mit erfahrenen Entwicklern? Dann komm zu uns ins Dreiländereck und arbeite gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) suchen wir ab sofort einen Full Stack Softwareentwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
+Du bist ein echter Allrounder, der sich routiniert zwischen Datenbank, Backend und Client-Anwendung bewegt? Du begeisterst dich für moderne Open Source Technologien und freust dich auf den Austausch mit erfahrenen Entwicklern? Dann komm zu uns ins Dreiländereck und arbeite gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) suchen wir ab sofort einen Full Stack Softwareentwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
 
 ## Was dich erwartet
 
@@ -21,7 +21,7 @@ Du hast umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Int
 * Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeiten in einem stetig wachsenden Unternehmen. 
 * Spannende Projekte für namhafte Unternehmen. 
 * Individuelle Förderung, gemeinsam abgesteckte Ziele und einen darauf ausgerichteten Weiterbildungsplan. 
-* Smartes Arbeiten mit Optionen für Home Office, mobiles Arbeiten, flexible Zeiteinteilung und Teilzeit.
+* Smartes Arbeiten mit Home Office, mobilem Arbeiten, flexibler Zeiteinteilung und Teilzeit.
 * Ein kollegiales 20-köpfiges Team, mit dem das Arbeiten Freude macht.
 * Einarbeitung durch eine/n erfahrene/n Kollegen/in. 
 * Moderne Hardware, freie Auswahl der verwendeten Tools und eine von kompetenten Admins gemanagte Infrastruktur.
@@ -31,4 +31,4 @@ Du hast umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Int
 
 ## Das klingt nach deinem Job?
 
-Prima! Dann freuen wir uns auf deine Bewerbung. Im besten Fall kannst du uns bereits mit Arbeitsproben begeistern. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Wir freuen uns darauf!
+Perfekt! Dann freuen wir uns auf deine Bewerbung. Im besten Fall kannst du uns bereits mit Arbeitsproben begeistern. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Wir freuen uns darauf!
