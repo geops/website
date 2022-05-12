@@ -21,7 +21,7 @@ Du hast umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Int
 * Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienst­möglichkeiten in einem stetig wachsenden Unternehmen. 
 * Spannende Projekte für namhafte Unternehmen. 
 * Individuelle Förderung, gemeinsam abgesteckte Ziele und einen darauf ausgerichteten Weiterbildungsplan. 
-* Smartes Arbeiten mit Optionen für Home Office, mobiles Arbeiten, flexible Zeiteinteilung und Teilzeit.
+* Smartes Arbeiten mit Home Office, mobilem Arbeiten, flexibler Zeiteinteilung und Teilzeit.
 * Ein kollegiales 20-köpfiges Team, mit dem das Arbeiten Freude macht.
 * Einarbeitung durch eine/n erfahrene/n Kollegen/in. 
 * Moderne Hardware, freie Auswahl der verwendeten Tools und eine von kompetenten Admins gemanagte Infrastruktur.

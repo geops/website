@@ -22,7 +22,7 @@ You have extensive experience with web technologies, enjoy developing and are in
 * Secure job with many opportunities for development in a growing company.
 * Exciting projects for well-known companies.
 * Individual promotion, jointly defined goals and pans for further training.
-* Smart work with the possibility of part-time and home office. 
+* Smart work with options for part-time and home office. 
 * A collegial team (20 people) with whom it is a pleasure to work.
 * Training by an experienced colleague.
 * Modern hardware and free choice of tools. Infrastructure managed by competent admins. 
