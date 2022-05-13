@@ -6,7 +6,7 @@ summary: Du liebst es, zusammen mit einem tollen Team leistungsfähige Software
 slug: backend-developer
 created: 2022-05-12
 ---
-Du liebst es, in einem engagierten Team an der Entwicklung leistungsfähiger Software und der Optimierung von Algorithmen für komplexe Probleme zu arbeiten? Deine bevorzugte Sprache ist Python, bist aber auch mit C++ vertraut? Dann komm ins Dreiländereck nach Freiburg (D) und arbeite mit uns an spannenden Kundenlösungen für moderne Formen der Mobilität. Wir suchen einen Backend-Entwickler (m/w/d), in Voll- oder Teilzeit.
+Du liebst es, in einem begeisterten, starken Team an der Entwicklung leistungsfähiger Software und der Optimierung von Algorithmen für komplexe Probleme zu arbeiten? Deine bevorzugte Sprache ist Python, bist aber auch mit C++ vertraut? Dann komm ins Dreiländereck nach Freiburg (D) und arbeite mit uns an spannenden Kundenlösungen für moderne Formen der Mobilität. Wir suchen einen Backend-Entwickler (m/w/d), in Voll- oder Teilzeit (80-100%).
 
 ## Was erwartet dich?
 
