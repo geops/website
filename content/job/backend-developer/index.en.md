@@ -6,7 +6,7 @@ summary: You love working in an engaged team for creating perfomant software and
 slug: backend-developer
 created: 2022-05-12
 ---
-You love working in a strong, engaged team for creating perfomant software and optimizing algorithms for complex problems? Your preferred language is python, and yo also are familiar with C++? Then come to Freiburg (D) in the tri-border region and work with us on exciting customer solutions for modern forms of mobility. We are looking for a backend developer, working full- or part-time.
+You love working in a strong, engaged team for creating perfomant software and optimizing algorithms for complex problems? Your preferred language is python, and yo also are familiar with C++? Then come to Freiburg (D) in the tri-border region and work with us on exciting customer solutions for modern forms of mobility. We are looking for a backend developer, working full- or part-time (80-100%).
 
 ## What awaits you
 
