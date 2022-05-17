@@ -13,7 +13,9 @@ const HtmlLang = dynamic(() => import("../components/HtmlLang"), {
 
 export default function Website({ Component, pageProps }) {
   const { asPath } = useRouter();
-  const baseUrl = `https://geops.ch${pageProps.language === "en" ? "/en" : ""}`;
+  const baseUrl = `https://geops.com${
+    pageProps.language === "en" ? "/en" : ""
+  }`;
   useAnalytics();
   return (
     <I18n language={pageProps.language}>
@@ -40,7 +42,7 @@ export default function Website({ Component, pageProps }) {
           title="geOps Blog JSON Feed"
           href={`${baseUrl}/feed/feed.json`}
         />
-        <link rel="canonical" href={`https://geops.ch${asPath}`} />
+        <link rel="canonical" href={`https://geops.com${asPath}`} />
 
         {/* OpenGraph meta tags */}
         <meta property="og:url" content={`${baseUrl}/${asPath}`} />

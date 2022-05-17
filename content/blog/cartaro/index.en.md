@@ -27,7 +27,7 @@ The core function of Cartaro is the automatic generation of data entry forms bas
 
 ### Additional Data for any Objects
 
-In Cartaro, new geographic features can be created, edited and provided with thematic attributes. Also existing objects with known geometry can be enriched with additional information. For this purpose, we have connected Cartaro to our [data hub](https://geops.ch/solution/transit-data-hub), where we keep, among other things, worldwide station data and traffic networks in different levels of generalization. Stations with specific information, e.g. on travel for persons with reduced mobility, can be recorded and published in a [web map](https://maps.trafimage.ch/ch.sbb.handicap). New is the function to map additional information on transport networks based on linear reference. For locating the information, line number, start and end kilometers of the respective segment are stored. Linear referencing ensures that the information is available in all generalization levels and also after a change of the line course.
+In Cartaro, new geographic features can be created, edited and provided with thematic attributes. Also existing objects with known geometry can be enriched with additional information. For this purpose, we have connected Cartaro to our [data hub](https://geops.com/solution/transit-data-hub), where we keep, among other things, worldwide station data and traffic networks in different levels of generalization. Stations with specific information, e.g. on travel for persons with reduced mobility, can be recorded and published in a [web map](https://maps.trafimage.ch/ch.sbb.handicap). New is the function to map additional information on transport networks based on linear reference. For locating the information, line number, start and end kilometers of the respective segment are stored. Linear referencing ensures that the information is available in all generalization levels and also after a change of the line course.
 
 <!--EndFragment-->
 
@@ -41,6 +41,6 @@ Our routing service supports various means of transportation. Especially for pub
 
 ### And even more
 
-With each new theme we integrate into Cartaro, the number of available widgets, filters and other features also grows. Cartaro has widgets for date field entry, file upload, a coordinate picker, and many more. We have also enhanced Cartaro's list view. It can now handle any number of entries and has filters and multiple editing capabilities. A list of all functions and the various interfaces of Cartaro can be found on the [solution page](https://geops.ch/solution).
+With each new theme we integrate into Cartaro, the number of available widgets, filters and other features also grows. Cartaro has widgets for date field entry, file upload, a coordinate picker, and many more. We have also enhanced Cartaro's list view. It can now handle any number of entries and has filters and multiple editing capabilities. A list of all functions and the various interfaces of Cartaro can be found on the [solution page](https://geops.com/solution).
 
 <!--EndFragment-->
