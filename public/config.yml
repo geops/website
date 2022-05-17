@@ -2,7 +2,7 @@ backend:
   name: github
   repo: geops/website
   branch: main
-  base_url: https://geops.ch/
+  base_url: https://geops.com/
   auth_endpoint: api/auth
   #name: git-gateway
 
@@ -72,7 +72,7 @@ collections:
         date_format: "YYYY-MM-DD"
         format: "YYYY-MM-DD"
       - label: "Slug"
-        hint: "Eindeutiger Teil der URL, der hinter geops.ch/blog/... erscheint. Sonder- und Leerzeichen (auch Umlaute!) sind zu vermeiden."
+        hint: "Eindeutiger Teil der URL, der hinter geops.com/blog/... erscheint. Sonder- und Leerzeichen (auch Umlaute!) sind zu vermeiden."
         name: "slug"
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
@@ -135,7 +135,7 @@ collections:
         i18n: true
   - label: "Job"
     name: "job"
-    description: "Ausschreibungen für Jobs, werden unter geops.ch/karriere aufgelistet."
+    description: "Ausschreibungen für Jobs, werden unter geops.com/karriere aufgelistet."
     folder: "content/job"
     path: "{{slug}}/index"
     media_folder: "/public/images/job/{{slug}}"
@@ -155,7 +155,7 @@ collections:
         i18n: true
       - label: "Slug"
         name: "slug"
-        hint: "Eindeutiger Teil der URL, der hinter geops.ch/karriere/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
+        hint: "Eindeutiger Teil der URL, der hinter geops.com/karriere/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
         i18n: true
@@ -396,7 +396,7 @@ collections:
               - { i18n: true, label: Written By, name: writtenBy }
   - label: "Person"
     name: "person"
-    description: "Beschreibung der Mitarbeiter, werden unter geops.ch/about aufgelistet."
+    description: "Beschreibung der Mitarbeiter, werden unter geops.com/about aufgelistet."
     folder: "content/person"
     identifier_field: "name"
     media_folder: "/public/images/person"
@@ -508,7 +508,7 @@ collections:
         hint: "Originalbild für die Überschrift vom Solution-Artikel auf Bildschirmen die kleiner als 1024 Pixel breit sind. Der Fokus sollte in der Mitte das Bildes liegen, da beim verkleinern des Browserfensters das Bild links und rechts beschnitten wird. Die Bildgröße sollte mindestens 1000 x 500 Pixel (Breite x Höhe) betragen."
         required: false
       - label: "Slug"
-        hint: "Eindeutiger Teil der URL, der hinter geops.ch/solution/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
+        hint: "Eindeutiger Teil der URL, der hinter geops.com/solution/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
         name: "slug"
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
@@ -587,17 +587,17 @@ collections:
       - label: "Grid Background Color"
         name: "color"
         default: "white"
-        hint: "CSS Farbwert für die Hintergrundfarte der Kachel-Darstellung, die unter geops.ch/solution zu finden ist. Für 'white' wird eine dunkle Textfarbe verwendet."
+        hint: "CSS Farbwert für die Hintergrundfarte der Kachel-Darstellung, die unter geops.com/solution zu finden ist. Für 'white' wird eine dunkle Textfarbe verwendet."
         widget: "string"
       - label: "Grid Image"
         name: "gridImage"
         widget: "image"
-        hint: "Originalbild für die Kachel-Darstellung, die unter geops.ch/solution zu finden ist. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
+        hint: "Originalbild für die Kachel-Darstellung, die unter geops.com/solution zu finden ist. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
         required: false
       - label: "Grid Logo"
         name: "logo"
         widget: "image"
-        hint: "Originalbild für das Logo in der Kachel-Darstellung, die unter geops.ch/solution zu finden ist. Die Bildgröße sollte mindestens 500 Pixel in der Breite betragen."
+        hint: "Originalbild für das Logo in der Kachel-Darstellung, die unter geops.com/solution zu finden ist. Die Bildgröße sollte mindestens 500 Pixel in der Breite betragen."
         required: false
       - label: "Published"
         name: "published"
@@ -610,7 +610,7 @@ collections:
         i18n: true
   - label: "Technology"
     name: "technology"
-    description: "Bilder und Texte für das Karussell, unter geops.ch/about#tech zu finden."
+    description: "Bilder und Texte für das Karussell, unter geops.com/about#tech zu finden."
     folder: "content/technology"
     media_folder: "/public/images/technology/{{slug}}"
     public_folder: "/images/technology/{{slug}}"

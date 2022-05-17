@@ -38,13 +38,13 @@ We create our line network plans with a largely automated process based on timet
 
 With our solution, we do not want to compete with plans that are created by graphic designers and manually optimised in detail. However, our plans offer the advantage that they can be flexibly filtered according to a wide variety of aspects and can be continuously updated automatically with new data. Last but not least, the cost saving is an important argument for the decision in favour of automatically created plans.
 
-If you want to know more about the range of route network plans, we recommend the [article](https://geops.ch/en/solution/network-plans) on our website or the test of some examples in the [mobility-portal](https://mobility.portal.geops.io/world.geops.networkplans?lang=en&layers=de.vagfr.topographic).
+If you want to know more about the range of route network plans, we recommend the [article](https://geops.com/en/solution/network-plans) on our website or the test of some examples in the [mobility-portal](https://mobility.portal.geops.io/world.geops.networkplans?lang=en&layers=de.vagfr.topographic).
 
 ## Map of tariff associations
 
 As part of our mandate for SBB, we are pursuing the goal of converting many of the standard maps that SBB has long produced for passenger information to increasingly automated production processes. The aim here is to keep the maps up-to-date through frequent and efficient updates and to ensure consistency with other information channels by connecting them to central data sources. The cost savings are another advantage.
 
-Having already used *NOVA*, the central database for the *Future Price System of Public Transport Switzerland* (*ZPS*), for the nationwide display of fare zones in previous years, we were now able to use *NOVA* for the automatic creation of the fare association map. You can see the result under this [link](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public?lang=de&layers=&x=925472&y=5920000&z=9). If you are interested in the details of the map, we recommend this [blog post](https://geops.ch/blog/neue-tarifverbundkarte-der-schweiz).
+Having already used *NOVA*, the central database for the *Future Price System of Public Transport Switzerland* (*ZPS*), for the nationwide display of fare zones in previous years, we were now able to use *NOVA* for the automatic creation of the fare association map. You can see the result under this [link](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public?lang=de&layers=&x=925472&y=5920000&z=9). If you are interested in the details of the map, we recommend this [blog post](https://geops.com/blog/neue-tarifverbundkarte-der-schweiz).
 
 ![International direct connections](/images/blog/geops-news-i-2022/newsletter20221_03.jpg "International direct connections")
 
@@ -52,7 +52,7 @@ Having already used *NOVA*, the central database for the *Future Price System of
 
 With a new map for SBB, we show all direct connections from Switzerland to European cities. The exact routes of the trains are differentiated according to day and night connections. With one click, all intermediate stations can be displayed. Links for further information and booking options are shown for each connection. The map is embedded on the [SBB website](https://www.sbb.ch/content/internet/sbb/de/freizeit-ferien/zuege-ausfluege/nachtzuege.html).
 
-To make it easier for the product managers at SBB to record the connections, our GeoCMS *[Cartaro](https://geops.ch/solution/cartaro)* and our [Routing](https://geops.ch/solution/routing) are used. 
+To make it easier for the product managers at SBB to record the connections, our GeoCMS *[Cartaro](https://geops.com/en/solution/cartaro)* and our [Routing](https://geops.com/en/solution/routing) are used. 
 
 ![Disruption information](/images/blog/geops-news-i-2022/newsletter20221_04.jpg "Disruption information")
 

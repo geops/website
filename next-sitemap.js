@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: "https://geops.ch",
+  siteUrl: "https://geops.com",
   generateRobotsTxt: true,
 };

@@ -36,13 +36,13 @@ Wir erstellen unsere Liniennetzpläne mit einem weitgehend automatisierten Proze
 
 Wir möchten mit unserer Lösung den Plänen, die von Grafikern erstellt und im Detail manuell optimiert werden, keine Konkurrenz machen. Unsere Pläne bie­ten aber den Vorteil, dass sie flexibel nach verschiedensten Aspekten gefiltert werden und laufend automatisch mit neuen Daten aktualisiert werden können. Nicht zuletzt ist die Kosteneinsparung ein wichtiges Argument für den Ent­scheid zugunsten automatisch erstellter Pläne.
 
-Wenn Sie mehr zum Angebot an Liniennetzplänen wissen wollen, empfehlen wir den [Artikel](https://geops.ch/solution/netzplaene) auf unserer Website oder den Test einiger Beispiele im [mobility-portal](https://mobility.portal.geops.io/world.geops.networkplans?lang=de&layers=de.vagfr.topographic).
+Wenn Sie mehr zum Angebot an Liniennetzplänen wissen wollen, empfehlen wir den [Artikel](https://geops.com/solution/netzplaene) auf unserer Website oder den Test einiger Beispiele im [mobility-portal](https://mobility.portal.geops.io/world.geops.networkplans?lang=de&layers=de.vagfr.topographic).
 
 ## Tarifverbundkarte
 
 Im Rahmen unseres Mandats für die SBB verfolgen wir das Ziel, viele der Standardkarten, die die SBB schon lange für die Information der Reisenden produziert, auf immer weiter automatisierte Produktionsprozesse umzustellen. Das Ziel dabei ist es, die Karten durch häufige und effiziente Updates aktuell zu halten und durch die Anbindung an zentrale Datenquellen die Konsistenz mit anderen Informationskanälen sicherzustellen. Die Kostenersparnis ist dabei ein weiterer Vorteil.
 
-Nachdem wir schon in den Vorjahren *NOVA*, die zentrale Datenbank für das *Zukünftige Preisssytem des öV Schweiz* (*ZPS*), für die schweizweite Darstellung von Tarifzonen genutzt haben, konnten wir *NOVA* jetzt auch für die automatische Erstellung der Tarifverbundkarte einsetzen. Das Resultat sehen Sie unter diesem [Link](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public?lang=de&layers=&x=925472&y=5920000&z=9). Wenn Sie sich für die Details zur Karte interessieren, empfehlen wir Ihnen diesen [Blog-Beitrag](https://geops.ch/blog/neue-tarifverbundkarte-der-schweiz).
+Nachdem wir schon in den Vorjahren *NOVA*, die zentrale Datenbank für das *Zukünftige Preisssytem des öV Schweiz* (*ZPS*), für die schweizweite Darstellung von Tarifzonen genutzt haben, konnten wir *NOVA* jetzt auch für die automatische Erstellung der Tarifverbundkarte einsetzen. Das Resultat sehen Sie unter diesem [Link](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public?lang=de&layers=&x=925472&y=5920000&z=9). Wenn Sie sich für die Details zur Karte interessieren, empfehlen wir Ihnen diesen [Blog-Beitrag](https://geops.com/blog/neue-tarifverbundkarte-der-schweiz).
 
 ![Direktverbindungen](/images/blog/geops-news-i-2022/newsletter20221_03.jpg "Direktverbindungen")
 
@@ -50,7 +50,7 @@ Nachdem wir schon in den Vorjahren *NOVA*, die zentrale Datenbank für das *Zu
 
 Mit einer neuen Karte für die SBB zeigen wir alle Direktverbindungen aus der Schweiz in europäische Städte. Unterschieden nach Tag- und Nachtverbin­dungen sind die genauen Routenverläufe der Züge abgebildet. Mit einem Klick lassen sich alle Zwischenstationen einblenden. Für jede Verbindung werden die Links für weitere Informationen und die Buchungsmöglichkeiten gezeigt. Die Karte ist auf der [Webseite der SBB](https://www.sbb.ch/content/internet/sbb/de/freizeit-ferien/zuege-ausfluege/nachtzuege.html) eingebettet.
 
-Um den Produktverantwortlichen bei der SBB die Erfassung der Verbindungen zu vereinfachen, kommen unser GeoCMS *[Cartaro](https://geops.ch/solution/cartaro)* und unser [Routing](https://geops.ch/solution/routing) zum Einsatz. 
+Um den Produktverantwortlichen bei der SBB die Erfassung der Verbindungen zu vereinfachen, kommen unser GeoCMS *[Cartaro](https://geops.com/solution/cartaro)* und unser [Routing](https://geops.com/solution/routing) zum Einsatz. 
 
 ![Störungs- und Baustellenmeldungen](/images/blog/geops-news-i-2022/newsletter20221_04.jpg "Störungs- und Baustellenmeldungen")
 

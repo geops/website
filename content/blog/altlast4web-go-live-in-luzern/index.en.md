@@ -27,4 +27,4 @@ Ende Juli gab es daher in kleiner Runde eine detaillierte Einführung in die Nut
 
 Das GoLive eineinhalb Wochen nach dem Workshop war dann nur noch Formsache für uns. Mit Altlast4Web hat der Kanton Luzern eine umfangreiche Anwendung zur Führung des Katasters belasteter Standorte sowie eine schnelle und persönliche Betreuung durch unseren Support erhalten.
 
-Weitere Informationen zur Nutzung von Altlast4Web unter [https://geops.ch/altlast4web](https://geops.ch/altlast4web)
+Weitere Informationen zur Nutzung von Altlast4Web unter [https://geops.com/altlast4web](https://geops.com/altlast4web)
