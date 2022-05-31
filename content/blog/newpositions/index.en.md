@@ -6,12 +6,13 @@ summary: We have two vacancies for Fullstack or Backend Developers for our
 author: Uli Müller
 created: 2022-05-31
 slug: newpositions
+frontpage: true
 published: true
 ---
-Du liebst es, zusammen mit einem tollen Team grossartige Software zu entwickeln? Dein Herz schlägt für Linux und Open Source-Technologien? Du willst mit deiner Arbeit zu Lösungen in den Zukunftsthemen Umwelt, Mobilität und öffentlicher Verkehr beitragen? Dann sieh dir bitte an, was wir zu bieten haben.
+You love to develop great software together with a great team? Your heart beats for Linux and open source technologies? You want to contribute with your work to solutions in the future topics of environment, mobility and public transport? Then please take a look at what we have to offer.
 
-Als Fullstack-Entwickler:in kannst du dich im gesamten Technologie-Stack austoben. Von der Datenbank bis zum Frontend hast du unsere Technologien im Griff und entwickelst damit vollständige Anwendungen. **[Mehr...](/karriere/fullstack-entwickler)**
+As a full-stack developer, you can let off steam in the entire technology stack. From the database to the frontend, you have our technologies under control and use them to develop complete applications. **[More...](/en/career/fullstack-developer)**
 
-Als Backend-Entwickler:in steuerst du hinter den Kulissen, was unsere Lösungen leisten. Du wendest deine Expertise an, um mit schlanken, performanten Anwendungen Frontends mit Daten zu versorgen, oder um ausgefeilte Algorithmen noch ein bisschen besser zu machen. **[Mehr...](/karriere/backend-developer)**
+As a backend developer, you control what our solutions do behind the scenes. You apply your expertise to provide frontends with data using lean, high-performance applications, or to make sophisticated algorithms that little bit better. **[More...](/en/career/backend-developer)**
 
-Egal welche Stelle dich mehr interessiert, wir bieten dir auf jeden Fall ein attraktives Arbeitsumfeld. Du kannst zwischen Voll- und Teilzeit wählen und in weitem Rahmen selbst bestimmen, ob du zu Hause oder in einem unserer Büros in Olten oder Freiburg arbeiten willst. Wenn du dich fürs Büro entscheidest, wirst du die schönen, modern gestalteten Räumlichkeiten geniessen und dich bei unserem Angebot an Getränken und Obst bedienen können. Du wirst bei geOps ein effektives Arbeiten vorfinden, wodurch wir gemeinsam unsere Ziele erreichen und gleichzeitig Raum für Entspannung, Selbstbestimmung und Freude an der Arbeit schaffen.
+No matter which position interests you more, we can offer you an attractive working environment. You can choose between full- and part-time and, to a large extent, decide for yourself whether you want to work at home or in one of our offices in Olten or Fribourg. If you choose to work in the office, you will enjoy the beautiful, modernly designed premises and be able to help yourself to our range of drinks and fruit. You will find geOps to be an effective place to work, enabling us to achieve our goals together while creating space for relaxation, self-determination and enjoyment at work.
