@@ -6,7 +6,10 @@ summary: We have two vacancies for Fullstack or Backend Developers for our
 author: Uli Müller
 created: 2022-05-31
 slug: newpositions
+tags:
+  - developers
 frontpage: true
+frontpageWeight: 1
 published: true
 ---
 You love to develop great software together with a great team? Your heart beats for Linux and open source technologies? You want to contribute with your work to solutions in the future topics of environment, mobility and public transport? Then please take a look at what we have to offer.
