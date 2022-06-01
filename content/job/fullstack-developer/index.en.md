@@ -15,7 +15,7 @@ You will develop attractive solutions for well-known customers based on our micr
 
 ## Qualifications
 
-You have extensive experience with web technologies, enjoy developing and are interested in new technologies. You are familiar with modern JavaScript libraries (amongst ohters React, MapBox GL JS and OpenLayers) as well as project-oriented programming with Python. You are familiar with databases such as PostgreSQL and ideally also with geo-operators (PostGIS). In your daily work you use common Linux tools and version your code with GIT. Ideally, but not necessarily, you have a university degree in computer science or other technical and scientific fields. You are interested in challenges and solutions for public transport, future-oriented forms of mobility and the environment.
+You have extensive experience with web technologies, enjoy developing and are interested in new technologies. You are familiar with modern JavaScript (amongst others TypeScript, React, Mapbox GL JS and OpenLayers) as well as project-oriented programming with Python. You are familiar with databases such as PostgreSQL and ideally also with geo-operators (PostGIS). In your daily work you use common Linux tools and version your code with Git. Ideally, but not necessarily, you have a university degree in computer science or other technical and scientific fields. You are interested in challenges and solutions for public transport, future-oriented forms of mobility and the environment.
 
 ## What do we offer you?
 
