@@ -27,7 +27,7 @@ export default function Layout({
         <link
           rel="alternate"
           hrefLang={isDE ? "en" : "de"}
-          href={`https://geops.com/${isDE ? "" : "en"}${translationPath || ""}`}
+          href={`https://geops.com/${isDE ? "en" : ""}${translationPath || ""}`}
         />
 
         {/* OpenGraph meta tags */}

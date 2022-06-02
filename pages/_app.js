@@ -45,7 +45,7 @@ export default function Website({ Component, pageProps }) {
         <link rel="canonical" href={`https://geops.com${asPath}`} />
 
         {/* OpenGraph meta tags */}
-        <meta property="og:url" content={`${baseUrl}/${asPath}`} />
+        <meta property="og:url" content={`https://geops.com${asPath}`} />
         <meta property="og:image" content="/logo191.png" />
 
         {/* Twitter meta tags */}
