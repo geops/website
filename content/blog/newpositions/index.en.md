@@ -4,13 +4,13 @@ summary: We have two vacancies for Fullstack or Backend Developers for our
   offices in Freiburg and Olten. If you want to bring your passion to a strong
   team, then you should apply.
 author: Uli Müller
-cover: /images/blog/from-backend-to-frontend-we-are-looking-for-reinforcement/geopsgithub.png
+cover: /images/blog/from-backend-to-frontend-we-are-looking-for-reinforcement/pythoncodeatgeops.jpg
 created: 2022-05-31
 slug: newpositions
 tags:
   - developers
 frontpage: true
-frontpageImage: /images/blog/from-backend-to-frontend-we-are-looking-for-reinforcement/geopsgithub.png
+frontpageImage: /images/blog/from-backend-to-frontend-we-are-looking-for-reinforcement/pythoncodeatgeops.jpg
 frontpageWeight: 0
 published: true
 ---
