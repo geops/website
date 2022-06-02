@@ -6,7 +6,7 @@ summary: Du bist ein echter Allrounder, der sich routiniert zwischen
   Austausch mit anderen erfahrenen Entwicklern?
 slug: fullstack-entwickler
 ---
-Du bist ein echter Allrounder, der sich routiniert zwischen Datenbank, Backend und Client-Anwendung bewegt? Du begeisterst dich für moderne Open Source Technologien und freust dich auf den Austausch mit erfahrenen Entwicklern? Dann komm zu uns ins Dreiländereck und arbeite gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unseren Standort in Freiburg (D) suchen wir ab sofort einen Full Stack Softwareentwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
+Du bist ein echter Allrounder, der sich routiniert zwischen Datenbank, Backend und Client-Anwendung bewegt? Du begeisterst dich für moderne Open Source Technologien und freust dich auf den Austausch mit erfahrenen Entwicklern? Dann komm zu uns ins Dreiländereck und arbeite gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unsere Standorte in Freiburg (D) oder Olten (CH) suchen wir ab sofort einen Full Stack Softwareentwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
 
 ## Was dich erwartet
 
@@ -27,7 +27,7 @@ Du hast umfassende Erfahrungen mit Webtechnologien, Freude am Entwickeln und Int
 * Moderne Hardware, freie Auswahl der verwendeten Tools und eine von kompetenten Admins gemanagte Infrastruktur.
 * Gute Verdienstmöglichkeiten und attraktive Zusatz­leistungen zum Festgehalt (z.B. Job­ticket/GA, Gutscheine, Fitness-Programme und vieles mehr). 
 * Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee sowie regelmässige Team-Events. 
-* Schöne und modern ausgestattete Büros direkt am Freiburger Hauptbahnhof.
+* Schöne und modern ausgestattete, gut mit dem öV erreichbare Büros (in Freiburg  direkt am Hauptbahnhof).
 
 ## Das klingt nach deinem Job?
 
