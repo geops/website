@@ -10,7 +10,7 @@ slug: new-tariff-association-card-of-switzerland
 tags:
   - maps
   - passengerinformation
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/die-neue-tarifverbundkarte-der-schweiz/mockup_02-1.png
 frontpageWeight: 2
 published: true
