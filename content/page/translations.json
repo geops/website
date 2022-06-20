@@ -27,7 +27,7 @@
     "terms": {
       "path": "/terms",
       "translationPath": "/bedingungen",
-      "title": "Terms"
+      "title": "Terms of service"
     },
     "newsletterTeaser": {
       "title": "Always up to date",
@@ -121,7 +121,7 @@
     "terms": {
       "path": "/bedingungen",
       "translationPath": "/terms",
-      "title": "Terms"
+      "title": "Terms of service"
     },
     "newsletterTeaser": {
       "title": "Immer auf dem Laufenden",
