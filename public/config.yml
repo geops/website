@@ -256,6 +256,12 @@ collections:
         i18n: true
         fields:
           - { i18n: true, label: Content, name: body, widget: markdown }
+      - label: "Terms"
+        name: "terms"
+        file: "content/page/terms.json"
+        i18n: true
+        fields:
+          - { i18n: true, label: Content, name: body, widget: markdown }
       - label: "Translations"
         name: "translations"
         file: "content/page/translations.json"
