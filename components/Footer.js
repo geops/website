@@ -13,6 +13,10 @@ export default function Footer() {
         |{" "}
         <Link href={t("privacy.path")}>
           <a className="hover:text-green">{t("privacy.title")}</a>
+        </Link>{" "}
+        |{" "}
+        <Link href={t("terms.path")}>
+          <a className="hover:text-green">{t("terms.title")}</a>
         </Link>
       </div>
     </div>
