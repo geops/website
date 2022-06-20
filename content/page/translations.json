@@ -24,6 +24,11 @@
       "translationPath": "/impressum",
       "title": "Imprint"
     },
+    "terms": {
+      "path": "/terms",
+      "translationPath": "/bedingungen",
+      "title": "Terms"
+    },
     "newsletterTeaser": {
       "title": "Always up to date",
       "subtitle": "... with our geOps newsletter.",
@@ -112,6 +117,11 @@
       "path": "/impressum",
       "translationPath": "/imprint",
       "title": "Impressum"
+    },
+    "terms": {
+      "path": "/bedingungen",
+      "translationPath": "/terms",
+      "title": "Terms"
     },
     "newsletterTeaser": {
       "title": "Immer auf dem Laufenden",
