@@ -7,7 +7,7 @@ cover: /images/blog/mapset-2-0-with-mui/mapset_mui.png
 created: 2022-06-08
 slug: mapset-with-mui
 tags:
-  - mapset
+  - developers
 published: true
 ---
 Development for mapset is in full swing again. For mapset 2.0 the dependencies on geOps-internal UI-libraries have been scrapped in favour of the open-source react component library [MUI](https://mui.com/) (Material-UI). 
