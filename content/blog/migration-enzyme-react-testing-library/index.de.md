@@ -18,6 +18,7 @@ Eine ausführliche [Dokumentation](https://testing-library.com/docs/react-testin
 
 
 enzyme:
+
 ```js
 import React from 'react';
 import { Provider } from 'react-redux';
@@ -67,6 +68,7 @@ describe('DialogComponent', () => {
 ```
 
 testing-library/react:
+
 ```js
 import React from 'react';
 import { Provider } from 'react-redux';

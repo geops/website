@@ -21,6 +21,7 @@ A detailed [documentation](https://testing-library.com/docs/react-testing-librar
 
 
 enzyme:
+
 ```js
 import React from 'react';
 import { Provider } from 'react-redux';
@@ -70,6 +71,7 @@ describe('DialogComponent', () => {
 ```
 
 testing-library/react:
+
 ```js
 import React from 'react';
 import { Provider } from 'react-redux';
