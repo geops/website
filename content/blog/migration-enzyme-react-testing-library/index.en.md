@@ -39,7 +39,7 @@ describe('DialogComponent', () => {
 
  beforeEach(() => {
    store = mockStore({
-     app: {},
+     app: { dialogOpen: true },
    });
  });
 
