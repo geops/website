@@ -1,9 +1,30 @@
 import Markdown from "markdown-to-jsx";
 import Head from "next/head";
 import Image from "next/image";
+import {Prism as SyntaxHighlighter} from 'react-syntax-highlighter';
+import { materialDark } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 
 import { useI18n } from "../lib/i18n";
 import namedCodesToUnicode from "../lib/namedCodesToUnicode";
+
+function CodeBlock({className, children}) {
+  let lang = 'text'; // default monospaced text
+  if (className && className.startsWith('lang-')) {
+    lang = className.replace('lang-', '');
+  }
+  return (
+    <SyntaxHighlighter language={lang} style={materialDark}>
+      {children}
+    </SyntaxHighlighter>
+  );
+}
+
+function PreBlock({children, ...rest}) {
+  if ('type' in children && children ['type'] === 'code') {
+    return CodeBlock(children['props']);
+  }
+  return <pre {...rest}>{children}</pre>;
+};
 
 function ArticleImage({ alt, imageSizes, src }) {
   const { height, width } = imageSizes[src] || {};
@@ -56,6 +77,7 @@ export default function Article({ author, body, created, imageSizes, title }) {
               component: ResponsiveImage,
               props: { imageSizes },
             },
+            pre: PreBlock,
           },
           namedCodesToUnicode,
         }}
