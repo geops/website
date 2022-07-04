@@ -19,8 +19,7 @@ First of all, it is important to specify a major difference between the two libr
 
 A detailed [documentation](https://testing-library.com/docs/react-testing-library/intro/) and [migration guide](https://testing-library.com/docs/react-testing-library/migrate-from-enzyme) describe how to rewrite enzyme tests with testing-library/react. testing-library/react provides a selection of [query functions](https://testing-library.com/docs/queries/about) that can be used to select DOM elements just like the user would do it. The following examples show the same test in written enzyme and in rewritten in testing-library/react.
 
-
-enzyme:
+#### enzyme
 
 ```js
 import React from 'react';
@@ -69,7 +68,7 @@ describe('DialogComponent', () => {
 });
 ```
 
-testing-library/react:
+#### testing-library/react
 
 ```js
 import React from 'react';
