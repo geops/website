@@ -18,7 +18,7 @@ Eine ausführliche [Dokumentation](https://testing-library.com/docs/react-testin
 
 
 enzyme:
-```javascript
+```js
 import React from 'react';
 import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
@@ -67,7 +67,7 @@ describe('DialogComponent', () => {
 ```
 
 testing-library/react:
-```javascript
+```js
 import React from 'react';
 import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
