@@ -50,10 +50,9 @@ describe('DialogComponent', () => {
    const closeBtn = component.find('.component-class').find('Button').at(1);
    closeBtn.simulate('click');
 
-   expect(store.getActions()[0]).toEqual({
-     data: undefined,
-     type: 'SET_DIALOG_CLOSED',
-   });
+   expect(store.getActions()).toEqual([
+     { data: false, type: 'SET_DIALOG_OPEN' },
+   ]);
  });
 
  test('should match snapshot', () => {
