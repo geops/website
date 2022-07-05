@@ -54,7 +54,7 @@ test('should match snapshot', () => {
 
 ### **Query selectors**
 
-Furthermore, react-testing-library provides a selection of query methods to find target DOM nodes. *getByTestId* is particularly useful, since it makes pinpointing target tags precise by querying their unique test id.
+react-testing-library provides a selection of query methods to find target DOM nodes. *getByTestId* is particularly useful, since it makes pinpointing target tags precise by querying their unique test id.
 
 #### enzyme
 

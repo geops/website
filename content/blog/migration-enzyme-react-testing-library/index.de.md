@@ -51,7 +51,7 @@ test('should match snapshot', () => {
 
 ### **Abfrage-Selektoren**
 
-Darüber hinaus bietet die react-testing-library eine Auswahl an Abfragemethoden, um Ziel-DOM-Knoten zu finden. *getByTestId* ist besonders nützlich, da es das Auffinden von Ziel-Tags durch die Abfrage ihrer eindeutigen Test-ID präzisiert.
+react-testing-library bietet eine Auswahl an Abfragemethoden, um Ziel-DOM-Knoten zu finden. *getByTestId* ist besonders nützlich, da es das Auffinden von Ziel-Tags durch die Abfrage ihrer eindeutigen Test-ID präzisiert.
 
 #### enzyme
 
