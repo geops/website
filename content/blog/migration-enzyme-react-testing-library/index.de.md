@@ -37,7 +37,7 @@ test('should match snapshot', () => {
 #### testing-library/react
 
 ```js
-import { render, screen } from '@testing-library/react';
+import { render } from '@testing-library/react';
 
 test('should match snapshot', () => {
    const { container } = render(<DialogComponent />);
