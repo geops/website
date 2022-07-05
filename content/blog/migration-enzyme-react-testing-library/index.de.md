@@ -20,7 +20,7 @@ In den folgenden Beispielen werden einige Tests in enzyme und umgeschrieben in t
 
 ### **Snapshots**
 
-Bei der Überprüfung von HTML-Baum-Snapshots testet testing-library/react das tatsächliche native innere oder äußere HTML des Zielelements, was die tatsächliche DOM-Ausgabe besser widerspiegelt.
+Bei der Überprüfung von HTML-Baum-Snapshots testet testing-library/react das native innere oder äußere HTML des Zielelements, was die tatsächliche DOM-Ausgabe besser widerspiegelt.
 
 #### enzyme
 

@@ -25,7 +25,7 @@ The following examples compare some tests in enzyme and rewritten in testing-lib
 
 ### **Snapshots**
 
-When checking HTML tree snapshots, the testing-library/react approach tests the actual native inner or outer HTML of the target element, better reflecting the actual DOM output.
+When checking HTML tree snapshots, the testing-library/react approach tests the native inner or outer HTML of the target element, better reflecting the actual DOM output.
 
 #### enzyme
 
