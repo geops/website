@@ -14,104 +14,107 @@ Da viele geOps-Anwendungen auf Enzyme für Unit-Tests angewiesen waren, musste e
 
 Zunächst einmal ist es wichtig, einen wesentlichen Unterschied zwischen den beiden Bibliotheken zu benennen. Abgesehen von den DOM-Testmethoden bietet enzyme Test-Utilities, die auf den Komponentenzustand zugreifen und das Testen von Komponenten basierend auf ihren internen APIs ermöglichen. Stattdessen konzentriert sich testing-library/react nur auf das Testen der eigentlichen DOM-Elemente. Die Entwickler argumentieren, dass dieser Ansatz benutzerorientierter ist, da das DOM die endgültige Ausgabe ist, mit der der Benutzer tatsächlich interagiert. Dieser Ansatz vermeidet auch, dass der Test nach strukturellen Änderungen, die keinen Einfluss auf die Funktion der Komponente und die DOM-Ausgabe haben, angepasst werden muss, was sehr zeitaufwändig sein kann.
 
-Eine ausführliche [Dokumentation](https://testing-library.com/docs/react-testing-library/intro/) und ein [Migrationsleitfaden](https://testing-library.com/docs/react-testing-library/migrate-from-enzyme) beschreiben, wie enzyme-Tests mit testing-library/react umgeschrieben werden können. testing-library/react bietet eine Auswahl an [Abfragefunktionen](https://testing-library.com/docs/queries/about), die für eine benutzerorientierte Auswahl der DOM-Elemente  verwendet werden können. Die folgenden Beispiele zeigen denselben Test in Enzyme und in testing-library/react.
+Eine ausführliche [Dokumentation](https://testing-library.com/docs/react-testing-library/intro/) und ein [Migrationsleitfaden](https://testing-library.com/docs/react-testing-library/migrate-from-enzyme) beschreiben, wie enzyme-Tests mit testing-library/react umgeschrieben werden können. testing-library/react bietet eine Auswahl an [Abfragefunktionen](https://testing-library.com/docs/queries/about), die für eine benutzerorientierte Auswahl der DOM-Elemente  verwendet werden können. 
+
+In den folgenden Beispielen werden einige Tests in enzyme und umgeschrieben in testing-library/react verglichen.
+
+Bei der Überprüfung von HTML-Baum-Snapshots testet testing-library/react das tatsächliche native innere oder äußere HTML des Zielelements, was die tatsächliche DOM-Ausgabe besser widerspiegelt.
 
 #### enzyme
 
 ```js
-import React from 'react';
-import { Provider } from 'react-redux';
-import thunk from 'redux-thunk';
 import { configure, mount } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
-import configureStore from 'redux-mock-store';
-import DialogComponent from './DialogComponent';
 
 configure({ adapter: new Adapter() });
 
-describe('DialogComponent', () => {
- const mockStore = configureStore([thunk]);
- let store;
-
- beforeEach(() => {
-   store = mockStore({
-     app: { dialogOpen: true },
-   });
- });
-
- test('should close Dialog on close button click.', () => {
-   const wrapper = mount(
-     <Provider store={store}>
-       <DialogComponent />
-     </Provider>,
-   );
-   const component = wrapper.find('DialogComponent');
-   const closeBtn = component.find('.component-class').find('Button').at(1);
-   closeBtn.simulate('click');
-
-   expect(store.getActions()).toEqual([
-     { data: false, type: 'SET_DIALOG_OPEN' },
-   ]);
- });
-
- test('should match snapshot', () => {
-   const component = mount(
-     <Provider store={store}>
-       <DialogComponent />
-     </Provider>,
-   );
+test('should match snapshot', () => {
+   const component = mount(<DialogComponent />);
    expect(component.html()).toMatchSnapshot();
  });
-});
 ```
-
-
 
 #### testing-library/react
 
 ```js
-import React from 'react';
-import { Provider } from 'react-redux';
-import thunk from 'redux-thunk';
-import { render, fireEvent, screen } from '@testing-library/react';
-import configureStore from 'redux-mock-store';
-import DialogComponent from './DialogComponent';
+import { render, screen } from '@testing-library/react';
 
-describe('DialogComponent', () => {
- const mockStore = configureStore([thunk]);
- let store;
-
- beforeEach(() => {
-   store = mockStore({
-     app: { dialogOpen: true },
-   });
+test('should match snapshot', () => {
+   const { container } = render(<DialogComponent />);
+   expect(container.innerHTML.toMatchSnapshot();
  });
+```
 
- test('should close Dialog on close button click.', async () => {
-   expect(store.getActions()).toEqual([]);
-   expect(store.getState().app.dialogOpen).toBe(true);
-   render(
-     <Provider store={store}>
-       <DialogComponent />
-     </Provider>,
-   );
-   const closeBtn = screen
-     .getByTestId('dialog-testid')
-     .querySelectorAll('.component-class button')[1];
-   await fireEvent.click(closeBtn);
 
-   expect(store.getActions()).toEqual([
-     { data: false, type: 'SET_DIALOG_OPEN' },
-   ]);
+
+Darüber hinaus bietet die react-testing-library eine Auswahl an Abfragemethoden, um Ziel-DOM-Knoten zu finden. *getByTestId* ist besonders nützlich, da es das Auffinden von Ziel-Tags durch die Abfrage ihrer eindeutigen Test-ID präzisiert.
+
+#### enzyme
+
+```js
+import { configure, mount } from 'enzyme';
+import Adapter from 'enzyme-adapter-react-16';
+
+configure({ adapter: new Adapter() });
+
+test('should close Dialog on close button click.', () => {
+   const wrapper = mount(<ToggleButton />);
+   const component = wrapper.find(ToggleButton);
+   expect(component).toBeTruthy();
  });
+```
 
- test('should match snapshot', () => {
-   const { getByTestId } = render(
-     <Provider store={store}>
-       <DialogComponent />
-     </Provider>,
-   );
-   expect(getByTestId('dialog-testid').outerHTML).toMatchSnapshot();
+#### testing-library/react
+
+```js
+import { render } from '@testing-library/react';
+
+test('should render toggle button', () => {
+   const { getByTestId } = render(<ToggleButton />);
+   const toggleBtn = getByTestId('toggle-btn');
+   expect(toggleBtn).toBeTruthy();
  });
+```
+
+
+
+Eine weitere praktische Funktion in testing-library/react ist die unkomplizierte Aktualisierung von Komponenten innerhalb von Tests mit *async - await*. Dies macht es sehr einfach, auf Änderungen nach Ereignissen wie Klicks oder Eingabeänderungen zu warten.
+
+#### enzyme
+
+```js
+import { configure, mount } from 'enzyme';
+import Adapter from 'enzyme-adapter-react-16';
+
+configure({ adapter: new Adapter() });
+
+test("set state's text property on input change", () => {
+   const text = 'Some text';
+   const wrapper = mount(<TextInput value={text} />);
+   expect(wrapper.find('TextInput').state().name)
+     .toEqual(text);
+
+   wrapper.find('textarea')
+     .simulate('change', { target: { value: 'bar' } });
+
+   expect(wrapper.find('TextInput').state().name)
+     .toEqual('bar');
+ });
+```
+
+#### testing-library/react
+
+```js
+import { render, screen } from '@testing-library/react';
+
+test("set state's text property on input change", async () => {
+   const text = 'Some text';
+   render(<TextInput value={text} />);
+   const textarea = screen.getByTestId('styler-text-area')
+       .querySelector('textarea');
+   expect(textarea.value).toBe(text);
+
+   await fireEvent.change(textarea, { target: { value: 'bar' } });
+   expect(textarea.value).toBe('bar');
 });
 ```
