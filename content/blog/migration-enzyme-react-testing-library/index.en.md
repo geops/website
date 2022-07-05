@@ -21,6 +21,8 @@ A detailed [documentation](https://testing-library.com/docs/react-testing-librar
 
 The following examples compare some tests in enzyme and rewritten in testing-library/react.
 
+
+
 ### **Snapshots**
 
 When checking HTML tree snapshots, the testing-library/react approach tests the actual native inner or outer HTML of the target element, better reflecting the actual DOM output.
@@ -49,8 +51,6 @@ test('should match snapshot', () => {
    expect(container.innerHTML.toMatchSnapshot();
  });
 ```
-
-
 
 ### **Query selectors**
 
@@ -82,8 +82,6 @@ test('should render toggle button', () => {
    expect(toggleBtn).toBeTruthy();
  });
 ```
-
-
 
 ### **Events**
 
