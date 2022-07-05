@@ -2,7 +2,6 @@ import Markdown from "markdown-to-jsx";
 import Head from "next/head";
 import Image from "next/image";
 import {Prism as SyntaxHighlighter} from 'react-syntax-highlighter';
-import { materialDark } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 
 import { useI18n } from "../lib/i18n";
 import namedCodesToUnicode from "../lib/namedCodesToUnicode";
@@ -13,7 +12,7 @@ function CodeBlock({className, children}) {
     lang = className.replace('lang-', '');
   }
   return (
-    <SyntaxHighlighter language={lang} style={materialDark}>
+    <SyntaxHighlighter language={lang}>
       {children}
     </SyntaxHighlighter>
   );
