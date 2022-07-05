@@ -18,6 +18,8 @@ Eine ausführliche [Dokumentation](https://testing-library.com/docs/react-testin
 
 In den folgenden Beispielen werden einige Tests in enzyme und umgeschrieben in testing-library/react verglichen.
 
+### **Snapshots**
+
 Bei der Überprüfung von HTML-Baum-Snapshots testet testing-library/react das tatsächliche native innere oder äußere HTML des Zielelements, was die tatsächliche DOM-Ausgabe besser widerspiegelt.
 
 #### enzyme
@@ -47,6 +49,8 @@ test('should match snapshot', () => {
 
 
 
+### **Abfrage-Selektoren**
+
 Darüber hinaus bietet die react-testing-library eine Auswahl an Abfragemethoden, um Ziel-DOM-Knoten zu finden. *getByTestId* ist besonders nützlich, da es das Auffinden von Ziel-Tags durch die Abfrage ihrer eindeutigen Test-ID präzisiert.
 
 #### enzyme
@@ -59,7 +63,7 @@ configure({ adapter: new Adapter() });
 
 test('should close Dialog on close button click.', () => {
    const wrapper = mount(<ToggleButton />);
-   const component = wrapper.find(ToggleButton);
+   const component = wrapper.find('ToggleButton');
    expect(component).toBeTruthy();
  });
 ```
@@ -77,6 +81,8 @@ test('should render toggle button', () => {
 ```
 
 
+
+### **Events**
 
 Eine weitere praktische Funktion in testing-library/react ist die unkomplizierte Aktualisierung von Komponenten innerhalb von Tests mit *async - await*. Dies macht es sehr einfach, auf Änderungen nach Ereignissen wie Klicks oder Eingabeänderungen zu warten.
 
@@ -110,7 +116,7 @@ import { render, screen } from '@testing-library/react';
 test("set state's text property on input change", async () => {
    const text = 'Some text';
    render(<TextInput value={text} />);
-   const textarea = screen.getByTestId('styler-text-area')
+   const textarea = screen.getByTestId('text-area')
        .querySelector('textarea');
    expect(textarea.value).toBe(text);
 
