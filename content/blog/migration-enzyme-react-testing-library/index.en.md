@@ -112,7 +112,7 @@ test("set state's text property on input change", () => {
 #### testing-library/react
 
 ```js
-import { render, screen } from '@testing-library/react';
+import { render, screen, fireEvent } from '@testing-library/react';
 
 test("set state's text property on input change", async () => {
    const text = 'Some text';
