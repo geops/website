@@ -1,7 +1,6 @@
 ---
 title: Migrating from enzyme to testing-library/react
-summary: Unit testing in geOps applications was previously handled by the
-  deprecated library enzyme. These tests have now been rewritten with
+summary: We have rewritten our frontend unit tests from using enzyme to
   testing-library/react. This article provides a quick overview of the updates.
 author: Daniel Marsh-Hunn
 cover: /images/blog/migrating-from-enzyme-to-testing-library-react/testing-library.png

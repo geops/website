@@ -1,8 +1,7 @@
 ---
 title: Umstellung von enzyme auf testing-library/react
-summary: Unit-Tests in geOps-Anwendungen wurden bisher von der veralteten
-  Bibliothek enzyme durchgeführt. Diese Tests wurden nun mit
-  testing-library/react neu geschrieben. Dieser Artikel bietet einen kurzen
+summary: Wir haben unsere Frontend-Unit-Tests von enzyme auf
+  testing-library/react umgeschrieben. Dieser Artikel bietet einen schnellen
   Überblick über die Aktualisierungen.
 created: 2022-07-04
 slug: umstellung-enzyme-react-testing-library
