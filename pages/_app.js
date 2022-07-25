@@ -54,7 +54,7 @@ export default function Website({ Component, pageProps }) {
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@geOps" />
         <meta name="twitter:creator" content="@geOps" />
-        <meta property="twitter:image" content={shareImg} />
+        <meta name="twitter:image" content={shareImg} />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />
