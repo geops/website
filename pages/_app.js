@@ -49,7 +49,12 @@ export default function Website({ Component, pageProps }) {
 
         {/* OpenGraph meta tags */}
         <meta property="og:url" content={`https://geops.com${asPath}`} />
-        <meta property="og:image" content={shareImg} />
+        <meta
+          property="og:image"
+          content={
+            "https://website-git-olivier-metatag-geops.vercel.app/travicv2-300x300.png"
+          }
+        />
 
         {/* Twitter meta tags */}
         <meta name="twitter:card" content="summary" />
