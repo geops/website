@@ -52,7 +52,7 @@ export default function Website({ Component, pageProps }) {
         <meta
           property="og:image"
           content={
-            "https://website-git-olivier-metatag-geops.vercel.app/travicv2-300x300.png"
+            "https://website-git-olivier-metatag-geops.vercel.app/static/travicv2-300x300.png"
           }
         />
 
