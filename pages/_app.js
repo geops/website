@@ -17,6 +17,7 @@ export default function Website({ Component, pageProps }) {
     pageProps.language === "en" ? "/en" : ""
   }`;
   useAnalytics();
+  console.log(pageProps);
   const shareImg =
     "https://geops.com" + (pageProps.item?.cover || "/logo191.png");
   return (
@@ -45,16 +46,15 @@ export default function Website({ Component, pageProps }) {
           href={`${baseUrl}/feed/feed.json`}
         />
         <link rel="canonical" href={`https://geops.com${asPath}`} />
-
         {/* OpenGraph meta tags */}
+        <meta property="og:title" content={"test"} />
+        <meta property="og:description" content={"descr"} />
         <meta property="og:url" content={`https://geops.com${asPath}`} />
         <meta property="og:image" content={shareImg} />
-
         {/* Twitter meta tags */}
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@geOps" />
         <meta name="twitter:creator" content="@geOps" />
-        <meta name="twitter:image" content={shareImg} />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />
