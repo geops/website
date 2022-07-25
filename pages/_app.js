@@ -17,8 +17,9 @@ export default function Website({ Component, pageProps }) {
     pageProps.language === "en" ? "/en" : ""
   }`;
   useAnalytics();
-  // console.log(pageProps);
-  const shareImg = "https://geops.com" + (pageProps.cover || "/logo191.png");
+  console.log(pageProps);
+  const shareImg =
+    "https://geops.com" + (pageProps.item?.cover || "/logo191.png");
   return (
     <I18n language={pageProps.language}>
       <Head>
