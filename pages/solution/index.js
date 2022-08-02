@@ -15,6 +15,7 @@ export default function SolutionIndex({ solutions }) {
       title={t("solution.title")}
       description={t("solution.text")}
       translationPath="/solution"
+      shareImg={(solutions && solutions[0]?.gridImage) || null}
     >
       <div className="bg-gray-darker py-8 px-4 sm:px-8">
         <div className="mx-auto max-w-screen-md text-white">
