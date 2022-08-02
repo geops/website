@@ -27,6 +27,7 @@ export default function About({ content, team, technologies }) {
       translationPath="/about"
     >
       <PageHeader
+        title={content.title}
         src="/images/page/about/header.jpg"
         srcMobile="/images/page/about/header-mobile.jpg"
       />
