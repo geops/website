@@ -52,12 +52,7 @@ export default function Website({ Component, pageProps }) {
           property="og:url"
           content={`https://website-git-olivier-metatag-geops.vercel.app${asPath}`}
         />
-        <meta
-          property="og:image"
-          content={
-            "https://website-git-olivier-metatag-geops.vercel.app/static/travicv2-300x300.png"
-          }
-        />
+        <meta property="og:image" content={shareImg} />
 
         {/* Twitter meta tags */}
         <meta name="twitter:card" content="summary" />
