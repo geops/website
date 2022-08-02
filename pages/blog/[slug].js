@@ -18,6 +18,7 @@ export default function BlogArticle({ item, related }) {
 
   return (
     <Layout
+      title={item.title}
       description={item.summary}
       translationPath={`/blog/${item.translationSlug}`}
     >

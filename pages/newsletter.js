@@ -10,7 +10,11 @@ export const config = {
 
 export default function Newsletter({ translations }) {
   return (
-    <Layout description={translations.subtitle} translationPath="/newsletter">
+    <Layout
+      title="Newsletter"
+      description={translations.subtitle}
+      translationPath="/newsletter"
+    >
       <PageHeader title="Newsletter" />
       <NewsletterForm translations={translations} />
     </Layout>

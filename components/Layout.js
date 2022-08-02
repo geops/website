@@ -36,7 +36,7 @@ export default function Layout({
         />
 
         {/* OpenGraph meta tags */}
-        {<meta property="og:title" content={titl} />}
+        <meta property="og:title" content={titl} />
         {description && <meta property="og:description" content={descr} />}
       </Head>
       <Header translationPath={translationPath} />

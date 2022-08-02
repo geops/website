@@ -25,7 +25,7 @@ export default function Header({ translationPath }) {
     const observer = new IntersectionObserver(
       (entries) => {
         const height = entries[0].isIntersecting ? "112px" : "64px";
-        headerContainer.current.style.setProperty("--header-height", height);
+        headerContainer.current?.style.setProperty("--header-height", height);
       },
       { threshold: 0 }
     );
