@@ -10,7 +10,6 @@ const HtmlLang = dynamic(() => import("../components/HtmlLang"), {
 
 export default function Website({ Component, pageProps }) {
   useAnalytics();
-  console.log(pageProps);
   return (
     <I18n language={pageProps.language}>
       <HtmlLang />
