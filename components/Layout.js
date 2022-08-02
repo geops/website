@@ -38,6 +38,10 @@ export default function Layout({
         {/* OpenGraph meta tags */}
         <meta property="og:title" content={titl} />
         {description && <meta property="og:description" content={descr} />}
+
+        {/* Twitter meta tags */}
+        <meta name="twitter:title" content={titl} />
+        <meta name="twitter:description" content={descr} />
       </Head>
       <Header translationPath={translationPath} />
       {children}
