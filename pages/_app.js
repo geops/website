@@ -50,7 +50,6 @@ export default function Website({ Component, pageProps }) {
         {/* OpenGraph meta tags */}
         <meta property="og:url" content={`https://geops.com${asPath}`} />
         <meta property="og:image" content={shareImg} />
-        <meta property="og:type" content="article" />
         <meta property="og:site_name" content="geOps" />
 
         {/* Twitter meta tags */}
