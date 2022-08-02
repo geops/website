@@ -21,6 +21,7 @@ export default function BlogArticle({ item, related }) {
       title={item.title}
       description={item.summary}
       translationPath={`/blog/${item.translationSlug}`}
+      shareImg={item.cover}
     >
       <div className="mx-auto hidden max-w-screen-lg xl:sticky xl:top-4 xl:block">
         {/* > xl*/}

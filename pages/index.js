@@ -16,7 +16,10 @@ export const config = {
 export default function Frontpage({ items, slides }) {
   const { t } = useI18n();
   return (
-    <Layout description={t("aboutTeaser.text")}>
+    <Layout
+      description={t("aboutTeaser.text")}
+      shareImg={(slides && slides[0]?.image) || null}
+    >
       <Carousel slides={slides} />
       <div className="relative">
         <AboutTeaser />

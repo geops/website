@@ -18,6 +18,7 @@ export default function BlogIndex({ list }) {
       title={title}
       description={t("blog.header")}
       translationPath="/blog"
+      shareImg={list && list[0]?.cover}
     >
       <PageHeader
         src="/images/blog/header.jpg"

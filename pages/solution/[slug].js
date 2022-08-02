@@ -23,6 +23,7 @@ export default function Solution({ related, solution }) {
       title={solution.title}
       description={solution.summary}
       translationPath={`/solution/${solution.translationSlug}`}
+      shareImg={solution?.cover}
     >
       <PageHeader
         src={solution.pageCover}
