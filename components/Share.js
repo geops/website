@@ -20,7 +20,7 @@ const socialMedia = [
   {
     icon: <FacebookIcon className="w-full" />,
     href: "http://www.facebook.com/sharer.php?u={url}&t={title}",
-    title: "Facebbok",
+    title: "Facebook",
   },
   {
     icon: <XingIcon className="w-full" />,
