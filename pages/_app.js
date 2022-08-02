@@ -48,13 +48,19 @@ export default function Website({ Component, pageProps }) {
         <link rel="canonical" href={`https://geops.com${asPath}`} />
 
         {/* OpenGraph meta tags */}
-        <meta property="og:url" content={`https://geops.com${asPath}`} />
-        <meta property="og:image" content={shareImg} />
+        {/* <meta property="og:url" content={`https://geops.com${asPath}`} /> */}
+        <meta
+          property="og:image"
+          content={
+            "https://website-git-olivier-metatag-geops.vercel.app/static/travicv2-300x300.png"
+          }
+        />
 
         {/* Twitter meta tags */}
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@geOps" />
         <meta name="twitter:creator" content="@geOps" />
+        <meta name="twitter:url" content={`https://geops.com${asPath}`} />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />
