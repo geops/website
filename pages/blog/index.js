@@ -12,12 +12,17 @@ export const config = {
 
 export default function BlogIndex({ list }) {
   const { t } = useI18n();
+  const title = "Blog";
   return (
-    <Layout description={t("blog.header")} translationPath="/blog">
+    <Layout
+      title={title}
+      description={t("blog.header")}
+      translationPath="/blog"
+    >
       <PageHeader
         src="/images/blog/header.jpg"
         srcMobile="/images/blog/header-mobile.jpg"
-        title="Blog"
+        title={title}
         text={t("blog.header")}
       />
       <BlogList list={list} />

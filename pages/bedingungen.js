@@ -10,9 +10,10 @@ export const config = {
 
 export default function Imprint({ content }) {
   const { t } = useI18n();
+  const title = t("terms.title");
   return (
-    <Layout translationPath={t("terms.translationPath")}>
-      <Article body={content.body} title={t("terms.title")} />
+    <Layout title={title} translationPath={t("terms.translationPath")}>
+      <Article title={title} body={content.body} />
     </Layout>
   );
 }

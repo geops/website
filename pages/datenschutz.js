@@ -10,9 +10,10 @@ export const config = {
 
 export default function Privacy({ content }) {
   const { t } = useI18n();
+  const title = t("privacy.title");
   return (
-    <Layout translationPath={t("privacy.translationPath")}>
-      <Article body={content.body} title={t("privacy.title")} />
+    <Layout title={title} translationPath={t("privacy.translationPath")}>
+      <Article title={title} body={content.body} />
     </Layout>
   );
 }

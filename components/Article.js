@@ -1,29 +1,25 @@
 import Markdown from "markdown-to-jsx";
 import Head from "next/head";
 import Image from "next/image";
-import {Prism as SyntaxHighlighter} from 'react-syntax-highlighter';
+import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 
 import { useI18n } from "../lib/i18n";
 import namedCodesToUnicode from "../lib/namedCodesToUnicode";
 
-function CodeBlock({className, children}) {
-  let lang = 'text'; // default monospaced text
-  if (className && className.startsWith('lang-')) {
-    lang = className.replace('lang-', '');
+function CodeBlock({ className, children }) {
+  let lang = "text"; // default monospaced text
+  if (className && className.startsWith("lang-")) {
+    lang = className.replace("lang-", "");
   }
-  return (
-    <SyntaxHighlighter language={lang}>
-      {children}
-    </SyntaxHighlighter>
-  );
+  return <SyntaxHighlighter language={lang}>{children}</SyntaxHighlighter>;
 }
 
-function PreBlock({children, ...rest}) {
-  if ('type' in children && children ['type'] === 'code') {
-    return CodeBlock(children['props']);
+function PreBlock({ children, ...rest }) {
+  if ("type" in children && children["type"] === "code") {
+    return CodeBlock(children["props"]);
   }
   return <pre {...rest}>{children}</pre>;
-};
+}
 
 function ArticleImage({ alt, imageSizes, src }) {
   const { height, width } = imageSizes[src] || {};
@@ -58,10 +54,7 @@ export default function Article({ author, body, created, imageSizes, title }) {
     <article className="container prose prose-xl mx-auto mb-16 max-w-screen-lg break-words px-8 pt-8 lg:pt-0">
       {title && (
         <>
-          <Head>
-            <title>{`${title} | geOps`}</title>
-            {author && <meta name="author" content={author} />}
-          </Head>
+          <Head>{author && <meta name="author" content={author} />}</Head>
           <h1 className="pt-16 text-center">{title}</h1>
         </>
       )}

@@ -4,9 +4,6 @@ import Image from "next/image";
 export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
   return (
     <>
-      <Head>
-        <title>{`${title} | geOps`}</title>
-      </Head>
       <div
         className={`relative ${
           src &&

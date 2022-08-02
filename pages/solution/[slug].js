@@ -20,6 +20,7 @@ export default function Solution({ related, solution }) {
 
   return (
     <Layout
+      title={solution.title}
       description={solution.summary}
       translationPath={`/solution/${solution.translationSlug}`}
     >

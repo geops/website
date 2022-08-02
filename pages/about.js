@@ -21,11 +21,15 @@ export const config = {
 
 export default function About({ content, team, technologies }) {
   return (
-    <Layout description={content.we1} translationPath="/about">
+    <Layout
+      title={content.title}
+      description={content.we1}
+      translationPath="/about"
+    >
       <PageHeader
+        title={content.title}
         src="/images/page/about/header.jpg"
         srcMobile="/images/page/about/header-mobile.jpg"
-        title={content.title}
       />
       <AboutContent content={content} />
       <TechnologyCarousel slides={technologies} />

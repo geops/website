@@ -26,13 +26,22 @@ export default function Layout({
 
         <link
           rel="alternate"
-          hrefLang={isDE ? "en" : "de"}
-          href={`https://geops.com${isDE ? "/en" : ""}${translationPath || ""}`}
+          hrefLang="en"
+          href={`https://geops.com/en${translationPath || ""}`}
+        />
+        <link
+          rel="alternate"
+          hrefLang="de"
+          href={`https://geops.com${translationPath || ""}`}
         />
 
         {/* OpenGraph meta tags */}
-        {<meta name="og:title" content={titl} />}
-        {description && <meta name="og:description" content={descr} />}
+        <meta property="og:title" content={titl} />
+        {description && <meta property="og:description" content={descr} />}
+
+        {/* Twitter meta tags */}
+        <meta name="twitter:title" content={titl} />
+        <meta name="twitter:description" content={descr} />
       </Head>
       <Header translationPath={translationPath} />
       {children}

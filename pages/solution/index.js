@@ -12,8 +12,8 @@ export default function SolutionIndex({ solutions }) {
   const { t } = useI18n();
   return (
     <Layout
-      description={t("solution.text")}
       title={t("solution.title")}
+      description={t("solution.text")}
       translationPath="/solution"
     >
       <div className="bg-gray-darker py-8 px-4 sm:px-8">

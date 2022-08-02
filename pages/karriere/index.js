@@ -13,12 +13,13 @@ export const config = {
 
 export default function Career({ content, jobs }) {
   const { t } = useI18n();
+  const title = t("career.title");
   return (
-    <Layout translationPath={t("career.translationPath")}>
+    <Layout title={title} translationPath={t("career.translationPath")}>
       <PageHeader
         src="/images/page/career/header.jpg"
         srcMobile="/images/page/career/header-mobile.jpg"
-        title={t("career.title")}
+        title={title}
         text={content.headerText}
       />
       <CareerContent content={content} />

@@ -17,6 +17,8 @@ export default function Website({ Component, pageProps }) {
     pageProps.language === "en" ? "/en" : ""
   }`;
   useAnalytics();
+  const shareImg =
+    "https://geops.com" + (pageProps.item?.cover || "/logo191.png");
   return (
     <I18n language={pageProps.language}>
       <Head>
@@ -46,13 +48,14 @@ export default function Website({ Component, pageProps }) {
 
         {/* OpenGraph meta tags */}
         <meta property="og:url" content={`https://geops.com${asPath}`} />
-        <meta property="og:image" content="/logo191.png" />
+        <meta property="og:image" content={shareImg} />
+        <meta property="og:site_name" content="geOps" />
 
         {/* Twitter meta tags */}
-        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@geOps" />
         <meta name="twitter:creator" content="@geOps" />
-        <meta property="twitter:image" content="/logo191.png" />
+        <meta name="twitter:image:src" content={shareImg} />
       </Head>
       <HtmlLang />
       <Component {...pageProps} />

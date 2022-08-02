@@ -23,6 +23,7 @@ export default function Job({ content, job }) {
 
   return (
     <Layout
+      title={job.title}
       description={job.summary}
       translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
     >
