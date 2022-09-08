@@ -16,8 +16,6 @@ jobs:
 
   cypress-run-firefox:
     runs-on: ubuntu-latest
-    container:
-      options: --user 1001
     steps:
       - name: Checkout
         uses: actions/checkout@v2
