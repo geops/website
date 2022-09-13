@@ -1,5 +1,5 @@
 ---
-title: xxxxDetermining maximum HTML Canvas sizesxxx
+title: Determining maximum HTML Canvas sizes
 summary: Several geOps applications have functions for exporting high-resolution
   maps as raster images. We explain how to calculate the maximum size of the
   canvas and thus the resolution and size for printouts.
