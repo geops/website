@@ -170,11 +170,7 @@ third party consumers of the library that implemented their own wrappers.
 
 Annotating `Any` to make the error go away also is not the best solution.
 
-This is: Instead of asking "_Is it a file?_" we should ask "_Can I run readline on it?_".
-
-This can be done using the `typing.Protocol` helper.
-
-Protocols define an interface for _the consumer_ of the interface:
+This is: Instead of asking "_Is it a file?_" we should ask "_Can I run readline on it?_". This can be done using the `typing.Protocol` helper. Protocols define an interface for _the consumer_ of the interface:
 
  * the users of the library don't need to change anything
  * type checkers will tell users which parts of the protocol they miss, if any
