@@ -60,10 +60,7 @@ expect for a variable, parameter, or return value.
 > Type hints are _optional and are not enforced_ by Python (...)
 
 There are tools to check type annotations _statically_, meaning
-_before runtime_.
-
-Start with the code that would impact most other code, especially code
-outside the current repository:
+_before runtime_. Start with the code that would impact most other code, especially code outside the current repository:
 
  - libraries: modules that are imported a lot (`utils.py`)
  - APIs: data structures that will be consumed by different processes (REST API)
