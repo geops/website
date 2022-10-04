@@ -18,31 +18,9 @@ This blog post is aimed at Python programmers who are interested in adding type
 annotations to an existing code base.
 
 The Python interpreter handles types in a dynamic and flexible way without
-constraints on what type of object a variable is assigned to.
-
-Since Python 3.5 programmers have the option to add type annotations to their
-code along with tools like `mypy` to check that they are valid.
-
-With the [`typing_extensions`](https://pypi.org/project/typing-extensions/)
+constraints on what type of object a variable is assigned to. Since Python 3.5 programmers have the option to add type annotations to their code along with tools like `mypy` to check that they are valid. With the [`typing_extensions`](https://pypi.org/project/typing-extensions/)
 backports you can use static typing features of the latest Python release in
-every supported Python version.
-
-Adding static typing to your code base makes it easier to read and more robust:
-unintended use of annotated functions and variables is flagged by the type
-checker immediately instead of failing at runtime.
-
-This blog post is aimed at Python programmers who are interested in adding type
-annotations to an existing code base.
-
-The Python interpreter handles types in a dynamic and flexible way without
-constraints on what type of object a variable is assigned to.
-
-Since Python 3.5 programmers have the option to add type annotations to their
-code along with tools like `mypy` to check that they are valid.
-
-With the [`typing_extensions`](https://pypi.org/project/typing-extensions/)
-backports you can use static typing features of the latest Python release in
-every supported Python version.
+every supported Python version. 
 
 Adding static typing to your code base makes it easier to read and more robust:
 unintended use of annotated functions and variables is flagged by the type
