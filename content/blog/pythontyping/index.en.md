@@ -18,31 +18,9 @@ This blog post is aimed at Python programmers who are interested in adding type
 annotations to an existing code base.
 
 The Python interpreter handles types in a dynamic and flexible way without
-constraints on what type of object a variable is assigned to.
-
-Since Python 3.5 programmers have the option to add type annotations to their
-code along with tools like `mypy` to check that they are valid.
-
-With the [`typing_extensions`](https://pypi.org/project/typing-extensions/)
+constraints on what type of object a variable is assigned to. Since Python 3.5 programmers have the option to add type annotations to their code along with tools like `mypy` to check that they are valid. With the [`typing_extensions`](https://pypi.org/project/typing-extensions/)
 backports you can use static typing features of the latest Python release in
-every supported Python version.
-
-Adding static typing to your code base makes it easier to read and more robust:
-unintended use of annotated functions and variables is flagged by the type
-checker immediately instead of failing at runtime.
-
-This blog post is aimed at Python programmers who are interested in adding type
-annotations to an existing code base.
-
-The Python interpreter handles types in a dynamic and flexible way without
-constraints on what type of object a variable is assigned to.
-
-Since Python 3.5 programmers have the option to add type annotations to their
-code along with tools like `mypy` to check that they are valid.
-
-With the [`typing_extensions`](https://pypi.org/project/typing-extensions/)
-backports you can use static typing features of the latest Python release in
-every supported Python version.
+every supported Python version. 
 
 Adding static typing to your code base makes it easier to read and more robust:
 unintended use of annotated functions and variables is flagged by the type
@@ -71,10 +49,7 @@ a = 123  # a is assigned to a value of type `int`
 a /= 2  # a is assigned to the value 61.5, which is a `float`
 ```
 
-The opposite of a dynamically typed language would be a statically typed
-language where a variable can only point at an object of a declared type.
-
-This is by design!
+The opposite of a dynamically typed language would be a statically typed language where a variable can only point at an object of a declared type. This is by design!
 
 But it can lead to runtime bugs when your assumptions about the type of a
 variable are wrong.
@@ -90,10 +65,7 @@ expect for a variable, parameter, or return value.
 > Type hints are _optional and are not enforced_ by Python (...)
 
 There are tools to check type annotations _statically_, meaning
-_before runtime_.
-
-Start with the code that would impact most other code, especially code
-outside the current repository:
+_before runtime_. Start with the code that would impact most other code, especially code outside the current repository:
 
  - libraries: modules that are imported a lot (`utils.py`)
  - APIs: data structures that will be consumed by different processes (REST API)
@@ -152,9 +124,7 @@ Annotating library functions
 ----------------------------
 
 As a user of a library I want to know what the input and output of the library
-look like without reading the code.
-
-This often looks more obvious than it is:
+look like without reading the code. This often looks more obvious than it is:
 
 ```python
 import sys
@@ -179,24 +149,14 @@ if __name__ == "__main__":
 ```
 
 `cat` takes a input file and an output file and writes the content of the input
-file to the output file.
+file to the output file. `ScreemInput` is a wrapper for an input file that turns everything into upper case.
 
-`ScreemInput` is a wrapper for an input file that turns everything into upper
-case.
-
-We could annotate `input_file` and `output_file` to as `io.StringIO`
-*BUT* `ScreemInput` works fine with `cat` despite not being a text file!
-
+We could annotate `input_file` and `output_file` to as `io.StringIO` *BUT* `ScreemInput` works fine with `cat` despite not being a text file!
 We could also annotate `io.TextIO | ScreemInput` but that would still brake
 third party consumers of the library that implemented their own wrappers.
-
 Annotating `Any` to make the error go away also is not the best solution.
 
-This is: Instead of asking "_Is it a file?_" we should ask "_Can I run readline on it?_".
-
-This can be done using the `typing.Protocol` helper.
-
-Protocols define an interface for _the consumer_ of the interface:
+This is: Instead of asking "_Is it a file?_" we should ask "_Can I run readline on it?_". This can be done using the `typing.Protocol` helper. Protocols define an interface for _the consumer_ of the interface:
 
  * the users of the library don't need to change anything
  * type checkers will tell users which parts of the protocol they miss, if any
@@ -263,12 +223,9 @@ There are some great tools to choose from:
 
 I highly recommend doing the [FastAPI tutorial](https://fastapi.tiangolo.com/tutorial/)!
 
-... but suppose you have a highly _performance-critical_ task in a project that
+But suppose you have a highly _performance-critical_ task in a project that
 _writes lots of JSON-Dumps_ into a redis cache for later _consumption by other
-processes_.
-
-Then all of the options mentioned above are too slow and changing your existing
-codebase it not feasible.
+processes_. Then all of the options mentioned above are too slow and changing your existing codebase it not feasible.
 
 The following table from the [orjson readme](https://github.com/ijl/orjson#dataclass)
 shows that even dataclasses come with a performance penalty, especially when
