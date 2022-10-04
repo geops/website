@@ -49,10 +49,7 @@ a = 123  # a is assigned to a value of type `int`
 a /= 2  # a is assigned to the value 61.5, which is a `float`
 ```
 
-The opposite of a dynamically typed language would be a statically typed
-language where a variable can only point at an object of a declared type.
-
-This is by design!
+The opposite of a dynamically typed language would be a statically typed language where a variable can only point at an object of a declared type. This is by design!
 
 But it can lead to runtime bugs when your assumptions about the type of a
 variable are wrong.
@@ -130,9 +127,7 @@ Annotating library functions
 ----------------------------
 
 As a user of a library I want to know what the input and output of the library
-look like without reading the code.
-
-This often looks more obvious than it is:
+look like without reading the code. This often looks more obvious than it is:
 
 ```python
 import sys
@@ -157,17 +152,11 @@ if __name__ == "__main__":
 ```
 
 `cat` takes a input file and an output file and writes the content of the input
-file to the output file.
+file to the output file. `ScreemInput` is a wrapper for an input file that turns everything into upper case.
 
-`ScreemInput` is a wrapper for an input file that turns everything into upper
-case.
-
-We could annotate `input_file` and `output_file` to as `io.StringIO`
-*BUT* `ScreemInput` works fine with `cat` despite not being a text file!
-
+We could annotate `input_file` and `output_file` to as `io.StringIO` *BUT* `ScreemInput` works fine with `cat` despite not being a text file!
 We could also annotate `io.TextIO | ScreemInput` but that would still brake
 third party consumers of the library that implemented their own wrappers.
-
 Annotating `Any` to make the error go away also is not the best solution.
 
 This is: Instead of asking "_Is it a file?_" we should ask "_Can I run readline on it?_". This can be done using the `typing.Protocol` helper. Protocols define an interface for _the consumer_ of the interface:
