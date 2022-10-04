@@ -218,12 +218,9 @@ There are some great tools to choose from:
 
 I highly recommend doing the [FastAPI tutorial](https://fastapi.tiangolo.com/tutorial/)!
 
-... but suppose you have a highly _performance-critical_ task in a project that
+But suppose you have a highly _performance-critical_ task in a project that
 _writes lots of JSON-Dumps_ into a redis cache for later _consumption by other
-processes_.
-
-Then all of the options mentioned above are too slow and changing your existing
-codebase it not feasible.
+processes_. Then all of the options mentioned above are too slow and changing your existing codebase it not feasible.
 
 The following table from the [orjson readme](https://github.com/ijl/orjson#dataclass)
 shows that even dataclasses come with a performance penalty, especially when
