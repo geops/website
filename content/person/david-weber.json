@@ -2,10 +2,10 @@
   "name": "David Weber",
   "photo": "/images/person/weberdavid_website.jpg",
   "position": {
-    "de": "Linux-Administrator, DevOps",
-    "en": "Linux administrator, DevOps"
+    "de": "Software Architect, Assistant Manager",
+    "en": "Software Architect, Assistant Manager"
   },
-  "email": "david.weber@geops.de",
+  "email": "david.weber@geops.com",
   "telephone": "+49 761 458 925 30",
   "github": "candux"
 }
