@@ -1,7 +1,7 @@
 ---
-title: Ärzte ohne Grenzen 2020
-summary: Auch 2020 haben wir die HelferInnen von Ärzte ohne Grenzen bei
-  wichtigen Arbeit unterstützt.
+title: "\tDoctors Without Borders 2020"
+summary: In 2020, we again supported the aid workers of Doctors Without Borders
+  in their important work.
 author: Julia Knödler
 cover: /images/blog/aerzte-ohne-grenzen-2020/aerzte_ohne_grenzen_teaser.jpg
 created: 2021-01-05
