@@ -15,4 +15,4 @@ Die Feeds, die zum freien Download zur Verfügung stehen, enthalten nicht alle I
 *   Extraktion der Daten für bestimmte Regionen, Verkehrsmittel oder Verkehrsbetriebe.
 *   Zusammenführen mit weiteren Feeds zur Erstellung grenzübergreifender Datensätze.
 
-Neben der einmaligen Konvertierung stellen wir alle Daten als Dienste zur Verfügung, die laufend aktualisiert und dem Kunden zum Download zur Verfügung gestellt werden. Gerne erhalten Sie von uns [weitere Informationen](/über/kontakt) .
+Neben der einmaligen Konvertierung stellen wir alle Daten als Dienste zur Verfügung, die laufend aktualisiert und dem Kunden zum Download zur Verfügung gestellt werden. Gerne erhalten Sie von uns [weitere Informationen](/about) .

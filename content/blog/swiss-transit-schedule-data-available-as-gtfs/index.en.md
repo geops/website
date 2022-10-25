@@ -23,4 +23,4 @@ The version of the feed available for free download does not contain every bit o
 *   Extraction of data for specific regions and transport agencies.
 *   Merge of several feeds into cross-border datasets.
 
-All data can be provided as one-time conversions as well as in the form of regularly updated data services. Please [contact us](/about/contact) for further information.
+All data can be provided as one-time conversions as well as in the form of regularly updated data services. Please [contact us](/about) for further information.

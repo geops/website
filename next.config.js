@@ -201,6 +201,7 @@ const redirects = `/node/6 /en/imprint
 /blog/122-travel-cartographic-time /en/blog/travel-in-cartographic-time
 /node/170 /blog/mapping-von-netzen-des-offentlichen-verkehrs
 /blog/mapping-von-netzen-des-öffentlichen-verkehrs /blog/mapping-von-netzen-des-offentlichen-verkehrs
+/blog/mapping-von-netzen-des-%C3%B6ffentlichen-verkehrs /blog/mapping-von-netzen-des-offentlichen-verkehrs
 /node/189 /blog/bike-crash-kurs
 /node/184 /blog/zuri-hb-und-zuri-west
 /blog/züri-hb-und-züri-west /blog/zuri-hb-und-zuri-west
@@ -275,4 +276,7 @@ const redirects = `/node/6 /en/imprint
 /blog/werkzeuge-für-schönere-python-projekte /blog/werkzeuge-fur-schonere-python-projekte
 /node/243 /blog/neue-funktionen-in-mapset
 /blog/neue-funktionen-mapset /blog/neue-funktionen-in-mapset
-/blog/ärzte-ohne-grenzen-2020 /blog/aerzte-ohne-grenzen-2020`;
+/blog/ärzte-ohne-grenzen-2020 /blog/aerzte-ohne-grenzen-2020
+/iabp /solution/webkarten-und-bahnhofplaene
+/technologien/vegas /solution
+/fallstudien/altlast4web /solution/umwelt-software`;
