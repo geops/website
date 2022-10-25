@@ -1,6 +1,6 @@
 ---
-title: Daniel Marsh-Hunn
-summary: ""
+title: Daniel Marsh-Hunn joins our team
+summary: "Daniel joined our team in May 2019 and is responsible for developing and improving front-end applications."
 author: Julia Knödler
 cover: /images/blog/daniel-marsh-hunn/Foto Daniel.jpg
 created: 2019-11-19

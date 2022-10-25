@@ -1,12 +1,12 @@
 ---
-title: " Werkzeuge für schönere Python-Projekte"
-summary: Dieser Blog-Beitrag skizziert den aktuellen Setup von pre-commit hooks,
-  statischer Code-Analyse-Tools (Flake8, Black) und Abhängigkeitsmanagement
-  (setuptools, pip-tools) für Python-Projekte bei geOps.
+title: "Tools for prettier Python projects"
+summary: This blog post outlines the current setup of pre-commit hooks,
+  static code analysis tools (Flake8, Black) and dependency management
+  (setuptools, pip-tools) for Python projects at geOps.
 author: Milan Oberkirch
 cover: /images/blog/werkzeuge-fur-schonere-python-projekte/Python.png
 created: 2020-11-17
-slug: werkzeuge-fur-schonere-python-projekte
+slug: tools-for-prettier-python-projects
 tags:
   - developers
   - python

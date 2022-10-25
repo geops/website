@@ -1,11 +1,10 @@
 ---
-title: swisstopo Revisionsdienst Mobile
-summary: Seit heute stellt swisstopo neben der existierenden Anwendung für
-  Desktop-Geräte eine neue für mobile Geräte optimierte Version des
-  Revisionsdiensts online.
+title: swisstopo revision service mobile
+summary: As of today, swisstopo has made available a new version of the application for
+  a new version of the revision service optimized for mobile devices.
 author: Patric Hafner
 created: 2012-04-31
-slug: swisstopo-revisionsdienst-mobile
+slug: swisstopo-revision-service-mobile
 tags:
   - maps
 published: true

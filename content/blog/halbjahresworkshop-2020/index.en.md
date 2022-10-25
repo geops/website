@@ -1,14 +1,14 @@
 ---
-title: Halbjahresworkshop 2020
-summary: Wer hätte bei unserem Workshop im Dezember vergangenen Jahres erahnen
-  können, was uns 2020 erwartet. Trotz der Turbulenzen durch Corona haben wir
-  das Ende des ersten Halbjahres 2020 als Anlass genommen, am 09.07.2020 unseren
-  Halbjahresworkshop in der Lokhalle auf dem Güterbahnhofgelände Freiburg
-  abzuhalten.
+title: Semiannual workshop 2020
+summary: Who could have guessed at our workshop in December of last year
+  what awaits us in 2020. Despite the turbulence caused by Corona, we have
+  the end of the first half of 2020 as an opportunity to hold our half-year workshop on 09.07.2020 in the
+  workshop in the Lokhalle on the freight yard in Freiburg.
+  to be held.
 author: Julia Knödler
 cover: /images/blog/halbjahresworkshop-2020/Halbjahresworkshop (2)_0.jpg
 created: 2020-07-04
-slug: halbjahresworkshop-2020
+slug: semiannual-workshop-2020
 tags:
   - geops
   - team

@@ -1,13 +1,13 @@
 ---
-title: Altlast4Web Go Live in Luzern
-summary: Die Zahl unserer Kunden für die Software Altlast4Web wächst weiter. Im
-  August 2020 dürfen wir den Kanton Luzern als weiteren Kunden im produktiven
-  Betrieb willkommen heissen. Die Umstellung erfolgte im ersten Halbjahr 2020 im
-  Rekordtempo.
+title: Altlast4Web Go Live in Lucerne
+summary: The number of our customers for Altlast4Web software continues to grow. In
+  August 2020, we will welcome the canton of Lucerne as a further customer in productive
+  in productive operation. The changeover took place in the first half of 2020 at a record
+  record speed.
 author: Fabian Merthin
 cover: /images/blog/altlast4web-go-live-in-luzern/altlast4web_0_0.png
 created: 2020-11-10
-slug: altlast4web-go-live-in-luzern
+slug: altlast4web-go-live-in-lucerne
 tags:
   - altlast4web
   - geops

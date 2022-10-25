@@ -1,11 +1,11 @@
 ---
-title: geOps auf dem Community Summercamp der DB mindbox
-summary: Am 27. und 28. Juli 2018 fand das Community Summercamp der DB mindbox
-  in Berlin statt. Von geOps waren Milan Oberkirch und Mario Härtwig dabei.
+title: geOps at the 2018 Community Summercamp of DB mindbox
+summary: On July 27 and 28, 2018, the Community Summercamp of the DB mindbox
+  took place in Berlin. Milan Oberkirch and Mario Härtwig from geOps were there.
 author: Mario Härtwig
 cover: /images/blog/geops-auf-dem-community-summercamp-der-db-mindbox/hackathon.png
 created: 2018-09-23
-slug: geops-auf-dem-community-summercamp-der-db-mindbox
+slug: geops-at-2018-community-summercamp-of-db-mindbox
 tags:
   - developers
   - geops

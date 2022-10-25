@@ -1,12 +1,12 @@
 ---
-title: Fehlerkorrekturen in TRAVIC
-summary: Seit TRAVIC vor 2 Jahren gestartet ist, erreichen uns regelmäßig
-  Meldungen von netzkundigen Nutzern, die von der Realität abweichende
-  Fahrtverläufe festgestellt haben. Wieso weichen Routen von der Realität ab?
-  Und wie kann ich helfen, das Routing zu verbessern?
+title: Bug fixes in TRAVIC
+summary: Since TRAVIC was launched 2 years ago, we have been regularly receiving
+  from users who are familiar with the network and who have noticed deviations
+  routes that deviate from reality. Why do routes deviate from reality?
+  And how can I help to improve the routing?
 cover: /images/blog/fehlerkorrekturen-in-travic/edit_blog.png
 created: 2016-01-29
-slug: fehlerkorrekturen-in-travic
+slug: bug-fixes-in-travic
 tags:
   - developers
   - routing

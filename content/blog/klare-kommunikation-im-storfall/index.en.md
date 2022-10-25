@@ -1,13 +1,13 @@
 ---
-title: Klare Kommunikation im Störfall
-summary: Die SBB rüstet derzeit 16 wichtige Bahnhöfe mit neuen Generalanzeigern
-  aus. Diese beinhalten neben der bekannten Abfahrtsanzeige auch eine neuartige
-  Anzeige für den Störungsfall. Für die Entwicklung dieses Moduls war geOps
-  zuständig.
+title: Clear communication in the event of an incident
+summary: SBB is currently equipping 16 important stations with new general displays.
+  displays. In addition to the familiar departure display, these also include a new type of
+  display for the event of a malfunction. geOps was responsible for the development of this module.
+  responsible.
 author: Uli Müller
 cover: /images/blog/klare-kommunikation-im-storfall/moco_0.jpg
 created: 2015-09-31
-slug: klare-kommunikation-im-storfall
+slug: clear-communikation-in-incident-event
 tags:
   - mobility
   - routing

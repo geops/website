@@ -1,11 +1,11 @@
 ---
-title: Programm beim GeoSummit
-summary: Zum GEOSummit am 4. und 5. Juni bieten wir neben der allgemeinen
-  Messepräsenz Vorträge und Demos unserer Leistungen. Hier finden sie das
-  Programm.
+title: geOps at GeoSummit 2014
+summary: At the GEOSummit on 2014 June 4 and 5, we will offer, in addition to the general
+  presentations and demos of our services. Here you will find the
+  program.
 cover: /images/blog/programm-beim-geosummit/geosummit_0.jpg
 created: 2014-04-23
-slug: programm-beim-geosummit
+slug: geops-at-geosummit-2014
 tags:
   - geops
   - conferences

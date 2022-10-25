@@ -1,11 +1,11 @@
 ---
-title: Ärzte ohne Grenzen 2019
-summary: 2019 haben wir die HelferInnen von Ärzte ohne Grenzen bei wichtigen
-  Arbeit unterstützt.
+title: Doctors Without Border 2019
+summary: In 2019, we supported the aid workers of Médecins Sans Frontières in their important work.
+  work.
 author: Julia Knödler
 cover: /images/blog/arzte-ohne-grenzen-2019/2019-DRKongo-Behandlung-von-Masern-MSF273774jpg.jpg
 created: 2019-11-18
-slug: arzte-ohne-grenzen-2019
+slug: doctors-without-borders-2019
 tags:
   - geops
   - team

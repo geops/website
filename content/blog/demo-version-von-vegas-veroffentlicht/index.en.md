@@ -1,11 +1,11 @@
 ---
-title: Demo-Version von VEGAS veröffentlicht
-summary: VEGAS ist ein webbasiertes Informationssystem im Umfeld der
-  Hydrogeologie, das im Auftrag des Amt für Umwelt im Kanton Solothurn
-  entwickelt wurde. Zur Demonstration der umfassenden Funktionalität wurde jetzt
-  eine Installation im Internet publiziert.
+title: Demo version of VEGAS released
+summary: VEGAS is a web-based information system in the field of
+  hydrogeology, which was developed on behalf of the Office for the Environment in the
+  was developed. To demonstrate the comprehensive functionality, an installation
+  an installation on the internet.
 created: 2008-05-30
-slug: demo-version-von-vegas-veroffentlicht
+slug: demo-version-of-vegas-released
 tags:
   - environment
 published: true

@@ -1,12 +1,12 @@
 ---
-title: Die neue Tarifverbundkarte der Schweiz
-summary: Mit der Tarifverbundkarte informieren wir über Lage und Vernetzung der
-  Tarifgemeinschaften des öffentlichen Verkehrs der Schweiz. Lesen Sie hier über
-  die Inhalte der Karte und das "Making of".
+title: The new tariff association map of Switzerland
+summary: With the tariff association map, we provide information on the location and networking of the
+  public transport tariff communities in Switzerland. Read here about
+  the contents of the map and the "making of".
 author: Uli Müller
 cover: /images/blog/die-neue-tarifverbundkarte-der-schweiz/tarifverbundkarte_title.png
 created: 2021-10-06
-slug: new-tariff-association-card-of-switzerland
+slug: new-tariff-association-map-of-switzerland
 tags:
   - maps
   - passengerinformation

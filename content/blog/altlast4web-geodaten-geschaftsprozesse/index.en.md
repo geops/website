@@ -1,8 +1,11 @@
 ---
-title: "Altlast4Web: Geodaten + Geschäftsprozesse"
-summary: " "
+title: "Altlast4Web: Geodata + Business Processes"
+summary: "Our presentation from this year's AGI
+  with the topic Geodata for the control of complex and long-term
+  long-term business processes Example 
+  Contaminated site enforcement in Switzerland"
 created: 2011-06-08
-slug: altlast4web-geodaten-geschaftsprozesse
+slug: altlast4web-geodata-business-processes
 tags:
   - altlast4web
 published: true

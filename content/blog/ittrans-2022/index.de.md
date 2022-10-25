@@ -1,8 +1,8 @@
 ---
-title: " IT-TRANS 2022"
+title: "geOps beim IT-TRANS 2022"
 summary: Die IT-TRANS findet wieder statt – und wir sind dabei!
 created: 2022-05-03
-slug: ittrans-2022
+slug: geops-beim-ittrans-2022
 frontpage: false
 published: true
 ---

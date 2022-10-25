@@ -1,13 +1,11 @@
 ---
-title: Automatisierte Erstellung von fahrplanreferenzierten ÖV-Netzen
-summary: Die Erstellung von fahrplanreferenzierten Linienverläufen des
-  öffentlichen Nahverkehrs ist anspruchsvoll und wird meist, wenn überhaupt, von
-  Hand durchgeführt.  Wir benutzen einen routenfindungsbasierten Ansatz, um
-  Fahrplanverläufe und (evtl. generalisierte) Geodaten aufeinander zu
-  korrelieren.
+title: Automated creation of timetable-referenced public transport networks
+summary: The creation of timetable-referenced routes for public transport is demanding and is usually, if at all, done by hand.
+  We use a route-finding based approach to
+  correlate timetable trajectories and (possibly generalized) geodata.
 cover: /images/blog/automatisierte-erstellung-von-fahrplanreferenzierten-ov-netzen/genf_small_0.png
 created: 2015-06-13
-slug: automatisierte-erstellung-von-fahrplanreferenzierten-ov-netzen
+slug: automated-creation-of-timetable-referenced-public-transort-networks
 tags:
   - mobility
   - routing

@@ -1,9 +1,9 @@
 ---
-title: Segmentierung von Linien in PostGIS
-summary: " "
+title: Segmentation of lines in PostGIS
+summary: "For processing linear geometries it may be necessary to split them."
 author: Friedjoff Trautwein
 created: 2012-04-07
-slug: segmentierung-von-linien-in-postgis
+slug: segmentation-of-lines-in-postgis
 tags:
   - developers
   - postgis

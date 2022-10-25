@@ -1,14 +1,14 @@
 ---
-title: Barrierefrei und Karten - geht das?
-summary: In der realen Welt werden immer mehr Zugänge barrierefrei gestaltet.
-  Doch wie sieht es im digitalen Umfeld aus? Gerade im Bereich von digitalen
-  Karten und Plänen, die per se grafische Elemente für den Zugang zu
-  Informationen  voraussetzen, ist die Gewährleistung von Barrierefreiheit eine
-  grosse Herausforderung.
+title: Barrier-free and maps - is that possible?
+summary: In the real world, more and more access points are being designed to be barrier-free.
+  But what about the digital environment? Especially in the area of digital
+  maps and plans, which per se require graphic elements for accessing information.
+  accessibility is a major challenge, especially in the area of digital maps and plans.
+  great challenge.
 author: Eva Schiller
 cover: /images/blog/barrierefrei-und-karten-geht-das/AutonomesReisen.1488198485597.jpeg
 created: 2017-05-21
-slug: barrierefrei-und-karten-geht-das
+slug: barrierfree-and-maps-is-that-possible
 tags:
   - maps
   - developers

@@ -1,6 +1,6 @@
 ---
-title: Daniel Marsh-Hunn
-summary: ""
+title: Daniel Marsh-Hunn wird Mitglied unseres Teams
+summary: "Daniel ist seit Mai 2019 Mitglied unseres Teams und ist für die Entwicklung und Verbesserung von Frontend-Applikationen verantwortlich."
 slug: daniel-marsh-hunn
 ---
 Daniel ist seit Mai 2019 Mitglied unseres Teams und ist für die Entwicklung und Verbesserung von Frontend-Applikationen verantwortlich. Wir freuen uns, Daniel in unserem Team begrüssen zu können!

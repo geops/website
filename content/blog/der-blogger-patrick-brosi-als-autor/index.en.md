@@ -1,11 +1,11 @@
 ---
-title: Der Blogger - Patrick Brosi als Autor
-summary: Unser Mitarbeiter Patrick Brosi schreibt nicht nur super Software
-  sondern ab und zu auch einen Krimi.
+title: The Blogger - Patrick Brosi as an author
+summary: Our colleague Patrick Brosi writes not only super software
+  but from time to time also a thriller.
 author: Uli Müller
 cover: /images/blog/der-blogger-patrick-brosi-als-autor/derblogger.jpg
 created: 2015-09-08
-slug: der-blogger-patrick-brosi-als-autor
+slug: the-blogger-patrick-brosi-as-author
 tags:
   - geops
   - developers

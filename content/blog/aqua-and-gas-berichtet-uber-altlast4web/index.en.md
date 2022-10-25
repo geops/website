@@ -1,10 +1,10 @@
 ---
-title: Aqua & Gas berichtet über Altlast4Web
-summary: Das Fachorgan Aqua & Gas des Schweizerischen Vereins des Gas- und
-  Wasserfachs berichtet in seiner aktuellen Ausgabe über unsere Software
+title: Aqua & Gas reports on Altlast4Web
+summary: The trade publication Aqua & Gas of the Swiss Association of Gas and
+  water industry reports in its current issue about our software
   Altlast4Web.
 created: 2012-07-10
-slug: aqua-and-gas-berichtet-uber-altlast4web
+slug: aqua-and-gas-reports-on-altlast4web
 tags:
   - altlast4web
   - geops

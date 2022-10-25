@@ -1,7 +1,9 @@
 ---
-title: Testing file exports with Cypress in CI
-summary: ""
-slug: testing-file-exports-with-cypress-in-ci
+title: Testen von Dateiexporten mit Cypress in CI
+summary: "Heute werden wir über Cypress sprechen. Genauer gesagt, wie man Canvas
+  Exporte in einem End-To-End (E2E)-Testszenario testet und wie man die Tests
+  in Ihr CI integrieren."
+slug: testen-datei-export-mit-cypress-in-ci
 ---
 Today we will talk about Cypress. More specifically, how to test Canvas exports in an End-To-End (E2E) testing scenario and how to integrate the tests into your CI.
 

@@ -1,8 +1,8 @@
 ---
 title: Open Data Camp Zürich
-summary: Am vergangenen Wochenende fand zeitgleich in Zürich und Genf das zweite
-  Open Data Camp statt. Ziel war es, offene Daten zur Verbesserung der Mobilität
-  einzusetzen.
+summary: Last weekend, the second Open Data Camp took place simultaneously in Zurich and Geneva.
+  Open Data Camp took place in Zurich and Geneva. The aim was to use open data to improve mobility.
+  mobility.
 author: Friedjoff Trautwein
 created: 2012-03-03
 slug: open-data-camp-zurich

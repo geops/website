@@ -3,7 +3,7 @@ title: Livemap S-Bahn München
 summary: "Nirgendwo in Europa gibt es mehr Verkehr auf zwei Gleisen: Mit rund
   1000 Zügen am Tag verzeichnet die S-Bahn-Stammstrecke München das höchste
   Verkehrsaufkommen und fährt damit an ihrer Kapazitätsgrenze."
-slug: tralis-livemap
+slug: tralis-livemap-sbahn-munich
 ---
 
 

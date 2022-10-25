@@ -1,10 +1,10 @@
 ---
-title: FOSSGIS 2010
-summary: Die FOSSGIS-Konferenz ist die wichtigste Veranstaltung zu freier und
-  Open Source Software für Geoinformationssysteme im deutschsprachigen Raum. Wie
-  schon in den vergangenen Jahren ist geOps als Sponsor beteiligt.
+title: geOps at FOSSGIS 2010
+summary: The FOSSGIS conference is the most important event on free and
+  open source software for geoinformation systems in the German-speaking world. As
+  in previous years, geOps is involved as a sponsor.
 created: 2010-01-15
-slug: fossgis-2010
+slug: geops-at-fossgis-2010
 tags:
   - geops
   - conferences

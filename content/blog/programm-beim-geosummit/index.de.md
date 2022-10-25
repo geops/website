@@ -1,9 +1,9 @@
 ---
-title: Programm beim GeoSummit
-summary: Zum GEOSummit am 4. und 5. Juni bieten wir neben der allgemeinen
+title: geOps beim GeoSummit 2014
+summary: Zum GEOSummit am 4. und 5. Juni 2014 bieten wir neben der allgemeinen
   Messepräsenz Vorträge und Demos unserer Leistungen. Hier finden sie das
   Programm.
-slug: programm-beim-geosummit
+slug: geops-beim-geosummit-2014
 ---
 Am 4. und 5. Juni präsentieren wir das Spektrum unserer Leistungen beim [GEOSummit](http://www.geosummit.ch) in Bern, der wichtigsten Messe für Geoinformationen in der Schweiz. Besuchen Sie uns am [Stand B03](https://www.geosummit.ch/de/Ausstellerliste_bes.html?view[content]=ExhibitorDetail&view[sidebar]=ExhibitorSidebar&cn_id=40135) auf dem Messegelände. Ausser im persönlichen Gespräch informieren wir Sie mit einem Vortrag im GEOExpo-Forum sowie einer Reihe von 15-minütigen Vorführungen an unserem Stand. Das Programm dazu finden sie unten.
 

@@ -1,11 +1,11 @@
 ---
-title: Boulder for Coder
+title: Boulder für Coder
 summary: In unserem Team tummeln sich schon jetzt einige Kletterer und
   Boulderer. Offenbar passen diese Sportarten und das Programmieren gut
   zusammen. Daher suchen wir noch mehr davon! Wer uns erfolgreich dabei hilft,
   einen Linux Administrator sowie JavaScript-/Python-Entwickler zu finden,
   erhält als Dank ein Jahresabo für die Boulderhalle Blockhaus in Freiburg.
-slug: boulder-for-coder
+slug: boulder-fuer-coder
 ---
 ![](/images/blog/boulder-for-coder/IMG_20161022_184358.jpg)
 

@@ -1,11 +1,11 @@
 ---
-title: geOps beim MobiData BW Hackathon
-summary: Vom 27. bis 29. November 2020 hat eine Handvoll unserer Mitarbeiter am
-  MobiData BW Hackathon teilgenommen.
+title: geOps at MobiData BW Hackathon 2020
+summary: From November 27 to 29, 2020, a handful of our employees participated in the
+  MobiData BW Hackathon.
 author: Dr. Alexander Held
 cover: /images/blog/geops-beim-mobidata-bw-hackathon/Mobidata_BW_BLOG_Thumbnail.png
 created: 2020-11-11
-slug: geops-beim-mobidata-bw-hackathon
+slug: geops-at-mobidata-bw-hackathon-2020
 tags:
   - developers
   - geops

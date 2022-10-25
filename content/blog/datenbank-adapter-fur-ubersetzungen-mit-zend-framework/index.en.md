@@ -1,13 +1,13 @@
 ---
-title: Datenbank-Adapter für Übersetzungen mit Zend Framework
-summary: Im Rahmen eines Projekt bestand die Anforderung, dass Kunden die
-  Übersetzungen der Programmoberfläche frei bearbeiten können. Hierbei kam die
-  bisherige Implementierung der Übersetzungen mittels GNU gettext in der
-  Applikation an Ihre Grenzen. Ein Adapter für das verwendete Zend Framework
-  setzt nun die notwendige Flexibiliät um.
+title: Database adapter for translations with Zend Framework
+summary: As part of a project, there was a requirement for customers to be able to freely edit the
+  translations of the program interface. Here the
+  the previous implementation of the translations using GNU gettext in the
+  application reached its limits. An adapter for the Zend Framework
+  now implements the necessary flexibility.
 author: Friedjoff Trautwein
 created: 2011-01-03
-slug: datenbank-adapter-fur-ubersetzungen-mit-zend-framework
+slug: database-adapter-for-translations-with-zend-framework
 tags:
   - developers
 published: false

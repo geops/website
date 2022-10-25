@@ -1,13 +1,13 @@
 ---
-title: CAD-like Feature Construction with the OpenLayers Editor
+title: CAD-ähnliche Feature-Konstruktion mit dem OpenLayers Editor
 summary: >-
-  When editing vector features in a web GIS map one often needs support for
-  precise drawing. Snapping to existing features of external data (using WFS or
-  other vector features) was long available in OpenLayers Editor but it still
-  lacked guide line support.
+  Bei der Bearbeitung von Vektormerkmalen in einer Web-GIS-Karte benötigt man oft Unterstützung für
+  präzises Zeichnen. Das Einrasten auf bestehende Features von externen Daten (mit WFS oder
+  anderen Vektorfeatures) war lange Zeit in OpenLayers Editor verfügbar, aber es fehlte noch
+  fehlte jedoch die Unterstützung von Hilfslinien.
 
-  We are pleased to announce that guide lines can now be generated automatically by OpenLayers Editor whilst a feature is drawn. Guide lines for the first run offer support for drawing right angled features or features in parallel to other features."
-slug: cad-like-feature-construction-with-the-openlayers-editor
+  Wir freuen uns, Ihnen mitteilen zu können, dass Hilfslinien nun automatisch von OpenLayers Editor erzeugt werden können, während ein Feature gezeichnet wird. Hilfslinien bieten erstmals Unterstützung für das Zeichnen von rechtwinkligen Features oder von Features, die parallel zu anderen Features verlaufen."
+slug: cad-aehnliche-feature-konstruction-mit-dem-openlayers-editor
 ---
 On many occasions one needs to **align new features to existing features** in cadastral mapping applications. One example would be that the user is tracing a building from an orthophoto and wants to align the building with existing geometries. This is an error prone task in web GIS because they don't offer snapping features that are known from CAD software.
 

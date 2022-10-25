@@ -1,10 +1,10 @@
 ---
-title: " IT-TRANS 2022"
+title: "geOps at IT-TRANS 2022"
 summary: The IT-TRANS takes place again - and we are there!
 author: Maja Schudel
 cover: /images/blog/it-trans-2022/ittrans_logo_square.jpg
 created: 2022-05-03
-slug: ittrans-2022
+slug: geops-at-ittrans-2022
 tags:
   - conferences
   - geops

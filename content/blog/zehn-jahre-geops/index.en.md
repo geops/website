@@ -1,10 +1,10 @@
 ---
-title: Zehn Jahre geOps
-summary: geOsp feiert dieses Jahr das zehnjährige Jubiläum. Aus diesem Anlass
-  laden wir 28./29. Juni 2012 Kunden, Partner, Interessierte und Freunde in
-  unsere neuen Büroräume in der Kaiser-Joseph-Str. 263.
+title: Ten years of geOps
+summary: geOps celebrates its tenth anniversary this year. On this occasion
+  we invite June 28/29, 2012 customers, partners, interested parties and friends in
+  our new offices in the Kaiser-Joseph-Str. 263.
 created: 2012-04-16
-slug: zehn-jahre-geops
+slug: ten-years-of-geops
 tags:
   - geops
 published: false

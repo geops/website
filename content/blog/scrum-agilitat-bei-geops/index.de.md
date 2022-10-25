@@ -1,6 +1,10 @@
 ---
 title: SCRUM - Agilität bei geOps
-summary: ""
+summary: Die Zufriedenheit unserer Kunden und des gesamten geOps-Teams liegen
+  uns sehr am Herzen. Um mit qualitativ hochwertigen Produkten die
+  Kundenanforderungen zu erfüllen und gleichzeitig bei vielen Projekten den
+  Überblick nicht zu verlieren, setzen wir bei geOps verschiedene Methoden des
+  agilen Projektmanagements ein und kombinieren diese dynamisch miteinander.
 slug: scrum-agilitat-bei-geops
 ---
 Die Zufriedenheit unserer Kunden und des gesamten geOps-Teams liegen uns sehr am Herzen. Um mit qualitativ hochwertigen Produkten die Kunden&shy;anforderungen zu erfüllen und gleichzeitig bei vielen Projekten den Überblick nicht zu verlieren, setzen wir bei geOps verschiedene Methoden des agilen Projektmanagements ein und kombinieren diese dynamisch miteinander.

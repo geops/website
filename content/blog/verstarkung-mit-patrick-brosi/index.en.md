@@ -1,12 +1,12 @@
 ---
-title: Verstärkung mit Patrick Brosi
-summary: geOps hat in den vergangenen Jahren vermehrt Projekte für den
-  öffentlichen Verkehr realisiert und die entsprechenden Kompetenzen aufgebaut.
-  Mit Patrick Brosi verstärkt ein ausgewiesener Experte für das Mapping von
-  Verkehrsdaten und multimodale Routing-Analysen unser Team.
+title: Reinforcement with Patrick Brosi
+summary: In recent years, geOps has increasingly implemented projects for the
+  public transport and built up the corresponding competencies.
+  With Patrick Brosi, a proven expert for mapping traffic data and
+  multimodal routing analyses joins our team.
 cover: /images/blog/verstarkung-mit-patrick-brosi/20120601stadtbahntracker03.jpg
 created: 2014-03-01
-slug: verstarkung-mit-patrick-brosi
+slug: reinforcement-with-patrick-brosi
 tags:
   - geops
 published: true

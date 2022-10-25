@@ -1,8 +1,8 @@
 ---
-title: GeoSummit 4.-5. Juni
+title: geOps beim GeoSummit 4.-5. Juni 2014
 summary: Der GEOSummit ist die wichtigste Veranstaltung zum Thema GIS in der
   Schweiz. geOps ist vom 4.-5. Juni in Bern dabei.
-slug: geosummit-4-5-juni
+slug: geops-beim-geosummit-4-5-juni-2014
 ---
 Der GEOSummit wird alle zwei Jahre durch die [Schweizerische Organisation für Geo-Information (SOGI)](http://www.sogi.ch) in Bern veranstaltet. Er gliedert sich in Messe (GEOExpo, 04.06.-05.06.2014) und Kongress (GEOConf, 03.-05.06.2012), die sich sinnvoll ergänzen.
 

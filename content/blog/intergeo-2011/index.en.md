@@ -1,9 +1,9 @@
 ---
-title: Intergeo 2011
-summary: Besuchen Sie uns vom 27.9.-29.9. auf der Intergeo in Nürnberg, der
-  grössten Fachmesse zum Thema GIS.
+title: geOps at Intergeo 2011
+summary: Visit us from 27.9.-29.9. at the Intergeo in Nuremberg, Germany, the
+  largest trade fair on the subject of GIS.
 created: 2011-07-27
-slug: intergeo-2011
+slug: geops-at-intergeo-2011
 tags:
   - geops
   - conferences

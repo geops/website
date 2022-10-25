@@ -1,7 +1,7 @@
 ---
-title: geOps auf der IT-TRANS
-summary: ""
-slug: geops-auf-der-it-trans
+title: geOps auf der IT-TRANS 2020
+summary: "Lernen Sie auf der IT-TRANS unsere digitalen Lösungen für Mobilität und den öffentlichen Verkehr kennen."
+slug: geops-auf-der-it-trans-2020
 ---
 Aufgrund den Entwicklungen hinsichtlich des Corona-Virus haben sich der Internationale Verband für öffentliches Verkehrswesens und die Messe Karlsruhe dazu entschlossen, die IT-TRANS zu verschieben. Sobald ein neuer Termin feststeht, werden wir diesen hier bekannt geben. 
 

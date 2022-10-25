@@ -1,8 +1,8 @@
 ---
-title: geOps beim MobiData BW Hackathon
+title: geOps beim MobiData BW Hackathon 2020
 summary: Vom 27. bis 29. November 2020 hat eine Handvoll unserer Mitarbeiter am
   MobiData BW Hackathon teilgenommen.
-slug: geops-beim-mobidata-bw-hackathon
+slug: geops-beim-mobidata-bw-hackathon-2020
 ---
 Ein Hackathon - was ist das überhaupt? Die beiden Wörter "Hack" und "Marathon", aus denen die Wortschöpfung hervorgegangen ist, verraten es schon: Man trifft sich, um kollaborativ über einen bestimmten Zeitraum hinweg intensiv an der Neu- beziehungsweise Weiterentwicklung von Hard- oder Software zu arbeiten. Der direkte Bezug zur IT ist dabei nicht zwingend. Allgemein kann es auch um das Finden und Ausprobieren neuer Lösungsansätze für ein gegebenes Problem gehen.
 

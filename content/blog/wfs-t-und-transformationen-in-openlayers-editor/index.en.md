@@ -1,9 +1,9 @@
 ---
-title: WFS-T und Transformationen in OpenLayers Editor
-summary: Der OpenLayers Editor OLE unterstützt nun auch das Protokoll WFS-T zur
-  Geodatenbearbeitung
+title: WFS-T and transformations in OpenLayers Editor
+summary: The OpenLayers Editor OLE now also supports the WFS-T protocol for
+  Geodata processing
 created: 2012-07-02
-slug: wfs-t-und-transformationen-in-openlayers-editor
+slug: wfs-t-and-transformations-in-openlayers-editor
 tags:
   - developers
   - maps

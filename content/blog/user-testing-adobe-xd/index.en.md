@@ -1,6 +1,6 @@
 ---
 title: User Testing in Adobe XD
-summary: Was User Testing mit deinem neuen Herd zu tun hat, erklären wir hier.
+summary: What User Testing has to do with your new stove, we explain here.
 author: Elias Englen
 created: 2020-12-22
 slug: user-testing-adobe-xd

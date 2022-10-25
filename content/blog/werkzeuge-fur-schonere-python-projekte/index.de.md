@@ -1,5 +1,5 @@
 ---
-title: " Werkzeuge für schönere Python-Projekte"
+title: "Werkzeuge für schönere Python-Projekte"
 summary: Dieser Blog-Beitrag skizziert den aktuellen Setup von pre-commit hooks,
   statischer Code-Analyse-Tools (Flake8, Black) und Abhängigkeitsmanagement
   (setuptools, pip-tools) für Python-Projekte bei geOps."

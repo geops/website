@@ -1,12 +1,12 @@
 ---
-title: AGIT-Beitrag 2011
-summary: geOps ist bei der diesjährigen AGIT in Salzburg mit einem Beitrag zum
-  Thema "Geodaten zur Steuerung komplexer und langfristiger Geschäftsprozesse"
-  vertreten. Am Beispiel des Altlasten-Vollzugs in der Schweiz und der Software
-  Altlast4Web stellen wir vor, wie eng das Zusammenspiel von Geodaten und
-  Geschäftsprozessen in einer modernen Webapplikation sein kann.
+title: AGIT article 2011
+summary: geOps is present at this year's AGIT in Salzburg with a contribution on the topic of
+  topic "Geodata for the control of complex and long-term business processes".
+  will be presented. Using the example of contaminated site enforcement in Switzerland and the software
+  software Altlast4Web, we present how closely the interaction of geodata and
+  business processes can be in a modern web application.
 created: 2011-03-26
-slug: agit-beitrag-2011
+slug: agit-article-2011
 tags:
   - geops
   - conferences

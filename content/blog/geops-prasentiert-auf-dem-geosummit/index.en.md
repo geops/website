@@ -1,9 +1,8 @@
 ---
 title: geOps präsentiert auf dem GEOSummit
-summary: Der GEOSummit ist die wichtigste Veranstaltung zum Thema GIS in der
-  Schweiz. geOps ist vom 19.-21. Juni bei Messe und Konferenz dabei.
+summary: The GEOSummit is the most important event on GIS in Switzerland. geOps will be at the trade fair and conference from June 19-21.
 created: 2012-05-10
-slug: geops-prasentiert-auf-dem-geosummit
+slug: geops-present-at-geosummit
 tags:
   - geops
   - conferences

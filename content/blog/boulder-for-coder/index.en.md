@@ -1,10 +1,10 @@
 ---
 title: Boulder for Coder
-summary: In unserem Team tummeln sich schon jetzt einige Kletterer und
-  Boulderer. Offenbar passen diese Sportarten und das Programmieren gut
-  zusammen. Daher suchen wir noch mehr davon! Wer uns erfolgreich dabei hilft,
-  einen Linux Administrator sowie JavaScript-/Python-Entwickler zu finden,
-  erhält als Dank ein Jahresabo für die Boulderhalle Blockhaus in Freiburg.
+summary: Our team already includes a number of climbers and
+  boulderers. Apparently, these sports and programming go well together.
+  Therefore we are looking for more of them! Who can help us successfully
+  to find a Linux administrator and JavaScript/Python developer,
+  will receive a one year subscription for the bouldering hall Blockhaus in Freiburg as a thank you.
 author: Uli Müller
 cover: /images/blog/boulder-for-coder/IMG_20161022_184358.jpg
 created: 2018-00-24

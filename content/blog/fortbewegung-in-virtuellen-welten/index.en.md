@@ -1,11 +1,11 @@
 ---
-title: Fortbewegung in virtuellen Welten
-summary: Augmented Reality und Virtual Reality gehören zu den wichtigsten Trends
-  der Informationstechnologie. Unser Mitarbeiter Friedjoff Trautwein hat den
-  Digility Hackathon besucht und prompt mit seinem Team den ersten Preis geholt.
+title: Moving in virtual worlds
+summary: Augmented reality and virtual reality are among the most important trends
+  of information technology. Our colleague Friedjoff Trautwein attended the
+  Digility Hackathon and promptly took first prize with his team.
 cover: /images/blog/fortbewegung-in-virtuellen-welten/Digility.png
 created: 2017-06-10
-slug: fortbewegung-in-virtuellen-welten
+slug: moving-in-virtual-worlds
 tags:
   - developers
 published: true

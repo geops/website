@@ -1,10 +1,10 @@
 ---
-title: geOps auf der IT-TRANS
-summary: ""
+title: geOps at the IT-TRANS 
+summary: "Get to know our digital solutions for mobility and public transport at IT-TRANS."
 author: Julia Knödler
 cover: /images/blog/geops-auf-der-it-trans/Logo ittra.png
 created: 2020-01-25
-slug: geops-auf-der-it-trans
+slug: geops-at-the-it-trans-2020
 tags:
   - geops
   - mobility

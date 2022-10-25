@@ -1,9 +1,9 @@
 ---
-title: Betriebsausflug nach Basel
-summary: "geOps auf Betriebsausflug in Basel: aus der Luft, auf dem Wasser und auf Land"
+title: Company trip to Basel
+summary: "geOps on a company trip in Basel: from the air, on the water and on land"
 cover: /images/blog/betriebsausflug-nach-basel/DSCF0022_0.JPG
 created: 2018-08-11
-slug: betriebsausflug-nach-basel
+slug: company-trip-to-basel
 tags:
   - geops
   - team
