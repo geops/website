@@ -1,9 +1,9 @@
 ---
-title: Altlast4Web beim GEOSummit
-summary: Der von geOps entwickelten Software Altlast4Web ist ein Vortrag beim
-  GEOSummit 2012 in Bern gewidmet.
+title: Altlast4Web at GEOSummit
+summary: A presentation at GEOSummit 2012 in Bern is dedicated to the
+  Altlast4Web software developed by geOps.
 created: 2012-02-21
-slug: altlast4web-beim-geosummit
+slug: altlast4web-at-geosummit
 tags:
   - altlast4web
   - environment
