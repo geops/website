@@ -1,5 +1,5 @@
 ---
-title: geops.ch affected by DNS hijacking incident at Gandi
+title: geops.ch von DNS-Hijacking-Vorfall bei Gandi betroffen
 summary: "geops.ch von DNS-Hijacking-Vorfall bei Gandi betroffen, bei dem die Nameserver von insgesamt 751 Domains ersetzt wurden."
 slug: geopsch-von-dns-hijacking-vorfall-bei-gandi-betroffen
 ---

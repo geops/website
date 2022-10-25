@@ -90,7 +90,8 @@
     "career": {
       "path": "/career",
       "translationPath": "/karriere",
-      "title": "Career"
+      "title": "Career",
+      "header": "Join us in the border triangle in Freiburg (D) or Olten (CH) and develop excellent solutions for transport companies, public administration and renowned international companies. You can expect an interdisciplinary, 20-person team that is a pleasure to work with."
     }
   },
   "de": {
@@ -180,7 +181,8 @@
     "career": {
       "path": "/karriere",
       "translationPath": "/career",
-      "title": "Karriere"
+      "title": "Karriere",
+      "header": "Komm zu uns ins Dreiländereck nach Freiburg (D) oder Olten (CH) und entwickle mit uns exzellente Lösungen für Transportbetriebe, die öffentliche Verwaltung und nam­hafte internationale Unternehmen. Dich erwartet ein interdisziplinäres, 20-köpfiges Team, mit dem das Arbeiten Freude macht."
     }
   }
 }

@@ -1,10 +1,10 @@
 ---
-title: geOps News I/2022
+title: geOps News 2022
 summary: News about our products and projects as well as upcoming events.
 author: Uli Müller
 cover: /images/blog/geops-news-i-2022/newsi2002.png
 created: 2022-04-21
-slug: news20221
+slug: news-2022
 frontpage: false
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Frohe Weihnachten!
-summary: ""
+summary: "Wir wünschen Ihnen eine ruhige, besinnliche Adventszeit und erholsame Festtage!"
 slug: frohe-weihnachten
 ---
 Es weihnachtet sehr…

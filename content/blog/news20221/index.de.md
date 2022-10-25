@@ -1,8 +1,8 @@
 ---
-title: geOps News I/2022
+title: geOps News 2022
 summary: News zu unseren Produkte und Projekten sowie zu den nächsten Events.
 created: 2022-04-21
-slug: news20221
+slug: news-2022
 frontpage: false
 published: true
 ---

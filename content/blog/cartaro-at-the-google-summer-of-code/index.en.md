@@ -25,6 +25,6 @@ For Cartaro we have four project ideas so far:
 - PostGIS support for the Views module
 - Port the OpenLayers Editor to OpenLayers 3
 
-Please check the [Drupal page](https://groups.drupal.org/node/407408) for details on these proposals. Of course all students are welcome to discuss these ideas or to add their own. For all technical issues you may use the issue queues on the Drupal site. For all other questions you may contact the mentors for Cartaro directly at gsoc@cartaro.org. More general information is available from the [OSGeo wiki](http://wiki.osgeo.org/wiki/Google_Summer_of_Code) and at [Google Melange](www.google-melange.com).
+Please check the [Drupal page](https://groups.drupal.org/node/407408) for details on these proposals. Of course all students are welcome to discuss these ideas or to add their own. For all technical issues you may use the issue queues on the Drupal site. For all other questions you may contact the mentors for Cartaro directly at gsoc@cartaro.org. More general information is available from the [OSGeo wiki](http://wiki.osgeo.org/wiki/Google_Summer_of_Code) and at [Google Melange](https://www.google-melange.com).
 
 **Student registration starts on March 10 and closes on March 21**. So don't loose time and apply now!

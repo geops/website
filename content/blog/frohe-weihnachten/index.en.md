@@ -1,6 +1,6 @@
 ---
-title: Frohe Weihnachten!
-summary: ""
+title: Merry Xmas!
+summary: "We wish you a peaceful, reflective Advent season and relaxing holidays!"
 author: Julia Knödler
 cover: /images/blog/frohe-weihnachten/Weihnachtskarte_2019_Feuerwerk.png
 created: 2019-11-20

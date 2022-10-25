@@ -28,6 +28,7 @@ const redirects = `/node/6 /en/imprint
 /sts-app /solution/webkarten-und-bahnhofplaene
 /lösungen/karten-des-öv /solution/webkarten-und-bahnhofplaene
 /lösungen/bahnhofpläne /solution/webkarten-und-bahnhofplaene
+/l%C3%B6sungen/bahnhofpl%C3%A4ne /solution/webkarten-und-bahnhofplaene
 /geoportal /solution/webkarten-und-bahnhofplaene
 /altlast4web /solution/umwelt-software
 /about/team /about
@@ -279,4 +280,5 @@ const redirects = `/node/6 /en/imprint
 /blog/ärzte-ohne-grenzen-2020 /blog/aerzte-ohne-grenzen-2020
 /iabp /solution/webkarten-und-bahnhofplaene
 /technologien/vegas /solution
-/fallstudien/altlast4web /solution/umwelt-software`;
+/fallstudien/altlast4web /solution/umwelt-software
+/%C3%BCber-uns/kontakt /about`;
