@@ -17,6 +17,7 @@ export default function BlogIndex({ list }) {
     <Layout
       title={title}
       description={t("blog.header")}
+      path="/blog"
       translationPath="/blog"
       shareImg={list && list[0]?.cover}
     >

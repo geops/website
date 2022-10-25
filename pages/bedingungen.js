@@ -12,7 +12,11 @@ export default function Imprint({ content }) {
   const { t } = useI18n();
   const title = t("terms.title");
   return (
-    <Layout title={title} translationPath={t("terms.translationPath")}>
+    <Layout
+      title={title}
+      path={t("terms.path")}
+      translationPath={t("terms.translationPath")}
+    >
       <Article title={title} body={content.body} />
     </Layout>
   );

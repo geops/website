@@ -13,7 +13,9 @@ export const config = {
   unstable_excludeFiles: ["./content/**", "./public/images/**"],
 };
 
-export default function Solution({ related, solution }) {
+export default function Solution(props) {
+  const { related, solution } = props;
+  console.log(props);
   if (!solution) {
     return null;
   }
@@ -22,7 +24,9 @@ export default function Solution({ related, solution }) {
     <Layout
       title={solution.title}
       description={solution.summary}
-      translationPath={`/solution/${solution.translationSlug}`}
+      path={`/solution`}
+      translationPath={`/solution`}
+      slugByLocale={solution.slugByLocale}
       shareImg={solution?.cover}
     >
       <PageHeader

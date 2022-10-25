@@ -13,7 +13,7 @@ import WebsiteLink from "./Link";
 
 import styles from "./Header.module.css";
 
-export default function Header({ translationPath }) {
+export default function Header({ pathByLocale }) {
   const headerContainer = useRef(null);
   const placeholderRef = useRef(null);
   const router = useRouter();
@@ -79,7 +79,7 @@ export default function Header({ translationPath }) {
           >
             <div className="container mx-auto flex h-full flex-col">
               <div className="flex h-16 flex-none items-center justify-between">
-                <WebsiteLink href="/">
+                <WebsiteLink href={"/"}>
                   <a className="ml-8 h-1/2" onClick={() => setMenuOpen(false)}>
                     <GeopsIcon className="h-full" white />
                   </a>
@@ -143,13 +143,13 @@ export default function Header({ translationPath }) {
                   {language === "de" ? (
                     <strong>DE</strong>
                   ) : (
-                    <Link href={translationPath || "/"}>DE</Link>
+                    <Link href={pathByLocale.de}>DE</Link>
                   )}
                   <span>|</span>
                   {language === "en" ? (
                     <strong>EN</strong>
                   ) : (
-                    <Link href={`/en${translationPath || ""}`}>EN</Link>
+                    <Link href={pathByLocale.en}>EN</Link>
                   )}
                 </div>
               </div>
@@ -195,13 +195,13 @@ export default function Header({ translationPath }) {
                 {language === "de" ? (
                   <strong>DE</strong>
                 ) : (
-                  <Link href={translationPath || "/"}>DE</Link>
+                  <Link href={pathByLocale.de}>DE</Link>
                 )}
                 <span>|</span>
                 {language === "en" ? (
                   <strong>EN</strong>
                 ) : (
-                  <Link href={`/en${translationPath || ""}`}>EN</Link>
+                  <Link href={pathByLocale.en}>EN</Link>
                 )}
               </div>
             </div>

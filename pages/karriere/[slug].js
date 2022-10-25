@@ -14,8 +14,9 @@ export const config = {
 };
 
 export default function Job({ content, job }) {
-  const { t } = useI18n();
+  const { t, language } = useI18n();
   const size = 55; // Size for share button
+  console.log(language);
 
   if (!job) {
     return null;
@@ -25,7 +26,9 @@ export default function Job({ content, job }) {
     <Layout
       title={job.title}
       description={job.summary}
-      translationPath={`${t("career.translationPath")}/${job.translationSlug}`}
+      path={`${t("career.path")}`}
+      translationPath={`${t("career.translationPath")}`}
+      slugByLocale={job.slugByLocale}
     >
       <div className="mx-auto hidden max-w-screen-lg xl:sticky xl:top-4 xl:block">
         {/* > xl*/}

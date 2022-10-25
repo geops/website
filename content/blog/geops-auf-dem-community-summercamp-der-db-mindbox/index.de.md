@@ -1,5 +1,5 @@
 ---
-title: geOps auf dem Community Summercamp der DB mindbox
+title: geOps auf dem 2018 Community Summercamp der DB mindbox
 summary: Am 27. und 28. Juli 2018 fand das Community Summercamp der DB mindbox
   in Berlin statt. Von geOps waren Milan Oberkirch und Mario Härtwig dabei.
 slug: geops-auf-dem-community-summercamp-der-db-mindbox

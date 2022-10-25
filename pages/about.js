@@ -24,6 +24,7 @@ export default function About({ content, team, technologies }) {
     <Layout
       title={content.title}
       description={content.we1}
+      path="/about"
       translationPath="/about"
     >
       <PageHeader

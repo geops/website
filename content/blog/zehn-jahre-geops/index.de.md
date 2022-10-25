@@ -1,6 +1,6 @@
 ---
 title: Zehn Jahre geOps
-summary: geOsp feiert dieses Jahr das zehnjährige Jubiläum. Aus diesem Anlass
+summary: geOps feiert dieses Jahr das zehnjährige Jubiläum. Aus diesem Anlass
   laden wir 28./29. Juni 2012 Kunden, Partner, Interessierte und Freunde in
   unsere neuen Büroräume in der Kaiser-Joseph-Str. 263.
 slug: zehn-jahre-geops

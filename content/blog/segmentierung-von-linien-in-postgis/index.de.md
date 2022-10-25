@@ -1,6 +1,6 @@
 ---
 title: Segmentierung von Linien in PostGIS
-summary: ""
+summary: "Für die Verarbeitung von linearen Geometrien kann es notwendig sein, dass diese zerteilt werden."
 slug: segmentierung-von-linien-in-postgis
 ---
 ![Segmentierung von Linien (LineString) in PostGIS](/images/blog/segmentierung-von-linien-in-postgis/segmentierung_0.png)

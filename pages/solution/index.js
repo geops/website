@@ -14,6 +14,7 @@ export default function SolutionIndex({ solutions }) {
     <Layout
       title={t("solution.title")}
       description={t("solution.text")}
+      path="/solution"
       translationPath="/solution"
       shareImg={(solutions && solutions[0]?.gridImage) || null}
     >

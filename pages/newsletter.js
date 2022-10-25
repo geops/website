@@ -13,6 +13,7 @@ export default function Newsletter({ translations }) {
     <Layout
       title="Newsletter"
       description={translations.subtitle}
+      path="/newsletter"
       translationPath="/newsletter"
     >
       <PageHeader title="Newsletter" />

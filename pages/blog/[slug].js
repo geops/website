@@ -11,16 +11,20 @@ export const config = {
   unstable_excludeFiles: ["./content/**", "./public/images/**"],
 };
 
-export default function BlogArticle({ item, related }) {
+export default function BlogArticle({ item, related, ...props }) {
   if (!item) {
     return null;
   }
+  console.log("####################la");
+  console.log(item, props);
 
   return (
     <Layout
       title={item.title}
       description={item.summary}
-      translationPath={`/blog/${item.translationSlug}`}
+      path={"/blog"}
+      translationPath={"/blog"}
+      slugByLocale={item.slugByLocale}
       shareImg={item.cover}
     >
       <div className="mx-auto hidden max-w-screen-lg xl:sticky xl:top-4 xl:block">
@@ -44,10 +48,12 @@ export default function BlogArticle({ item, related }) {
 }
 
 export async function getStaticPaths(context) {
+  console.log(context);
   const list = getContentList(context.language || "de", {
     collections: ["blog"],
     fields: ["slug"],
   });
+  console.log(context, list);
   return {
     paths: list.map(({ slug }) => ({ params: { slug } })),
     fallback: false,
