@@ -15,7 +15,7 @@ export const config = {
 
 export default function Solution(props) {
   const { related, solution } = props;
-  console.log(props);
+
   if (!solution) {
     return null;
   }

@@ -16,7 +16,6 @@ export const config = {
 export default function Frontpage({ items, slides, ...props }) {
   const { t } = useI18n();
 
-  console.log(props);
   return (
     <Layout
       description={t("aboutTeaser.text")}

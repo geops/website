@@ -16,7 +16,6 @@ export const config = {
 export default function Job({ content, job }) {
   const { t, language } = useI18n();
   const size = 55; // Size for share button
-  console.log(language);
 
   if (!job) {
     return null;

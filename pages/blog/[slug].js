@@ -15,8 +15,6 @@ export default function BlogArticle({ item, related, ...props }) {
   if (!item) {
     return null;
   }
-  console.log("####################la");
-  console.log(item, props);
 
   return (
     <Layout
@@ -48,12 +46,10 @@ export default function BlogArticle({ item, related, ...props }) {
 }
 
 export async function getStaticPaths(context) {
-  console.log(context);
   const list = getContentList(context.language || "de", {
     collections: ["blog"],
     fields: ["slug"],
   });
-  console.log(context, list);
   return {
     paths: list.map(({ slug }) => ({ params: { slug } })),
     fallback: false,
