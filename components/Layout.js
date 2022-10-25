@@ -23,13 +23,14 @@ export default function Layout({
   const image = "https://geops.com" + (shareImg || "/logo191.png");
 
   // if current language is DE
-  let enPath = "/en" + translationPath + (slugByLocale?.en || "");
-  let dePath = path + (slugByLocale?.de || "");
+  let enPath =
+    "/en" + (translationPath || path || "") + (slugByLocale?.en || "");
+  let dePath = (path || "") + (slugByLocale?.de || "");
 
   // if current language is EN
   if (language === "en") {
-    enPath = "/en" + path + (slugByLocale?.en || "");
-    dePath = translationPath + (slugByLocale?.de || "");
+    enPath = "/en" + (path || "") + (slugByLocale?.en || "");
+    dePath = (translationPath || path || "") + (slugByLocale?.de || "");
   }
 
   return (
