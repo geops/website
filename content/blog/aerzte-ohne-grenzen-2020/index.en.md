@@ -5,7 +5,7 @@ summary: In 2020, we again supported the aid workers of Doctors Without Borders
 author: Julia Knödler
 cover: /images/blog/aerzte-ohne-grenzen-2020/aerzte_ohne_grenzen_teaser.jpg
 created: 2021-01-05
-slug: aerzte-ohne-grenzen-2020
+slug: doctors-without-borders-2020
 tags:
   - geops
 published: true
