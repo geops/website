@@ -1,6 +1,6 @@
 ---
-title: Dr. Alexander Held
-summary: ""
+title: Dr. Alexander Held joins our team
+summary: "Our team continues to grow... We are pleased to welcome Dr. Alexander Held as a new team member."
 author: Julia Knödler
 cover: /images/blog/dr-alexander-held/Alex Held.jpg
 created: 2019-11-19

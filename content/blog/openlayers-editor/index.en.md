@@ -1,6 +1,6 @@
 ---
 title: "OpenLayers Editor"
-summary: "Wie schon die Kartenbibliothek OpenLayers, wurde auch der OpenLayers Editor vor einiger Zeit von Grund auf neu geschrieben und auf Github publiziert. Das Ziel ist nach wie vor die Bereitstellung eines Werkeugkastens für die Bearbeitung räumlicher Daten. Der Fokus liegt auf der einfachen Integration der Tools in bestehende Kartenanwendungen sowie auf Nutzerfreundlichkeit bei der Bedienung."
+summary: "Like the OpenLayers map library, the OpenLayers editor was rewritten from scratch some time ago and published on Github. The goal is still to provide a toolbox for editing spatial data. The focus is on easy integration of the tools into existing map applications as well as user-friendliness in operation."
 author: "Friedjoff Trautwein"
 created: "2019-03-03"
 slug: openlayers-editor

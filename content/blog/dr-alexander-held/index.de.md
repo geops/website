@@ -1,6 +1,6 @@
 ---
-title: Dr. Alexander Held
-summary: ""
+title: Dr. Alexander Held verstärkt unser Team
+summary: "Unser Team wächst weiter… Wir freuen uns, Dr. Alexander Held als neues Teammitglied begrüssen zu dürfen."
 slug: dr-alexander-held
 ---
 Unser Team wächst weiter… Wir freuen uns, Dr. Alexander Held als neues Teammitglied begrüssen zu dürfen.

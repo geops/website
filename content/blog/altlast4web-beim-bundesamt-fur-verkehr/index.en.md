@@ -1,11 +1,11 @@
 ---
-title: "Altlast4Web beim Bundesamt für Verkehr "
-summary: Seit Juni 2011 setzt die Sektion Umwelt im Schweizerischen Bundesamt
-  für Verkehr (BAV) als erster Kunde die aktuelle Version 2 von Altlast4Web
-  produktiv ein.
+title: "Altlast4Web at the Federal Office of Transport"
+summary: Since June 2011, the Environment Section at the Swiss Federal Office of
+  Transport (BAV) has been the first customer to productively use the current version 2 of Altlast4Web.
+  productively.
 cover: /images/blog/altlast4web-beim-bundesamt-fur-verkehr/gueterzug_1_0.jpg
 created: 2011-07-01
-slug: altlast4web-beim-bundesamt-fur-verkehr
+slug: altlast4web-at-federal-office-of-transport
 tags:
   - altlast4web
   - environment

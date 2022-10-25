@@ -1,11 +1,8 @@
 ---
-title: geOps AG in der Schweiz gegründet
-summary: Zum Jahresbeginn 2014 wurde die geOps AG in der Schweiz gegründet. Mit
-  diesem Schritt bieten wir unseren Schweizer und Liechtensteiner Kunden einen
-  einfacheren Zugang zu unseren Dienstleistungen und verkürzen die Wege für
-  einen optimierten Support.
+title: geOps AG founded in Switzerland
+summary: At the beginning of 2014, geOps AG was founded in Switzerland. With this step, we offer our Swiss and Liechtenstein customers easier access to our services and shorten the paths for optimized support.
 created: 2014-00-29
-slug: geops-ag-in-der-schweiz-gegrundet
+slug: geops-ag-in-switzerland-founded
 tags:
   - geops
 published: true

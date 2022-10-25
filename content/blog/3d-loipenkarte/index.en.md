@@ -1,10 +1,9 @@
 ---
-title: 3D Loipenkarte
-summary: Um Ihnen die Planung Ihres Winterurlaubs einfacher zu machen, haben wir
-  eine Loipenkarte in 2D und 3D erstellt.
+title: 3D Skiing trail map
+summary: To make it easier for you to plan your winter vacation, we have created in 2D and 3D.
 author: Friedjoff Trautwein
 created: 2012-11-21
-slug: 3d-loipenkarte
+slug: 3d-skiing-trail-map
 tags:
   - maps
 published: true

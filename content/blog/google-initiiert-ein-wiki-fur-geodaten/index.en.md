@@ -1,12 +1,11 @@
 ---
-title: Google initiiert ein Wiki für Geodaten
-summary: Google hat mit Ihrem Google Map Maker eine Web-Anwendung vorgestellt,
-  mit der jedermann (das heisst jeder registrierte Google-User) geographische
-  Features erstellen und bearbeiten kann - ganz im Stile eines Wiki. Was auf den
-  ersten Blick interessant klingt, ist doch unter Berücksichtigung der
-  Lizenzbedingungen äusserst kritisch zu beurteilen.
+title: Google initiates a wiki for geodata
+summary: Google has introduced a web application called Google Map Maker,
+  with which anyone (i.e. every registered Google user) can create and edit geographic
+  features - in the style of a wiki. What at first
+  interesting at first glance, is, however, to be viewed extremely critically under consideration of the license conditions.
 created: 2008-05-25
-slug: google-initiiert-ein-wiki-fur-geodaten
+slug: google-initiates-a-wiki-for-geodata
 tags:
   - developers
 published: true

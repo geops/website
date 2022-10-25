@@ -1,13 +1,13 @@
 ---
-title: Züge in Echtzeit auf Karten malen
-summary: Für die Livemap der S-Bahn München zeigen wir Nutzern in Echtzeit die
-  Positionen und aktuelle Prognosen zu Zügen an. In diesem Blog-Eintrag geht es
-  darum, wie wir zwei Teilaspekte, Echtzeit und Skalierbarkeit, technisch
-  umgesetzt haben.
+title: Draw trains on maps in realtime
+summary: For the Livemap of the S-Bahn Munich, we show users in real time the
+  positions and current forecasts for trains. This blog entry is about
+  how we have technically implemented two aspects, real-time and scalability.
+  implemented.
 author: Milan Oberkirch
 cover: /images/blog/zuge-in-echtzeit-auf-karten-malen/tmap.png
 created: 2018-11-17
-slug: zuge-in-echtzeit-auf-karten-malen
+slug: draw-train-on-maps-in-realtime
 tags:
   - mobility
   - realtime

@@ -1,9 +1,8 @@
 ---
-title: Wir sponsern Deine Teilnahme an der FOSSGIS 2013 in Rapperswil!
-summary: Wir suchen qualifizierte Talente (m/w), die mit uns das Geospatial Web
-  gestalten.
+title: We sponsor your participation at FOSSGIS 2013 in Rapperswil!
+summary: We are looking for qualified talents (m/f) to shape the Geospatial Web with us.
 created: 2013-03-17
-slug: wir-sponsern-deine-teilnahme-an-der-fossgis-2013-in-rapperswil
+slug: we-sponsor-your-participation-at-fossgis-2013-in-rapperswil
 tags:
   - geops
   - conferences

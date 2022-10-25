@@ -1,9 +1,9 @@
 ---
-title: Intergeo in Karlsruhe
-summary: Vom 22.9.-24.9. findet in Karlsruhe die Intergeo statt, die grösste
-  Fachmesse zum Thema GIS.
+title: Intergeo 2009 in Karlsruhe
+summary: From 22.9.2009-24.9.2009 the Intergeo will take place in Karlsruhe, the largest
+  trade fair on the subject of GIS.
 created: 2009-08-18
-slug: intergeo-in-karlsruhe
+slug: intergeo-2009-in-karlsruhe
 tags:
   - geops
   - conferences

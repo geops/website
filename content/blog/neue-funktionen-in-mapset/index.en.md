@@ -1,11 +1,11 @@
 ---
-title: Neue Funktionen in mapset
-summary: mapset wird stetig weiterentwickelt. Wir geben einen Überblick über die
-  neuesten Funktionen.
+title: New functions in mapset
+summary: mapset is constantly being developed further. We give an overview about the
+  newest functions.
 author: Uli Müller
 cover: /images/blog/neue-funktionen-in-mapset/mapset_release.png
 created: 2020-10-27
-slug: neue-funktionen-in-mapset
+slug: new-functions-in-mapset
 tags:
   - mapset
   - railreplacement

@@ -1,12 +1,12 @@
 ---
-title: Unbekannte Wälder in Google Maps
-summary: Die Version 3 der Google Maps API erlaubt die Anwendung
-  benutzerdefinierter Stildefinitionen für einzelne Kartenlayer. Einige Versuche
-  mit der neuen API innerhalb OpenLayers zeigten, dass Wälder bei Google mit
-  deutlich mehr Details vorliegen, als es Google Maps auf den ersten Blick
-  vermuten lässt.
+title: Unknown forests in Google Maps
+summary: Version 3 of the Google Maps API allows the application of
+  custom style definitions for individual map layers. Some tests
+  with the new API within OpenLayers showed that Google Maps presents forests with much more
+  with much more detail than Google Maps would suggest at first glance.
+  at first glance.
 created: 2011-01-13
-slug: unbekannte-walder-in-google-maps
+slug: unknown-forests-in-google-maps
 tags:
   - maps
   - environment

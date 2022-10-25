@@ -1,10 +1,10 @@
 ---
-title: Bike-(Crash-)Kurs
-summary: Ein Mischung aus Greenhorns  und erfahrenen Bikern lernt in einem
-  Crashkurs, wie man mit einem Fahrrad mehr als radfahren kann.
+title: Bike-(Crash-)course
+summary: A mix of greenhorns and experienced bikers learn in a
+  crash course on how to do more than ride a bike.
 cover: /images/blog/bike-crash-kurs/2017-05-05 17.04.54_small.jpg
 created: 2017-04-16
-slug: bike-crash-kurs
+slug: bike-crash-course
 tags:
   - geops
   - team

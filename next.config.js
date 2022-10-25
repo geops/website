@@ -22,7 +22,7 @@ const redirects = `/node/6 /en/imprint
 /node/213 /en/about
 /karriere/privacy-policy /en/privacy
 /solutions /solution
-/sbahnm-live /solution/tralis-livemap
+/sbahnm-live /solution/livemap
 /mapset /solution/mapset
 /moco /solution/disruption-information
 /sts-app /solution/webkarten-und-bahnhofplaene

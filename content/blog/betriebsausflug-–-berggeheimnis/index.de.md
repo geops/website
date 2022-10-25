@@ -1,6 +1,6 @@
 ---
 title: Betriebsausflug – Berggeheimnis
-summary: ""
+summary: "Zwei Teams, eine Bergfahrt auf 1.284 Metern Höhe und das Lösen der geheimnisvollen Rätsel des Outdoor-Escape-Games „2080 – Linus: Das Wasser kommt!“ sowie jede Menge Spaß standen bei unserem Betriebsausflug am 03.07.2020 auf dem Programm."
 slug: betriebsausflug-berggeheimnis
 ---
 Zwei Teams, eine Bergfahrt auf 1.284 Metern Höhe und das Lösen der geheimnisvollen Rätsel des Outdoor-Escape-Games „2080 – Linus: Das Wasser kommt!“ sowie jede Menge Spaß standen bei unserem Betriebsausflug am 03.07.2020 auf dem Programm. Den ersten Termin für den Betriebsausflug für dieses Jahr mussten wir leider coronabedingt absagen. Deswegen freuten wir uns alle umso mehr auf diesen tollen Tag.

@@ -1,11 +1,11 @@
 ---
-title: Züri HB und Züri West
-summary: Das geOps-Team auf Betriebsausflug nach Zürich. Am bisher heissesten
-  Tag des Sommers machten wir unseren Betriebsausflug. Das Orga-Team hatte für
-  dieses Jahr den Züri HB und Züri West als Ziele ausgesucht.
+title: Züri HB and Züri West
+summary:  The geOps team on a company trip to Zurich. On the hottest day of the
+  day of the summer we made our company trip. The Orga-Team had chosen
+  Zurich HB and Zurich West as destinations for this year.
 cover: /images/blog/zuri-hb-und-zuri-west/XE2S4187.JPG
 created: 2016-06-22
-slug: zuri-hb-und-zuri-west
+slug: zuri-hb-and-zuri-west
 tags:
   - geops
   - team

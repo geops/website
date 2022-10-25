@@ -1,12 +1,10 @@
 ---
-title: Tree-App Entwicklung 2021
-summary: "Nicht nur die Bäume wachsen stetig, auch unsere Tree-App hat im
-  letzten Jahr zahlreiche neue Funktionen erhalten. Eine Auswahl möchten wir
-  hier vorstellen. "
+title: Tree-App development 2021
+summary: "Not only are the trees growing steadily, but our Tree app has also received numerous new functions in the past year. We would like to present a selection here. "
 author: Elke Erhardt
 cover: /images/blog/tree-app-entwicklung-2021/thumbnail_treeapp_0.png
 created: 2022-02-02
-slug: tree-app-entwicklung-2021
+slug: tree-app-development-2021
 tags:
   - treeapp
   - environment

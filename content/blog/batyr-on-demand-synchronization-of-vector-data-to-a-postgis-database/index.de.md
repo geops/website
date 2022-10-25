@@ -1,9 +1,9 @@
 ---
-title: "batyr: On-demand synchronization of vector data to a PostGIS database"
-summary: We are excited to announce the first release of batyr - a server which
-  connects all kinds of vector geodata sources to a PostgreSQL/PostGIS database
-  and provides a structured way to synchronize external data to database tables.
-slug: batyr-on-demand-synchronization-of-vector-data-to-a-postgis-database
+title: "batyr: On-Demand-Synchronisation von Vektordaten mit einer PostGIS-Datenbank"
+summary: Wir freuen uns, die erste Version von batyr ankündigen zu können - ein Server, der
+  alle Arten von Vektor-Geodatenquellen mit einer PostgreSQL/PostGIS Datenbank verbindet
+  verbindet und eine strukturierte Möglichkeit bietet, externe Daten mit Datenbanktabellen zu synchronisieren.
+slug: batyr-on-demand-synchronisation-von-vectordaten-mit-ein-postgis-datenbank
 ---
 One common situation when dealing with geographic data is repeatedly exporting and importing this data to and from a PostGIS-enabled database. While the export is very well covered by products like Mapserver and GeoServer, importing is a bit more tricky. Common solutions consist mostly of custom scripts wrapping commands like shp2pgsql or ogr2ogr. These solutions often fail or at least need some tricky hacks if single rows of data should be updated instead of deleting and restoring the complete table content. It is also hard to account for slow or interrupted transactions and still make sure that the data stays synchronized as a whole. Using these import scripts requires either command line access or some custom code to hook them up to a job queue or even web interface to make them usable from within other applications.
 

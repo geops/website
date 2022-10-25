@@ -1,9 +1,8 @@
 ---
-title: Geodaten im Browser bearbeiten
-summary: geOps zeigt mit einem Video, dass auch im Browser alle Funktionen zur
-  Verfügung stehen, um Geodaten präzise und effizient digitalisieren zu können.
+title: Edit geodata in the browser
+summary: geOps shows with a video that all functions are also available in the browser to be able to digitize geodata precisely and efficiently.
 created: 2011-03-22
-slug: geodaten-im-browser-bearbeiten
+slug: edit-geodata-in-browser
 tags:
   - maps
   - developers

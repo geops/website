@@ -1,7 +1,7 @@
 ---
-title: Elias Englen
-summary: Seit September 2019 heißen wir Elias als festangestellten Grafiker und
-  UX-Spezialisten bei geOps herzlich willkommen!
+title: Elias Englen joins our team
+summary: Since September 2019, we welcome Elias as a permanent graphic designer and
+  UX specialist at geOps!
 author: Elias Englen
 cover: /images/blog/elias-englen/Elias_Englen_teaser.jpg
 created: 2020-06-08

@@ -1,13 +1,10 @@
 ---
-title: Tree-App – Zukunft des Waldes im Klimawandel
-summary: Waldwirtschaft ist geprägt von langfristigen Entscheidungen, die meist
-  erst die nächsten Generationen betreffen. In Zeiten des Klimawandels wird es
-  immer wichtiger die richtige Entscheidung für die Zukunft der Wälder zu
-  treffen.
+title: Tree App - Future of the Forest in Climate Change
+summary: Forest management is characterized by long-term decisions that usually affect the next generations. In times of climate change, it is becoming increasingly important to make the right decisions for the future of forests.
 author: Elke Erhardt
 cover: /images/blog/tree-app-zukunft-des-waldes-im-klimawandel/Thumbnail_Treeapp_0.png
 created: 2020-11-09
-slug: tree-app-zukunft-des-waldes-im-klimawandel
+slug: tree-app-future-of-forest-in-climate-change
 tags:
   - environment
   - treeapp

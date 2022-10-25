@@ -1,13 +1,13 @@
 ---
-title: EU-Projekt Greencycle
-summary: Städte und Regionen im Alpenraum haben sich Ziele zur Senkung des
-  CO²-Ausstosses gesetzt und entsprechende Strategien zur Förderung der
-  Kreislaufwirtschaft in den Bereichen Energie, Mobilität, Bauwesen usw.
-  erarbeitet.
+title: EU-Project Greencycle
+summary: Towns and regions in the Alpine region have set themselves targets to reduce their
+  CO² emissions and have developed corresponding strategies to promote the
+  circular economy in the fields of energy, mobility, construction, etc.
+  have been developed.
 author: Julia Knödler
 cover: /images/blog/eu-projekt-greencycle/blog_greencycle.jpg
 created: 2020-00-22
-slug: eu-projekt-greencycle
+slug: eu-project-greencycle
 tags:
   - geops
   - team

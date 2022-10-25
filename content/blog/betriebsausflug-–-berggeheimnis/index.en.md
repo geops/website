@@ -1,10 +1,10 @@
 ---
-title: Betriebsausflug – Berggeheimnis
-summary: ""
+title: Company trip - mountain secret
+summary: "Two teams, a mountain trip at an altitude of 1,284 meters and solving the mysterious riddles of the outdoor escape game 2080 - Linus: The water is coming! as well as a lot of fun were on the agenda of our company outing on 03.07.2020."
 author: Elias Englen
 cover: /images/blog/betriebsausflug-berggeheimnis/Teaser.jpg
 created: 2020-06-23
-slug: betriebsausflug-berggeheimnis
+slug: company-trip-berggeheimnis
 tags:
   - geops
   - team

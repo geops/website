@@ -1,10 +1,10 @@
 ---
-title: Visualizing a train network with GeoServer rendering transformations
-summary: In the context of the Trafimage geoportal of the swiss railway company
-  SBB geOps was given the task to visualize events and activities along the
-  train tracks. These include planned, ongoing and finished construction work,
-  maintenance tasks and information on equipment along the tracks.
-slug: visualizing-a-train-network-with-geoserver-rendering-transformations
+title: Visualisierung eines Zugnetzes mit GeoServer-Rendering-Transformationen
+summary: Im Rahmen des Trafimage Geoportals der Schweizerischen Bundesbahnen
+  SBB geOps die Aufgabe, Ereignisse und Aktivitäten entlang der Gleise zu visualisieren.
+  Bahnstrecken zu visualisieren. Dazu gehören geplante, laufende und abgeschlossene Bauarbeiten,
+  Wartungsarbeiten und Informationen über die Ausrüstung entlang der Gleise.
+slug: visualisierung-ein-zugnetzes-mit-geoserver-rendering-transformations
 ---
 In the context of the [Trafimage geoportal](http://maps.trafimage.ch) of the swiss railway company SBB geOps was given the task to visualize events and activities along the train tracks. These include planned, ongoing and finished construction work, maintenance tasks and information on equipment along the tracks.
 

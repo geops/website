@@ -1,16 +1,16 @@
 ---
-title: Modellkonforme Datenprüfung mit dem ilivalidator
-summary: Mit INTERLIS steht ein mächtiges Werkzeug für die standardisierte
-  Beschreibung und den Austausch von Geodaten zur Verfügung. Trotz der weiten
-  Verbreitung von INTERLIS und der Verankerung in Verordnungen (GeoIV-swisstopo)
-  gibt es immer noch Lücken bei den Software-Werkzeugen, die INTERLIS
-  unterstützen. Der ilivalidator, der 2016 als Open Source-Software zur
-  Validierung von INTERLIS-Daten erschienen ist, hat eine dieser Lücken
-  geschlossen.
+title: Model-compliant data checking with the ilivalidator
+summary: INTERLIS is a powerful tool for the standardized description and
+  description and exchange of geodata. Despite the wide
+  INTERLIS and the anchoring in ordinances (GeoIV-swisstopo) there are still
+  there are still gaps in the software tools that support INTERLIS.
+  support. The ilivalidator, which was released in 2016 as open source software for the
+  validation of INTERLIS data, has closed one of these gaps.
+  closed.
 author: Elke Erhardt
 cover: /images/blog/modellkonforme-datenprufung-mit-dem-ilivalidator/altlast4web_0.png
 created: 2019-04-16
-slug: modellkonforme-datenprufung-mit-dem-ilivalidator
+slug: model-compliant-data-checking-with-the-ilivalidator
 tags:
   - developers
   - altlast4web

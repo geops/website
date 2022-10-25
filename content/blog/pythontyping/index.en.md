@@ -8,7 +8,7 @@ summary: The Python interpreter handles types in a dynamic and flexible way
 author: Milan Oberkirch
 cover: /images/blog/adding-type-hints-to-existing-code-in-python/python.png
 created: 2022-09-27
-slug: pythontyping
+slug: python-typing
 tags:
   - python
   - developers

@@ -1,10 +1,10 @@
 ---
-title: Kontextsensitive Hilfe
-summary: geOps veröffentlicht flexibles jQuery-Plugin für kontextsensitive Hilfe
-  in Webanwendungen.
+title: Context sensitive help
+summary: geOps releases flexible jQuery plugin for context-sensitive help
+  in web applications.
 author: Friedjoff Trautwein
 created: 2011-02-04
-slug: kontextsensitive-hilfe
+slug: contextsensitive-help
 tags:
   - developers
 published: false

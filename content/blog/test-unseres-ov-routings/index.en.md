@@ -1,10 +1,10 @@
 ---
-title: Test unseres öV-Routings
-summary: Automatisch und manuell erfasste Linienverläufe des öV – ein Vergleich
-  mit Daten der SBB und des ZVV.
+title: Test of our public transport routing
+summary: Automatically and manually recorded routes of public transport - a comparison
+  with data from the SBB and the ZVV.
 cover: /images/blog/test-unseres-ov-routings/zvvsbb.PNG
 created: 2015-10-05
-slug: test-unseres-ov-routings
+slug: test-our-public-transport-routing
 tags:
   - routing
 published: true

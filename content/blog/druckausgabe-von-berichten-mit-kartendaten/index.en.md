@@ -1,10 +1,10 @@
 ---
-title: Druckausgabe von Berichten mit Kartendaten
-summary: Wir haben auf der FOSSGIS-Konferenz in Heidelberg unseren Lösungansatz
-  zum Druck von Berichten mit Kartendaten auf Basis von OpenOffice vorgestellt.
-  Der Vortrag ist online verfügbar.
+title: Print output of reports with map data
+summary: At the FOSSGIS conference in Heidelberg we presented our solution approach
+  for printing reports with map data based on OpenOffice.
+  The presentation is available online.
 created: 2011-03-06
-slug: druckausgabe-von-berichten-mit-kartendaten
+slug: print-report-with-map-data
 tags:
   - maps
   - developers

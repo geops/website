@@ -1,10 +1,10 @@
 ---
-title: Bahnhofkarte der SBB
+title: SBB station map
 summary: The Swiss railway association SBB have published a new map on their
   website that eases access to information about services and shopping
   opportunities at all railway stations.
 created: 2013-09-23
-slug: bahnhofkarte-der-sbb
+slug: sbb-station-map
 tags:
   - mobility
   - maps

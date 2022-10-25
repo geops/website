@@ -1,11 +1,9 @@
 ---
-title: Kataster öffentlich rechtlicher Beschränkungen ÖREB
-summary: Als eines der ersten Länder der Welt veröffentlicht die Schweiz heute
-  einen Kataster öffentlich-rechtlicher Eigentumsbeschränkungen. Ein Thema im
-  Kataster wird mit Software von geOps bearbeitet und publiziert.
+title: Cadastre of public-law restrictions ÖREB
+summary: As one of the first countries in the world, Switzerland today publishes a cadastre of public-law property restrictions. A topic in the  cadastre is processed and published with software from geOps.
 cover: /images/blog/kataster-offentlich-rechtlicher-beschrankungen-oreb/oerebmapgeoadmin.png
 created: 2014-00-24
-slug: kataster-offentlich-rechtlicher-beschrankungen-oreb
+slug: cadastre-public-law-restrictions-oereb
 tags:
   - altlast4web
   - environment

@@ -1,6 +1,6 @@
 ---
-title: geops.ch von DNS-Hijacking Vorfall bei Gandi betroffen
-summary: ""
+title: geops.ch affected by DNS hijacking incident at Gandi
+summary: "geops.ch von DNS-Hijacking-Vorfall bei Gandi betroffen, bei dem die Nameserver von insgesamt 751 Domains ersetzt wurden."
 slug: geopsch-von-dns-hijacking-vorfall-bei-gandi-betroffen
 ---
 Am 7. Juli gab es einen Vorfall beim DNS-Registrar [Gandi](https://www.gandi.net/), bei dem die Nameserver von insgesamt 751 Domains ausgetauscht wurden. Gandi schreibt in ihrem [Incident Report](https://news.gandi.net/en/2017/07/report-on-july-7-2017-incident/) davon, dass die Änderung durch einen "unautorsierten Zugriff bei einem ihrer technischen Provider" vollzogen wurde. Der Vorfall ereignete sich um 13:00 MESZ. Gandi bestätigte den Vorfall wenig später per Twitter, und meldete um ca. 16:00, dass alle unautorisierten Änderungen zurückgesetzt wurden ([Timeline](https://news.gandi.net/en/2017/07/report-on-july-7-2017-incident/)).

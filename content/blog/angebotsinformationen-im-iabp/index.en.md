@@ -1,13 +1,12 @@
 ---
-title: Angebotsinformationen im IABP
-summary: geOps entwickelt für die Schweizerischen Bundesbahnen (SBB) im Rahmen
-  des Trafimage-Mandats den Interaktiven Bahnhofplan (IABP). Dieser hilft als
-  eigenständige Anwendung oder als eingebundener Lageplan auf sbb.ch Kunden der
-  SBB bei der Orientierung im und am Bahnhof.
+title: Offers informations in  IABP
+summary: geOps develops for the Swiss Federal Railways (SBB) in the context of the
+  the Interactive Railway Station Plan (IABP) as part of the Trafimage mandate. This helps as
+  as a stand-alone application or as an integrated map on sbb.ch to help SBB customers with orientation in and around the station.
 author: Mario Härtwig
 cover: /images/blog/angebotsinformationen-im-iabp/IABP_UPDATE_0_0.png
 created: 2020-06-02
-slug: angebotsinformationen-im-iabp
+slug: offers-informations-in-iabp
 tags:
   - maps
   - passengerinformation
