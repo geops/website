@@ -1,5 +1,5 @@
 ---
-title: "\tDoctors Without Borders 2020"
+title: Doctors Without Borders 2020
 summary: In 2020, we again supported the aid workers of Doctors Without Borders
   in their important work.
 author: Julia Knödler
