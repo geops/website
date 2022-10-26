@@ -24,7 +24,7 @@ export default function Career({ content, jobs }) {
         src="/images/page/career/header.jpg"
         srcMobile="/images/page/career/header-mobile.jpg"
         title={title}
-        text={content.headerText}
+        text={content.header}
       />
       <CareerContent content={content} />
       <ApplicationTeaser jobs={jobs} />
