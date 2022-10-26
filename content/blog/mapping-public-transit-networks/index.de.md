@@ -19,7 +19,7 @@ Extrahierung von Fahrverläufen aus Geodaten
 
 Versuche, die Menge der Schienenverkehrs-Relationen in OpenStreetMap über Ähnlichkeitsmaße (z.B. die [Fréchet-Distanz](http://en.wikipedia.org/wiki/Fr%C3%A9chet_distance)) mit den Station-zu-Station-Liniengeometrien von Zugfahrten im GTFS-Feed zu vergleichen, lieferten keine brauchbaren Ergebnisse. Dass die Extrahierung der Shapes selbst für räumlich eng begrenzte Gebiete keine triviale Aufgabe ist, zeigt das (bereits in einen Graph überführte) OSM-Straßennetz von Zürich.
 
-[![](/images/blog/mapping-public-transit-networks/zuerichroad_small.png)](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/zuerichroad.png)
+[](/images/blog/mapping-public-transit-networks/zuerichroad_small.png)
 
 Unser Ansatz generiert (wahrscheinliche) Fahrtverläufe mithilfe von iterativen Shortest-Path-Aufrufen auf dem gesamten Nahverkehrsnetz. Selbstverständlich ist nicht garantiert, dass Fahrzeuge zwischen 2 Stationen immer den (im Modell) optimalen Weg nehmen. Vor allem im Schienennetz ist der kürzeste Weg oft der falsche. Daher sind gute Heuristiken nötig, um wahrscheinliche von unwahrscheinlichen Fahrtwegen unterscheiden zu können.
 
@@ -56,17 +56,17 @@ Da das korrekte Einfügen der Stationen von grundlegender Bedeutung für die Qua
 
 In den meisten Fällen besteht eine Station jedoch aus mehreren Haltepunkten. Dieses Problem scheint auf den ersten Blick kosmetischer Natur zu sein. Selbst im Busnetz ist eine korrekte Platzierung der **Sekundärstationen** jedoch von grundlegender Bedeutung und hängt eng mit der oben genannten topologischen Korrektheit des Graphen zusammen. Deutlich wird dies an folgendem Beispiel:
 
-[![](/images/blog/mapping-public-transit-networks/olten_prob_small.png)](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/olten_prob.png)
+[](/images/blog/mapping-public-transit-networks/olten_prob_small.png)
 
 Obwohl die Station (rot) auf eines der Gleise gesnappt wurde, ist es unmöglich, die Station von Gleisstrang 1 aus zu erreichen. In Busnetzen tritt ein ähnliches Problem z.B. bei mehrspurigen Straßen auf, die jeweils als Einbahnstraße markiert sind. Fehlt die Station der Gegenrichtung, muss der Bus im Routing eventuell große Umwege nehmen, um in der richtigen Richtung die Station anfahren zu können.
 
 Um diese Fälle abzudecken, wird aus der oben beschriebenen priority queue nicht nur die beste Station gewählt, sondern eine (fixe) Anzahl von möglichen Kandidaten. Auch bei diesen Kandidaten ist es möglich, auf Informationen aus OpenStreetMap zurückzugreifen.
 
-[![](/images/blog/mapping-public-transit-networks/aarau_small.png)](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/aarau.png)
+[](/images/blog/mapping-public-transit-networks/aarau_small.png)
 
 Diese Kandidaten werden nun mit einer Dummy-Kante mit der Primärstation (= die am besten gematchte Station) verbunden. Konkret heißt das z.B. im Schienennetz, dass wir Zügen erlauben, in Stationen die Gleise zu wechseln. Ohne diese Spezialkante wäre eine erfolgreiche Routensuche nur in den wenigsten Fällen möglich. Unten ist der Bahnhof Olten mit eingeblendeten Spezialkanten zu sehen.
 
-[![](/images/blog/mapping-public-transit-networks/olten_small.png)](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/olten.png)
+[](/images/blog/mapping-public-transit-networks/olten_small.png)
 
 ### 2\. Kürzester-Weg-Algorithmus
 
@@ -97,13 +97,13 @@ Mit dem oben beschriebenen Vorgehen haben wir die Fahrtwege des kompletten ÖNV-
 
 ![](/images/blog/mapping-public-transit-networks/trafimage.png)
 
-[![](/images/blog/mapping-public-transit-networks/tue_small.png)](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/tue.png)
+![](/images/blog/mapping-public-transit-networks/tue_small.png)
 
-[![](/images/blog/mapping-public-transit-networks/berlin_small.png)](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/berlin.png)
+![](/images/blog/mapping-public-transit-networks/berlin_small.png)
 
 Auch die Generierung und Ausgabe des gesamten, mit fahrplanmäßigen Linienbezeichnungen versehenen Nahverkehrsnetzes einer Region oder eines Landes ist möglich. Das untenstehende Bild zeigt als Zusammenstellung der im Raum Zürich gefundenen Fahrtgeometrien das extrahierte Busliniennetz der Stadt.
 
-[![](/images/blog/mapping-public-transit-networks/zuerichklein.png)](/images/blog/mapping-von-netzen-des-offentlichen-verkehrs/zuerichbus.png)
+![](/images/blog/mapping-public-transit-networks/zuerichklein.png)
 
 Jede Geometrie stellt den mit dem Fahrplan korrelierten Fahrtverlauf von einer oder mehreren Buslinien dar. Anfragen der Form "welchen Fahrtweg nimmt die Buslinie 2, die am 22.8. um 19:20 an Station X startet?" sind problemlos zu beantworten.
 
