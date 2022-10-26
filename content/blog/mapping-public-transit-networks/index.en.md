@@ -26,7 +26,7 @@ By the time we decided to [include the public transportation network of switzerl
 
 Attempts to compare the set of railway relations in OpenStreetMap to the set of station-to-station geometries from GTFS feeds (e.g. via a [Fréchet-Distanz](http://en.wikipedia.org/wiki/Fr%C3%A9chet_distance)) were fruitless. A look at the street network (already transformed into a graph) of Zurich gives a hint of the complexity of extracting bus routes from even a very small area.
 
-[](/images/blog/mapping-public-transit-networks/zuerichroad_small.png)
+![](/images/blog/mapping-public-transit-networks/zuerichroad_small.png)
 
 Our approach generates vehicle route shapes by using iterative shortest-path calculation on the public transit network. Naturally, a vehicle does not always take the "optimal" route from one station to another. In fact, for railway networks, naïve shortest paths are very often the wrong ones. We need good heuristics to be able to distingiush likely from unlikely vehicle routes.
 
