@@ -4,7 +4,7 @@ summary: The FOSSGIS conference is the most important event on free and
   open source software for geoinformation systems in the German-speaking world. As
   in previous years, geOps is involved as a sponsor.
 created: 2010-01-15
-slug: geops-at-fossgis-2010
+slug: fossgis-2010
 tags:
   - geops
   - conferences

@@ -227,8 +227,8 @@ const redirects = `/node/6 /en/imprint
 /blog/automatisierte-erstellung-von-fahrplanreferenzierten-öv-netzen /blog/automatisierte-erstellung-von-fahrplanreferenzierten-ov-netzen
 /node/133 /blog/beta-of-cartaro-released
 /blog/117-beta-cartaro-released /blog/beta-of-cartaro-released
-/node/86 /blog/merry-xmaps-and-a-happy-new-year
-/blog/81-merry-xmaps-and-happy-new-year /blog/merry-xmaps-and-a-happy-new-year
+/node/86 /blog/merry-xmaps-and-a-happy-new-year-2012
+/blog/81-merry-xmaps-and-happy-new-year /blog/merry-xmaps-and-a-happy-new-year-2012
 /node/145 /blog/geodaten-und-drupal-7
 /blog/58-geodaten-und-drupal-7 /blog/geodaten-und-drupal-7
 /node/146 /en/blog/spatial-data-and-drupal-7
@@ -309,4 +309,9 @@ const redirects = `/node/6 /en/imprint
 /en/solution/[slug] /en/solution
 /blog/cartaro-on-osgeo-live-dvd /blog/cartaro-auf-der-osgeo-live-dvd
 /en/blog/[slug] /en/blog
-/blog/[slug] /blog`;
+/blog/[slug] /blog
+/en/blog/pythontyping /en/blog/python-typing
+/en/blog/altlast4web-go-live-in-luzern /en/blog/altlast4web-go-live-in-lucerne
+/en/blog/swisstopo-revisionsdienst-mobile /en/blog/swisstopo-revision-service-mobile
+/en/blog/merry-xmaps-and-a-happy-new-year /en/blog/merry-xmaps-and-a-happy-new-year-2012
+/en/blog/der-blogger-patrick-brosi-als-autor /en/blog/the-blogger-patrick-brosi-as-author`;
