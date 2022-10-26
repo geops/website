@@ -26,7 +26,7 @@ By the time we decided to [include the public transportation network of switzerl
 
 Attempts to compare the set of railway relations in OpenStreetMap to the set of station-to-station geometries from GTFS feeds (e.g. via a [Fréchet-Distanz](http://en.wikipedia.org/wiki/Fr%C3%A9chet_distance)) were fruitless. A look at the street network (already transformed into a graph) of Zurich gives a hint of the complexity of extracting bus routes from even a very small area.
 
-[![](/images/blog/mapping-public-transit-networks/zuerichroad_small.png)](/images/blog/mapping-public-transit-networks/zuerichroad.png)
+[](/images/blog/mapping-public-transit-networks/zuerichroad_small.png)
 
 Our approach generates vehicle route shapes by using iterative shortest-path calculation on the public transit network. Naturally, a vehicle does not always take the "optimal" route from one station to another. In fact, for railway networks, naïve shortest paths are very often the wrong ones. We need good heuristics to be able to distingiush likely from unlikely vehicle routes.
 
@@ -65,17 +65,17 @@ First, an area search determines the nodes in the reference data that are marked
 
 In most cases, however, a station consists of multiple stop points. At first glance this seems to be a cosmetical problem. Even in bus networks, though, a correct placement of **secondary stations** is crucial and is tightly connected to the topological correctness of the graph. The following example illustrates this.
 
-[![](/images/blog/mapping-public-transit-networks/olten_prob_small.png)](/images/blog/mapping-public-transit-networks/olten_prob.png)
+![](/images/blog/mapping-public-transit-networks/olten_prob_small.png)
 
 Although the station (red dot) is snapped correctly on one of the tracks, it is impossible to reach the station when comming from string 1. In bus networks, a similar problem occurs on roads with multiple lanes that are marked as one-way roads, respectively. If the station in the opposite direction is missing, the bus has to take huge detours during the calculation of the shortest path to reach the station heading in the right direction.
 
 To cover these cases, we do not only take the best stop from the priority queue as described above, but a (predefined) number of possible candidates.
 
-[![](/images/blog/mapping-public-transit-networks/aarau_small.png)](/images/blog/mapping-public-transit-networks/aarau.png)
+![](/images/blog/mapping-public-transit-networks/aarau_small.png)
 
 These candidates are now connected to the primary station by dummy edges. This means that we are allowing a train to **switch tracks** in stations. Without these special edges a successful shortest path calculation would only be possible in very few cases. However, these special edges are also the main source of outliers in our results. The figure below shows the station of Olten in Switzerland with the special edges included.
 
-[![](/images/blog/mapping-public-transit-networks/olten_small.png)](/images/blog/mapping-public-transit-networks/olten.png)
+![](/images/blog/mapping-public-transit-networks/olten_small.png)
 
 ### 2\. Shortest-Path-Algorithm
 
@@ -105,13 +105,13 @@ Using the approach described above we calculated the vehicle routes for the comp
 
 ![](/images/blog/mapping-public-transit-networks/trafimage.png)
 
-[![](/images/blog/mapping-public-transit-networks/tue_small.png)](/images/blog/mapping-public-transit-networks/tue.png)
+![](/images/blog/mapping-public-transit-networks/tue_small.png)
 
-[![](/images/blog/mapping-public-transit-networks/berlin_small.png)](/images/blog/mapping-public-transit-networks/berlin.png)
+![](/images/blog/mapping-public-transit-networks/berlin_small.png)
 
 It is also possible to generate and output either the complete or the filtered network, based on the schedule and complete with line numbers for single areas or whole countries. The figure below shows the generated bus network of the city of Zurich.
 
-[![](/images/blog/mapping-public-transit-networks/zuerichklein.png)](/images/blog/mapping-public-transit-networks/zuerichbus.png)
+![](/images/blog/mapping-public-transit-networks/zuerichklein.png)
 
 Each geometry corresponds to one or more vehicles travelling on this route through the network. We can handle requests like "which route does the bus serving line 2 take on August 22nd, starting a stop X at 7:20?"'.
 
