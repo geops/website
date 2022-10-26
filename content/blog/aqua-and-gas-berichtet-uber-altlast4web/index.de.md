@@ -7,4 +7,4 @@ slug: aqua-und-gas-berichtet-uber-altlast4web
 ---
 Das Fachorgan [Aqua & Gas](http://www.svgw.ch) des [Schweizerischen Vereins des Gas- und Wasserfachs](http://www.svgw.ch) setzt in seiner aktuellen Ausgabe einen Schwerpunkt auf das Thema Geoinformation. In diesem Rahmen ist auch ein Bericht zur Software Altlast4Web erschienen. Darin wird die Integration der Geodatenbearbeitung mit Sachdaten und Geschäftsprozessen hervorgehoben.
 
-Der Artikel ist [hier](https://www.svgw.ch/shopregelwerk/produkte/aqua-gas-07-2012/) abrufbar.
+Der Artikel ist [hier](/images/altlast4webaquagas.pdf) abrufbar.
