@@ -316,4 +316,11 @@ const redirects = `/node/6 /en/imprint
 /en/blog/merry-xmaps-and-a-happy-new-year /en/blog/merry-xmaps-and-a-happy-new-year-2012
 /en/blog/der-blogger-patrick-brosi-als-autor /en/blog/the-blogger-patrick-brosi-as-author
 /karriere/backend-developer /karriere/senior-python-backend-entwickler
-/en/career/backend-developer /en/career/senior-python-backend-developer`;
+/en/career/backend-developer /en/career/senior-python-backend-developer
+/en/blog/news20221 /en/blog/news-2022
+/mapping-von-netzen-des-offentlichen-verkehrs /blog/mapping-von-netzen-des-offentlichen-verkehrs
+/mapping-public-transit-networks /en/blog/mapping-public-transit-networks
+/blog/geoserver-wfs-performance-comparison /en/blog/geoserver-wfs-performance-comparison
+/developer-portal /solution/developer-portal
+/worldwide-transit-tracker /en/blog/worldwide-transit-tracker
+/weltweiter-ov-tracker /blog/weltweiter-ov-tracker`;
