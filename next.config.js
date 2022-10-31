@@ -314,4 +314,6 @@ const redirects = `/node/6 /en/imprint
 /en/blog/altlast4web-go-live-in-luzern /en/blog/altlast4web-go-live-in-lucerne
 /en/blog/swisstopo-revisionsdienst-mobile /en/blog/swisstopo-revision-service-mobile
 /en/blog/merry-xmaps-and-a-happy-new-year /en/blog/merry-xmaps-and-a-happy-new-year-2012
-/en/blog/der-blogger-patrick-brosi-als-autor /en/blog/the-blogger-patrick-brosi-as-author`;
+/en/blog/der-blogger-patrick-brosi-als-autor /en/blog/the-blogger-patrick-brosi-as-author
+/karriere/backend-developer /karriere/senior-python-backend-entwickler
+/en/career/backend-developer /en/career/senior-python-backend-developer`;
