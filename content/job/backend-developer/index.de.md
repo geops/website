@@ -1,8 +1,9 @@
 ---
 title: Senior Python Backend Softwareentwickler (m/w/d)
-summary: Du liebst es, zusammen mit einem tollen Team leistungsfähige Software
-  zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Mit Python
-  kriegst du jede Aufgabe gelöst, kennst dich aber auch mit C++ aus? Match!
+summary: Du liebst es, zusammen mit einem ehrgeizigen Team leistungsfähige
+  Software zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Mit
+  Python kriegst du jede Aufgabe gelöst, kennst dich aber auch mit C++ aus?
+  Match!
 slug: senior-python-backend-entwickler
 created: 2022-05-12
 ---
@@ -10,7 +11,7 @@ Du liebst es, in einem begeisterten, starken Team an der Entwicklung leistungsf�
 
 ## Was erwartet dich?
 
-Gemeinsam mit dem gesamten Team entwickelst du attraktive Lösungen für namhafte Kunden auf Basis unserer Micro-Services-Architektur und verschiedener Schnittstellen und Datenbanken. Deine Aufgabe ist zum einen die Entwicklung schlanker Backends, die hauptsächlich auf Python mit Django oder Flask basieren. Andererseits erstellst du neue oder optimierst bestehende Algorithmen, die z.B. für das Routing oder die automatisierte Erstellung von grafischen Netzen für den öffentlichen Verkehr eingesetzt werden. Python und C++ sind dabei die wichtigsten Sprachen. Du hast regelmässig die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren. 
+Gemeinsam mit dem gesamten Team entwickelst du attraktive Lösungen für namhafte Kunden auf Basis unserer Micro-Services-Architektur und verschiedener Schnittstellen und Datenbanken. Deine Aufgabe ist zum einen die Entwicklung schlanker Backends, die hauptsächlich auf Python mit Django, Flask oder FastAPI basieren. Andererseits erstellst du neue oder optimierst bestehende Algorithmen, die z.B. für das Routing oder die automatisierte Erstellung von grafischen Netzen für den öffentlichen Verkehr eingesetzt werden. Python und C++ sind die wichtigsten Sprachen für diese Aufgaben. Du hast regelmässig die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
 
 ## Qualifikationen
 
