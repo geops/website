@@ -10,7 +10,7 @@ You love working in a strong, engaged team for creating perfomant software and o
 
 ## What awaits you
 
-Togehter with the whole team you will develop attractive solutions for well-known customers based on our micro-services architecture and various interfaces and databases. Your job will be on the one hand the development of slim backends that are mainly based on Python and Django. On the other hand you will create new or optimize existing algorithms that are used e.g. for routing or automated creation of graphical networks for public transport. Python or C++ will be the languages used therefore. You will regularly have the opportunity to try out new technologies and evaluate them together with us. 
+Togehter with the whole team you will develop attractive solutions for well-known customers based on our micro-services architecture and various interfaces and databases. Your job will be on the one hand the development of slim backends that are mainly based on Python with Django, Flask or FastAPI. On the other hand you will create new or optimize existing algorithms that are used e.g. for routing or automated creation of graphical networks for public transport. Python or C++ will be the languages used therefore. You will regularly have the opportunity to try out new technologies and evaluate them together with us.
 
 ## Qualifications
 
