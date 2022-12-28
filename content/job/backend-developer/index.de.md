@@ -1,8 +1,9 @@
 ---
 title: Senior Python Backend Softwareentwickler (m/w/d)
-summary: Du liebst es, zusammen mit einem tollen Team leistungsfähige Software
-  zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Mit Python
-  kriegst du jede Aufgabe gelöst, kennst dich aber auch mit C++ aus? Match!
+summary: Du liebst es, zusammen mit einem ehrgeizigen Team leistungsfähige
+  Software zu erstellen und Algorithmen für komplexe Probleme zu optimieren? Mit
+  Python kriegst du jede Aufgabe gelöst, kennst dich aber auch mit C++ aus?
+  Match!
 slug: senior-python-backend-entwickler
 created: 2022-05-12
 ---
