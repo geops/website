@@ -143,13 +143,17 @@ export default function Header({ pathByLocale }) {
                   {language === "de" ? (
                     <strong>DE</strong>
                   ) : (
-                    <Link href={pathByLocale.de}>DE</Link>
+                    <Link href={pathByLocale.de}>
+                      <a data-cy="deLinkMobile">DE</a>
+                    </Link>
                   )}
                   <span>|</span>
                   {language === "en" ? (
                     <strong>EN</strong>
                   ) : (
-                    <Link href={pathByLocale.en}>EN</Link>
+                    <Link href={pathByLocale.en}>
+                      <a data-cy="enLinkMobile">EN</a>
+                    </Link>
                   )}
                 </div>
               </div>
@@ -195,13 +199,17 @@ export default function Header({ pathByLocale }) {
                 {language === "de" ? (
                   <strong>DE</strong>
                 ) : (
-                  <Link href={pathByLocale.de}>DE</Link>
+                  <Link href={pathByLocale.de}>
+                    <a data-cy="deLinkDesktop">DE</a>
+                  </Link>
                 )}
                 <span>|</span>
                 {language === "en" ? (
                   <strong>EN</strong>
                 ) : (
-                  <Link href={pathByLocale.en}>EN</Link>
+                  <Link href={pathByLocale.en}>
+                    <a data-cy="enLinkDesktop">EN</a>
+                  </Link>
                 )}
               </div>
             </div>

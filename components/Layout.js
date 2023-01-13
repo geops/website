@@ -33,7 +33,6 @@ export default function Layout({
     dePath = (translationPath || path || "/") + (slugByLocale?.de || "");
   }
 
-  console.log(dePath, enPath, slugByLocale);
   return (
     <>
       <Head>

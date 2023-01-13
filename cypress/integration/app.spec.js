@@ -33,6 +33,10 @@ const selectMainTitle = "[data-cy='pageMainTitle']";
 const selectMenuButton = "[data-cy='menuButton']";
 const selectMenuListDesktop = "[data-cy='menuListDesktop']";
 const selectMenuListMobile = "[data-cy='menuListMobile']";
+const deLinkDesktop = "[data-cy='deLinkDesktop']";
+const enLinkDesktop = "[data-cy='enLinkDesktop']";
+const deLinkMobile = "[data-cy='deLinkMobile']";
+const enLinkMobile = "[data-cy='enLinkMobile']";
 
 const commonDesktopNavigationViaMenu = (path, lang = "") => {
   // Start from the index page
@@ -44,6 +48,19 @@ const commonDesktopNavigationViaMenu = (path, lang = "") => {
   cy.get(selectMenuListDesktop).should("be.visible");
   cy.get(selectMenuListMobile).should("be.not.visible");
   cy.get(selectMenuButton).should("be.not.visible");
+
+  if (lang == "en") {
+    cy.get(enLinkMobile).should("not.exist");
+    cy.get(enLinkDesktop).should("not.exist");
+    cy.get(deLinkMobile).should("be.not.visible");
+    cy.get(deLinkDesktop).should("be.visible");
+  } else {
+    // de
+    cy.get(deLinkMobile).should("not.exist");
+    cy.get(deLinkDesktop).should("not.exist");
+    cy.get(enLinkMobile).should("be.not.visible");
+    cy.get(enLinkDesktop).should("be.visible");
+  }
 
   const links = cy
     .get(selectMenuListDesktop)
@@ -74,6 +91,19 @@ const commonMobileNavigationViaMenu = (path, lang = "") => {
   cy.get(selectMenuButton).click();
   cy.get(selectMenuListMobile).should("be.visible");
 
+  if (lang == "en") {
+    cy.get(enLinkMobile).should("not.exist");
+    cy.get(enLinkDesktop).should("not.exist");
+    cy.get(deLinkMobile).should("be.visible");
+    cy.get(deLinkDesktop).should("be.not.visible");
+  } else {
+    // de
+    cy.get(deLinkMobile).should("not.exist");
+    cy.get(deLinkDesktop).should("not.exist");
+    cy.get(enLinkMobile).should("be.visible");
+    cy.get(enLinkDesktop).should("be.not.visible");
+  }
+
   // There is 2 links one for desktop one for mobil, at least one link should be visible.
   const links = cy
     .get(selectMenuListMobile)
@@ -92,7 +122,7 @@ const commonMobileNavigationViaMenu = (path, lang = "") => {
   cy.get(selectMainTitle).should("be.visible");
 };
 
-const commonDesktopHomeNavigation = (lang = "") => {
+const commonMobileHomeNavigation = (lang = "") => {
   // Start from the index page
   cy.visit(lang);
 
@@ -101,7 +131,7 @@ const commonDesktopHomeNavigation = (lang = "") => {
   cy.get(selectMainTitle).should("be.visible");
 };
 
-const commonMobileHomeNavigation = (lang = "") => {
+const commonDesktopHomeNavigation = (lang = "") => {
   // Start from the index page
   cy.visit(lang);
 
@@ -118,12 +148,20 @@ describe("app", () => {
           setViewPort(viewport);
         });
 
-        it("using default language (german).", () => {
-          commonMobileHomeNavigation();
+        it("using default language (german) then navigate to english.", () => {
+          commonDesktopHomeNavigation();
+          cy.get(enLinkDesktop).click();
+          cy.url().should("include", "/en");
+          cy.get(deLinkDesktop).click();
+          cy.url().should("not.include", "/en");
         });
 
-        it("using english.", () => {
-          commonMobileHomeNavigation("en");
+        it("using english then navigate to german", () => {
+          commonDesktopHomeNavigation("en");
+          cy.get(deLinkDesktop).click();
+          cy.url().should("not.include", "/en");
+          cy.get(enLinkDesktop).click();
+          cy.url().should("include", "/en");
         });
       });
     });
@@ -134,12 +172,20 @@ describe("app", () => {
           setViewPort(viewport);
         });
 
-        it("using default language (german).", () => {
-          commonDesktopHomeNavigation();
+        it("using default language (german) then navigate to english.", () => {
+          commonMobileHomeNavigation();
+          cy.get(enLinkMobile).click({ force: true });
+          cy.url().should("include", "/en");
+          cy.get(deLinkMobile).click({ force: true });
+          cy.url().should("not.include", "/en");
         });
 
-        it("using english.", () => {
-          commonDesktopHomeNavigation("en");
+        it("using english then navigate to german.", () => {
+          commonMobileHomeNavigation("en");
+          cy.get(deLinkMobile).click({ force: true });
+          cy.url().should("not.include", "/en");
+          cy.get(enLinkMobile).click({ force: true });
+          cy.url().should("include", "/en");
         });
       });
     });
@@ -165,6 +211,10 @@ describe("app", () => {
         });
 
         it("to the karriere page", () => {
+          commonDesktopNavigationViaMenu("karriere");
+        });
+
+        it("to en page", () => {
           commonDesktopNavigationViaMenu("karriere");
         });
       });
