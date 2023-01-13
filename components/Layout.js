@@ -30,9 +30,10 @@ export default function Layout({
   // if current language is EN
   if (language === "en") {
     enPath = "/en" + (path || "") + (slugByLocale?.en || "");
-    dePath = (translationPath || path || "") + (slugByLocale?.de || "");
+    dePath = (translationPath || path || "/") + (slugByLocale?.de || "");
   }
 
+  console.log(dePath, enPath, slugByLocale);
   return (
     <>
       <Head>
