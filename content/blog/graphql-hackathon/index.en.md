@@ -2,7 +2,7 @@
 title: GraphQL - Hackathon 2022
 summary: "Members from the geOps developer team explore GraphQL in an internal
   hackathon to discover its potential for geOps projects. "
-cover: /images/blog/graphql-hackathon-2022/graphql_logo.png
+cover: ""
 created: 2023-01-30
 slug: graphql-hackathon
 tags:
