@@ -1,5 +1,5 @@
 ---
-title: Karten der Abo-Geltungsbereiche
+title: Karte der Abo-Geltungsbereiche
 summary: "Die Karte der Geltungsbereiche von Generalabo, Halbtax und weiteren
   Abos im öV Schweiz ist jetzt als echte digitale Version verfügbar. Die bislang
   manuell gepflegte Karte, die als PDF oder gedruckte Faltkarte produziert
