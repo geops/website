@@ -6,6 +6,8 @@ created: 2023-01-30
 slug: graphql-hackathon
 published: true
 ---
+![](/images/blog/graphql-hackathon-2022/graphql.png)
+
 Bei geOps erforschen die Entwickler ständig die neuesten Technologien, um sicherzustellen, dass die Anwendungen die modernsten Webtechnologiestandards verwenden. Daher ist es selbstverständlich, dass [GraphQL](https://graphql.org/) ein häufiges Thema bei der Entwicklung ist. GraphQL ist eine leistungsstarke API-Abfragesprache, die sich in den letzten Jahren einen Ruf als flexible und funktionsreiche Alternative zu RESTful APIs erworben hat. Dies hat geOps dazu bewogen, sie in neuen Projekten einzusetzen und ihr volles Potenzial zu erkunden. 
 
 Im Jahr 2022 beschlossen Mitglieder des GeOps-Entwicklerteams, ein internes, gemeinsames Coding-Event zu organisieren. Ziel war es, die Möglichkeiten, Tools und Bibliotheken rund um GraphQL zu entdecken und sie in bestehenden geOps-Projekten anzuwenden, indem bestimmte Komponenten überarbeitet wurden. So wurde der GraphQL-Hackathon ins Leben gerufen.
