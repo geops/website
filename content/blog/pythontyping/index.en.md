@@ -2,9 +2,8 @@
 title: Adding type hints to existing code in Python
 summary: The Python interpreter handles types in a dynamic and flexible way
   without constraints on what type of object a variable is assigned to. Since
-  Python 3.5 programmers have the option to add type annotations to their code
-  to check whether variable types are valid. In this blog entry we show you how
-  it's done.
+  Python 3.5 programmers have the option to add type annotations to their code.
+  Here we how it's done.
 author: Milan Oberkirch
 cover: /images/blog/adding-type-hints-to-existing-code-in-python/python.png
 created: 2022-09-27

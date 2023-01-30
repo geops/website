@@ -1,7 +1,9 @@
 ---
 title: Hinzufügen von Typ-Hinweisen zu vorhandenem Code in Python
-summary: Der Python-Interpreter behandelt Typen auf dynamische und flexible Weise
-  ohne Einschränkungen bezüglich des Objekttyps, dem eine Variable zugewiesen ist. Seit Python 3.5 haben Programmierer die Möglichkeit, Typ-Annotationen in ihren Code einzufügen, um zu prüfen, ob die Variablentypen gültig sind. In diesem Blogeintrag zeigen wir Ihnen, wie man das macht.
+summary: Der Python-Interpreter behandelt Typen auf dynamische und flexible
+  Weise ohne Einschränkungen bezüglich des Objekttyps, dem eine Variable
+  zugewiesen ist. Seit Python 3.5 haben Programmierer die Möglichkeit,
+  Typ-Annotationen in ihren Code einzufügen. Wir zeigen, wie man das macht.
 created: 2022-09-27
 slug: pythontypisierung
 published: true
