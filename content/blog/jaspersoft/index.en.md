@@ -2,7 +2,7 @@
 title: Reporting with Jaspersoft
 summary: Jaspersoft is used as a reporting tool in our applications.
 author: Elke Erhardt
-cover: /images/blog/reporting-with-jaspersoft/tibco-jaspersoft.png
+cover: /images/blog/reporting-with-jaspersoft/index.png
 created: 2023-02-09
 slug: jaspersoft
 tags:
