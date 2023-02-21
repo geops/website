@@ -25,7 +25,11 @@ Im xml-Code sieht die Einbindung folgendermaßen aus:
 </image>
 ```
 
-Beispiel $F{kbs_url} : \[my server]/cgi-bin/altlast4web.wms?&LAYERS=KBS&SRS=EPSG%3A2056&FORMAT=image%2Fpng&USER=18&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&TRANSPARENT=TRUE&VFLZ=7022122&BBOX=2635694.8198570926,1245879.5853543915,2636544.8198570926,1246607.5853543915&WIDTH=1000&HEIGHT=1000
+Beispiel 
+
+```
+$F{kbs_url} : https:\\[my server]/cgi-bin/altlast4web.wms?&LAYERS=KBS&SRS=EPSG%3A2056&FORMAT=image%2Fpng&USER=18&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&TRANSPARENT=TRUE&VFLZ=7022122&BBOX=2635694.8198570926,1245879.5853543915,2636544.8198570926,1246607.5853543915&WIDTH=1000&HEIGHT=1000
+```
 
 Prinzipiell ist es möglich, auch einfach zwei Bilder übereinanderzulegen:
 
