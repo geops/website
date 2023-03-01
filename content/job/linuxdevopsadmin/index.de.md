@@ -18,7 +18,7 @@ Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von
 
 Du bringst umfassende  Erfahrungen in der Linux-Administration mit.
 
-Du kennst dich auf mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
+Du kennst dich aus mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
 
 Ausgeprägte Problemlösungs- und Kommunikationsfähigkeitenz zeichnen dich aus. Du fühlst dich in einer agilen, kollaborativen Umgebung wohl. Du bist interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
 
