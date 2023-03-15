@@ -2,8 +2,7 @@
 title: Senior/Professional Full Stack Entwickler (m/w/d)
 summary: Du fühlst dich als Allrounder:in, die/der sich routiniert zwischen
   Daten&shy;bank, Backend und Client-Anwen&shy;dung bewegt? Du begeisterst dich
-  für moderne Open Source Techno&shy;lo&shy;gien und freust dich auf den
-  Austausch mit anderen erfahrenen Entwickler:innen?
+  für moderne Open Source Techno&shy;lo&shy;gien?
 slug: fullstack-entwickler
 ---
 Du bist ein echter Allrounder oder eine Allrounderin und bewegst dich routiniert zwischen Datenbank, Backend und Client-Anwendung? Du begeisterst dich für moderne Open Source Technologien und freust dich auf den Austausch mit erfahrenen Entwickler:innen? Dann komm zu uns ins Dreiländereck und arbeite gemeinsam mit uns an spannenden Kundenlösungen in den Bereichen Mobilität und Umwelt. Für unsere Standorte in Freiburg (D) oder Olten (CH) suchen wir ab sofort einen Full Stack Softwareentwickler (m/w/d) in Voll- oder Teilzeit (80-100 %).
