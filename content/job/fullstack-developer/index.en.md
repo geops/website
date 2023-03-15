@@ -1,5 +1,5 @@
 ---
-title: Senior/Professional Full Stack Developer
+title: Senior/Professional Full Stack Developer 80-100%
 summary: You are a true all-rounder who moves confidently between database,
   backend and client application? Are you enthusiastic about modern open source
   technologies?
