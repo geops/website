@@ -1,12 +1,8 @@
 ---
 title: Linux Administrator und DevOps (m/w/d) 60-100%
-summary: Do you have a knack for managing a mixed server infrastructure in the
-  cloud with numerous databases, micro-services and business solutions? Are you
-  interested in creating the best conditions for our developers to develop and
-  build their software? You want to use your knowledge of the Linux environment
-  for projects in the fields of public transport and environment? Then you
-  should apply to us in Freiburg (D) as Linux Administrator and DevOps (m/f/d)
-  in full or part time (60-100%).
+summary: Do you manage a mixed server infrastructure in the cloud with ease? You
+  want to use your Linux skills for projects in the fields of public transport
+  and environment?
 slug: linuxadmin
 created: 2022-12-28
 ---
