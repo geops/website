@@ -1,5 +1,5 @@
 ---
-title: Senior/Professional JavaScript Developer (m/w/d) 60-100 %
+title: Senior/Professional JavaScript Developer 60-100 %
 summary: Du liebst intuitive, attrak&shy;tive Front&shy;ends, die auf
   moder&shy;nen und soliden Tech&shy;no&shy;logien basieren? Du bist erfahren
   und gleich&shy;zeitig immer hungrig auf Neues?
