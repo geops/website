@@ -1,6 +1,6 @@
 ---
-title: Doctors Without Borders 2020
-summary: In 2020, we again supported the aid workers of Doctors Without Borders
+title: Médecins Sans Frontières 2020
+summary: In 2020, we again supported the aid workers of Médecins Sans Frontières
   in their important work.
 author: Julia Knödler
 cover: /images/blog/aerzte-ohne-grenzen-2020/aerzte_ohne_grenzen_teaser.jpg
@@ -10,7 +10,7 @@ tags:
   - geops
 published: true
 ---
-Seit mehreren Jahren unterstützen wir den ÄRZTE OHNE GRENZEN e.V.. Auch 2020 konnten wir wieder als Partner-Unternehmen die engagierten humanitären HelferInnen des Vereins bei ihrer grossartigen Arbeit unterstützen. Der Verein leistet medizinische Nothilfe in Krisen- und Kriegsgebieten rund um den Globus. Die internationale Organisation hilft schnell, effizient und unbürokratisch - ohne nach Herkunft, Religion oder politischer Überzeugung der betroffenen Menschen zu fragen. Die Ärzte und Pflegekräfte, Hebammen und Logistiker von ÄRZTE OHNE GRENZEN arbeiten in rund 70 Ländern. Sie behandeln kranke und verwundete Menschen, kümmern sich um mangelernährte Kinder und sorgen für sauberes Trinkwasser und Latrinen.
+We have been supporting Médecins Sans Frontières for several years. In 2020, we were once again able to support the association's dedicated humanitarian workers in their great work as a partner company. The association provides emergency medical aid in crisis and war zones around the globe. The international organization helps quickly, efficiently and unbureaucratically - without asking about the origin, religion or political convictions of the people affected. The doctors and nurses, midwives and logisticians of Médecins Sans Frontières work in around 70 countries. They treat sick and wounded people, care for malnourished children and provide clean drinking water and latrines.
 
 ![](/images/blog/aerzte-ohne-grenzen-2020/Logo%20Partner-Unternehmen.png)
 
