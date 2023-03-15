@@ -1,6 +1,6 @@
 ---
-title: Doctors Without Borders 2020
-summary: In 2020, we again supported the aid workers of Doctors Without Borders
+title: Médecins Sans Frontières 2020
+summary: In 2020, we again supported the aid workers of Médecins Sans Frontières
   in their important work.
 author: Julia Knödler
 cover: /images/blog/aerzte-ohne-grenzen-2020/aerzte_ohne_grenzen_teaser.jpg
