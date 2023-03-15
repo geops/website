@@ -1,5 +1,5 @@
 ---
-title: Senior/Professional Full Stack Entwickler (m/w/d)
+title: Senior/Professional Full Stack Entwickler (m/w/d) 80-100%
 summary: Du fühlst dich als Allrounder:in, die/der sich routiniert zwischen
   Daten&shy;bank, Backend und Client-Anwen&shy;dung bewegt? Du begeisterst dich
   für moderne Open Source Techno&shy;lo&shy;gien?
