@@ -26,7 +26,7 @@ But how do we get from a simple request like go from A via B to C with means of 
 
 ## Determine the route
 
-The first step is to determine the route.geOps has already established a working solution for this: The Route API. More information can be found in our [Developer Portal](https://developer.geops.io/) The output of this interface basically consists of an ordered sequence of 2D coordinates on an idealized earth surface, or more precisely the WGS84 reference ellipsoid. The output format here is [GeoJSON](https://tools.ietf.org/html/rfc7946).
+The first step is to determine the route. geOps has already established a working solution for this: The Route API. More information can be found in our [Developer Portal](https://developer.geops.io/) The output of this interface basically consists of an ordered sequence of 2D coordinates on an idealized earth surface, or more precisely the WGS84 reference ellipsoid. The output format here is [GeoJSON](https://tools.ietf.org/html/rfc7946).
 
 ## The Route Decorator service
 
