@@ -12,6 +12,7 @@ module.exports = {
       },
       current: "currentColor",
       gray: {
+        lightest: "#F8FAFC",
         lighter: "#EBEBEB",
         light: "#BEBEBE",
         DEFAULT: "#707070",

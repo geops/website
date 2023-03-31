@@ -4,7 +4,7 @@ import CaretIcon from "./icons/CaretIcon.js";
 export default function ApplicationTeaser({ jobs }) {
   const { t } = useI18n();
   return (
-    <section className="bg-application-teaser bg-cover">
+    <section className="bg-application-teaser bg-cover" id="open-positions">
       <div className="container mx-auto flex flex-col items-center px-8 py-16 text-center">
         <h2 className="text-5xl">{t("applicationTeaser.title")}</h2>
         {jobs.map((job) => (

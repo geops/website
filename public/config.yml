@@ -199,24 +199,6 @@ collections:
           - { i18n: true, label: Circle Employee, name: circleEmployee }
           - { i18n: true, label: Work, name: work }
           - { i18n: true, label: Technology, name: tech, widget: "markdown" }
-      - label: "Career"
-        name: "career"
-        file: "content/page/career.json"
-        i18n: true
-        fields:
-          - { i18n: true, label: Header Text, name: headerText }
-          - label: Summary Title
-            name: summaryTitle
-            i18n: true
-            required: false
-          - { i18n: true, label: Summary, name: summary }
-          - { i18n: true, label: Offer Title, name: offerTitle }
-          - { i18n: true, label: Offer Education, name: offerEducation }
-          - { i18n: true, label: Offer Flexible, name: offerFlexible }
-          - { i18n: true, label: Offer Additon, name: offerAdditon }
-          - { i18n: true, label: Offer Freiburg, name: offerFreiburg }
-          - { i18n: true, label: Match Title, name: matchTitle }
-          - { i18n: true, label: Match Text, name: matchText, widget: markdown }
       - label: "Imprint"
         name: "imprint"
         file: "content/page/imprint.json"
