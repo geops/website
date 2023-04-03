@@ -16,34 +16,38 @@ function CareerAccordion({ items, reverse }) {
   const [activeItem, setActiveItem] = useState(0);
 
   return (
-    <div className="grid-cols-5 gap-8 sm:grid">
+    <div className="grid-cols-6 gap-8 sm:grid">
       <div
-        className={`sticky top-16 z-10 col-span-3 -mx-4 mt-8 sm:relative sm:top-0 sm:mx-0 ${
+        className={`relative z-10 col-span-3 mx-0 mb-8 block sm:top-0 ${
           reverse ? "order-last" : ""
         }`}
       >
-        <div className="sticky top-16 aspect-[650/419] bg-white sm:top-24">
+        <div className="bg-white sm:top-24">
           {items.map((item, index) => {
-            if (index === 0) {
-              return (
-                <Image
-                  alt={item.title}
-                  className={`transition-opacity duration-500 ${
-                    activeItem === index ? "opacity-100" : "opacity-0"
-                  }`}
-                  key={index}
-                  layout="fill"
-                  src={`/images/career/${item.image}`}
-                />
-              );
-            }
+            // if (index === 0) {
+            //   return (
+            //     <Image
+            //       alt={item.title}
+            //       className={`transition-opacity duration-500 ${
+            //         activeItem === index ? "opacity-100" : "opacity-0"
+            //       }`}
+            //       key={index}
+            //       layout="fill"
+            //       src={`/images/career/${item.image}`}
+            //       objectFit="cover"
+            //     />
+            //   );
+            // }
 
             return (
               <div
                 key={index}
-                className={`absolute top-0 aspect-[650/419] w-full transition-opacity duration-500 ${
+                className={`relative top-0 aspect-[650/419] w-full sm:absolute ${
                   activeItem === index ? "opacity-100" : "h-0 opacity-0"
                 }`}
+                // className={`absolute top-0 aspect-[650/419] w-full transition-opacity duration-500 ${
+                //   activeItem === index ? "opacity-100" : "h-0 opacity-0"
+                // }`}
               >
                 <Image
                   alt={item.title}
@@ -56,7 +60,7 @@ function CareerAccordion({ items, reverse }) {
           })}
         </div>
       </div>
-      <div className="col-span-2 space-y-4">
+      <div className="col-span-3 space-y-4">
         {items.map((item, index) => (
           <div
             key={index}
@@ -64,25 +68,42 @@ function CareerAccordion({ items, reverse }) {
               activeItem === index ? "bg-gray-lightest" : ""
             }`}
             onClick={(event) => {
+              if (activeItem === index) {
+              }
               setActiveItem(index);
               const { currentTarget } = event;
               setTimeout(() => {
-                const { bottom, top } = currentTarget.getBoundingClientRect();
+                const { bottom, top, height } =
+                  currentTarget.getBoundingClientRect();
 
                 let headerHeight = 80;
-                if (window.matchMedia(`(max-width: ${screens.sm})`).matches) {
+                const isSmallWidth = window.matchMedia(
+                  `(max-width: ${screens.sm})`
+                ).matches;
+                if (isSmallWidth) {
                   // on small screen add offset for accordion image
                   const aspectRatio = 650 / 419;
                   headerHeight = headerHeight + window.innerWidth / aspectRatio;
                 }
-
-                if (top < headerHeight || bottom > window.innerHeight) {
+                if (
+                  !isSmallWidth &&
+                  (top < headerHeight || bottom > window.innerHeight)
+                ) {
                   const scrollTop =
                     window.pageYOffset || document.documentElement.scrollTop;
                   window.scroll({
                     behavior: "smooth",
-                    top: top + scrollTop - headerHeight,
+                    top: top + scrollTop - headerHeight - height,
                   });
+                } else {
+                  // on small screen scroll only when the bottom is out the window
+                  if (bottom > window.innerHeight) {
+                    currentTarget.scrollIntoView({
+                      behavior: "smooth",
+                      block: "end",
+                      inline: "nearest",
+                    });
+                  }
                 }
               });
             }}
