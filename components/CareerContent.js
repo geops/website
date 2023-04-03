@@ -49,6 +49,7 @@ function CareerAccordion({ items, reverse }) {
                   alt={item.title}
                   layout="fill"
                   src={`/images/career/${item.image}`}
+                  objectFit="cover"
                 />
               </div>
             );
@@ -89,7 +90,7 @@ function CareerAccordion({ items, reverse }) {
             <div className="flex items-center justify-between space-x-2 font-extrabold uppercase text-gray-darker">
               <span>{item.title}</span>
               <div
-                className={`w-8 rounded-full bg-green p-1 text-white transition-transform duration-500 ${
+                className={`w-8 shrink-0 rounded-full bg-green p-1 text-white transition-transform duration-500 ${
                   activeItem === index ? "" : "rotate-180"
                 }`}
               >
