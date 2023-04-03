@@ -1,28 +1,124 @@
 {
   "en": {
-    "summary": "Join us in the border triangle in Freiburg (D) or Olten (CH) and develop excellent solutions for transport companies, public administration and renowned international companies. You can expect an interdisciplinary, small team that is a pleasure to work with.",
-    "offerFlexible": "Attractive additional services and perks",
-    "offerEducation": "Flexible working",
-    "offerAdditon": "Individual support and further training",
-    "matchText": "* you enjoy working in an open, friendly environment\n* you implement effective solutions with commitment, expertise and experience\n* you are convinced of open source\n* you enjoy modern technologies",
-    "summaryTitle": "We are looking forward to meeting you",
-    "matchTitle": "You fit in with us, if",
-    "offerFreiburg": "Nice, central offices",
-    "title": "IT jobs in Freiburg and Olten",
-    "headerText": "Karriere",
-    "offerTitle": "What we offer"
+    "heroTitle": "We are looking forward to meeting you!",
+    "heroSummary": "Do you enjoy working in an open, friendly environment? You develop outstanding solutions with commitment, expertise and experience? Are you convinced by open source? Are you passionate about modern technologies?",
+    "jumpButton": "Directly to the jobs",
+    "matchText": "Then you've come to the right place. Join us in the border triangle in Freiburg (D) or Olten (CH) and develop excellent solutions for public transport companies, public administration and renowned international companies. You can expect an interdisciplinary, small team that makes working with us a pleasure.",
+    "offerTitle": "What we offer",
+    "first": [
+      {
+        "title": "Flexible work",
+        "content": "Short core hours, two days a week in the office - that's all we ask. Apart from that, you decide when and where you work.",
+        "image": "flexible-work.jpg"
+      }, {
+        "title": "Beautiful, central offices",
+        "content": "Our offices are the place where you like to come to work and exchange ideas in the team. Therefore, we have nice rooms that are easily accessible by bike and public transport.",
+        "image": "beautiful-central-offices.jpg"
+      }, {
+        "title": "Attractive additional benefits",
+        "content": "You can choose from a wide range of extras on top of your salary - from a daycare allowance to a fitness subscription to a mobility budget.",
+        "image": "attractive-additional-benefits.jpg"
+      }, {
+        "title": "Well-being",
+        "content": "Fruit, mineral water and organic coffee are available to you at all times. And at the after-work beer or our regular team events, there's guaranteed to be no skimping.",
+        "image": "well-being.jpg"
+      }, {
+        "title": "Promotion and training",
+        "content": "With a fixed budget, you can (and should) continue your education externally. In addition, you will regularly learn new things at our internal pizza talks and hack events.",
+        "image": "promotion-and-training.jpg"
+      }, {
+        "title": "Appreciation",
+        "content": "We maintain an open corporate culture. Everyone in the team is important to us, even though and precisely because we are so different.",
+        "image": "appreciation.jpg"
+      }
+    ],
+    "second": [
+      {
+        "title": "Great team",
+        "content": "Time and time again, our team finds that it itself is the greatest of all the benefits of working at geOps. You should just convince yourself of that.",
+        "image": "great-team.jpg"
+      }, {
+        "title": "Flat hierarchies",
+        "content": "Yes, we have hierarchies. However, our bosses see their job primarily in giving you the space to work independently. And if something gets stuck, they are guaranteed to have an open ear.",
+        "image": "flat-hierarchies.jpg"
+      }, {
+        "title": "Meaningful projects",
+        "content": "We're not about building the billionth website or the millionth online store - we're about custom apps with relevance to meaningful projects.",
+        "image": "meaningful-projects.png"
+      }, {
+        "title": "Great products",
+        "content": "We are not satisfied with half measures. Innovation and top quality in architecture, UX and code is mandatory. Sustainable software and satisfied customers are the reward.",
+        "image": "great-products.png"
+      }, {
+        "title": "Open Source",
+        "content": "We have always been completely open source. More freedom in development and better end products constantly encourage us on this path.",
+        "image": "open-source.jpg"
+      }, {
+        "title": "Sustainable company",
+        "content": "We live sustainability through the content of our projects as well as in our daily actions - out of genuine conviction and without greenwashing.",
+        "image": "sustainable-company.jpg"
+      }
+    ]
   },
   "de": {
-    "summary": "Komm zu uns ins Dreiländereck nach Freiburg (D) oder Olten (CH) und entwickle mit uns exzellente Lösungen für Transportbetriebe, die öffentliche Verwaltung und nam­hafte internationale Unternehmen. Dich erwartet ein interdisziplinäres, kleines Team, mit dem das Arbeiten Freude macht.",
-    "offerFlexible": "Attraktive Zusatzleistungen",
-    "offerEducation": "Flexibles Arbeiten",
-    "offerAdditon": "Individuelle Förderung und Weiterbildung",
-    "matchText": "* Du gerne in einem offenen, freundlichen Umfeld arbeitest\n* Du mit Engagement, Sachkenntnis und Erfahrung herausragende Lösungen entwickeln willst\n* Du von Open Source überzeugt bist\n* Du Freude an modernen Technologien hast",
-    "summaryTitle": "Wir freuen uns auf dich",
-    "matchTitle": "Du passt zu uns, wenn",
-    "offerFreiburg": "Schöne, zentrale Büros",
-    "title": "IT Jobs in Freiburg und Olten",
-    "headerText": "",
-    "offerTitle": "Was wir bieten"
+    "heroTitle": "Wir freuen uns auf dich!",
+    "heroSummary": "Du arbeitest gerne in einem offenen, freundlichen Umfeld? Du entwickelst mit Engagement, Sachkenntnis und Erfahrung herausragende Lösungen? Open Source überzeugt dich? Moderne Technologien sind deine Leidenschaft?",
+    "jumpButton": "Direkt zu den Stellen",
+    "matchText": "Dann bist du bei uns genau richtig. Komm zu uns ins Dreiländereck nach Freiburg (D) oder Olten (CH) und entwickle mit uns exzellente Lösungen für Betriebe des öffentlichen Verkehrs, die öffentliche Verwaltung und namhafte internationale Unternehmen. Dich erwartet ein interdisziplinäres, kleines Team, mit dem das Arbeiten Freude macht.",
+    "offerTitle": "Was wir bieten",
+    "first": [
+      {
+        "title": "Flexibles Arbeiten",
+        "content": "Kurze Kernzeiten, zwei Tage pro Woche im Büro – das ist alles, was wir fordern. Davon abgesehen entscheidest du, wann und wo du arbeitest.",
+        "image": "flexible-work.jpg"
+      }, {
+        "title": "Schöne, zentrale Büros",
+        "content": "Unsere Büros sind der Ort, wo du gerne zum Arbeiten und Austausch im Team hinkommst. Daher haben wir schöne Räume, die gut mit dem Fahrrad und dem öV erreichbar sind.",
+        "image": "beautiful-central-offices.jpg"
+      }, {
+        "title": "Attraktive Zusatzleistungen",
+        "content": "Du wählst aus einer breiten Palette an Extras zum Gehalt – vom Kita-Zuschuss über das Fitness-Abo bis zum Mobilitätsbudget.",
+        "image": "attractive-additional-benefits.jpg"
+      }, {
+        "title": "Leibliches Wohl",
+        "content": "Obst, Mineralwasser, Kaffee stehen dir in Bio-Qualität jederzeit zur Verfügung. Und beim Feierabendbier oder unseren regelmässigen Team-Events wird garantiert nicht geknausert.",
+        "image": "well-being.jpg"
+      }, {
+        "title": "Förderung und Weiterbildung",
+        "content": "Mit einem fixen Budget kannst (und sollst) du dich extern weiterbilden. Ausserdem lernst du regelmässig Neues bei unseren internen Pizza-Talks und Hack-Events.",
+        "image": "promotion-and-training.jpg"
+      }, {
+        "title": "Wertschätzung",
+        "content": "Wir pflegen eine offene Unternehmenskultur. Bei uns sind alle im Team wichtig, obwohl und gerade weil wir so verschieden sind.",
+        "image": "appreciation.jpg"
+      }
+    ],
+    "second": [
+      {
+        "title": "Tolles Team",
+        "content": "Immer wieder findet unser Team, dass es selbst der grösste aller Vorteile der Arbeit bei geOps ist. Davon solltest du dich einfach selbst überzeugen.",
+        "image": "great-team.jpg"
+      }, {
+        "title": "Flache Hierarchien",
+        "content": "Ja, wir haben Hierarchien. Allerdings sehen unsere Chefs ihre Aufgabe vor allem darin, dir den Raum für selbständiges Arbeiten zu geben. Und wenn etwas klemmt, haben sie garantiert ein offenes Ohr.",
+        "image": "flat-hierarchies.jpg"
+      }, {
+        "title": "Sinnvolle Projekte",
+        "content": "Bei uns baust du nicht die Milliardste Webseite oder den Millionsten Online-Shop – hier geht es um individuelle Apps mit Relevanz für sinnvolle Projekte.",
+        "image": "meaningful-projects.png"
+      }, {
+        "title": "Grossartige Produkte",
+        "content": "Wir geben uns nicht mit halben Sachen zufrieden. Innovation und Top-Qualität bei Architektur, UX und Code ist Pflicht. Nachhaltige Software und zufriedene Kunden sind der Lohn dafür.",
+        "image": "great-products.png"
+      }, {
+        "title": "Open Source",
+        "content": "Schon immer setzen wir komplett auf Open Source. Mehr Freiheiten bei der Entwicklung und bessere Endprodukte bestärken uns ständig auf diesem Weg.",
+        "image": "open-source.jpg"
+      }, {
+        "title": "Nachhaltiges Unternehmen",
+        "content": "Wir leben Nachhaltigkeit über die Inhalte unserer Projekte ebenso wie in unserem täglichen Handeln – aus echter Überzeugung und ohne Greenwashing.",
+        "image": "sustainable-company.jpg"
+      }
+    ]
   }
 }

@@ -23,8 +23,6 @@ export default function Career({ content, jobs }) {
       <PageHeader
         src="/images/page/career/header.jpg"
         srcMobile="/images/page/career/header-mobile.jpg"
-        title={title}
-        text={content.header}
       />
       <CareerContent content={content} />
       <ApplicationTeaser jobs={jobs} />

@@ -1,6 +1,7 @@
-import AboutTeaser from "../components/AboutTeaser.js";
+import Button from "../components/Button";
 import CareerTeaser from "../components/CareerTeaser.js";
 import Carousel from "../components/Carousel.js";
+import Hero from "../components/Hero.js";
 import Layout from "../components/Layout.js";
 import NewsletterTeaser from "../components/NewsletterTeaser.js";
 import OpenSourceTeaser from "../components/OpenSourceTeaser.js";
@@ -23,7 +24,10 @@ export default function Frontpage({ items, slides, ...props }) {
     >
       <Carousel slides={slides} />
       <div className="relative">
-        <AboutTeaser />
+        <Hero title={t("aboutTeaser.title")}>
+          <p className="my-4 lg:my-8">{t("aboutTeaser.text")}</p>
+          <Button href="/about">{t("website.more")}</Button>
+        </Hero>
         <FrontpageList items={items} />
         <OpenSourceTeaser />
         <CareerTeaser />
