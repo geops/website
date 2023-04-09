@@ -5,6 +5,11 @@ import { useI18n } from "../lib/i18n";
 import Circle from "./Circle.js";
 import aboutImage from "../public/images/page/about/text.jpg";
 
+const TechnologyCarousel = dynamic(
+  () => import("../components/TechnologyCarousel"),
+  { ssr: false }
+);
+
 export default function AboutContent({ content }) {
   const { t } = useI18n();
   return (
@@ -38,6 +43,7 @@ export default function AboutContent({ content }) {
       <Image alt={t("about.work")} className="py-16" src={aboutImage} />
       <h2 id="tech">{t("about.tech")}</h2>
       <p>{content.tech}</p>
+      <TechnologyCarousel slides={technologies} />
       <h2 id="sustainability">{t("about.sustainability")}</h2>
       <p>{content.sustainability}</p>
     </div>
