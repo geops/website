@@ -42,7 +42,8 @@
       "title": "About geOps",
       "we": "Who we are",
       "work": "How we work",
-      "tech": "Technologies"
+      "tech": "Technologies",
+      "sustainability": "Sustainability"
     },
     "careerTeaser": {
       "title": "Working at geOps",
@@ -137,7 +138,8 @@
       "title": "Über geOps",
       "we": "Wer wir sind",
       "work": "Wie wir arbeiten",
-      "tech": "Technologien"
+      "tech": "Technologien",
+      "sustainability": "Nachhaltigkeit"
     },
     "careerTeaser": {
       "title": "Arbeiten bei geOps",
