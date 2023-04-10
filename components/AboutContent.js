@@ -6,7 +6,7 @@ import Circle from "./Circle.js";
 import aboutImage from "../public/images/page/about/text.jpg";
 
 const TechnologyCarousel = dynamic(
-  () => import("../components/TechnologyCarousel"),
+  () => import("./TechnologyCarousel"),
   { ssr: false }
 );
 
