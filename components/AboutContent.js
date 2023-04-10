@@ -5,7 +5,8 @@ import Image from "next/image";
 import { useI18n } from "../lib/i18n";
 
 import Circle from "./Circle.js";
-import aboutImage from "../public/images/page/about/text.jpg";
+import aboutImage from "../public/images/page/about/geops-about-text1.jpg";
+import about2Image from "../public/images/page/about/geops-about-text2.jpg";
 
 const TechnologyCarousel = dynamic(
   () => import("./TechnologyCarousel"),
@@ -48,6 +49,7 @@ export default function AboutContent({ content, technologies }) {
       <TechnologyCarousel slides={technologies} />
       <h2 id="sustainability">{t("about.sustainability")}</h2>
       <p>{content.sustainability}</p>
+      <Image alt={t("about.sustainability")} className="py-16" src={about2Image} />
     </div>
   );
 }
