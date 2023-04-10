@@ -1,5 +1,3 @@
-import dynamic from "next/dynamic";
-
 import AboutContent from "../components/AboutContent.js";
 import { ch } from "../components/Contact.js";
 import ContactPerson from "../components/ContactPerson.js";
