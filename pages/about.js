@@ -10,11 +10,6 @@ import TeamGrid from "../components/TeamGrid.js";
 import getContentItem from "../lib/getContentItem";
 import getContentList from "../lib/getContentList";
 
-const TechnologyCarousel = dynamic(
-  () => import("../components/TechnologyCarousel"),
-  { ssr: false }
-);
-
 export const config = {
   unstable_excludeFiles: ["./content/**", "./public/images/**"],
 };
