@@ -12,7 +12,7 @@ const TechnologyCarousel = dynamic(
   { ssr: false }
 );
 
-export default function AboutContent({ content }) {
+export default function AboutContent({ content, technologies }) {
   const { t } = useI18n();
   return (
     <div className="prose prose-xl mx-auto max-w-screen-lg p-8">
