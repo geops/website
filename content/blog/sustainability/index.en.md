@@ -1,8 +1,8 @@
 ---
 title: Ecological Sustainability at geOps
-summary: At geOps, ecological sustainability is not only manifested in our daily
-  activities, but also in the projects we work on. In this blog post we
-  summarize the various aspects under which we act sustainably.
+summary: At geOps, ecological sustainability manifests itself in our daily
+  actions and in the projects we work on. In this blog post, we summarize
+  various aspects of sustainable action.
 author: Uli Müller
 created: 2023-04-11
 slug: sustainability
