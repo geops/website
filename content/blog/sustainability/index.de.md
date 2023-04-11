@@ -26,7 +26,7 @@ Für unsere laufende Arbeit benötigen wir zwangsläufig Energie – bei unserer
 
 ## Arbeitswege
 
-Der Weg zur Arbeit soll möglichst umweltfreundlich gestaltet sein. Verschiedene Massnahmen machen es unseren Mitarbeitenden leicht, auf das Auto verzichten zu verzichten.
+Der Weg zur Arbeit soll möglichst umweltfreundlich gestaltet sein. Verschiedene Massnahmen machen es unseren Mitarbeitenden leicht, auf das Auto zu verzichten.
 Wir fördern die Nutzung des öffentlichen Verkehrs, indem wir verschiedene Abos als Extra zum üblichen Lohn anbieten. In Deutschland können entweder die «Bahncard50» oder die «Regiokarte» der Freiburger Verkehrsbetriebe VAG genutzt werden. In der Schweiz kann das Generalabonnement in Anspruch genommen werden.  Die Standorte unserer Büros sind gezielt so gewählt, dass eine sehr gute Anbindung an den öffentlichen Nah- und Fernverkehr besteht. So liegt das Freiburger Büro direkt gegenüber vom Hauptbahnhof. In Olten befindet sich vor dem Büro eine Haltestelle, von wo der Bahnhof Olten in wenigen Minuten mit dem Bus erreichbar ist.
 Das zweite Fortbewegungsmittel, welches wir versuchen noch attraktiver zu machen, ist das Fahrrad. Beide Büros verfügen über sichere, beleuchtete und überdachte Fahrradstellplätze. In Freiburg sind die Stellplätze in der Tiefgarage untergebracht und verfügen über Spinde und Lademöglichkeiten für E-Bikes. Unser Freiburger Büro hat zudem vor dem Gebäude eine Bike-Sharing Station.
 Kostenlose Stellplätze für Autos stehen bei keinem der Büros zur Verfügung.
