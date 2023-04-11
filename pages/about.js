@@ -1,5 +1,3 @@
-import dynamic from "next/dynamic";
-
 import AboutContent from "../components/AboutContent.js";
 import { ch } from "../components/Contact.js";
 import ContactPerson from "../components/ContactPerson.js";
@@ -9,11 +7,6 @@ import TeamGrid from "../components/TeamGrid.js";
 
 import getContentItem from "../lib/getContentItem";
 import getContentList from "../lib/getContentList";
-
-const TechnologyCarousel = dynamic(
-  () => import("../components/TechnologyCarousel"),
-  { ssr: false }
-);
 
 export const config = {
   unstable_excludeFiles: ["./content/**", "./public/images/**"],
@@ -32,8 +25,10 @@ export default function About({ content, team, technologies }) {
         src="/images/page/about/header.jpg"
         srcMobile="/images/page/about/header-mobile.jpg"
       />
-      <AboutContent content={content} />
-      <TechnologyCarousel slides={technologies} />
+      <AboutContent 
+        content={content} 
+        technologies={technologies} 
+      />
       <ContactPerson person={ch} />
       <TeamGrid team={team} />
     </Layout>

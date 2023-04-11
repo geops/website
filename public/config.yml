@@ -199,6 +199,7 @@ collections:
           - { i18n: true, label: Circle Employee, name: circleEmployee }
           - { i18n: true, label: Work, name: work }
           - { i18n: true, label: Technology, name: tech, widget: "markdown" }
+          - { i18n: true, label: Sustainability, name: sustainability, widget: "markdown" }
       - label: "Imprint"
         name: "imprint"
         file: "content/page/imprint.json"
