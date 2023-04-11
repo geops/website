@@ -18,6 +18,8 @@ Die meisten unserer Projekte betreffen Anwendungen für den Umwelt- und Natursch
 
 Diese Auswahl an Arbeitsbereichen ist natürlich nicht abschliessend, da wir immer auch auf die aktuelle Situation, insbesondere auf die Anforderungen unserer Kunden reagieren. Es gibt jedoch eine Reihe von Branchen oder Unternehmen, für die wir in keinem Fall Projekte realisieren würden. Zu den Branchen, die wir in diesem Sinn von unserem Portfolio ausschliessen, gehören die Förderung oder primäre Nutzung fossiler Energiequellen sowie die Herstellung von Komponenten dafür, die Nutzung oder Unterstützung von Kernenergie, die Massentierhaltung oder andere schädliche Formen von Landwirtschaft sowie die Rüstungsindustrie. Unabhängig von der Branche würden wir für kein Unternehmen arbeiten, das für die Verursachung ernster oder wiederholter Umweltschäden, für Korruption, Steuervermeidung und Geldwäsche oder für Menschenrechtsverletzungen oder Pornographie verantwortlich ist.
 
+![Projekte für grüne Mobilität](/images/blog/ecological-sustainability-at-geops/slider_bahn_n.jpg "Projekte für grüne Mobilität")
+
 ## Umweltschonendes Arbeiten
 
 Für unsere laufende Arbeit benötigen wir zwangsläufig Energie – bei unserer Tätigkeit in der Informationstechnologie ist das in erster Linie elektrische Energie. Der Energiebedarf entsteht durch die Bereitstellung der Arbeitsumgebung für unsere Mitarbeitenden, durch die Nutzung von Rechenleistung und Speicherplatz auf Servern und durch Reisetätigkeit. Neben Energie nutzen wir zwangsläufig auch andere Ressourcen und produzieren Abfälle. In allen Bereichen sind wir bestrebt, den umweltbelastenden Verbrauch von Ressourcen zu minimieren, wenig Abfall zu produzieren und möglichst umweltfreundliche Energiequellen zu nutzen.
@@ -29,11 +31,13 @@ Wir fördern die Nutzung des öffentlichen Verkehrs, indem wir verschiedene Abos
 Das zweite Fortbewegungsmittel, welches wir versuchen noch attraktiver zu machen, ist das Fahrrad. Beide Büros verfügen über sichere, beleuchtete und überdachte Fahrradstellplätze. In Freiburg sind die Stellplätze in der Tiefgarage untergebracht und verfügen über Spinde und Lademöglichkeiten für E-Bikes. Unser Freiburger Büro hat zudem vor dem Gebäude eine Bike-Sharing Station.
 Kostenlose Stellplätze für Autos stehen bei keinem der Büros zur Verfügung.
 
+![Bike garage in our office](/images/blog/ecological-sustainability-at-geops/img_1458.jpg "Bike garage in our office")
+
 ## Homeoffice
 
 Die umweltfreundlichste Art der Fortbewegung ist – zumindest wenn man die positiven gesundheitlichen Effekte von Radfahren und zu Fuss gehen ausser Acht lässt – keine Fortbewegung. Da die Vermeidung von Wegen ins Büro neben Zeit auch Emissionen einspart fördern wir die Arbeit im Homeoffice. Wir haben seit mehreren Jahren eine vollfunktionsfähige Infrastruktur mit allen nötigen Kommunikationsmitteln aufgebaut, damit wir auch remote effektiv arbeiten können. Wir kommen so auch mit kleineren Büros aus, die weniger Fläche und weniger Energie benötigen. Wir subventionieren zudem eine stabile Internetverbindung bei unseren Mitarbeitenden Zuhause.
 
-## Umweltfreundliche Extras 
+## Umweltfreundliche Extras
 
 Wir arbeiten ständig daran, unsere Mobilitätskonzepte noch klimafreundlicher zu gestalten. Gerade im Bereich der Extras für unsere Mitarbeitenden kommen immer wieder neue, umweltfreundliche Angebote dazu. 
 Neben den schon erwähnten Möglichkeiten, Abos des öffentlichen Verkehrs zu erhalten, arbeiten wir seit Anfang 2023 mit Rydes, einem Anbieter für ein Mobilitätsbudget zusammen. Das verfügbare Budget können unsere Mitarbeitenden für den Kauf von Regional-Abos, Einzel-Billetten sowie die Miete von Fahrrädern oder Scootern nutzen. Über das Budget besteht auch Zugang zum Leasing von Fahrrädern. Das einzige, was wir im Vertrag mit Rydes ausgeschlossen haben, ist die Nutzung des Budgets für den motorisierten Individualverkehr. Ein interessantes Detail, das mit Rydes möglich wird, ist die Berechnung des eigenen CO2-Fussabdrucks auf Basis der Leistungen, die mit dem Mobilitätsbudget bezahlt wurden.
@@ -43,6 +47,8 @@ Um einen Anreiz zu schaffen, auch im Urlaub umweltfreundlich unterwegs zu sein, 
 ## Geschäftsreisen
 
 Auch bei beruflich veranlassten Reisen sind wir fast ausschliesslich mit dem öffentlichen Verkehr unterwegs. Unsere Kunden sind zum Glück alle sehr gut mit dem Zug erreichbar. Mit dem Auto sind wir nur dann unterwegs, wenn wir schweres Material, meist für Messebesuche, transportieren. Von geOps finanzierte Flureisen gibt es nur in absoluten Ausnahmefällen. Mit diesen Vorgaben konnten wir die mit dem Auto zurückgelegte Strecke auf Geschäftsreisen in den letzten fünf Jahren auf weniger als 5.000 km reduzieren. Im selben Zeitraum wurde nur eine Flugreise getätigt.
+
+![sustainable company travel](/images/blog/ecological-sustainability-at-geops/2022-07-01-14.36.57.jpg "Company travel in Swiss Jura")
 
 ## Arbeitsgeräte
 

@@ -24,6 +24,8 @@ Most of our projects involve applications for environmental protection, nature c
 
 This selection of work areas is of course not exhaustive, as we always react to the current situation, in particular to the requirements of our customers. However, there are a number of industries or companies for which we would never realize projects. Industries that we exclude from our portfolio in this sense include the extraction or primary use of fossil energy sources and the manufacture of components for them, the use or support of nuclear energy, factory farming or other harmful forms of agriculture, and the armaments industry. Regardless of the industry, we would not work for any company responsible for causing serious or repeated environmental damage, for corruption, tax avoidance and money laundering, or for human rights abuses or pornography.
 
+![Projects for green mobility](/images/blog/ecological-sustainability-at-geops/slider_bahn_n.jpg "Projects for green mobility")
+
 ## Environmentally responsible work
 
 For our ongoing work, we inevitably require energy - in our information technology activities, this is primarily electrical energy. Energy requirements arise from providing the work environment for our employees, from using computing power and storage space on servers, and from travel. In addition to energy, we inevitably use other resources and produce waste. In all areas, we strive to minimize the environmentally harmful consumption of resources, produce little waste, and use the most environmentally friendly energy sources possible.
@@ -35,6 +37,7 @@ We promote the use of public transport by offering various subscriptions as an e
 The second means of transportation, which we are trying to make even more attractive, is the bicycle. Both offices have secure, illuminated and covered bicycle parking spaces. In Freiburg, the parking spaces are located in the underground parking garage and have lockers and charging options for e-bikes. Our Freiburg office also has a bike-sharing station in front of the building.
 Free parking spaces for cars are not available at any of the offices.
 
+![Bike garage in our office](/images/blog/ecological-sustainability-at-geops/img_1458.jpg "Bike garage in our office")
 
 ## Home office
 
@@ -50,6 +53,8 @@ To create an incentive to travel in an environmentally friendly way even on vaca
 ## Business travel
 
 Even for business-related travel, we travel almost exclusively by public transport. Fortunately, our clients are all very easy to reach by train. We only travel by car when we are transporting heavy equipment, usually for trade show visits. Flights financed by geOps only occur in absolutely exceptional cases. With these guidelines, we have been able to reduce the distance traveled by car on business trips to less than 5,000 km over the past five years. In the same period, only one flight trip was made.
+
+![sustainable company travel](/images/blog/ecological-sustainability-at-geops/2022-07-01-14.36.57.jpg "Company travel in Swiss Jura")
 
 ## Work equipment
 
