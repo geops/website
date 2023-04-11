@@ -1,9 +1,8 @@
 ---
 title: Ökologische Nachhaltigkeit bei geOps
-summary: Ökologische Nachhlatigkeit manifestiert sich bei geOps nicht nur im
-  täglichen Handeln sondern vor allem auch in den Projekten, die wir bearbeiten.
-  In diesem Blog-Beitrag resümieren wir die diversen Aspekte, unter denen wir
-  nachhaltih handeln.
+summary: Ökologische Nachhlatigkeit manifestiert sich bei geOps im täglichen
+  Handeln und in den Projekten, die wir bearbeiten. In diesem Blog-Beitrag
+  resümieren wir diverse Aspekte nachhaltigen Handelns.
 created: 2023-04-11
 slug: sustainability
 published: true
