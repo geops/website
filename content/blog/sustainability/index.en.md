@@ -4,11 +4,13 @@ summary: At geOps, ecological sustainability manifests itself in our daily
   actions and in the projects we work on. In this blog post, we summarize
   various aspects of sustainable action.
 author: Uli Müller
+cover: /images/blog/ecological-sustainability-at-geops/geops-86_blog.jpg
 created: 2023-04-11
 slug: sustainability
 tags:
   - geops
   - team
+frontpageImage: /images/blog/ecological-sustainability-at-geops/geops-86_blog.jpg
 published: true
 ---
 ## Introduction
