@@ -197,7 +197,7 @@ collections:
           - { i18n: true, label: Circle Experience, name: circleExperience }
           - { i18n: true, label: Circle Clients, name: circleClients }
           - { i18n: true, label: Circle Employee, name: circleEmployee }
-          - { i18n: true, label: Work, name: work }
+          - { i18n: true, label: Work, name: work, widget: markdown }
           - { i18n: true, label: Technology, name: tech, widget: "markdown" }
           - {
               i18n: true,

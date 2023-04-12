@@ -25,10 +25,7 @@ export default function About({ content, team, technologies }) {
         src="/images/page/about/header.jpg"
         srcMobile="/images/page/about/header-mobile.jpg"
       />
-      <AboutContent 
-        content={content} 
-        technologies={technologies} 
-      />
+      <AboutContent content={content} technologies={technologies} />
       <ContactPerson person={ch} />
       <TeamGrid team={team} />
     </Layout>
