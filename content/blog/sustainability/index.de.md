@@ -46,7 +46,7 @@ Um einen Anreiz zu schaffen, auch im Urlaub umweltfreundlich unterwegs zu sein, 
 
 ## Geschäftsreisen
 
-Auch bei beruflich veranlassten Reisen sind wir fast ausschliesslich mit dem öffentlichen Verkehr unterwegs. Unsere Kunden sind zum Glück alle sehr gut mit dem Zug erreichbar. Mit dem Auto sind wir nur dann unterwegs, wenn wir schweres Material, meist für Messebesuche, transportieren. Von geOps finanzierte Flureisen gibt es nur in absoluten Ausnahmefällen. Mit diesen Vorgaben konnten wir die mit dem Auto zurückgelegte Strecke auf Geschäftsreisen in den letzten fünf Jahren auf weniger als 5.000 km reduzieren. Im selben Zeitraum wurde nur eine Flugreise getätigt.
+Auch bei beruflich veranlassten Reisen sind wir fast ausschliesslich mit dem öffentlichen Verkehr unterwegs. Unsere Kunden sind zum Glück alle sehr gut mit dem Zug erreichbar. Mit dem Auto sind wir nur dann unterwegs, wenn wir schweres Material, meist für Messebesuche, transportieren. Von geOps finanzierte Flugreisen gibt es nur in absoluten Ausnahmefällen. Mit diesen Vorgaben konnten wir die mit dem Auto zurückgelegte Strecke auf Geschäftsreisen in den letzten fünf Jahren auf weniger als 5.000 km reduzieren. Im selben Zeitraum wurde nur eine Flugreise getätigt.
 
 ![sustainable company travel](/images/blog/ecological-sustainability-at-geops/2022-07-01-14.36.57.jpg "Company travel in Swiss Jura")
 
