@@ -13,7 +13,7 @@ tags:
 frontpageImage: /images/blog/fliegen-oder-fahren/flyordrive.jpg
 published: true
 ---
-The rapidly advancing climate crisis requires companies and individuals to make drastic changes. In [another blog post](/blog/sustainability), we summarize the measures with which geOps is playing a part in preventing catastrophic and irreversible climate change.
+The rapidly advancing climate crisis requires companies and individuals to make drastic changes. In [another blog post](/en/blog/sustainability), we summarize the measures with which geOps is playing a part in preventing catastrophic and irreversible climate change.
 
 One area we are paying particular attention to is environmentally friendly mobility. The projects we focus on already serve to promote environmentally friendly means of transport and thus the necessary traffic turnaround. For our business-related travel, too, there are clear guidelines that we avoid motorized individual transport whenever possible. Air travel in a corporate context is only permitted if the distances to be covered exceed 1000 km and there is no reasonable alternative connection. By structuring our company and our portfolio, we already try to minimize the need for such long journeys.
 
