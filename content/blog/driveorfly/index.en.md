@@ -1,9 +1,10 @@
 ---
 title: Fliegen oder fahren?
-summary: Wir haben die zunehmende Gefährdung durch die Klimakrise erkannt. Eine
-  der von uns ergriffenen Massnahmen bietet unseren Mitarbeitenden einen Bonus
-  für umweltfreundliches Reisen im Privatbereich.
+summary: We have recognized the increasing threat posed by the climate crisis.
+  One of the measures we have taken offers our employees a bonus for
+  environmentally friendly private travel.
 author: Uli Müller
+cover: /images/blog/fliegen-oder-fahren/flyordrive.jpg
 created: 2023-04-12
 slug: driveorfly
 tags:
