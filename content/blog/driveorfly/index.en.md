@@ -4,6 +4,7 @@ summary: We have recognized the increasing threat posed by the climate crisis.
   One of the measures we have taken offers our employees a bonus for
   environmentally friendly private travel.
 author: Uli Müller
+cover: /images/blog/fliegen-oder-fahren/flyordrive.jpg
 created: 2023-04-12
 slug: driveorfly
 tags:
