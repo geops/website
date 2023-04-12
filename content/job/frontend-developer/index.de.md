@@ -22,6 +22,7 @@ Dein Herz schlägt für moderne, herausragende Software-Lösungen auf Basis inno
 * Freude am Entwickeln und Interesse an neuen Technologien.
 * Hervorragende Fähigkeiten in der objektorientierten Programmierung mit JavaScript.
 * Erfahrungen mit modernen JavaScript Frameworks, wie Angular, React, Vue und TypeScript.
+*﻿ Idealerweise kennst du dich mit Mapping-Bibliotheken wie OpenLayers und MapLibre aus.
 * Sicherer Umgang mit CSS und HTML.
 * Verständnis für alle Ebenen einer Webanwendung ("Full Stack").
 * Hohe Ansprüche an die Qualität deiner Arbeit.
