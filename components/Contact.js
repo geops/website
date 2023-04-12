@@ -53,7 +53,7 @@ export default function Contact() {
       <button
         aria-label={t("website.up")}
         onClick={goTop}
-        className="absolute top-4 right-4 w-16 outline-none"
+        className="absolute right-4 top-4 w-16 outline-none"
       >
         <CaretIcon direction="top" />
       </button>

@@ -55,7 +55,7 @@ export default function Job({ content, job }) {
             hiringOrganization: {
               "@type": "Organization",
               name: "geOps",
-              sameAs: "http://geops.com",
+              sameAs: "https://geops.com",
             },
             jobLocation: [
               {

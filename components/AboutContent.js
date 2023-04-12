@@ -52,19 +52,13 @@ export default function AboutContent({ content, technologies }) {
         </Circle>
       </div>
       <h2 id="work">{t("about.work")}</h2>
-      <p>
-        <Markdown>{content.work}</Markdown>
-      </p>
+      <p>{content.work}</p>
       <Image alt={t("about.work")} className="py-16" src={aboutImage} />
       <h2 id="tech">{t("about.tech")}</h2>
-      <p>
-        <Markdown>{content.tech}</Markdown>
-      </p>
+      <p>{content.tech}</p>
       <TechnologyCarousel slides={technologies} />
       <h2 id="sustainability">{t("about.sustainability")}</h2>
-      <p>
-        <Markdown>{content.sustainability}</Markdown>
-      </p>
+      <p>{content.sustainability}</p>
       <Image
         alt={t("about.sustainability")}
         className="py-16"

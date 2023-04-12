@@ -181,11 +181,11 @@ collections:
         i18n: true
         fields:
           - { i18n: true, label: Title, name: title }
-          - { i18n: true, label: We 1, name: we1 }
-          - { i18n: true, label: We 2, name: we2 }
-          - { i18n: true, label: We 3, name: we3 }
-          - { i18n: true, label: We 4, name: we4 }
-          - { i18n: true, label: We 5, name: we5 }
+          - { i18n: true, label: We 1, name: we1, widget: "markdown" }
+          - { i18n: true, label: We 2, name: we2, widget: "markdown" }
+          - { i18n: true, label: We 3, name: we3, widget: "markdown" }
+          - { i18n: true, label: We 4, name: we4, widget: "markdown" }
+          - { i18n: true, label: We 5, name: we5, widget: "markdown" }
           - label: "Circle Counter"
             name: "circleCounter"
             widget: "object"
@@ -199,7 +199,12 @@ collections:
           - { i18n: true, label: Circle Employee, name: circleEmployee }
           - { i18n: true, label: Work, name: work }
           - { i18n: true, label: Technology, name: tech, widget: "markdown" }
-          - { i18n: true, label: Sustainability, name: sustainability, widget: "markdown" }
+          - {
+              i18n: true,
+              label: Sustainability,
+              name: sustainability,
+              widget: "markdown",
+            }
       - label: "Imprint"
         name: "imprint"
         file: "content/page/imprint.json"
