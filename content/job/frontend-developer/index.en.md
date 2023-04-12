@@ -22,7 +22,7 @@ Your heart beats for modern, outstanding software solutions based on innovative 
 * Enjoy developing and have an interest in new technologies.
 * Excellent skills in object-oriented programming using JavaScript.
 * Experience with modern JavaScript frameworks, such as Angular, React, Vue and TypeScript.
-*﻿ Ideally you also know about libraries for maps and geodata handling such as OpenLayers  and MapLibre
+* Ideally you also know about libraries for maps and geodata handling such as OpenLayers  and MapLibre.
 * Confident use of CSS and HTML.
 * Understanding of all layers of a web application ("full stack").
 * High standards for the quality of your work.
