@@ -41,7 +41,7 @@ export const de = {
   email: "info@geops.de",
   telephone: "+49 761 458 925 0",
   street: "Bismarckallee 10",
-  city: "Freiburg",
+  city: "Freiburg im Breisgau",
   postalCode: "D-79098",
 };
 

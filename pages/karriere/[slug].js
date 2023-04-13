@@ -69,6 +69,8 @@ export default function Job({ content, job }) {
                   postalCode: ch.postalCode.replace(/CH-/, ""),
                   addressCountry: "CH",
                 },
+                latitude: ch.latitude,
+                longitude: ch.longitude,
               },
               {
                 "@type": "Place",
@@ -79,6 +81,8 @@ export default function Job({ content, job }) {
                   postalCode: de.postalCode.replace(/DE-/, ""),
                   addressCountry: "DE",
                 },
+                latitude: de.latitude,
+                longitude: de.longitude,
               },
             ],
           }),
