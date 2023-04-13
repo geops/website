@@ -28,6 +28,7 @@ export default function About({ content, team, technologies }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
+              name: "geOps",
               url: "https://geops.com",
               logo: "https://geops.com/logo191.png",
             }),
