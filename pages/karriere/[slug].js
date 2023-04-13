@@ -52,10 +52,12 @@ export default function Job({ content, job }) {
             title: job.title,
             description: job.body,
             datePosted: job.created,
+            employmentType: ["FULL_TIME", "PART_TIME"],
             hiringOrganization: {
               "@type": "Organization",
               name: "geOps",
               sameAs: "https://geops.com",
+              logo: "https://geops.com/logo191.png",
             },
             jobLocation: [
               {
@@ -64,7 +66,7 @@ export default function Job({ content, job }) {
                   "@type": "PostalAddress",
                   streetAddress: ch.street,
                   addressLocality: ch.city,
-                  postalCode: ch.postalCode,
+                  postalCode: ch.postalCode.replace(/CH-/, ""),
                   addressCountry: "CH",
                 },
               },
@@ -74,7 +76,7 @@ export default function Job({ content, job }) {
                   "@type": "PostalAddress",
                   streetAddress: de.street,
                   addressLocality: de.city,
-                  postalCode: de.postalCode,
+                  postalCode: de.postalCode.replace(/DE-/, ""),
                   addressCountry: "DE",
                 },
               },

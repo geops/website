@@ -1,3 +1,4 @@
+import Head from "next/head.js";
 import AboutContent from "../components/AboutContent.js";
 import { ch } from "../components/Contact.js";
 import ContactPerson from "../components/ContactPerson.js";
@@ -20,6 +21,19 @@ export default function About({ content, team, technologies }) {
       path="/about"
       translationPath="/about"
     >
+      <Head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              url: "https://geops.com",
+              logo: "https://geops.com/logo191.png",
+            }),
+          }}
+        ></script>
+      </Head>
       <PageHeader
         title={content.title}
         src="/images/page/about/header.jpg"

@@ -9,6 +9,7 @@ import FrontpageList from "../components/FrontpageList.js";
 
 import getContentList from "../lib/getContentList";
 import { useI18n } from "../lib/i18n";
+import Head from "next/head";
 
 export const config = {
   unstable_excludeFiles: ["./content/**", "./public/images/**"],
@@ -22,6 +23,19 @@ export default function Frontpage({ items, slides, ...props }) {
       description={t("aboutTeaser.text")}
       shareImg={(slides && slides[0]?.image) || null}
     >
+      <Head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              url: "https://geops.com",
+              logo: "https://geops.com/logo191.png",
+            }),
+          }}
+        ></script>
+      </Head>
       <Carousel slides={slides} />
       <div className="relative">
         <Hero title={t("aboutTeaser.title")}>
