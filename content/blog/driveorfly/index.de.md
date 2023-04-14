@@ -4,6 +4,7 @@ summary: Wir haben die zunehmende Gefährdung durch die Klimakrise erkannt. Eine
   der von uns ergriffenen Massnahmen bietet unseren Mitarbeitenden einen Bonus
   für umweltfreundliches Reisen im Privatbereich.
 created: 2023-04-12
+slug: fliegen-oder-fahren
 published: true
 ---
 Die rapide voranschreitende Klimakrise erfordert von Unternehmen und Privatpersonen einschneidende Veränderungen. In [einem anderen Blog-Beitrag](/blog/sustainability) fassen wir die Massnahmen zusammen, mit denen geOps einen Anteil zur Verhinderung katastrophaler und nicht umkehrbarer Klimaveränderungen leistet.
