@@ -10,7 +10,6 @@ slug: driveorfly
 tags:
   - geops
   - team
-  - developers
 frontpageImage: /images/blog/fliegen-oder-fahren/flyordrive.jpg
 published: true
 ---
