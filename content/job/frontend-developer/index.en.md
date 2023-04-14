@@ -4,7 +4,7 @@ summary: You love intuitive, attractive front ends based on modern and solid
   technology? You are experienced and at the same time always hungry for new
   things?
 slug: frontend-developer
-created: 2022-03-01
+created: 2023-04-14
 ---
 Your heart beats for modern, outstanding software solutions based on innovative technologies? Then join our team! We have been passionately developing web applications and interactive maps for over 20 years, primarily in the fields of environment and public transport. For our diverse customer projects we are looking for motivated and experienced frontend developers (m/f/d).
 
