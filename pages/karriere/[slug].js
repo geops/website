@@ -1,3 +1,4 @@
+import Head from "next/head.js";
 import Article from "../../components/Article.js";
 import { ch, de } from "../../components/Contact.js";
 import ContactPerson from "../../components/ContactPerson.js";
@@ -29,6 +30,53 @@ export default function Job({ content, job }) {
       translationPath={`${t("career.translationPath")}`}
       slugByLocale={job.slugByLocale}
     >
+      <Head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org/",
+              "@type": "JobPosting",
+              title: job.title,
+              description: job.body,
+              datePosted: job.created,
+              employmentType: ["FULL_TIME", "PART_TIME"],
+              hiringOrganization: {
+                "@type": "Organization",
+                name: "geOps",
+                sameAs: "https://geops.com",
+                logo: "https://geops.com/logo191.png",
+              },
+              jobLocation: [
+                {
+                  "@type": "Place",
+                  address: {
+                    "@type": "PostalAddress",
+                    streetAddress: ch.street,
+                    addressLocality: ch.city,
+                    postalCode: ch.postalCode.split("-")[1],
+                    addressCountry: "CH",
+                  },
+                  latitude: ch.latitude,
+                  longitude: ch.longitude,
+                },
+                {
+                  "@type": "Place",
+                  address: {
+                    "@type": "PostalAddress",
+                    streetAddress: de.street,
+                    addressLocality: de.city,
+                    postalCode: de.postalCode.split("-")[1],
+                    addressCountry: "DE",
+                  },
+                  latitude: de.latitude,
+                  longitude: de.longitude,
+                },
+              ],
+            }),
+          }}
+        />
+      </Head>
       <div className="mx-auto hidden max-w-screen-lg xl:sticky xl:top-4 xl:block">
         {/* > xl*/}
         <Share />
@@ -42,51 +90,6 @@ export default function Job({ content, job }) {
         person={content.contact}
         title={content.title}
         subtitle={content.subtitle}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org/",
-            "@type": "JobPosting",
-            title: job.title,
-            description: job.body,
-            datePosted: job.created,
-            employmentType: ["FULL_TIME", "PART_TIME"],
-            hiringOrganization: {
-              "@type": "Organization",
-              name: "geOps",
-              sameAs: "https://geops.com",
-              logo: "https://geops.com/logo191.png",
-            },
-            jobLocation: [
-              {
-                "@type": "Place",
-                address: {
-                  "@type": "PostalAddress",
-                  streetAddress: ch.street,
-                  addressLocality: ch.city,
-                  postalCode: ch.postalCode.split("-")[1],
-                  addressCountry: "CH",
-                },
-                latitude: ch.latitude,
-                longitude: ch.longitude,
-              },
-              {
-                "@type": "Place",
-                address: {
-                  "@type": "PostalAddress",
-                  streetAddress: de.street,
-                  addressLocality: de.city,
-                  postalCode: de.postalCode.split("-")[1],
-                  addressCountry: "DE",
-                },
-                latitude: de.latitude,
-                longitude: de.longitude,
-              },
-            ],
-          }),
-        }}
       />
     </Layout>
   );
