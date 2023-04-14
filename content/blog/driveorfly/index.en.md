@@ -5,7 +5,7 @@ summary: We have recognized the increasing threat posed by the climate crisis.
   environmentally friendly private travel.
 author: Uli Müller
 cover: /images/blog/fliegen-oder-fahren/flyordrive.jpg
-created: 2023-04-12
+created: 2023-04-13
 slug: driveorfly
 tags:
   - geops
