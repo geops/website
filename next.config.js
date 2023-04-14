@@ -323,4 +323,5 @@ const redirects = `/node/6 /en/imprint
 /blog/geoserver-wfs-performance-comparison /en/blog/geoserver-wfs-performance-comparison
 /developer-portal /solution/developer-portal
 /worldwide-transit-tracker /en/blog/worldwide-transit-tracker
-/weltweiter-ov-tracker /blog/weltweiter-ov-tracker`;
+/weltweiter-ov-tracker /blog/weltweiter-ov-tracker
+/karriere/frontend-developer /karriere/frontend-entwickler`;
