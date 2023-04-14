@@ -4,7 +4,6 @@ summary: Du liebst intuitive, attrak&shy;tive Front&shy;ends, die auf
   moder&shy;nen und soliden Tech&shy;no&shy;logien basieren? Du bist erfahren
   und gleich&shy;zeitig immer hungrig auf Neues?
 slug: frontend-developer
-created: 2021-10-15
 ---
 Dein Herz schlägt für moderne, herausragende Software-Lösungen auf Basis innovativer Technologien? Dann komm in unser Team! Mit Leidenschaft entwickeln wir seit über 20 Jahren Webapplikationen und interaktive Karten, vorwiegend in den Bereichen Umwelt und Öffentlicher Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir motivierte und erfahrene Frontend-Entwickler (m/w/d).
 
