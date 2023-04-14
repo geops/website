@@ -1,5 +1,5 @@
 ---
-title: Fliegen oder fahren?
+title: Drive or fly?
 summary: We have recognized the increasing threat posed by the climate crisis.
   One of the measures we have taken offers our employees a bonus for
   environmentally friendly private travel.
