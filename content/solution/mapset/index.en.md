@@ -1,5 +1,5 @@
 ---
-title: Plans for public Transport
+title: Do it yourself plans
 summary: mapset allows easy creation of clear and visually appealing plans for
   public transport concerns.
 cover: /images/solution/mapset/mapset_teaser_startseite.png
