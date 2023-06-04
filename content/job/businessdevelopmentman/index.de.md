@@ -43,6 +43,7 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 * Attraktive Zusatzleistungen (z. B. Mobilitätszuschüsse, Zugang zu Fitnessstudios und vieles mehr).
 * Individuelle Aufstiegs- und professionelle Weiterbildungsmöglichkeiten.
 * Freundliches und aufgeschlossenes Arbeitsumfeld mit einem kleinen, motivierten Team.
+* Kurze Entscheidungswege, so dass sich etwas bewegen lässt.
 * Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee.
 * Büro in Olten, dem Zentrum des öffentlichen Verkehrs in der Schweiz.
 * Regelmässige Team- und Firmenevents, die Spass machen.

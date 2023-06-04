@@ -42,7 +42,7 @@ We are seeking a driven and enthusiastic Business Development Manager to promote
 * Attractive additional benefits (e.g. mobility grants, access to gyms and much more).
 * Individual promotion and professional development opportunities.
 * Friendly and open-minded work environment with a small but passionate team.
-*
+* Short decision-making paths, so that something can be moved.
 * Always enough organic fruit, mineral water and organic coffee.
 * Office in Olten, the center of public transport in Switzerland.
 * Regular team and company events, that are real fun.
