@@ -19,20 +19,20 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 ## Was erwartet dich?
 
 * Durchführung von Marktrecherchen, um potenzielle Kunden und wichtige Entscheidungsträger im Bereich des öffentlichen Verkehrs in der Schweiz, in Deutschland und in anderen, hauptsächlich europäischen Ländern zu identifizieren.
-* Aufbau und Pflege enger Beziehungen zu potenziellen und bestehenden Kunden, einschließlich Verkehrsbehörden, Betreibern und anderen relevanten Interessengruppen der Branche.
+* Aufbau und Pflege enger Beziehungen zu potenziellen und bestehenden Kunden, einschließlich Verkehrsbehörden, Transportunternehmen und anderen relevanten Interessengruppen der Branche.
 * Analyse der Kundenanforderungen und aufzeigen, wie unsere Softwarelösungen ihre Bedürfnisse effektiv erfüllen und ihre Abläufe verbessern können.
 * Verfolgung öffentlicher Ausschreibungen und Vorbereitung geeigneter Angebote zusammen mit dem Entwicklungsteam und der Geschäftsleitung.
 * Enge Zusammenarbeit mit unseren Produktverantwortlichen und der Geschäftsleitung bei der Entwicklung von Verkaufsstrategien, der Festlegung erreichbarer Ziele und der Umsetzung effektiver Verkaufspläne.
 * Reporting über Vertriebsaktivitäten, Verkaufschancen und Pipelines mithilfe unseres CRM-Tools.
 * Analyse von Branchentrends, Marktentwicklungen und Aktivitäten der Wettbewerber, um unsere Lösungen effektiv zu positionieren und einen Wettbewerbsvorteil zu wahren.
-* Zusammenarbeit mit dem Produktentwicklungsteam, um wertvolles Kundenfeedback zu berücksichtigen und zur kontinuierlichen Verbesserung unserer Lösungen beizutragen.
+* Zusammenarbeit mit dem Produktentwicklungsteam, um Kundenfeedback zu berücksichtigen und zur kontinuierlichen Verbesserung unserer Lösungen beizutragen.
 
 ## Qualifikationen
 
 * Vertrautheit mit der ÖPNV-Branche in der Schweiz und in Deutschland, einschliesslich Kenntnis der Marktlandschaft, der Hauptakteure und der rechtlichen Rahmenbedingungen. Kenntnisse über andere europäische Märkte sind ein Plus.
 * Ausgezeichnete Kommunikations- und Präsentationsfähigkeiten mit der Fähigkeit, sowohl technische als auch nicht-technische Interessengruppen effektiv zu beeinflussen.
 * Eigenmotiviertes, proaktives und ergebnisorientiertes Denken mit der Fähigkeit, selbstständig und als Teil eines kleinen, hoch motivierten Teams zu arbeiten.
-* Starkes Verhandlungsgeschick und die Fähigkeit, die Probleme der Kunden zu erkennen und unsere Lösungen als die beste Lösung zu positionieren.
+* Starkes Verhandlungsgeschick und die Fähigkeit, die Probleme der Kunden zu erkennen und unsere Produkte als die beste Lösung zu positionieren.
 * Fließende Sprachkenntnisse in Deutsch und Englisch sind erforderlich. Kenntnisse in weiteren Sprachen sind von Vorteil.
 * Idealerweise, aber nicht zwingend, verfügst du über einen Hochschulabschluss in öV-Management, Wirtschaft, Informatik oder anderen technischen oder naturwissenschaftlichen Bereichen. 
 
@@ -52,4 +52,4 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 
 ## Das klingt nach deinem Job?
 
-Perfekt! Dann freuen wir uns auf deine Bewerbung an karriere@geops.com. Uns interessieren besonders deine Motivation und mögliche Referenzen. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
+Perfekt! Dann freuen wir uns auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com). Uns interessieren besonders deine Motivation und mögliche Referenzen. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
