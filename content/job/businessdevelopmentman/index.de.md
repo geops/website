@@ -52,4 +52,4 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 
 ## Das klingt nach deinem Job?
 
-Perfekt! Dann freuen wir uns auf deine Bewerbung an karriere@geops.com. Uns interessieren besonders deine Motivation und mögliche Referenzen. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
+Perfekt! Dann freuen wir uns auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com). Uns interessieren besonders deine Motivation und mögliche Referenzen. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
