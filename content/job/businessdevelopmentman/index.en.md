@@ -21,7 +21,6 @@ We are seeking a driven and enthusiastic Business Development Manager to join ou
 * Build and maintain strong relationships with prospective and existing clients, including public transport authorities, operators, and other relevant industry stakeholders.
 * Understand client requirements and demonstrate how our software solutions can effectively address their needs and improve their operations.
 * Follow up public tenders and prepare suitable bids together with the development team and the management.
-* Present product demonstrations, deliver persuasive sales presentations, and prepare compelling proposals to effectively communicate the value of our solutions.
 * Work closely with our product owners and the management to develop sales strategies, set achievable targets, and implement effective sales plans.
 * Track and report on sales activities, opportunities, and pipeline progress using our CRM tool.
 * Stay up to date with industry trends, market developments, and competitor activities to effectively position our solutions and maintain a competitive edge.
@@ -30,13 +29,12 @@ We are seeking a driven and enthusiastic Business Development Manager to join ou
 ## Qualifications
 
 * Proven track record in B2B sales, preferably in the software industry, with a strong focus on achieving and exceeding sales targets.
-* Ideally, but not necessarily, you have a university degree in public tranport management, economics, computer science or other technical and scientific fields. 
 * Familiarity with the public transport industry in Switzerland and Germany, including knowledge of the market landscape, key players, and regulatory frameworks. Knowledge of other European markets is a plus.
 * Excellent communication and presentation skills, with the ability to effectively engage and influence both technical and non-technical stakeholders.
 * Self-motivated, proactive, and results-oriented mindset, with the ability to work independently and as part of a small, highly motivated team.
 * Strong negotiation and closing skills, with the ability to identify clients' pain points and position our solutions as the best fit.
 * Fluency in German and English is required. Knowledge of additional European languages is advantageous.
-* Willingness to travel within Switzerland, Germany, and other European countries for client meetings and industry events, as needed.
+* Ideally, but not necessarily, you have a university degree in public tranport management, economics, computer science or other technical and scientific fields. 
 
 ## What we offer
 
