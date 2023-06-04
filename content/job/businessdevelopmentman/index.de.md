@@ -29,12 +29,12 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 
 ## Qualifikationen
 
-* Vertrautheit mit der ÖPNV-Branche in der Schweiz und in Deutschland, einschließlich Kenntnis der Marktlandschaft, der Hauptakteure und der rechtlichen Rahmenbedingungen. Kenntnisse über andere europäische Märkte sind ein Plus.
+* Vertrautheit mit der ÖPNV-Branche in der Schweiz und in Deutschland, einschliesslich Kenntnis der Marktlandschaft, der Hauptakteure und der rechtlichen Rahmenbedingungen. Kenntnisse über andere europäische Märkte sind ein Plus.
 * Ausgezeichnete Kommunikations- und Präsentationsfähigkeiten mit der Fähigkeit, sowohl technische als auch nicht-technische Interessengruppen effektiv zu beeinflussen.
 * Eigenmotiviertes, proaktives und ergebnisorientiertes Denken mit der Fähigkeit, selbstständig und als Teil eines kleinen, hoch motivierten Teams zu arbeiten.
 * Starkes Verhandlungsgeschick und die Fähigkeit, die Probleme der Kunden zu erkennen und unsere Lösungen als die beste Lösung zu positionieren.
-* Fließende Sprachkenntnisse in Deutsch und Englisch sind erforderlich. Kenntnisse in weiteren europäischen Sprachen sind von Vorteil.
-* Idealerweise, aber nicht zwingend, verfügst du über einen Hochschulabschluss in öffentlichem Verkehrsmanagement, Wirtschaft, Informatik oder anderen technischen und wissenschaftlichen Bereichen. 
+* Fließende Sprachkenntnisse in Deutsch und Englisch sind erforderlich. Kenntnisse in weiteren Sprachen sind von Vorteil.
+* Idealerweise, aber nicht zwingend, verfügst du über einen Hochschulabschluss in öV-Management, Wirtschaft, Informatik oder anderen technischen oder naturwissenschaftlichen Bereichen. 
 
 ## Was wir bieten
 
@@ -52,7 +52,3 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 ## Das klingt nach deinem Job?
 
 Perfekt! Dann freuen wir uns auf deine Bewerbung an karriere@geops.com. Uns interessieren besonders deine Motivation und mögliche Referenzen. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
-
-<!--EndFragment-->
-
-* otivierten

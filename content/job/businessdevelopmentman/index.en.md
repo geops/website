@@ -32,7 +32,7 @@ We are seeking a driven and enthusiastic Business Development Manager to promote
 * Excellent communication and presentation skills, with the ability to effectively engage and influence both technical and non-technical stakeholders.
 * Self-motivated, proactive, and results-oriented mindset, with the ability to work independently and as part of a small, highly motivated team.
 * Strong negotiation and closing skills, with the ability to identify clients' pain points and position our solutions as the best fit.
-* Fluency in German and English is required. Knowledge of additional European languages is advantageous.
+* Fluency in German and English is required. Knowledge of additional languages is advantageous.
 * Ideally, but not necessarily, you have a university degree in public tranport management, economics, computer science or other technical and scientific fields. 
 
 ## What we offer
