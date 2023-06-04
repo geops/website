@@ -32,7 +32,7 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 * Vertrautheit mit der ÖPNV-Branche in der Schweiz und in Deutschland, einschliesslich Kenntnis der Marktlandschaft, der Hauptakteure und der rechtlichen Rahmenbedingungen. Kenntnisse über andere europäische Märkte sind ein Plus.
 * Ausgezeichnete Kommunikations- und Präsentationsfähigkeiten mit der Fähigkeit, sowohl technische als auch nicht-technische Interessengruppen effektiv zu beeinflussen.
 * Eigenmotiviertes, proaktives und ergebnisorientiertes Denken mit der Fähigkeit, selbstständig und als Teil eines kleinen, hoch motivierten Teams zu arbeiten.
-* Starkes Verhandlungsgeschick und die Fähigkeit, die Probleme der Kunden zu erkennen und unsere Lösungen als die beste Lösung zu positionieren.
+* Starkes Verhandlungsgeschick und die Fähigkeit, die Probleme der Kunden zu erkennen und unsere Produkte als die beste Lösung zu positionieren.
 * Fließende Sprachkenntnisse in Deutsch und Englisch sind erforderlich. Kenntnisse in weiteren Sprachen sind von Vorteil.
 * Idealerweise, aber nicht zwingend, verfügst du über einen Hochschulabschluss in öV-Management, Wirtschaft, Informatik oder anderen technischen oder naturwissenschaftlichen Bereichen. 
 
