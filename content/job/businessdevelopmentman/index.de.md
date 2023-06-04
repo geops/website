@@ -1,6 +1,6 @@
 ---
 title: Business Development Manager – IT-Lösungen für den öffentlichen Verkehr
-  (80-100%)
+  80-100% (m/w/d)
 summary: "Du willst zukunftsweisende IT-Lösungen für den öffentlichen Verkehr
   und neue, nachhaltige Mobilitätsformen fördern? Du begeisterst dich für
   moderne Technologien, deren Einsatz du mitgestalten kannst? Du willst dich für
@@ -12,9 +12,9 @@ Du willst zukunftsweisende IT-Lösungen für den öffentlichen Verkehr und neue,
 
 **Wir suchen ab sofort einen Business Development Manager (m/w/d) in Voll- oder Teilzeit für unseren Standort in Olten.**
 
-*geOps ist ein dynamischer und innovativer Anbieter von Softwarelösungen in den Bereichen öffentlicher Verkehr, Mobilität und Logistik. Wir sind ein kleines, aber hoch motiviertes Team, das mit Leidenschaft Spitzentechnologie in Form von fertigen Produkten oder individuell entwickelten Lösungen anbietet. Unser Hauptaugenmerk liegt auf der Schweiz und Deutschland, wo wir außergewöhnliche Lösungen für Anbieter des öffentlichen Verkehrs anbieten, aber auch in anderen europäischen Märkten tätig sind.*
+*geOps ist ein dynamischer und innovativer Anbieter von Softwarelösungen in den Bereichen öffentlicher Verkehr, Mobilität und Logistik. Wir sind ein kleines, aber hoch motiviertes Team, das mit Leidenschaft Spitzentechnologie in Form von fertigen Produkten oder individuell entwickelten Lösungen anbietet. Unser Hauptaugenmerk liegt auf der Schweiz und Deutschland, wir entwicklen uns aber auch in anderen europäischen Märkten.*
 
-Wir suchen einen engagierten und enthusiastischen Business Development Manager, um unsere Softwarelösungen für den öffentlichen Verkehr in der Schweiz, in Deutschland und in anderen europäischen Ländern zu fördern. Als wichtiges Mitglied unseres Teams spielst du eine entscheidende Rolle bei der Erweiterung unseres Kundenstamms und der Steigerung des Umsatzes. Du bist verantwortlich für den Aufbau und die Pflege von Beziehungen zu wichtigen Stakeholdern im Bereich des öffentlichen Verkehrs und der Mobilität, die Identifizierung von Verkaufschancen und den Abschluss von Geschäften. Dein Hauptaugenmerk wird auf der Schweiz und Deutschland liegen, du wirst aber auch mit potenziellen Kunden in anderen europäischen Ländern in Kontakt treten, um zu unseren Zielen beizutragen.
+Wir suchen einen engagierten und enthusiastischen Business Development Manager (m/w/d), um unsere Softwarelösungen für den öffentlichen Verkehr in der Schweiz, in Deutschland und in anderen europäischen Ländern zu fördern. Als wichtiges Mitglied unseres Teams spielst du eine entscheidende Rolle bei der Erweiterung unseres Kundenstamms und der Steigerung des Umsatzes. Du bist verantwortlich für den Aufbau und die Pflege von Beziehungen zu wichtigen Stakeholdern im Bereich des öffentlichen Verkehrs und der Mobilität, die Identifizierung von Verkaufschancen und den Abschluss von Geschäften. Dein Hauptaugenmerk wird auf der Schweiz und Deutschland liegen, du wirst aber auch mit potenziellen Kunden in anderen europäischen Ländern in Kontakt treten, um zu unseren Zielen beizutragen.
 
 ## Was erwartet dich?
 
