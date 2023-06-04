@@ -19,13 +19,13 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 ## Was erwartet dich?
 
 * Durchführung von Marktrecherchen, um potenzielle Kunden und wichtige Entscheidungsträger im Bereich des öffentlichen Verkehrs in der Schweiz, in Deutschland und in anderen, hauptsächlich europäischen Ländern zu identifizieren.
-* Aufbau und Pflege enger Beziehungen zu potenziellen und bestehenden Kunden, einschließlich Verkehrsbehörden, Betreibern und anderen relevanten Interessengruppen der Branche.
+* Aufbau und Pflege enger Beziehungen zu potenziellen und bestehenden Kunden, einschließlich Verkehrsbehörden, Transportunternehmen und anderen relevanten Interessengruppen der Branche.
 * Analyse der Kundenanforderungen und aufzeigen, wie unsere Softwarelösungen ihre Bedürfnisse effektiv erfüllen und ihre Abläufe verbessern können.
 * Verfolgung öffentlicher Ausschreibungen und Vorbereitung geeigneter Angebote zusammen mit dem Entwicklungsteam und der Geschäftsleitung.
 * Enge Zusammenarbeit mit unseren Produktverantwortlichen und der Geschäftsleitung bei der Entwicklung von Verkaufsstrategien, der Festlegung erreichbarer Ziele und der Umsetzung effektiver Verkaufspläne.
 * Reporting über Vertriebsaktivitäten, Verkaufschancen und Pipelines mithilfe unseres CRM-Tools.
 * Analyse von Branchentrends, Marktentwicklungen und Aktivitäten der Wettbewerber, um unsere Lösungen effektiv zu positionieren und einen Wettbewerbsvorteil zu wahren.
-* Zusammenarbeit mit dem Produktentwicklungsteam, um wertvolles Kundenfeedback zu berücksichtigen und zur kontinuierlichen Verbesserung unserer Lösungen beizutragen.
+* Zusammenarbeit mit dem Produktentwicklungsteam, um Kundenfeedback zu berücksichtigen und zur kontinuierlichen Verbesserung unserer Lösungen beizutragen.
 
 ## Qualifikationen
 
