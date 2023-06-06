@@ -13,7 +13,7 @@ Do you want to promote pioneering IT solutions for public transport and new, sus
 
 *geOps is a dynamic and innovative software solutions provider specializing in public transport, mobility and logistics. We are a small but highly motivated team, that is passionate about providing cutting-edge technology in the form of ready products or individually developped solutions. With a primary focus on Switzerland and Germany, we are dedicated to providing exceptional solutions for public transport providers in these countries, while also expanding our reach across other European markets.*
 
-We are seeking a driven and enthusiastic Business Development Manager to promote our software solutions for public transport in Switzerland, Germany, and other primarily European countries. As a key member of our team, you will play a crucial role in expanding our customer base and driving revenue growth. You will be responsible for developing and nurturing relationships with key stakeholders in the public transport and mobility sector, identifying sales opportunities, and closing deals. Your main focus will be on Switzerland and Germany, leveraging your knowledge of these markets, while also engaging with potential clients across other European countries to contribute to our overall business objectives,
+We are seeking a driven and enthusiastic Business Development Manager to promote our software solutions for public transport in Switzerland, Germany, and other primarily European countries. As a key member of our team, you will play a crucial role in expanding our customer base and driving revenue growth. You will be responsible for developing and nurturing relationships with key stakeholders in the public transport and mobility sector, identifying sales opportunities, and closing deals. 
 
 ## What awaits you
 
@@ -37,17 +37,16 @@ We are seeking a driven and enthusiastic Business Development Manager to promote
 
 ## What we offer
 
-* Competitive salary commensurate with experience.
-* Performance-based bonuses and incentives.
-* Attractive additional benefits (e.g. mobility grants, access to gyms and much more).
-* Individual promotion and professional development opportunities.
 * Friendly and open-minded work environment with a small but passionate team.
+* Individual promotion and professional development opportunities.
 * Short decision-making paths, so that something can be moved.
+* Work processes that have grown over many years of experience and are constantly being optimized to make everyone's job easier.
+* Competitive salary and performance-based bonuses and incentives.
+* Attractive additional benefits (e.g. mobility grants, access to gyms and much more).
 * Always enough organic fruit, mineral water and organic coffee.
 * Office in Olten, the center of public transport in Switzerland.
 * Regular team and company events, that are real fun.
-* Work-life balance through flexible working hours (full/part-time and home office).
-* Work processes that have grown over many years of experience and are constantly being optimized to make everyone's job easier.
+* Work-life balance through flexible working hours (full/part-time and remote work).
 
 ## That sounds like your job?
 

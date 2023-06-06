@@ -14,7 +14,7 @@ Du willst zukunftsweisende IT-Lösungen für den öffentlichen Verkehr und neue,
 
 *geOps ist ein dynamischer und innovativer Anbieter von Softwarelösungen in den Bereichen öffentlicher Verkehr, Mobilität und Logistik. Wir sind ein kleines, aber hoch motiviertes Team, das mit Leidenschaft Spitzentechnologie in Form von fertigen Produkten oder individuell entwickelten Lösungen anbietet. Unser Hauptaugenmerk liegt auf der Schweiz und Deutschland, wir entwicklen uns aber auch in anderen europäischen Märkten.*
 
-Wir suchen einen engagierten und enthusiastischen Business Development Manager (m/w/d), um unsere Softwarelösungen für den öffentlichen Verkehr in der Schweiz, in Deutschland und in anderen europäischen Ländern zu fördern. Als wichtiges Mitglied unseres Teams spielst du eine entscheidende Rolle bei der Erweiterung unseres Kundenstamms und der Steigerung des Umsatzes. Du bist verantwortlich für den Aufbau und die Pflege von Beziehungen zu wichtigen Stakeholdern im Bereich des öffentlichen Verkehrs und der Mobilität, die Identifizierung von Verkaufschancen und den Abschluss von Geschäften. Dein Hauptaugenmerk wird auf der Schweiz und Deutschland liegen, du wirst aber auch mit potenziellen Kunden in anderen europäischen Ländern in Kontakt treten, um zu unseren Zielen beizutragen.
+Wir suchen einen engagierten und enthusiastischen Business Development Manager (m/w/d), um unsere Softwarelösungen für den öffentlichen Verkehr in der Schweiz, in Deutschland und in anderen europäischen Ländern zu fördern. Als wichtiges Mitglied unseres Teams spielst du eine entscheidende Rolle bei der Erweiterung unseres Kundenstamms und der Steigerung des Umsatzes. Du bist verantwortlich für den Aufbau und die Pflege von Beziehungen zu wichtigen Stakeholdern im Bereich des öffentlichen Verkehrs und der Mobilität, die Identifizierung von Verkaufschancen und den Abschluss von Verträgen.
 
 ## Was erwartet dich?
 
@@ -38,17 +38,16 @@ Wir suchen einen engagierten und enthusiastischen Business Development Manager (
 
 ## Was wir bieten
 
-* Ein attraktives Gehalt.
-* Leistungsabhängige Boni und Anreize.
-* Attraktive Zusatzleistungen (z. B. Mobilitätszuschüsse, Zugang zu Fitnessstudios und vieles mehr).
-* Individuelle Aufstiegs- und professionelle Weiterbildungsmöglichkeiten.
 * Freundliches und aufgeschlossenes Arbeitsumfeld mit einem kleinen, motivierten Team.
+* Individuelle Aufstiegs- und professionelle Weiterbildungsmöglichkeiten.
 * Kurze Entscheidungswege, so dass sich etwas bewegen lässt.
+* In langer Erfahrung gewachsene und laufend weiter optimierte Arbeitsprozesse, die allen die Arbeit erleichtern.
+* Ein attraktives Gehalt sowie leistungsabhängige Boni und Anreize.
+* Attraktive Zusatzleistungen (z. B. Mobilitätszuschüsse, Zugang zu Fitnessstudios und vieles mehr).
 * Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee.
 * Büro in Olten, dem Zentrum des öffentlichen Verkehrs in der Schweiz.
 * Regelmässige Team- und Firmenevents, die Spass machen.
 * Work-Life-Balance durch flexible Arbeitszeiten (Voll-/Teilzeit und Homeoffice).
-* Langjährig gewachsene Arbeitsprozesse, die ständig optimiert werden, um allen die Arbeit zu erleichtern.
 
 ## Das klingt nach deinem Job?
 
