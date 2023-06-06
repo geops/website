@@ -4,7 +4,7 @@ summary: "Do you want to promote pioneering IT solutions for public transport
   and new, sustainable forms of mobility? Are you enthusiastic about modern
   technologies, the use of which you may shape? You want to get involved to
   ensure the success of our products and services? "
-slug: businessdevelopmentman
+slug: businessdevelopment
 created: 2023-06-03
 ---
 Do you want to promote pioneering IT solutions for public transport and new, sustainable forms of mobility? Are you enthusiastic about modern technologies, the use of which you shape in coordination with your team and the customer? You want to get involved to ensure the success of our products and services? Then we have the right position for you.

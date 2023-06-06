@@ -5,7 +5,7 @@ summary: "Du willst zukunftsweisende IT-Lösungen für den öffentlichen Verkehr
   und neue, nachhaltige Mobilitätsformen fördern? Du begeisterst dich für
   moderne Technologien, deren Einsatz du mitgestalten kannst? Du willst dich für
   den Erfolg unserer Produkte und Dienstleistungen engagieren? "
-slug: businessdevelopmentman
+slug: businessdevelopment
 created: 2023-06-03
 ---
 Du willst zukunftsweisende IT-Lösungen für den öffentlichen Verkehr und neue, nachhaltige Formen der Mobilität vorantreiben? Du begeisterst dich für moderne Technologien, deren Einsatz du in Abstimmung mit unserem Team und dem Kunden gestaltest? Du willst dich einbringen, um den Erfolg unserer Produkte und Dienstleistungen zu sichern? Dann haben wir die richtige Stelle für dich.
