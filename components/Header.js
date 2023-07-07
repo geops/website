@@ -55,14 +55,13 @@ export default function Header({ pathByLocale }) {
           className={`container mx-auto flex h-16 items-center justify-between transition-all ${styles.headerContainer}`}
           ref={headerContainer}
         >
-          <WebsiteLink href="/">
-            <a
-              data-cy="headerLogo"
-              aria-label="geOps Logo"
-              className="ml-8 h-2/5"
-            >
-              <GeopsIcon className="h-full" />
-            </a>
+          <WebsiteLink
+            href="/"
+            data-cy="headerLogo"
+            aria-label="geOps Logo"
+            className="ml-8 h-2/5"
+          >
+            <GeopsIcon className="h-full" />
           </WebsiteLink>
           <button
             data-cy="menuButton"
@@ -80,10 +79,12 @@ export default function Header({ pathByLocale }) {
           >
             <div className="container mx-auto flex h-full flex-col">
               <div className="flex h-16 flex-none items-center justify-between">
-                <WebsiteLink href={"/"}>
-                  <a className="ml-8 h-1/2" onClick={() => setMenuOpen(false)}>
-                    <GeopsIcon className="h-full" white />
-                  </a>
+                <WebsiteLink
+                  href={"/"}
+                  className="ml-8 h-1/2"
+                  onClick={() => setMenuOpen(false)}
+                >
+                  <GeopsIcon className="h-full" white />
                 </WebsiteLink>
                 <button
                   className="w-16 pr-8 text-green"
@@ -96,13 +97,12 @@ export default function Header({ pathByLocale }) {
                 <ul className="mx-8 mt-8 divide-y divide-gray text-2xl font-bold text-white">
                   {menu.map((item) => (
                     <li className="relative" key={item.href}>
-                      <WebsiteLink href={item.href}>
-                        <a
-                          className="block py-4"
-                          onClick={() => setMenuOpen(false)}
-                        >
-                          {item.title}
-                        </a>
+                      <WebsiteLink
+                        href={item.href}
+                        className="block py-4"
+                        onClick={() => setMenuOpen(false)}
+                      >
+                        {item.title}
                       </WebsiteLink>
                       {/* -------- Mobile About Navigation -------- */}
                       {item.href === "/about" && (
@@ -119,16 +119,15 @@ export default function Header({ pathByLocale }) {
                             <ul className="ml-8">
                               {aboutMenu.map((aboutItem) => (
                                 <li className="relative" key={aboutItem.href}>
-                                  <WebsiteLink href={aboutItem.href}>
-                                    <a
-                                      className="block py-4"
-                                      onClick={() => setMenuOpen(false)}
-                                    >
-                                      {aboutItem.title}
-                                      <div className="absolute right-0 top-4 w-8">
-                                        <CaretIcon direction="bottom" />
-                                      </div>
-                                    </a>
+                                  <WebsiteLink
+                                    href={aboutItem.href}
+                                    className="block py-4"
+                                    onClick={() => setMenuOpen(false)}
+                                  >
+                                    {aboutItem.title}
+                                    <div className="absolute right-0 top-4 w-8">
+                                      <CaretIcon direction="bottom" />
+                                    </div>
                                   </WebsiteLink>
                                 </li>
                               ))}
@@ -144,16 +143,16 @@ export default function Header({ pathByLocale }) {
                   {language === "de" ? (
                     <strong>DE</strong>
                   ) : (
-                    <Link href={pathByLocale.de}>
-                      <a data-cy="deLinkMobile">DE</a>
+                    <Link href={pathByLocale.de} data-cy="deLinkMobile">
+                      DE
                     </Link>
                   )}
                   <span>|</span>
                   {language === "en" ? (
                     <strong>EN</strong>
                   ) : (
-                    <Link href={pathByLocale.en}>
-                      <a data-cy="enLinkMobile">EN</a>
+                    <Link href={pathByLocale.en} data-cy="enLinkMobile">
+                      EN
                     </Link>
                   )}
                 </div>
@@ -165,14 +164,13 @@ export default function Header({ pathByLocale }) {
             <ul className="flex pr-4 text-blue">
               {menu.map(({ active, href, title }) => (
                 <li className="group relative flex" key={href}>
-                  <WebsiteLink href={href}>
-                    <a
-                      className={`mt-1 flex items-center px-8 pb-1 ${
-                        active ? "border-b-4 text-green-light" : ""
-                      }`}
-                    >
-                      {title}
-                    </a>
+                  <WebsiteLink
+                    href={href}
+                    className={`mt-1 flex items-center px-8 pb-1 ${
+                      active ? "border-b-4 text-green-light" : ""
+                    }`}
+                  >
+                    {title}
                   </WebsiteLink>
                   {/* -------- Desktop About Navigation -------- */}
                   {href === "/about" && (
@@ -184,8 +182,11 @@ export default function Header({ pathByLocale }) {
                           className="relative whitespace-nowrap transition duration-300 ease-in-out hover:bg-gray-lighter"
                           key={aboutItem.href}
                         >
-                          <WebsiteLink href={aboutItem.href}>
-                            <a className="block px-6 py-4">{aboutItem.title}</a>
+                          <WebsiteLink
+                            href={aboutItem.href}
+                            className="block px-6 py-4"
+                          >
+                            {aboutItem.title}
                           </WebsiteLink>
                         </li>
                       ))}
@@ -200,16 +201,16 @@ export default function Header({ pathByLocale }) {
                 {language === "de" ? (
                   <strong>DE</strong>
                 ) : (
-                  <Link href={pathByLocale.de}>
-                    <a data-cy="deLinkDesktop">DE</a>
+                  <Link href={pathByLocale.de} data-cy="deLinkDesktop">
+                    DE
                   </Link>
                 )}
                 <span>|</span>
                 {language === "en" ? (
                   <strong>EN</strong>
                 ) : (
-                  <Link href={pathByLocale.en}>
-                    <a data-cy="enLinkDesktop">EN</a>
+                  <Link href={pathByLocale.en} data-cy="enLinkDesktop">
+                    EN
                   </Link>
                 )}
               </div>

@@ -7,16 +7,16 @@ export default function Footer() {
   return (
     <div className="relative bg-gray-darker">
       <div className="container mx-auto px-8 py-4 text-gray-light">
-        <Link href={t("imprint.path")}>
-          <a className="hover:text-green">{t("imprint.title")}</a>
+        <Link href={t("imprint.path")} className="hover:text-green">
+          {t("imprint.title")}
         </Link>{" "}
         |{" "}
-        <Link href={t("privacy.path")}>
-          <a className="hover:text-green">{t("privacy.title")}</a>
+        <Link href={t("privacy.path")} className="hover:text-green">
+          {t("privacy.title")}
         </Link>{" "}
         |{" "}
-        <Link href={t("terms.path")}>
-          <a className="hover:text-green">{t("terms.title")}</a>
+        <Link href={t("terms.path")} className="hover:text-green">
+          {t("terms.title")}
         </Link>
       </div>
     </div>
