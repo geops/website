@@ -1,4 +1,4 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 import { useState } from "react";
 import resolveConfig from "tailwindcss/resolveConfig";
 
@@ -32,7 +32,7 @@ function CareerAccordion({ items, reverse }) {
             //         activeItem === index ? "opacity-100" : "opacity-0"
             //       }`}
             //       key={index}
-            //       layout="fill"
+            //       fill
             //       src={`/images/career/${item.image}`}
             //       objectFit="cover"
             //     />
@@ -51,7 +51,7 @@ function CareerAccordion({ items, reverse }) {
               >
                 <Image
                   alt={item.title}
-                  layout="fill"
+                  fill
                   src={`/images/career/${item.image}`}
                   objectFit="cover"
                 />

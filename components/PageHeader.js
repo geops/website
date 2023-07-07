@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Image from "next/legacy/image";
+import Image from "next/image";
 
 export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
   return (
@@ -18,7 +18,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
               alt={`${title} Cover`}
               className="w-full object-cover"
               data-cy="pageHeaderImage"
-              layout="fill"
+              fill
               src={src}
             />
           )}
@@ -27,7 +27,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
               <Image
                 alt={`${title} Cover`}
                 className="w-full object-cover"
-                layout="fill"
+                fill
                 src={srcMobile}
               />
             </div>

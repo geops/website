@@ -1,5 +1,5 @@
 import Markdown from "markdown-to-jsx";
-import Image from "next/legacy/image";
+import Image from "next/image";
 
 import { useI18n } from "../lib/i18n";
 import namedCodesToUnicode from "../lib/namedCodesToUnicode";
@@ -61,7 +61,7 @@ export default function ContactPerson({ person, subtitle, title }) {
           <Image
             alt={`${person.name} portrait`}
             className="mx-auto h-64 w-64 self-center rounded-full object-cover object-top md:ml-0 md:mr-20"
-            layout="fill"
+            fill
             src={person.photo}
           />
         )}

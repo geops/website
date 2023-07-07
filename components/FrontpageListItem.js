@@ -1,4 +1,4 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 
 import { useI18n } from "../lib/i18n";
 import useIntersectionOberserver from "../lib/useIntersectionOberserver";
@@ -35,7 +35,7 @@ export default function FrontpageListItem({ item, side }) {
         <Image
           alt={`${item.frontpageTitle || item.title} Teaser`}
           className="object-contain"
-          layout="fill"
+          fill
           src={item.frontpageImage || item.cover}
         />
       </div>

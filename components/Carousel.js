@@ -1,5 +1,5 @@
 import dynamic from "next/dynamic";
-import Image from "next/legacy/image";
+import Image from "next/image";
 import { CarouselProvider, DotGroup, Slider, Slide } from "pure-react-carousel";
 import { useRef } from "react";
 import "pure-react-carousel/dist/react-carousel.es.css";
@@ -55,7 +55,7 @@ export default function Carousel({ slides }) {
                         <Image
                           alt={slide.title}
                           className="h-full w-full object-cover"
-                          layout="fill"
+                          fill
                           priority
                           src={slide.imageMobile}
                         />
@@ -65,7 +65,7 @@ export default function Carousel({ slides }) {
                       <Image
                         alt={slide.title}
                         className="h-full w-full object-cover"
-                        layout="fill"
+                        fill
                         priority
                         src={slide.image}
                       />

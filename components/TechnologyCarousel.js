@@ -1,4 +1,4 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 import { CarouselProvider, Slider, Slide } from "pure-react-carousel";
 import React, { useLayoutEffect, useState } from "react";
 

@@ -1,4 +1,4 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 
 import { useI18n } from "../lib/i18n";
 import CaretIcon from "./icons/CaretIcon.js";
@@ -17,7 +17,7 @@ export default function RelatedListItem({ dark, item }) {
           <Image
             alt={`${item.title} Cover`}
             className="object-cover transition duration-300 group-hover:scale-110"
-            layout="fill"
+            fill
             src={item.cover}
           />
         </div>

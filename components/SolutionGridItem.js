@@ -1,4 +1,4 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 
 import MoreIcon from "./icons/MoreIcon";
 import Link from "./Link";
@@ -38,7 +38,7 @@ export default function SolutionGridItem({ position, remaining, solution }) {
               <Image
                 alt={`${solution.title} Logo`}
                 className="h-full object-contain object-left"
-                layout="fill"
+                fill
                 src={solution.logo}
               />
             </div>

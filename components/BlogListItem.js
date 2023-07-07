@@ -1,4 +1,4 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 
 import { useI18n } from "../lib/i18n";
 import CaretIcon from "./icons/CaretIcon";
@@ -14,7 +14,7 @@ export default function BlogListItem({ item }) {
             <Image
               alt={`${item.title} Teaser`}
               className="object-cover"
-              layout="fill"
+              fill
               src={item.cover}
             />
           </div>

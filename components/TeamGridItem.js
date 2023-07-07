@@ -1,4 +1,4 @@
-import Image from "next/legacy/image";
+import Image from "next/image";
 
 import { useI18n } from "../lib/i18n";
 import UnknownPersonIcon from "./icons/UnknownPersonIcon.js";
@@ -9,7 +9,7 @@ export default function TeamGridItem({ person }) {
     <div className="aspect-h-4 aspect-w-3">
       <div className="absolute overflow-hidden rounded bg-gray-dark">
         {person.photo ? (
-          <Image alt={person.name} layout="fill" src={person.photo} />
+          <Image alt={person.name} fill src={person.photo} />
         ) : (
           <UnknownPersonIcon />
         )}
