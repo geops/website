@@ -1,5 +1,5 @@
 import dynamic from "next/dynamic";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { CarouselProvider, DotGroup, Slider, Slide } from "pure-react-carousel";
 import { useRef } from "react";
 import "pure-react-carousel/dist/react-carousel.es.css";

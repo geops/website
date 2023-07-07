@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
   return (
@@ -34,7 +34,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
           )}
         </div>
         <div
-          className={`container bottom-0 top-0 left-0 right-0 mx-auto flex flex-col justify-center px-8 text-center ${
+          className={`container bottom-0 left-0 right-0 top-0 mx-auto flex flex-col justify-center px-8 text-center ${
             titleDown === undefined &&
             src &&
             srcMobile &&
