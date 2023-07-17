@@ -1,4 +1,4 @@
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 import GitHubIcon from "./icons/GitHubIcon.js";
 import TwitterIcon from "./icons/TwitterIcon2.js";
 import XingIcon from "./icons/XingIcon2.js";

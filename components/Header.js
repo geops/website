@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { useRouter } from "next/router";
+import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 
 import { useI18n } from "../lib/i18n";
@@ -16,7 +16,7 @@ import styles from "./Header.module.css";
 export default function Header({ pathByLocale }) {
   const headerContainer = useRef(null);
   const placeholderRef = useRef(null);
-  const router = useRouter();
+  const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
   const [aboutMenuOpen, setAboutMenuOpen] = useState(false);
   const { language, t } = useI18n();
@@ -45,7 +45,7 @@ export default function Header({ pathByLocale }) {
     { href: "/about", title: t("about.title") },
     { href: "/blog", title: "Blog" },
     { href: t("career.path"), title: t("career.title") },
-  ].map((item) => ({ ...item, active: router.pathname.includes(item.href) }));
+  ].map((item) => ({ ...item, active: pathname.includes(item.href) }));
 
   return (
     <>

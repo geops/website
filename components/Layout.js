@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 import Contact from "./Contact.js";
 import Footer from "./Footer.js";
 import Header from "./Header.js";

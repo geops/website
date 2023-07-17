@@ -14,7 +14,7 @@ const CarouselKeyboardNavigation = dynamic(
   { ssr: false }
 );
 
-export default function Carousel({ slides }) {
+export default function Carousel({ slides = [] }) {
   const { t } = useI18n();
   const containerRef = useRef(null);
   const intersectionRef = useIntersectionOberserver("noo", 0);
@@ -29,7 +29,7 @@ export default function Carousel({ slides }) {
           lockOnWindowScroll
           naturalSlideWidth={1600}
           naturalSlideHeight={1200}
-          totalSlides={slides.length}
+          totalSlides={slides?.length}
         >
           <CarouselKeyboardNavigation />
           <Slider
