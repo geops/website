@@ -23,10 +23,7 @@ export function middleware(request) {
   // const pathnameLocale = pathname.split("/")[1];
 
   // Redirect if there is no or wrong locale
-  if (
-    pathnameIsMissingLocale &&
-    !/^\/(admin|_next|sitemap|images)/.test(pathname)
-  ) {
+  if (pathnameIsMissingLocale) {
     const locale = getLocale(request);
     const paths = pathname.split("/");
     const pathLocale = paths[1];
@@ -57,7 +54,7 @@ export function middleware(request) {
 export const config = {
   matcher: [
     // Skip all internal paths (_next)
-    "/((?!api|_next/static|_next/image|favicon.ico|admin|sitemap).*)",
+    "/((?!api|_next/static|_next/image|favicon.ico|admin|sitemap|images).*)",
     // Optional: only run on root (/) URL
     // '/'
   ],
