@@ -5,10 +5,7 @@
     "app/**": {
       "excludeFiles": "public/**"
     },
-    "de/**": {
-      "excludeFiles": "public/**"
-    },
-    "en/**": {
+    "de/karriere/[slug]": {
       "excludeFiles": "public/**"
     }
   }
