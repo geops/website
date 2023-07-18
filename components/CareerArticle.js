@@ -7,10 +7,6 @@ import Layout from "./Layout.js";
 import Share from "./Share.js";
 import { useI18n } from "../lib/i18n.js";
 
-export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"],
-};
-
 export default function JobArticle({ content, job }) {
   const { t } = useI18n();
 

@@ -10,10 +10,6 @@ import OpenSourceTeaser from "./OpenSourceTeaser.js";
 import FrontpageList from "./FrontpageList.js";
 import { useI18n } from "../lib/i18n";
 
-export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"],
-};
-
 export default function Frontpage({ items, slides }) {
   const { t } = useI18n();
   return (

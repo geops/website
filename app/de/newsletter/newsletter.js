@@ -4,10 +4,6 @@ import Layout from "../../../components/Layout.js";
 import NewsletterForm from "../../../components/NewsletterForm.js";
 import PageHeader from "../../../components/PageHeader.js";
 
-export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"],
-};
-
 export default function Newsletter({ content }) {
   return (
     <Layout

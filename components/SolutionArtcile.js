@@ -7,10 +7,6 @@ import Layout from "./Layout.js";
 import PageHeader from "./PageHeader.js";
 import RelatedList from "./RelatedList.js";
 
-export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"],
-};
-
 export default function Solution(props) {
   const { related, solution } = props;
 
