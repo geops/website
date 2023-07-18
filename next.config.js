@@ -1,6 +1,9 @@
+// eslint-disable-next-line @typescript-eslint/no-var-requires
 const { withSentryConfig } = require("@sentry/nextjs");
 
 const nextConfig = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+  excludeFiles: ["./content/**", "./public/images/**"],
   async redirects() {
     return redirects.split("\n").map((redirect) => {
       const [source, destination] = redirect.split(" ");
