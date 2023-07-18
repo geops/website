@@ -4,12 +4,7 @@ import Slug from "../../../../components/CareerArticle.js";
 import { generateCareerSlugMetadata } from "../../../../lib/getMetadata.js";
 
 export async function generateMetadata({ params: { slug } }) {
-  const md = await generateCareerSlugMetadata(
-    "en",
-    slug,
-    "/de/karriere/" + slug,
-    "/en/career/" + slug,
-  );
+  const md = await generateCareerSlugMetadata("en", slug);
   return md;
 }
 

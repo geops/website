@@ -3,11 +3,7 @@ import { generatePrivacyMetadata } from "../../../lib/getMetadata.js";
 import { getPrivacyProps } from "../../../lib/getProps.js";
 
 export async function generateMetadata() {
-  const md = await generatePrivacyMetadata(
-    "en",
-    "/de/datenschutz",
-    "/en/privacy",
-  );
+  const md = await generatePrivacyMetadata("en");
   return md;
 }
 

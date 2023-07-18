@@ -40,16 +40,16 @@ export function middleware(request) {
     ) {
       paths.splice(1, 1);
       const newPathname = paths.join("/");
-      // redirect to english if the locale path doesn'exist
+      // redirect to german if the locale path doesn'exist
       return NextResponse.redirect(
         new URL(`/${locale}${newPathname ? newPathname : "/"}`, request.url),
       );
     }
     // e.g. incoming request is /products
     // The new URL is now /en-US/products
-    // return NextResponse.redirect(
-    //   new URL(`/${locale}/${pathname}`, request.url),
-    // );
+    return NextResponse.redirect(
+      new URL(`/${locale}/${pathname}`, request.url),
+    );
   }
 }
 

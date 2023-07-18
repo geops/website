@@ -3,7 +3,7 @@ import Imprint from "../../../components/Terms.js";
 import { generateTermsMetadata } from "../../../lib/getMetadata";
 
 export async function generateMetadata() {
-  const md = await generateTermsMetadata("de", "/de/bedingungen", "/en/terms");
+  const md = await generateTermsMetadata("de");
   return md;
 }
 

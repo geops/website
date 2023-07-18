@@ -3,11 +3,7 @@ import { generateNewsletterMetadata } from "../../../lib/getMetadata";
 import Newsletter from "./newsletter";
 
 export async function generateMetadata() {
-  const md = await generateNewsletterMetadata(
-    "de",
-    "/de/newsletter",
-    "/en/newsletter",
-  );
+  const md = await generateNewsletterMetadata("de");
   return md;
 }
 

@@ -4,12 +4,7 @@ import { generateBlogSlugMetadata } from "../../../../lib/getMetadata.js";
 import { getBlogProps, getBlogSlugProps } from "../../../../lib/getProps.js";
 
 export async function generateMetadata({ params: { slug } }) {
-  const md = await generateBlogSlugMetadata(
-    "de",
-    slug,
-    "/de/karriere/" + slug,
-    "/de/career/" + slug,
-  );
+  const md = await generateBlogSlugMetadata("de", slug);
   return md;
 }
 

@@ -3,11 +3,7 @@ import Imprint from "../../../components/Impressum.js";
 import { generateImpressumMetadata } from "../../../lib/getMetadata";
 
 export async function generateMetadata() {
-  const md = await generateImpressumMetadata(
-    "de",
-    "/de/impressum",
-    "/en/imprint",
-  );
+  const md = await generateImpressumMetadata("de");
   return md;
 }
 export default async function Page(context) {

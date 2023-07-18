@@ -6,12 +6,7 @@ import { generateSolutionSlugMetadata } from "../../../../lib/getMetadata.js";
 import Slug from "../../../../components/SolutionArtcile.js";
 
 export async function generateMetadata({ params: { slug } }) {
-  const md = await generateSolutionSlugMetadata(
-    "en",
-    slug,
-    "/de/solution/" + slug,
-    "/en/solution/" + slug,
-  );
+  const md = await generateSolutionSlugMetadata("en", slug);
   return md;
 }
 

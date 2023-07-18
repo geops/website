@@ -3,7 +3,7 @@ import { getHomeProps } from "../../lib/getProps.js";
 import { generateHomeMetadata } from "../../lib/getMetadata.js";
 
 export async function generateMetadata() {
-  const md = await generateHomeMetadata("de", "/de/");
+  const md = await generateHomeMetadata("de");
   return md;
 }
 
