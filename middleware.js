@@ -34,7 +34,7 @@ export function middleware(request) {
     if (
       pathLocale &&
       /^[A-Za-z]{2,4}([_-][A-Za-z]{4})?([_-]([A-Za-z]{2}|[0-9]{3}))?$/.test(
-        pathLocale
+        pathLocale,
       ) &&
       pathLocale !== "blog"
     ) {
@@ -42,14 +42,14 @@ export function middleware(request) {
       const newPathname = paths.join("/");
       // redirect to english if the locale path doesn'exist
       return NextResponse.redirect(
-        new URL(`${newPathname ? newPathname : "/"}`, request.url)
+        new URL(`/${locale}${newPathname ? newPathname : "/"}`, request.url),
       );
     }
     // e.g. incoming request is /products
     // The new URL is now /en-US/products
-    // return NextResponse.redirect(
-    //   new URL(`/${locale}/${pathname}`, request.url)
-    // );
+    return NextResponse.redirect(
+      new URL(`/${locale}/${pathname}`, request.url),
+    );
   }
 }
 

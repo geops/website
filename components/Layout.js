@@ -1,9 +1,9 @@
-import Head from "next/head";
 import { useRouter } from "next/navigation";
 import Contact from "./Contact.js";
 import Footer from "./Footer.js";
 import Header from "./Header.js";
 import { useI18n } from "../lib/i18n";
+import Website from "./Website.js";
 
 export default function Layout({
   children,
@@ -35,7 +35,7 @@ export default function Layout({
 
   return (
     <>
-      <Head>
+      {/* <Head>
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
@@ -70,22 +70,22 @@ export default function Layout({
           href={`https://geops.com${dePath}`}
         />
         {/* HTML meta tags */}
-        <title>{titl}</title>
-        {description && <meta name="description" content={descr} />}
-        {/* OpenGraph meta tags */}
-        <meta property="og:title" content={titl} />
+      {/* <title>{titl}</title>
+        {description && <meta name="description" content={descr} />} */}
+      {/* OpenGraph meta tags */}
+      {/* <meta property="og:title" content={titl} />
         <meta property="og:url" content={`https://geops.com${asPath}`} />
         <meta property="og:image" content={image} />
         <meta property="og:site_name" content="geOps" />
-        {description && <meta property="og:description" content={descr} />}
-        {/* Twitter meta tags */}
-        <meta name="twitter:title" content={titl} />
+        {description && <meta property="og:description" content={descr} />} */}
+      {/* Twitter meta tags */}
+      {/* <meta name="twitter:title" content={titl} />
         <meta name="twitter:description" content={descr} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@geOps" />
         <meta name="twitter:creator" content="@geOps" />
-        <meta name="twitter:image:src" content={image} />
-      </Head>
+        <meta name="twitter:image:src" content={image} /> */}
+      {/* </Head> */}
       <Header pathByLocale={{ de: dePath, en: enPath }} />
       {children}
       <Contact />

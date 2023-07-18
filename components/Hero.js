@@ -1,7 +1,7 @@
 import { useI18n } from "../lib/i18n";
 
 export default function Hero({ title, children }) {
-  const { t } = useI18n();
+  const { t, language } = useI18n();
   return (
     <div className="bg-white">
       <div className="container mx-auto">
