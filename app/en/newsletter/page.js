@@ -1,6 +1,6 @@
 import { getNewsletterProps } from "../../../lib/getProps";
 import { generateNewsletterMetadata } from "../../../lib/getMetadata";
-import Newsletter from "../../../components/newsletter";
+import Newsletter from "../../../components/Newsletter";
 
 export async function generateMetadata() {
   const md = await generateNewsletterMetadata(

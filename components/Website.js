@@ -7,5 +7,10 @@ import "../styles/index.css";
 
 export default function Website({ children, lang }) {
   useAnalytics();
-  return <I18n language={lang}>{children}</I18n>;
+  return (
+    <I18n language={lang}>
+      <HtmlLang lang={lang} />
+      {children}
+    </I18n>
+  );
 }

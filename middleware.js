@@ -25,7 +25,7 @@ export function middleware(request) {
   const pathnameLocale = pathname.split("/")[1];
 
   // Redirect if there is no or wrong locale
-  if (pathnameIsMissingLocale) {
+  if (pathnameIsMissingLocale && !/$\/(admin|_next)/.test(pathname)) {
     const locale = getLocale(request);
     const paths = pathname.split("/");
     const pathLocale = paths[1];
@@ -47,9 +47,9 @@ export function middleware(request) {
     }
     // e.g. incoming request is /products
     // The new URL is now /en-US/products
-    return NextResponse.redirect(
-      new URL(`/${locale}/${pathname}`, request.url),
-    );
+    // return NextResponse.redirect(
+    //   new URL(`/${locale}/${pathname}`, request.url),
+    // );
   }
 }
 

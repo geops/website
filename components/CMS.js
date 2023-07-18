@@ -5,9 +5,5 @@ import { useEffect } from "react";
 
 export default function CMS() {
   useEffect(() => NetlifyCMS.init());
-  return (
-    <Head>
-      <title>CMS | geOps</title>
-    </Head>
-  );
+  return null;
 }
