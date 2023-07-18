@@ -7,7 +7,6 @@ import Website from "../components/Website";
 export default function PageNotFound() {
   const pathname = usePathname();
   const locale = pathname.split("/")[1];
-  console.log(pathname.split("/")[1]);
   return (
     <div className="-mt-10 flex h-screen flex-col items-center justify-center p-8 ">
       <svg viewBox="0 0 936.6 562.5" className="mb-8 max-w-screen-sm">
