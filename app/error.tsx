@@ -2,7 +2,8 @@
 // Error components must be Client Components
 import * as Sentry from "@sentry/nextjs";
 import Button from "../components/Button";
-import Website from "../components/Website";
+import "../styles/index.css";
+import I18n from "../lib/i18n";
 
 import { useEffect } from "react";
 
@@ -21,10 +22,10 @@ export default function Error({
 
   return (
     <div className="-mt-10 flex h-screen flex-col items-center justify-center p-8 ">
-      <Website lang={"en"}>
+      <I18n language={"de"}>
         {/* @ts-ignore */}
         <Button onClick={() => reset()}>Start</Button>
-      </Website>
+      </I18n>
     </div>
   );
 }

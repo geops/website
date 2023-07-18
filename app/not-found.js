@@ -1,12 +1,9 @@
 "use client";
-
-import { usePathname } from "next/navigation";
 import Button from "../components/Button";
-import Website from "../components/Website";
+import I18n from "../lib/i18n";
+import "../styles/index.css";
 
 export default function PageNotFound() {
-  const pathname = usePathname();
-  const locale = pathname.split("/")[1];
   return (
     <div className="-mt-10 flex h-screen flex-col items-center justify-center p-8 ">
       <svg viewBox="0 0 936.6 562.5" className="mb-8 max-w-screen-sm">
@@ -48,9 +45,9 @@ export default function PageNotFound() {
           fill="none"
         />
       </svg>
-      <Website lang={locale}>
-        <Button href={`/${locale}`}>Start</Button>
-      </Website>
+      <I18n language={"de"}>
+        <Button href={`/`}>Start</Button>
+      </I18n>
     </div>
   );
 }
