@@ -5,10 +5,6 @@ import Layout from "./Layout.js";
 import RelatedList from "./RelatedList.js";
 import Share from "./Share.js";
 
-export const config = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"],
-};
-
 export default function BlogArticle({ item, related, ...props }) {
   if (!item) {
     return null;
