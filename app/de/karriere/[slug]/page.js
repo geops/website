@@ -3,6 +3,10 @@ import getContentList from "../../../../lib/getContentList.js";
 import Slug from "../../../../components/CareerArticle.js";
 import { generateCareerSlugMetadata } from "../../../../lib/getMetadata.js";
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
+
 export async function generateMetadata({ params: { slug } }) {
   const md = await generateCareerSlugMetadata("de", slug);
   return md;
