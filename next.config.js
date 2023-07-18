@@ -2,8 +2,7 @@
 const { withSentryConfig } = require("@sentry/nextjs");
 
 const nextConfig = {
-  unstable_excludeFiles: ["./content/**", "./public/images/**"],
-  excludeFiles: ["./content/**", "./public/images/**"],
+  output: "standalone",
   async redirects() {
     return redirects.split("\n").map((redirect) => {
       const [source, destination] = redirect.split(" ");
