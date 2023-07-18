@@ -4,9 +4,6 @@
     "api/callback.js": { "maxDuration": 10 },
     "app/**": {
       "excludeFiles": "public/**"
-    },
-    "de/karriere/[slug]": {
-      "excludeFiles": "public/**"
     }
   }
 }
