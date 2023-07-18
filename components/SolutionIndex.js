@@ -4,6 +4,10 @@ import Layout from "./Layout.js";
 import SolutionGridItem from "./SolutionGridItem.js";
 import { useI18n } from "../lib/i18n.js";
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
+
 export default function SolutionIndex({ solutions }) {
   const { t } = useI18n();
   return (

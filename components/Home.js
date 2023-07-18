@@ -11,6 +11,10 @@ import FrontpageList from "./FrontpageList.js";
 import { useI18n } from "../lib/i18n";
 import Head from "next/head";
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
+
 export default function Frontpage({ items, slides, ...props }) {
   const { t, language } = useI18n();
   return (

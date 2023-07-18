@@ -7,6 +7,10 @@ import Layout from "./Layout.js";
 import PageHeader from "./PageHeader.js";
 import TeamGrid from "./TeamGrid.js";
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
+
 export default function About({ content, team, technologies }) {
   return (
     <Layout

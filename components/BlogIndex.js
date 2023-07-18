@@ -5,6 +5,10 @@ import Layout from "./Layout.js";
 import PageHeader from "./PageHeader.js";
 import { useI18n } from "../lib/i18n.js";
 
+export const config = {
+  unstable_excludeFiles: ["./content/**", "./public/images/**"],
+};
+
 export default function BlogIndex({ list }) {
   const { t } = useI18n();
   const title = "Blog";
