@@ -42,7 +42,7 @@ export default function RootLayout({
             locale !== "de" ? `/${locale}` : ""
           }`;
           return (
-            <>
+            <React.Fragment key={locale}>
               <link
                 rel="alternate"
                 type="application/rss+xml"
@@ -64,7 +64,7 @@ export default function RootLayout({
                 hrefLang={locale}
                 href={`${rssBaseUrl}/feed/feed.json`}
               />
-            </>
+            </React.Fragment>
           );
         })}
 
