@@ -25,7 +25,7 @@ export function middleware(request) {
   const pathnameLocale = pathname.split("/")[1];
 
   // Redirect if there is no or wrong locale
-  if (pathnameIsMissingLocale && !/$\/(admin|_next)/.test(pathname)) {
+  if (pathnameIsMissingLocale && !/^\/(admin|_next|sitemap)/.test(pathname)) {
     const locale = getLocale(request);
     const paths = pathname.split("/");
     const pathLocale = paths[1];
