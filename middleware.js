@@ -59,6 +59,5 @@ export const config = {
     "/((?!api|_next/static|_next/image|favicon.ico|admin|sitemap).*)",
     // Optional: only run on root (/) URL
     // '/'
-    ,
   ],
 };
