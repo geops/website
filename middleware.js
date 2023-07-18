@@ -1,12 +1,10 @@
 import { match } from "@formatjs/intl-localematcher";
-import Negotiator from "negotiator";
 import { NextResponse } from "next/server";
 import { i18n } from "./i18n-config";
-let headers = { "accept-language": "en-US,en;q=0.5" };
 let { locales, defaultLocale } = i18n;
 
 // Get the preferred locale, similar to above or using a library
-function getLocale(request) {
+function getLocale() {
   // These 2 lines are there to select automatically the language from browser lamnguage
   // but we don't want that
   // let languages = new Negotiator({
@@ -22,10 +20,13 @@ export function middleware(request) {
     return !pathname.startsWith(`/${locale}/`) && pathname !== `/${locale}`;
   });
 
-  const pathnameLocale = pathname.split("/")[1];
+  // const pathnameLocale = pathname.split("/")[1];
 
   // Redirect if there is no or wrong locale
-  if (pathnameIsMissingLocale && !/^\/(admin|_next|sitemap)/.test(pathname)) {
+  if (
+    pathnameIsMissingLocale &&
+    !/^\/(admin|_next|sitemap|images)/.test(pathname)
+  ) {
     const locale = getLocale(request);
     const paths = pathname.split("/");
     const pathLocale = paths[1];
