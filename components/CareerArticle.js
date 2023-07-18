@@ -1,6 +1,5 @@
 "use client";
 
-import Head from "next/head.js";
 import Article from "./Article.js";
 import { ch, de } from "./Contact.js";
 import ContactPerson from "./ContactPerson.js";
@@ -13,8 +12,7 @@ export const config = {
 };
 
 export default function JobArticle({ content, job }) {
-  const { t, language } = useI18n();
-  const size = 55; // Size for share button
+  const { t } = useI18n();
 
   if (!job) {
     return null;

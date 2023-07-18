@@ -1,7 +1,7 @@
 import getContentList from "../../../../lib/getContentList.js";
 import Slug from "../../../../components/BlogArticle.js";
 import { generateBlogSlugMetadata } from "../../../../lib/getMetadata.js";
-import { getBlogProps, getBlogSlugProps } from "../../../../lib/getProps.js";
+import { getBlogSlugProps } from "../../../../lib/getProps.js";
 
 export async function generateMetadata({ params: { slug } }) {
   const md = await generateBlogSlugMetadata("de", slug);
@@ -24,7 +24,7 @@ export default async function Page(context) {
     params: { lang = "de", slug },
   } = context;
   const props = await getBlogSlugProps(lang, slug);
-  const { language, item, related } = props;
+  const { item } = props;
   return (
     <>
       <script

@@ -1,5 +1,3 @@
-import Head from "next/head";
-
 import NetlifyCMS from "netlify-cms-app";
 import { useEffect } from "react";
 

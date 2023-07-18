@@ -1,8 +1,6 @@
 import Image from "next/image";
 import { useState } from "react";
 import resolveConfig from "tailwindcss/resolveConfig";
-
-import { useI18n } from "../lib/i18n";
 import tailwindConfig from "../tailwind.config.js";
 
 import ArrowCircleIcon from "./icons/ArrowCircleIcon.js";
@@ -78,7 +76,7 @@ function CareerAccordion({ items, reverse }) {
 
                 let headerHeight = 80;
                 const isSmallWidth = window.matchMedia(
-                  `(max-width: ${screens.sm})`
+                  `(max-width: ${screens.sm})`,
                 ).matches;
                 if (isSmallWidth) {
                   // on small screen add offset for accordion image
@@ -133,8 +131,6 @@ function CareerAccordion({ items, reverse }) {
 }
 
 export default function CareerContent({ content }) {
-  const { t } = useI18n();
-
   return (
     <>
       <Hero title={content.heroTitle}>

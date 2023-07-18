@@ -27,7 +27,7 @@ export default function Header({ pathByLocale }) {
         const height = entries[0].isIntersecting ? "112px" : "64px";
         headerContainer.current?.style.setProperty("--header-height", height);
       },
-      { threshold: 0 }
+      { threshold: 0 },
     );
     observer.observe(placeholderRef.current);
     return () => observer.disconnect();

@@ -9,7 +9,7 @@ export const config = {
   unstable_excludeFiles: ["./content/**", "./public/images/**"],
 };
 
-export default function BlogArticle({ item, related, ...props }) {
+export default function BlogArticle({ item, related }) {
   if (!item) {
     return null;
   }

@@ -3,15 +3,11 @@ import { getSolutionProps } from "../../../lib/getProps.js";
 import { generateSolutionMetadata } from "../../../lib/getMetadata.js";
 
 export async function generateMetadata() {
-  const md = await generateSolutionMetadata(
-    "en",
-    "/de/solution",
-    "/en/solution",
-  );
+  const md = await generateSolutionMetadata("en");
   return md;
 }
 
-export default async function Page(context) {
+export default async function Page() {
   const props = await getSolutionProps("en");
   return <ArticleIndex {...props} />;
 }

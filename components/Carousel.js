@@ -11,7 +11,7 @@ import styles from "./Carousel.module.css";
 
 const CarouselKeyboardNavigation = dynamic(
   () => import("./CarouselKeyboardNavigation"),
-  { ssr: false }
+  { ssr: false },
 );
 
 export default function Carousel({ slides = [] }) {

@@ -1,6 +1,4 @@
-import getContentBySlug from "../../../../lib/getContentBySlug.js";
 import getContentList from "../../../../lib/getContentList.js";
-import getRelatedContentList from "../../../../lib/getRelatedContentList.js";
 import { getSolutionSlugProps } from "../../../../lib/getProps.js";
 import { generateSolutionSlugMetadata } from "../../../../lib/getMetadata.js";
 import Slug from "../../../../components/SolutionArtcile.js";

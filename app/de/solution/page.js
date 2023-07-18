@@ -11,7 +11,7 @@ export async function generateMetadata() {
   return md;
 }
 
-export default async function Page(context) {
+export default async function Page() {
   const props = await getSolutionProps("de");
   return <ArticleIndex {...props} />;
 }

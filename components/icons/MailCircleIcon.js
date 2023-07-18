@@ -1,5 +1,4 @@
 import Circle from "../Circle";
-import MailIcon from "./MailIcon";
 
 export default function MailCircleIcon({ size = "small" }) {
   return (
