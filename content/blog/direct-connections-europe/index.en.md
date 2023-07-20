@@ -19,11 +19,15 @@ Die direkten Tag- und Nachtverbindungen aus der Schweiz nach Europa werden bei d
 
 [](<>)Auf einigen Strecken verkehren sowohl Tag- als auch Nachtverbindungen. Um diese parallel laufend darzustellen, haben wir einen Liniennetzplan erstellt. So ist für die Interessierten auf einen Blick erkennbar, ob auf einer Strecke Tag- und/oder Nachtverbindungen vorkommen.
 
-![](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_1.png)
+![direct-connections-1](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_1.png "geOps-direct-connections-1")
 
 Nebst einer guten Übersicht, welche Destinationen in Europa direkt angefahren werden, werden bei Auswahl einer Linie oder Station alle dort verkehrenden Verbindungen als Liste angezeigt. Mit der aufklappbaren Perlenkette ist zudem genau ersichtlich, wo der Zug unterwegs hält. So kann die Karte auch als Inspirationsquelle genutzt werden, um zu sehen, wohin man vom nächstgelegenen grösseren Bahnhof aus fahren kann.
 
+![direct-connections-2](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_2.png "geOps-direct-connections-2")
+
 Um den immer wichtiger werdenden Nachtverbindungen die Relevanz zu geben, die sie verdienen, gibt es dafür eine separate Karte mit unserer Darkstyle Basiskarte im Hintergrund.
+
+![direct-connections-3](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_3.png "geOps-direct-connections-3")
 
 **Die Lösung**
 
