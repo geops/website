@@ -1,5 +1,5 @@
 ---
-title: "Direct Connections Europe - Line Network Map for Day and Night Connections "
+title: "Direktverbindungen Europa – Liniennetzplan für Tag- und Nachtverbindungen "
 summary: "Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in
   Berlin? Das ist ganz bequem und umweltfreundlich mit dem Zug erreichbar. Ab
   verschiedenen Schweizer Bahnhöfen gibt es direkte Tag- und Nachtverbindungen
