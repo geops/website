@@ -13,7 +13,7 @@ Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in Berlin? Das i
 
 
 
-**Der Hintergrund**
+## Der Hintergrund
 
 Die direkten Tag- und Nachtverbindungen aus der Schweiz nach Europa werden bei den Bahnreisenden immer beliebter. Das weiss auch unsere Kundin SBB. Aus diesem Grund haben wir den spannenden Auftrag erhalten, die direkten Bahnverbindungen in verschiedene europäische Städte in einer eigenen Karte abzubilden.
 
@@ -31,7 +31,7 @@ Um den immer wichtiger werdenden Nachtverbindungen die Relevanz zu geben, die si
 
 
 
-**Die Lösung**
+## Die Lösung
 
 In unserem geoCMS Cartaro ermöglichen wir die Datenerfassung- und pflege. Die Kunden können darin selbst die Verbindungen erfassen, welche in der Karte abgebildet werden sollen. Dafür stehen europaweite Zugnetze zur Verfügung, auf denen beliebige Verbindungen frei eingetragen werden können.
 
@@ -41,7 +41,7 @@ Wir haben eigens einen Algorithmus entwickelt, mit dem auf Basis der neu eingetr
 
 
 
-**Ausblick**
+## Ausblick
 
 Der internationale Personenverkehr wird auch weiterhin an Bedeutung gewinnen. Wir haben bereits einige Ideen für die Weiterentwicklung der Webkarte Direktverbindungen, um den Bahnreisenden noch mehr Unterstützung bei der Reiseplanung zu bieten. Man darf also gespannt sein. Ein regelmässiger Blick auf die Karte «Direktverbindungen nach Europa» lohnt sich.
 
