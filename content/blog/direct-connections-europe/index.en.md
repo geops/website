@@ -29,7 +29,7 @@ To give the increasingly important night connections the relevance they deserve,
 
 ![direct-connections-3](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_3.png "geOps-direct-connections-3")
 
-\*\*The solution
+**The solution**
 
 In our geoCMS Cartaro we enable data entry and maintenance. Customers can enter the connections themselves that are to be shown on the map. For this purpose, Europe-wide train networks are available on which any connections can be freely entered.
 
