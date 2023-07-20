@@ -13,15 +13,15 @@ published: true
 
 A city trip to Venice or an important business meeting in Berlin? That can be reached comfortably and in an environmentally friendly way by train. There are direct day and night connections to European cities from various Swiss stations. Our "Direct connections to Europe" map for SBB illustrates this in a visually appealing way with a route network map.
 
-**Der Hintergrund**
+**The background**
 
-Die direkten Tag- und Nachtverbindungen aus der Schweiz nach Europa werden bei den Bahnreisenden immer beliebter. Das weiss auch unsere Kundin SBB. Aus diesem Grund haben wir den spannenden Auftrag erhalten, die direkten Bahnverbindungen in verschiedene europäische Städte in einer eigenen Karte abzubilden.
+Direct day and night connections from Switzerland to Europe are becoming increasingly popular with rail passengers. Our customer SBB knows this too. For this reason, we have been given the exciting task of depicting the direct rail connections to various European cities in a separate map.
 
-[](<>)Auf einigen Strecken verkehren sowohl Tag- als auch Nachtverbindungen. Um diese parallel laufend darzustellen, haben wir einen Liniennetzplan erstellt. So ist für die Interessierten auf einen Blick erkennbar, ob auf einer Strecke Tag- und/oder Nachtverbindungen vorkommen.
+[](<>)On some routes there are both day and night connections. In order to show these in parallel on an ongoing basis, we have created a route network map. In this way, those interested can see at a glance whether there are day and/or night connections on a route.
 
 ![direct-connections-1](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_1.png "geOps-direct-connections-1")
 
-Nebst einer guten Übersicht, welche Destinationen in Europa direkt angefahren werden, werden bei Auswahl einer Linie oder Station alle dort verkehrenden Verbindungen als Liste angezeigt. Mit der aufklappbaren Perlenkette ist zudem genau ersichtlich, wo der Zug unterwegs hält. So kann die Karte auch als Inspirationsquelle genutzt werden, um zu sehen, wohin man vom nächstgelegenen grösseren Bahnhof aus fahren kann.
+In addition to a good overview of which destinations in Europe are served directly, all connections running there are displayed as a list when a line or station is selected. With the fold-out string of pearls, you can also see exactly where the train stops en route. In this way, the map can also be used as a source of inspiration to see where you can travel to from the nearest larger station.
 
 ![direct-connections-2](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_2.png "geOps-direct-connections-2")
 
