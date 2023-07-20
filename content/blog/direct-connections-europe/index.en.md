@@ -1,5 +1,5 @@
 ---
-title: "Direktverbindungen Europa – Liniennetzplan für Tag- und Nachtverbindungen "
+title: "Direct Connections Europe - Line Network Map for Day and Night Connections "
 summary: A city trip to Venice or an important business meeting in Berlin? That
   can be reached comfortably and in an environmentally friendly way by train.
   There are direct day and night connections to European cities from various
