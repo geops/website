@@ -25,20 +25,20 @@ In addition to a good overview of which destinations in Europe are served direct
 
 ![direct-connections-2](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_2.png "geOps-direct-connections-2")
 
-Um den immer wichtiger werdenden Nachtverbindungen die Relevanz zu geben, die sie verdienen, gibt es dafür eine separate Karte mit unserer Darkstyle Basiskarte im Hintergrund.
+To give the increasingly important night connections the relevance they deserve, there is a separate map for them with our Darkstyle base map in the background.
 
 ![direct-connections-3](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_3.png "geOps-direct-connections-3")
 
-**Die Lösung**
+\*\*The solution
 
-In unserem geoCMS Cartaro ermöglichen wir die Datenerfassung- und pflege. Die Kunden können darin selbst die Verbindungen erfassen, welche in der Karte abgebildet werden sollen. Dafür stehen europaweite Zugnetze zur Verfügung, auf denen beliebige Verbindungen frei eingetragen werden können.
+In our geoCMS Cartaro we enable data entry and maintenance. Customers can enter the connections themselves that are to be shown on the map. For this purpose, Europe-wide train networks are available on which any connections can be freely entered.
 
-Nebst der Wahl, ob es eine Tag- oder Nachtverbindung ist, können die Stationen erfasst, sowie ein Kurzbeschrieb und ein Link hinzugefügt werden. Ganz im Sinne einer internationalen Karte funktioniert das in vier Sprachen (deutsch, französisch, italienisch und englisch).
+In addition to choosing whether it is a day or night connection, the stations can be entered and a short description and link can be added. In the spirit of an international map, this works in four languages (German, French, Italian and English).
 
-Wir haben eigens einen Algorithmus entwickelt, mit dem auf Basis der neu eingetragenen oder geänderten Daten ein Liniennetzplan generiert werden kann. Um den Plan noch im Bearbeitungsmodus prüfen zu können, gibt es eine Vorschau. Nachdem diese durch die Kunden aufgerufen und geprüft wurde, können auf Knopfdruck Vektor Tiles mit den aktuellen Daten gebaut werden.
+We have developed a special algorithm that can be used to generate a route network map based on the newly entered or changed data. In order to be able to check the plan while it is still in editing mode, there is a preview. After this has been called up and checked by the customers, vector tiles can be built with the current data at the push of a button.
 
-**Ausblick**
+**Outlook**
 
-Der internationale Personenverkehr wird auch weiterhin an Bedeutung gewinnen. Wir haben bereits einige Ideen für die Weiterentwicklung der Webkarte Direktverbindungen, um den Bahnreisenden noch mehr Unterstützung bei der Reiseplanung zu bieten. Man darf also gespannt sein. Ein regelmässiger Blick auf die Karte «Direktverbindungen nach Europa» lohnt sich.
+International passenger traffic will continue to grow in importance. We already have some ideas for the further development of the Direct Connections web map to offer rail travellers even more support in planning their journeys. So one can be curious. It is worth taking a regular look at the "Direct Connections to Europe" map.
 
-Die Karte ist auf der SBB Website bei den *[Direktverbindungen nach Europa](https://www.sbb.ch/de/freizeit-ferien/destinationen/staedte-laender-europa.html)* und bei den *[Nachtverbindungen nach Europa](https://www.sbb.ch/de/freizeit-ferien/zuege-ausfluege/nachtzug.html)* eingebunden. Zusätzlich findet man sie wie die meisten unserer Karten auch im *[Trafimage Webkartenportal](https://maps.trafimage.ch/ch.sbb.direktverbindungen?baselayers=ch.sbb.direktverbindungen.base-light,ch.sbb.direktverbindungen.base-dark,ch.sbb.direktverbindungen.base-aerial&lang=de&layers=ch.sbb.direktverbindungen.night,ch.sbb.direktverbindungen.day&x=925472&y=5920000&z=9)*.
+The map is integrated on the SBB website under *[Direct Connections to Europe](https://www.sbb.ch/de/freizeit-ferien/destinationen/staedte-laender-europa.html)* and under *[Night Connections to Europe](https://www.sbb.ch/de/freizeit-ferien/zuege-ausfluege/nachtzug.html)*. In addition, like most of our maps, it can also be found on the *[Trafimage web map portal](https://maps.trafimage.ch/ch.sbb.direktverbindungen?baselayers=ch.sbb.direktverbindungen.base-light,ch.sbb.direktverbindungen.base-dark,ch.sbb.direktverbindungen.base-aerial&lang=de&layers=ch.sbb.direktverbindungen.night,ch.sbb.direktverbindungen.day&x=925472&y=5920000&z=9)*.
