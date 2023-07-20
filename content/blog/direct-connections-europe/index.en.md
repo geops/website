@@ -9,11 +9,17 @@ created: 2023-07-20
 slug: direct-connections-europe
 published: true
 ---
+**Direktverbindungen Europa – Liniennetzplan für Tag- und Nachtverbindungen**
+
+Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in Berlin? Das ist ganz bequem und umweltfreundlich mit dem Zug erreichbar. Ab verschiedenen Schweizer Bahnhöfen gibt es direkte Tag- und Nachtverbindungen in europäische Städte. Unsere Karte «Direktverbindungen nach Europa» für die SBB bildet das mit einem Liniennetzplan visuell ansprechend ab.
+
 **Der Hintergrund**
 
 Die direkten Tag- und Nachtverbindungen aus der Schweiz nach Europa werden bei den Bahnreisenden immer beliebter. Das weiss auch unsere Kundin SBB. Aus diesem Grund haben wir den spannenden Auftrag erhalten, die direkten Bahnverbindungen in verschiedene europäische Städte in einer eigenen Karte abzubilden.
 
 [](<>)Auf einigen Strecken verkehren sowohl Tag- als auch Nachtverbindungen. Um diese parallel laufend darzustellen, haben wir einen Liniennetzplan erstellt. So ist für die Interessierten auf einen Blick erkennbar, ob auf einer Strecke Tag- und/oder Nachtverbindungen vorkommen.
+
+![](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_1.png)
 
 Nebst einer guten Übersicht, welche Destinationen in Europa direkt angefahren werden, werden bei Auswahl einer Linie oder Station alle dort verkehrenden Verbindungen als Liste angezeigt. Mit der aufklappbaren Perlenkette ist zudem genau ersichtlich, wo der Zug unterwegs hält. So kann die Karte auch als Inspirationsquelle genutzt werden, um zu sehen, wohin man vom nächstgelegenen grösseren Bahnhof aus fahren kann.
 
