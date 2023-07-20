@@ -37,8 +37,6 @@ To give the increasingly important night connections the relevance they deserve,
 
 ![direct-connections-3](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_3.png "geOps-direct-connections-3")
 
-
-
 **The solution**
 
 In our geoCMS Cartaro we enable data entry and maintenance. Customers can enter the connections themselves that are to be shown on the map. For this purpose, Europe-wide train networks are available on which any connections can be freely entered.
@@ -46,8 +44,6 @@ In our geoCMS Cartaro we enable data entry and maintenance. Customers can enter 
 In addition to choosing whether it is a day or night connection, the stations can be entered and a short description and link can be added. In the spirit of an international map, this works in four languages (German, French, Italian and English).
 
 We have developed a special algorithm that can be used to generate a route network map based on the newly entered or changed data. In order to be able to check the plan while it is still in editing mode, there is a preview. After this has been called up and checked by the customers, vector tiles can be built with the current data at the push of a button.
-
-
 
 **Outlook**
 
