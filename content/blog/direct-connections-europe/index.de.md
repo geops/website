@@ -1,10 +1,10 @@
 ---
 title: "Direct Connections Europe - Line Network Map for Day and Night Connections "
-summary: A city trip to Venice or an important business meeting in Berlin? That
-  can be reached comfortably and in an environmentally friendly way by train.
-  There are direct day and night connections to European cities from various
-  Swiss stations. Our "Direct connections to Europe" map for SBB illustrates
-  this in a visually appealing way with a route network map.
+summary: "Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in
+  Berlin? Das ist ganz bequem und umweltfreundlich mit dem Zug erreichbar. Ab
+  verschiedenen Schweizer Bahnhöfen gibt es direkte Tag- und Nachtverbindungen
+  in europäische Städte. Unsere Karte «Direktverbindungen nach Europa» für die
+  SBB bildet das mit einem Liniennetzplan visuell ansprechend ab. "
 created: 2023-07-20
 slug: directverbindungen-europa
 published: true
