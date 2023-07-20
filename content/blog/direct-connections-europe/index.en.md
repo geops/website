@@ -7,6 +7,10 @@ summary: Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in
   SBB bildet das mit einem Liniennetzplan visuell ansprechend ab.
 created: 2023-07-20
 slug: direct-connections-europe
+tags:
+  - geops
+  - maps
+  - passengerinformation
 published: true
 ---
 **Direct Connections Europe - Line Network Map for Day and Night Connections**.
