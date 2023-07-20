@@ -19,7 +19,7 @@ A city trip to Venice or an important business meeting in Berlin? That can be re
 
 
 
-**The background**
+## The background
 
 Direct day and night connections from Switzerland to Europe are becoming increasingly popular with rail passengers. Our customer SBB knows this too. For this reason, we have been given the exciting task of depicting the direct rail connections to various European cities in a separate map.
 
@@ -37,7 +37,7 @@ To give the increasingly important night connections the relevance they deserve,
 
 
 
-**The solution**
+## The solution
 
 In our geoCMS Cartaro we enable data entry and maintenance. Customers can enter the connections themselves that are to be shown on the map. For this purpose, Europe-wide train networks are available on which any connections can be freely entered.
 
@@ -47,7 +47,7 @@ We have developed a special algorithm that can be used to generate a route netwo
 
 
 
-**Outlook**
+## Outlook
 
 International passenger traffic will continue to grow in importance. We already have some ideas for the further development of the Direct Connections web map to offer rail travellers even more support in planning their journeys. So one can be curious. It is worth taking a regular look at the "Direct Connections to Europe" map.
 
