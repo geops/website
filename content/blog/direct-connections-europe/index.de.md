@@ -7,6 +7,7 @@ summary: "Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in
   SBB bildet das mit einem Liniennetzplan visuell ansprechend ab. "
 created: 2023-07-20
 slug: direktverbindungen-europa
+frontpage: true
 published: true
 ---
 Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in Berlin? Das ist ganz bequem und umweltfreundlich mit dem Zug erreichbar. Ab verschiedenen Schweizer Bahnhöfen gibt es direkte Tag- und Nachtverbindungen in europäische Städte. Unsere Karte «Direktverbindungen nach Europa» für die SBB bildet das mit einem Liniennetzplan visuell ansprechend ab.
