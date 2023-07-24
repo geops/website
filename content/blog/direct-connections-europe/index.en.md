@@ -30,7 +30,7 @@ In addition to a good overview of which destinations in Europe are served direct
 
 ![direct-connections-2](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_2.png "geOps-direct-connections-2")
 
-To give the increasingly important night connections the relevance they deserve, there is a separate map for them with our Darkstyle base map in the background.
+To give the increasingly important night connections the relevance they deserve, there is a [separate map](https://www.sbb.ch/en/freizeit-ferien/zuege-ausfluege/nachtzug.html) for them with our Darkstyle base map in the background.
 
 ![direct-connections-3](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_3.png "geOps-direct-connections-3")
 
