@@ -24,7 +24,7 @@ Direct day and night connections from Switzerland to Europe are becoming increas
 
 On some routes there are both day and night connections. In order to show these in parallel on an ongoing basis, we have created a route network map. In this way, those interested can see at a glance whether there are day and/or night connections on a route.
 
-<ResponsiveImage alt="direct-connections-day" desktop="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_1.png" mobile="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_1_mobile.png" />
+<ResponsiveImage alt="direct-connections-day" desktop="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_1.png" mobile="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_1_mobile.png" />
 
 In addition to a good overview of which destinations in Europe are served directly, all connections running there are displayed as a list when a line or station is selected. With the fold-out string of pearls, you can also see exactly where the train stops en route. In this way, the map can also be used as a source of inspiration to see where you can travel to from the nearest larger station.
 
@@ -32,7 +32,7 @@ In addition to a good overview of which destinations in Europe are served direct
 
 To give the increasingly important night connections the relevance they deserve, there is a [separate map](https://www.sbb.ch/en/freizeit-ferien/zuege-ausfluege/nachtzug.html) for them with our Darkstyle base map in the background.
 
-<ResponsiveImage alt="direct-connections-night" desktop="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_3.png" mobile="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_3_mobile.png" />
+<ResponsiveImage alt="direct-connections-night" desktop="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_3.png" mobile="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_3_mobile.png" />
 
 ## The solution
 
