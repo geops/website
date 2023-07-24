@@ -20,15 +20,15 @@ Die direkten Tag- und Nachtverbindungen aus der Schweiz nach Europa werden bei d
 
 [](<>)Auf einigen Strecken verkehren sowohl Tag- als auch Nachtverbindungen. Um diese parallel laufend darzustellen, haben wir einen Liniennetzplan erstellt. So ist für die Interessierten auf einen Blick erkennbar, ob auf einer Strecke Tag- und/oder Nachtverbindungen vorkommen.
 
-<ResponsiveImage alt="direct-connections-day" desktop="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_1.png" mobile="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_1_mobile.png" />
+<ResponsiveImage alt="direct-connections-day" desktop="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_1.png" mobile="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_1_mobile.png" />
 
 Nebst einer guten Übersicht, welche Destinationen in Europa direkt angefahren werden, werden bei Auswahl einer Linie oder Station alle dort verkehrenden Verbindungen als Liste angezeigt. Mit der aufklappbaren Perlenkette ist zudem genau ersichtlich, wo der Zug unterwegs hält. So kann die Karte auch als Inspirationsquelle genutzt werden, um zu sehen, wohin man vom nächstgelegenen grösseren Bahnhof aus fahren kann.
 
-![direct-connections-2](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_2.png "geOps-direct-connections-2")
+![direct-connections-2](/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_2.png "geOps-direct-connections-2")
 
 Um den immer wichtiger werdenden Nachtverbindungen die Relevanz zu geben, die sie verdienen, gibt es dafür eine [separate Karte](https://www.sbb.ch/de/freizeit-ferien/zuege-ausfluege/nachtzug.html) mit unserer Darkstyle Basiskarte im Hintergrund.
 
-<ResponsiveImage alt="direct-connections-night" desktop="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_3.png" mobile="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_3_mobile.png" />
+<ResponsiveImage alt="direct-connections-night" desktop="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_3.png" mobile="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_3_mobile.png" />
 
 
 
