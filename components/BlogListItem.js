@@ -25,7 +25,7 @@ export default function BlogListItem({ item }) {
             <span> | </span>
             {item.readingTime} min {t("website.readingTime")}
           </div>
-          <h2 className="my-4 text-4xl font-bold text-blue">
+          <h2 className="my-4 text-[2.05rem] font-bold text-blue">
             <Link href={`/blog/${item.slug}`}>{item.title}</Link>
           </h2>
           <p>{item.summary}</p>
