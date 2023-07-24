@@ -16,7 +16,7 @@ Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in Berlin? Das i
 
 ## Der Hintergrund
 
-Die direkten Tag- und Nachtverbindungen aus der Schweiz nach Europa werden bei den Bahnreisenden immer beliebter. Das weiss auch unsere Kundin SBB. Aus diesem Grund haben wir den spannenden Auftrag erhalten, die direkten Bahnverbindungen in verschiedene europäische Städte in einer eigenen Karte abzubilden.
+Die direkten Tag- und Nachtverbindungen aus der Schweiz nach Europa werden bei den Bahnreisenden immer beliebter. Das weiss auch unsere Kundin SBB. Aus diesem Grund haben wir den spannenden Auftrag erhalten, die direkten Bahnverbindungen in verschiedene europäische Städte in einer eigenen [Karte](https://www.sbb.ch/de/freizeit-ferien/destinationen/staedte-laender-europa.html) abzubilden.
 
 [](<>)Auf einigen Strecken verkehren sowohl Tag- als auch Nachtverbindungen. Um diese parallel laufend darzustellen, haben wir einen Liniennetzplan erstellt. So ist für die Interessierten auf einen Blick erkennbar, ob auf einer Strecke Tag- und/oder Nachtverbindungen vorkommen.
 
