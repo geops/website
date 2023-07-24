@@ -24,7 +24,7 @@ Direct day and night connections from Switzerland to Europe are becoming increas
 
 On some routes there are both day and night connections. In order to show these in parallel on an ongoing basis, we have created a route network map. In this way, those interested can see at a glance whether there are day and/or night connections on a route.
 
-![direct-connections-1](/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_4.png "geOps-direct-connections-1")
+<ResponsiveImage alt="direct-connections-day" desktop="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_1.png" mobile="/images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_1_mobile.png" />
 
 In addition to a good overview of which destinations in Europe are served directly, all connections running there are displayed as a list when a line or station is selected. With the fold-out string of pearls, you can also see exactly where the train stops en route. In this way, the map can also be used as a source of inspiration to see where you can travel to from the nearest larger station.
 
