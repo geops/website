@@ -26,7 +26,7 @@ Nebst einer guten Übersicht, welche Destinationen in Europa direkt angefahren w
 
 ![direct-connections-2](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_2.png "geOps-direct-connections-2")
 
-Um den immer wichtiger werdenden Nachtverbindungen die Relevanz zu geben, die sie verdienen, gibt es dafür eine separate Karte mit unserer Darkstyle Basiskarte im Hintergrund.
+Um den immer wichtiger werdenden Nachtverbindungen die Relevanz zu geben, die sie verdienen, gibt es dafür eine [separate Karte](https://www.sbb.ch/de/freizeit-ferien/zuege-ausfluege/nachtzug.html) mit unserer Darkstyle Basiskarte im Hintergrund.
 
 ![direct-connections-3](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_3.png "geOps-direct-connections-3")
 
