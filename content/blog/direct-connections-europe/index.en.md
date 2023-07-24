@@ -6,7 +6,7 @@ summary: A city trip to Venice or an important business meeting in Berlin? That
   Swiss stations. Our "Direct connections to Europe" map for SBB illustrates
   this in a visually appealing way with a route network map.
 author: Maja Schudel
-cover: /images/blog/direct-connections-europe-line-network-map-for-day-and-night-connections/blog_ipv_4.png
+cover: /images/blog/direct-connections-europe-new-line-network-map/blog_ipv_4.png
 created: 2023-07-20
 slug: direct-connections-europe
 tags:
