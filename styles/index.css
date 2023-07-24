@@ -30,7 +30,7 @@
     @apply text-blue no-underline hover:text-blue-light;
   }
   .prose h1 {
-    @apply text-4xl font-black leading-snug md:text-5xl;
+    @apply text-[2.05rem] font-black leading-snug md:text-5xl;
   }
   .prose h2 {
     @apply text-2xl;
