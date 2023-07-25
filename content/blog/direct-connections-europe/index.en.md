@@ -28,7 +28,7 @@ On some routes there are both day and night connections. In order to show these 
 
 In addition to a good overview of which destinations in Europe are served directly, all connections running there are displayed as a list when a line or station is selected. With the fold-out string of pearls, you can also see exactly where the train stops en route. In this way, the map can also be used as a source of inspiration to see where you can travel to from the nearest larger station.
 
-![direct-connections-2](/images/blog/direktverbindungen-europa-–-liniennetzplan-für-tag-und-nachtverbindungen/blog_ipv_2.png "geOps-direct-connections-2")
+![direct-connections-2](/images/blog/direktverbindungen-europa-new-line-network-map/blog_ipv_2.png "geOps-direct-connections-2")
 
 To give the increasingly important night connections the relevance they deserve, there is a [separate map](https://www.sbb.ch/en/freizeit-ferien/zuege-ausfluege/nachtzug.html) for them with our Darkstyle base map in the background.
 
