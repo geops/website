@@ -1,5 +1,4 @@
 import Markdown from "markdown-to-jsx";
-import Head from "next/head";
 import Image from "next/image";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 
@@ -47,17 +46,11 @@ function ResponsiveImage({ alt, desktop, mobile, imageSizes }) {
   );
 }
 
-export default function Article({ author, body, created, imageSizes, title }) {
+export default function Article({ author, body, created, imageSizes }) {
   const { language, t } = useI18n();
 
   return (
     <article className="container prose prose-xl mx-auto mb-16 max-w-screen-lg break-words px-8 pt-8 lg:pt-0">
-      {title && (
-        <>
-          <Head>{author && <meta name="author" content={author} />}</Head>
-          <h1 className="pt-16 text-center">{title}</h1>
-        </>
-      )}
       <Markdown
         options={{
           overrides: {

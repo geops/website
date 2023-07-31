@@ -11,7 +11,6 @@ const mobileViewports = [
     orientation: "portrait",
   },
 ];
-const viewports = [...largeViewports, ...mobileViewports];
 
 const setViewPort = (viewport) => {
   if (viewport.size) {
@@ -19,13 +18,6 @@ const setViewPort = (viewport) => {
   } else {
     cy.viewport(viewport.preset, viewport.orientation);
   }
-};
-
-const getViewPortName = (viewport) => {
-  if (viewport.size) {
-    return viewport.size;
-  }
-  return `${viewport.preset}, ${viewport.orientation}`;
 };
 
 const selectHeaderLogo = "[data-cy='headerLogo']";
@@ -153,6 +145,7 @@ describe("app", () => {
           cy.get(enLinkDesktop).click();
           cy.url().should("include", "/en");
           cy.get(deLinkDesktop).click();
+          cy.wait(1000);
           cy.url().should("not.include", "/en");
         });
 
@@ -161,6 +154,7 @@ describe("app", () => {
           cy.get(deLinkDesktop).click();
           cy.url().should("not.include", "/en");
           cy.get(enLinkDesktop).click();
+          cy.wait(1000);
           cy.url().should("include", "/en");
         });
       });
@@ -177,6 +171,7 @@ describe("app", () => {
           cy.get(enLinkMobile).click({ force: true });
           cy.url().should("include", "/en");
           cy.get(deLinkMobile).click({ force: true });
+          cy.wait(1000);
           cy.url().should("not.include", "/en");
         });
 
@@ -185,6 +180,7 @@ describe("app", () => {
           cy.get(deLinkMobile).click({ force: true });
           cy.url().should("not.include", "/en");
           cy.get(enLinkMobile).click({ force: true });
+          cy.wait(1000);
           cy.url().should("include", "/en");
         });
       });

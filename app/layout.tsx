@@ -1,5 +1,6 @@
 import React from "react";
 import { i18n } from "../i18n-config";
+import "./globals.css";
 
 export async function generateMetadata() {
   return {
@@ -20,11 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html>
-      <head>
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-        />
+      <body>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -67,11 +64,8 @@ export default function RootLayout({
             </React.Fragment>
           );
         })}
-
-        {/* Import Lato font family from Typekit because open source version is missing font weights. */}
-        <link href="https://use.typekit.net/not7ezq.css" rel="stylesheet" />
-      </head>
-      <body>{children}</body>
+        {children}
+      </body>
     </html>
   );
 }
