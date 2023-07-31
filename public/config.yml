@@ -61,7 +61,7 @@ collections:
         widget: "string"
         required: false
       - label: "Cover"
-        hint: "Originalbild für die Verwendung im Block *Mehr zum Thema* unter jedem Blog- und Solution-Artikel. Die Bildgröße sollte mindestens 500 x 500 Pixel betragen."
+        hint: "Die Bildgröße sollte mindestens **1000 x 1000 Pixel** betragen. Originalbild für die Verwendung im Block *Mehr zum Thema* unter jedem Blog- und Solution-Artikel."
         name: "cover"
         widget: "image"
         required: false

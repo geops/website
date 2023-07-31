@@ -5,6 +5,9 @@ const nextConfig = {
   experimental: {
     outputFileTracingIgnores: ["./content/**", "./public/images/**"],
   },
+  sentry: {
+    hideSourceMaps: true,
+  },
   async redirects() {
     return redirects.split("\n").map((redirect) => {
       const [source, destination] = redirect.split(" ");
