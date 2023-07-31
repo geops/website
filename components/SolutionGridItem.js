@@ -26,49 +26,48 @@ export default function SolutionGridItem({ position, remaining, solution }) {
 
   const color = solution.color === "white" ? "currentColor" : "white";
   return (
-    <Link href={`/solution/${solution.slug}`}>
-      <a
-        className={`${sectionClassName} group relative flex justify-between overflow-hidden rounded transition-all duration-500 hover:-m-2 hover:p-2`}
-        style={{ backgroundColor: solution.color, color }}
-      >
-        <div className="m-4 flex flex-col justify-between sm:m-8">
-          <div className="mb-4">
-            {solution.logo && (
-              <div className="relative mb-4 h-16">
-                <Image
-                  alt={`${solution.title} Logo`}
-                  className="h-full object-contain object-left"
-                  layout="fill"
-                  src={solution.logo}
-                />
-              </div>
-            )}
-            <h2 className="mb-4 break-words">{solution.title}</h2>
-            <div>{solution.summary}</div>
-          </div>
-          <div
-            className="w-8 transition-all duration-500 group-hover:translate-x-4"
-            data-testid="more"
-          >
-            <MoreIcon />
-          </div>
-        </div>
-        {imageContainerClassName && solution.gridImage && (
-          <div className={`-m-2 ${imageContainerClassName}`}>
-            {/* Inner container is used to center vertically the images in wide items  */}
-            <div className={`${imageInnerContainerClassName}`}>
+    <Link
+      href={`/solution/${solution.slug}`}
+      className={`${sectionClassName} group relative flex justify-between overflow-hidden rounded transition-all duration-500 hover:-m-2 hover:p-2`}
+      style={{ backgroundColor: solution.color, color }}
+    >
+      <div className="m-4 flex flex-col justify-between sm:m-8">
+        <div className="mb-4">
+          {solution.logo && (
+            <div className="relative mb-4 h-16">
               <Image
-                alt={`${solution.title} Teaser`}
-                className="h-full w-full object-contain object-right"
-                layout="responsive"
-                src={solution.gridImage}
-                height={solution.imageSizes[solution.gridImage].height}
-                width={solution.imageSizes[solution.gridImage].width}
+                alt={`${solution.title} Logo`}
+                className="h-full object-contain object-left"
+                fill
+                src={solution.logo}
               />
             </div>
+          )}
+          <h2 className="mb-4 break-words">{solution.title}</h2>
+          <div>{solution.summary}</div>
+        </div>
+        <div
+          className="w-8 transition-all duration-500 group-hover:translate-x-4"
+          data-testid="more"
+        >
+          <MoreIcon />
+        </div>
+      </div>
+      {imageContainerClassName && solution.gridImage && (
+        <div className={`-m-2 ${imageContainerClassName}`}>
+          {/* Inner container is used to center vertically the images in wide items  */}
+          <div className={`${imageInnerContainerClassName}`}>
+            <Image
+              alt={`${solution.title} Teaser`}
+              className="h-full w-full object-contain object-right"
+              layout="responsive"
+              src={solution.gridImage}
+              height={solution.imageSizes[solution.gridImage].height}
+              width={solution.imageSizes[solution.gridImage].width}
+            />
           </div>
-        )}
-      </a>
+        </div>
+      )}
     </Link>
   );
 }

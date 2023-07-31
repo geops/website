@@ -55,7 +55,7 @@ export default function AboutContent({ content, technologies }) {
       <p>
         <Markdown>{content.work}</Markdown>
       </p>
-      <Image alt={t("about.work")} className="py-16" src={aboutImage} />
+      <Image alt={t("about.work")} src={aboutImage} />
       <h2 id="tech">{t("about.tech")}</h2>
       <p>
         <Markdown>{content.tech}</Markdown>
@@ -65,11 +65,7 @@ export default function AboutContent({ content, technologies }) {
       <p>
         <Markdown>{content.sustainability}</Markdown>
       </p>
-      <Image
-        alt={t("about.sustainability")}
-        className="py-16"
-        src={about2Image}
-      />
+      <Image alt={t("about.sustainability")} src={about2Image} />
     </div>
   );
 }

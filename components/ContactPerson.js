@@ -60,8 +60,8 @@ export default function ContactPerson({ person, subtitle, title }) {
         {person.photo && (
           <Image
             alt={`${person.name} portrait`}
-            className="mx-auto h-64 w-64 self-center rounded-full object-cover object-top md:mr-20 md:ml-0"
-            layout="fill"
+            className="mx-auto h-64 w-64 self-center rounded-full object-cover object-top md:ml-0 md:mr-20"
+            fill
             src={person.photo}
           />
         )}

@@ -14,7 +14,7 @@ export default function BlogListItem({ item }) {
             <Image
               alt={`${item.title} Teaser`}
               className="object-cover"
-              layout="fill"
+              fill
               src={item.cover}
             />
           </div>

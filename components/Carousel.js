@@ -11,10 +11,10 @@ import styles from "./Carousel.module.css";
 
 const CarouselKeyboardNavigation = dynamic(
   () => import("./CarouselKeyboardNavigation"),
-  { ssr: false }
+  { ssr: false },
 );
 
-export default function Carousel({ slides }) {
+export default function Carousel({ slides = [] }) {
   const { t } = useI18n();
   const containerRef = useRef(null);
   const intersectionRef = useIntersectionOberserver("noo", 0);
@@ -29,7 +29,7 @@ export default function Carousel({ slides }) {
           lockOnWindowScroll
           naturalSlideWidth={1600}
           naturalSlideHeight={1200}
-          totalSlides={slides.length}
+          totalSlides={slides?.length}
         >
           <CarouselKeyboardNavigation />
           <Slider
@@ -55,7 +55,7 @@ export default function Carousel({ slides }) {
                         <Image
                           alt={slide.title}
                           className="h-full w-full object-cover"
-                          layout="fill"
+                          fill
                           priority
                           src={slide.imageMobile}
                         />
@@ -65,7 +65,7 @@ export default function Carousel({ slides }) {
                       <Image
                         alt={slide.title}
                         className="h-full w-full object-cover"
-                        layout="fill"
+                        fill
                         priority
                         src={slide.image}
                       />

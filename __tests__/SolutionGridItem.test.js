@@ -17,7 +17,7 @@ describe("SolutionGridItem", () => {
           remaining={global.solutions.length - index - 1}
           solution={global.solutions[index]}
         />
-      </I18n>
+      </I18n>,
     );
 
     // Show title
@@ -25,7 +25,7 @@ describe("SolutionGridItem", () => {
 
     // Show summary
     expect(rendered.container).toHaveTextContent(
-      "Karten für Mobilität und öffentlichen Verkehr"
+      "Karten für Mobilität und öffentlichen Verkehr",
     );
 
     // More image
@@ -33,7 +33,7 @@ describe("SolutionGridItem", () => {
 
     // Solution image
     expect(rendered.container.querySelector("img[src]").src).toBe(
-      "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      "http://localhost/_next/image?url=%2Fimages%2Fsolution%2Fmaps%2Fmaps.png&w=3840&q=75",
     );
   });
 });

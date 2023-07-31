@@ -5,8 +5,8 @@ const className =
 
 export default function Button({ children, href, onClick, type }) {
   return href ? (
-    <Link href={href}>
-      <a className={className}>{children}</a>
+    <Link href={href} className={className}>
+      {children}
     </Link>
   ) : (
     <button className={className} onClick={onClick} type={type}>

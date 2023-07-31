@@ -35,7 +35,7 @@ export default function FrontpageListItem({ item, side }) {
         <Image
           alt={`${item.frontpageTitle || item.title} Teaser`}
           className="object-contain"
-          layout="fill"
+          fill
           src={item.frontpageImage || item.cover}
         />
       </div>

@@ -1,7 +1,7 @@
 import { useI18n } from "../lib/i18n";
 import FrontpageListItem from "./FrontpageListItem.js";
 
-export default function FrontpageList({ items }) {
+export default function FrontpageList({ items = [] }) {
   const { t } = useI18n();
   return (
     <div className="bg-gray-darker text-gray-lighter">

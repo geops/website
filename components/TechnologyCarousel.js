@@ -17,7 +17,7 @@ function useWindowSize() {
   return size;
 }
 
-export default function TechnologyCarousel({ slides }) {
+export default function TechnologyCarousel({ slides = [] }) {
   const [width] = useWindowSize();
   return (
     <div className="prose prose-xl mx-auto max-w-screen-lg px-8">

@@ -6,10 +6,10 @@ import UnknownPersonIcon from "./icons/UnknownPersonIcon.js";
 export default function TeamGridItem({ person }) {
   const { language, t } = useI18n();
   return (
-    <div className="aspect-w-3 aspect-h-4">
+    <div className="aspect-h-4 aspect-w-3">
       <div className="absolute overflow-hidden rounded bg-gray-dark">
         {person.photo ? (
-          <Image alt={person.name} layout="fill" src={person.photo} />
+          <Image alt={person.name} fill src={person.photo} />
         ) : (
           <UnknownPersonIcon />
         )}

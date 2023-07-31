@@ -1,5 +1,3 @@
-import { useRouter } from "next/router";
-import GitHubIcon from "./icons/GitHubIcon.js";
 import TwitterIcon from "./icons/TwitterIcon2.js";
 import XingIcon from "./icons/XingIcon2.js";
 import LinkedInIcon from "./icons/LinkedInIcon2.js";
@@ -39,14 +37,12 @@ const onClick = (href) => {
     href
       .replace("{url}", encodeURIComponent(window.location.href))
       .replace("{title}", encodeURIComponent(document.title)),
-    "_blank"
+    "_blank",
   );
 };
 const size = 40; // Size for share button
 
 export default function Share() {
-  const router = useRouter();
-
   return (
     <ul className="relative flex flex-row items-center px-8 xl:absolute xl:-mx-16 xl:mt-16 xl:flex-col xl:justify-center xl:px-0 ">
       {socialMedia.map(({ icon, href, title }) => (
