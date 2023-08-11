@@ -6,7 +6,13 @@ author: Uli Müller
 cover: /images/blog/branchenveranstaltung-zukunft-nahverkehr/messe-zukunft-nahverkehr.jpg
 created: 2023-08-11
 slug: znv23
+tags:
+  - passengerinformation
+  - geops
+  - realtime
+  - mobility
 frontpage: true
+frontpageWeight: 0
 published: true
 ---
 
