@@ -1,15 +1,14 @@
 ---
-title: Industry event  ZUKUNFT NAHVERKEHR
-summary: Discuss the future of local transport from 04-09 Septmber at STATION Berlin.
+title: Branchenveranstaltung ZUKUNFT NAHVERKEHR
+summary: Diskutieren Sie vom 04.-09. Septmber in der STATION Berlin die Zukunft
+  Nahverkehr.
 created: 2023-08-11
 slug: znv23
 frontpage: true
 published: true
 ---
-
-
 ![](/images/blog/branchenveranstaltung-zukunft-nahverkehr/messe-zukunft-nahverkehr.jpg)
 
-What does the future of public mobility look like and what does public, shared mobility mean for our society? The industry event ZUKUNFT NAHVERKEHR provides answers to these questions and delivers inspiration. The week of events from September 4-9 at STATION Berlin is a meeting place for everyone concerned with the future of public transport.
+Wie sieht die Zukunft der öffentlichen Mobilität aus und was bedeutet öffentliche, geteilte Mobilität für unsere Gesellschaft? Zu diesen Fragen gibt die Branchenveranstaltung ZUKUNFT NAHVERKEHR Antworten und liefert Inspirationen. Die Veranstaltungswoche vom 4.-9. September in der STATION Berlin ist Treffpunkt für alle, die sich mit der Zukunft des öffentlichen Personennahverkehrs beschäftigen.
 
-geOps will be present in Berlin the whole week. We will show how our solutions support the attractiveness and reliability of public transport. Experience how traveler information can be brought to the point with the help of maps.
+geOps ist die ganze Woche in Berlin vertreten. Wir zeigen, wie wir mit unseren Lösungen Attraktivität und Zuverlässigkeit des öffentlichen Verkehrs unterstützen. Erleben Sie, wie Reisendeninformation mit Hilfe von Karten auf den Punkt gebracht werden kann.
