@@ -9,7 +9,7 @@ created: 2022-05-31
 slug: newpositions
 tags:
   - developers
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/from-backend-to-frontend-we-are-looking-for-reinforcement/pythoncodeatgeops.jpg
 frontpageWeight: 0
 published: true

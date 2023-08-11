@@ -5,7 +5,7 @@ summary: Wir bieten zwei Stellen als Fullstack- oder Backend-Entwickler:innen
   starken Team einbringen willst, dann solltest du dich bewerben.
 created: 2022-05-31
 slug: newpositions
-frontpage: true
+frontpage: false
 published: true
 ---
 Du liebst es, zusammen mit einem tollen Team grossartige Software zu entwickeln? Dein Herz schlägt für Linux und Open Source-Technologien? Du willst mit deiner Arbeit zu Lösungen in den Zukunftsthemen Umwelt, Mobilität und öffentlicher Verkehr beitragen? Dann haben wir genau den richtigen Job für dich.
