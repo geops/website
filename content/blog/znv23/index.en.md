@@ -10,7 +10,7 @@ tags:
   - geops
   - realtime
   - mobility
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/industry-event-zukunft-nahverkehr/messe-zukunft-nahverkehr.jpg
 frontpageWeight: 1
 published: true
