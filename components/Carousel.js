@@ -74,9 +74,8 @@ export default function Carousel({ slides = [] }) {
                       <div
                         data-cy="pageMainTitle"
                         className="text-shadow max-w-screen-sm break-words text-4xl font-black leading-normal text-white md:text-5xl md:leading-normal lg:text-right"
-                      >
-                        {slide.title}
-                      </div>
+                        dangerouslySetInnerHTML={{ __html: slide.title }}
+                      />
                       {slide.summary && (
                         <h2 className="text-shadow max-w-screen-sm text-right text-xl text-white">
                           {slide.summary}
