@@ -4,7 +4,7 @@ summary: "On 11th September 2023 members from the geOps frontend team set out to
   Berlin to attend a very interesting and extraordinary event: BeyondTellerrand
   conference."
 author: Daniel Marsh-Hunn
-cover: /images/blog/beyondtellerrand-2023/beyondtellerrand1.png
+cover: /images/blog/beyondtellerrand-2023/beyondtellerrand2.jpg
 created: 2023-10-04
 slug: beyondtellerrand2023-conference
 tags:
