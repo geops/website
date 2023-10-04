@@ -32,3 +32,6 @@ This library only support by default these entities:
 
 If you have to use another one, please add it to [namedCodesToUnicode.js](https://github.com/geops/website/blob/main/lib/namedCodesToUnicode.js).
 You can find list of html entities and their unicode values [here](https://dev.w3.org/html5/html-author/charref).
+
+## CMS
+Edit website content on https://geops.com/admin
