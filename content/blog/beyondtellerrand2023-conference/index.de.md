@@ -1,8 +1,8 @@
 ---
 title: beyond tellerrand 2023
 summary: >
-  Am 11. September 2023 machten sich Mitglieder des Frontend-Teams von geOps auf den
-  Weg nach Berlin, um an einer sehr interessanten und außergewöhnlichen
+  Am 11. September 2023 machten sich Mitglieder des Frontend-Teams von geOps auf
+  den Weg nach Berlin, um an einer sehr interessanten und außergewöhnlichen
   Veranstaltung teilzunehmen: die beyond tellerrand Konferenz.
 created: 2023-10-04
 slug: beyond-tellerrand-2023-konferenz
@@ -24,8 +24,8 @@ Los ging es mit dem interaktiven Vortrag [The 7 Traits of an Emotionally Fit Lea
 
 Ebenso inspirierend nur etwas technischer war der Vortrag von [Carlie Gerard](https://charliegerard.dev/), bei dem es um [alternative Möglichkeiten zur Interaktion mit JavaScript-Anwendungen](https://www.youtube.com/watch?v=AA_exvecIa4) ging. Mit Hilfe von Machine Learning und Standards wie [WebUSB API](https://developer.mozilla.org/en-US/docs/Web/API/WebUSB_API) wurden verschiedenste Sensoren zum Einsatz gebraucht um ungewöhnliche Interaktionen zu ermöglichen.
 
-In ihrem [Vortrag über Barrierefreiheit](https://www.youtube.com/watch?v=KYnvaOxEsN0) sprach Piccia Neri, Expertin für Barrierefreiheit, über ihre persönlichen Erfahrungen als Betroffene von Gleichgewichtsstörungen mit extravagant animierten Websites und beschrieb, wie ihr bei GIF-Endlosschleifen buchstäblich übel wird. Sie präsentierte auch verschiedene Beispiele preisgekrönter Websites, die durch die fast vollständige Vernachlässigung der Barrierefreiheit eine große Gruppe potenzieller Nutzer ausschließen. Frau Neri wies vor allem darauf hin, dass Barrierefreiheit nicht für ausgefallene Animationen und Ästhetik geopfert werden sollte.
+In ihrem [Vortrag über Barrierefreiheit](https://www.youtube.com/watch?v=KYnvaOxEsN0) sprach [Piccia Neri](https://piccianeri.com/work-with-piccia/), Expertin für Barrierefreiheit, über ihre persönlichen Erfahrungen als Betroffene von Gleichgewichtsstörungen mit extravagant animierten Websites und beschrieb, wie ihr bei GIF-Endlosschleifen buchstäblich übel wird. Sie präsentierte auch verschiedene Beispiele preisgekrönter Websites, die durch die fast vollständige Vernachlässigung der Barrierefreiheit eine große Gruppe potenzieller Nutzer ausschließen. Frau Neri wies vor allem darauf hin, dass Barrierefreiheit nicht für ausgefallene Animationen und Ästhetik geopfert werden sollte.
 
-In einer weiteren aufschlussreichen Präsentation über die [Psychologie der Web-Performance](https://www.youtube.com/watch?v=leQZOmD7IYQ) erläuterte die UX/UI-Performance-Expertin und Forscherin Tammy Everts, wie sehr die Reaktionszeit die Wahrnehmung und Erfahrung der Benutzer auf Websites beeinflusst. Durch Vergleiche mit Beispielen aus dem täglichen Leben, wie dem Warten auf die Gepäckausgabe am Flughafen oder dem Zählen der Minuten, um von Punkt A nach Punkt B zu gelangen, betonte die Referentin, wie das Warten von mehr als zwei Sekunden den "Flow-Zustand" unterbricht, die Konzentration des Nutzers unterbindet und die Produktivität stark beeinträchtigt.
+In einer weiteren aufschlussreichen Präsentation über die [Psychologie der Web-Performance](https://www.youtube.com/watch?v=leQZOmD7IYQ) erläuterte die UX/UI-Performance-Expertin und Forscherin [Tammy Everts](https://www.linkedin.com/in/tammyeverts), wie sehr die Reaktionszeit die Wahrnehmung und Erfahrung der Benutzer auf Websites beeinflusst. Durch Vergleiche mit Beispielen aus dem täglichen Leben, wie dem Warten auf die Gepäckausgabe am Flughafen oder dem Zählen der Minuten, um von Punkt A nach Punkt B zu gelangen, betonte die Referentin, wie das Warten von mehr als zwei Sekunden den "Flow-Zustand" unterbricht, die Konzentration des Nutzers unterbindet und die Produktivität stark beeinträchtigt.
 
 Zusammenfassend lässt sich sagen, dass es eine sehr interessante Veranstaltung mit großartigen Rednern, aufschlussreichen Präsentationen und einer familiären und freundlichen Atmosphäre war. Wir freuen uns auf Updates zu beyond tellerrand 2024.
