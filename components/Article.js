@@ -46,11 +46,12 @@ function ResponsiveImage({ alt, desktop, mobile, imageSizes }) {
   );
 }
 
-export default function Article({ author, body, created, imageSizes }) {
+export default function Article({ author, body, created, imageSizes, title }) {
   const { language, t } = useI18n();
 
   return (
     <article className="container prose prose-xl mx-auto mb-16 max-w-screen-lg break-words px-8 pt-8 lg:pt-0">
+      {title && <h1 className="pt-16 text-center">{title}</h1>}
       <Markdown
         options={{
           overrides: {
