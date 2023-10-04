@@ -9,6 +9,7 @@ slug: beyondtellerrand2023-konferenz
 published: true
 ---
 Am 11. September 2023 machten sich Mitglieder des geOps-Frontend-Teams auf den Weg nach Berlin, um an einer sehr interessanten und außergewöhnlichen Veranstaltung teilzunehmen: die BeyondTellerrand Konferenz.
+
 Die BeyondTellerrand hat als Ziel, Kreativität und Technologie zusammenzubringen. Die erste Ausgabe fand 2011 statt, derzeit wird die Konferenz in Berlin, Düsseldorf und München abgehalten und zieht mehr als 500 Teilnehmer aus einem breiten Spektrum von Bereichen an.
 
 BeyondTellerrand Berlin fand im Festsaal Kreuzberg statt. Ursprünglich ein überdachter Gemüsemarkt am Ufer der Spree, wurde er umfunktioniert, um alle Arten von Veranstaltungen zu beherbergen, von Rockkonzerten und Techno-Partys bis hin zu Kunstgalerien und Tech-Konferenzen. Der Veranstaltungsort hat einen Club-Charakter (passend zu Berlins berüchtigtem Nachtleben) und verfügt über ein sehr nettes Café und einen Außenbereich zum Plaudern und Austauschen.
