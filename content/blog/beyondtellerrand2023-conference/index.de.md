@@ -8,7 +8,7 @@ created: 2023-10-04
 slug: beyondtellerrand2023-konferenz
 published: true
 ---
-Am 11. September 2023 machten sich Mitglieder des geOps-Frontend-Teams auf den Weg nach Berlin, um an einer sehr interessanten und außergewöhnlichen Veranstaltung teilzunehmen: die BeyondTellerrand Konferenz.
+Am 11. September 2023 machten sich Mitglieder des geOps-Frontend-Teams auf den Weg nach Berlin, um an einer sehr interessanten und außergewöhnlichen Veranstaltung teilzunehmen: die [BeyondTellerrand](https://beyondtellerrand.com/) Konferenz.
 
 Die BeyondTellerrand hat als Ziel, Kreativität und Technologie zusammenzubringen. Die erste Ausgabe fand 2011 statt, derzeit wird die Konferenz in Berlin, Düsseldorf und München abgehalten und zieht mehr als 500 Teilnehmer aus einem breiten Spektrum von Bereichen an.
 
@@ -20,8 +20,8 @@ Obwohl die Referenten der Konferenz aus verschiedenen Bereichen kamen, hatten di
 
 Als Frontend-Webentwickler freuten wir uns natürlich auf Vorträge über Webentwicklung und Webdesign. Wir wurden nicht enttäuscht, denn es standen mehrere für uns interessante Themen auf dem Programm.
 
-In ihrem Vortrag über Barrierefreiheit sprach Piccia Neri, Expertin für Barrierefreiheit, über ihre persönlichen Erfahrungen als Betroffene von Gleichgewichtsstörungen mit extravagant animierten Websites und beschrieb, wie ihr bei GIF-Endlosschleifen buchstäblich übel wird. Sie präsentierte auch verschiedene Beispiele preisgekrönter Websites, die durch die fast vollständige Vernachlässigung der Barrierefreiheit eine große Gruppe potenzieller Nutzer ausschließen. Frau Neri wies vor allem darauf hin, dass Barrierefreiheit nicht für ausgefallene Animationen und Ästhetik geopfert werden sollte.
+In ihrem [Vortrag über Barrierefreiheit](https://www.youtube.com/watch?v=KYnvaOxEsN0) sprach Piccia Neri, Expertin für Barrierefreiheit, über ihre persönlichen Erfahrungen als Betroffene von Gleichgewichtsstörungen mit extravagant animierten Websites und beschrieb, wie ihr bei GIF-Endlosschleifen buchstäblich übel wird. Sie präsentierte auch verschiedene Beispiele preisgekrönter Websites, die durch die fast vollständige Vernachlässigung der Barrierefreiheit eine große Gruppe potenzieller Nutzer ausschließen. Frau Neri wies vor allem darauf hin, dass Barrierefreiheit nicht für ausgefallene Animationen und Ästhetik geopfert werden sollte.
 
-In einer weiteren aufschlussreichen Präsentation über die Psychologie der Web-Performance erläuterte die UX/UI-Performance-Expertin und Forscherin Tammy Everts, wie sehr die Reaktionszeit die Wahrnehmung und Erfahrung der Benutzer auf Websites beeinflusst. Durch Vergleiche mit Beispielen aus dem täglichen Leben, wie dem Warten auf die Gepäckausgabe am Flughafen oder dem Zählen der Minuten, um von Punkt A nach Punkt B zu gelangen, betonte die Referentin, wie das Warten von mehr als zwei Sekunden den "Flow-Zustand" unterbricht, die Konzentration des Nutzers unterbindet und die Produktivität stark beeinträchtigt.
+In einer weiteren aufschlussreichen Präsentation über die [Psychologie der Web-Performance](https://www.youtube.com/watch?v=leQZOmD7IYQ) erläuterte die UX/UI-Performance-Expertin und Forscherin Tammy Everts, wie sehr die Reaktionszeit die Wahrnehmung und Erfahrung der Benutzer auf Websites beeinflusst. Durch Vergleiche mit Beispielen aus dem täglichen Leben, wie dem Warten auf die Gepäckausgabe am Flughafen oder dem Zählen der Minuten, um von Punkt A nach Punkt B zu gelangen, betonte die Referentin, wie das Warten von mehr als zwei Sekunden den "Flow-Zustand" unterbricht, die Konzentration des Nutzers unterbindet und die Produktivität stark beeinträchtigt.
 
 Zusammenfassend lässt sich sagen, dass es eine sehr interessante Veranstaltung mit großartigen Rednern, aufschlussreichen Präsentationen und einer familiären und freundlichen Atmosphäre war. Wir freuen uns auf Updates zu BeyondTellerrand 2024.
