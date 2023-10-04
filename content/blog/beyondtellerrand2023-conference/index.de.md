@@ -13,6 +13,8 @@ Die BeyondTellerrand hat als Ziel, Kreativität und Technologie zusammenzubringe
 
 BeyondTellerrand Berlin fand im Festsaal Kreuzberg statt. Ursprünglich ein überdachter Gemüsemarkt am Ufer der Spree, wurde er umfunktioniert, um alle Arten von Veranstaltungen zu beherbergen, von Rockkonzerten und Techno-Partys bis hin zu Kunstgalerien und Tech-Konferenzen. Der Veranstaltungsort hat einen Club-Charakter (passend zu Berlins berüchtigtem Nachtleben) und verfügt über ein sehr nettes Café und einen Außenbereich zum Plaudern und Austauschen.
 
+![bt-2023](/images/blog/beyondtellerrand-2023/bt2023.jpg)
+
 Obwohl die Referenten der Konferenz aus verschiedenen Bereichen kamen, hatten die Präsentationen einen eindeutigen roten Faden, mit einem starken Fokus auf künstlerische und kreative Bereiche und die dort angewandten Technologien. Viele der Vorträge erzählten von den einzigartigen Wegen, die die Redner zu ihren jetzigen beruflichen Unternehmungen führten, wobei der Schwerpunkt darauf lag, wie ihre kreativen Prozesse dadurch gefördert und gestärkt wurden, dass sie über den Tellerrand hinaus blickten.
 
 Als Frontend-Webentwickler freuten wir uns natürlich auf Vorträge über Webentwicklung und Webdesign. Wir wurden nicht enttäuscht, denn es standen mehrere für uns interessante Themen auf dem Programm.

@@ -18,6 +18,8 @@ BeyondTellerrand is a single-track conference aimed at bringing creativity and t
 
 BeyondTellerrand Berlin took place in the Festsaal Kreuzberg. Originally an indoor vegetable market on the banks of the Spree river, it was repurposed to host all kinds of events, from rock concerts and techno parties to art galleries and tech conferences. The venue has a club-vibe to it (befitting Berlin’s notorious nightlife reputation) and features a really nice caffé and outdoor area for chatting and mingling.
 
+![bt-2023](/images/blog/beyondtellerrand-2023/bt2023.jpg)
+
 Although the conference speakers came from various backgrounds, the presentations clearly had a red line, with a strong focus on artistic and creative fields and the technologies applied in them. Many of the talks told stories of the speakers’ unique paths to their present professional endeavours, with a focus on how out-of-the-box thinking boosted and fortified their creative processes.
 
 As frontend web developers we were of course looking forward to the presentations about web development and web design. We were not disappointed, since there were multiple interesting topics for us on the menu. 
