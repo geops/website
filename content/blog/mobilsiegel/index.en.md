@@ -2,7 +2,7 @@
 title: MobilSiegel 2023
 summary: geOps receives the MobilSiegel as award for sustainable operational mobility.
 author: Elke Erhardt
-cover: /images/blog/mobilsiegel-2023/mobil-siegel.jpg
+cover: /images/blog/mobilsiegel-2023/csm_mobilsiegel2021_5_640x480_6d81fb46fd.png
 created: 2023-10-26
 slug: mobilsiegel
 tags:
