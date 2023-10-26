@@ -12,7 +12,7 @@ tags:
 frontpageImage: ""
 published: true
 ---
-Klimaschutz und Nachhaltigkeit sind ein zentrales Ziel in unserer Arbeit ([Blogbeitrag: Ökologische Nachhaltigkeit bei geOps](https://geops.com/de/blog/sustainability)). Aber nicht nur in unseren Karten und Anwendungen für den Öffentlichen Verkehr fördert geOps nachhaltige Mobilität. Am 19. Oktober erhielten wir das MobilSiegel als Auszeichnung für nachhaltige betriebliche Mobilität.
+Klimaschutz und Nachhaltigkeit sind ein zentrales Ziel in unserer Arbeit ([Blogbeitrag: Ökologische Nachhaltigkeit bei geOps](https://geops.com/de/blog/sustainability)). Aber nicht nur in unseren Karten und Anwendungen für den Öffentlichen Verkehr fördert geOps nachhaltige Mobilität. Am 19. Oktober erhielten wir das [MobilSiegel](https://www.vag-freiburg.de/service-infos/mobilitaet-fuer-unternehmen/mobilsiegel) als Auszeichnung für nachhaltige betriebliche Mobilität.
 
 ![Quelle: Hr. Patrick Seeger, Stadt Freiburg](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
 
