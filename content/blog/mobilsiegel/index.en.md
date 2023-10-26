@@ -12,12 +12,12 @@ tags:
 frontpageImage: ""
 published: true
 ---
-Klimaschutz und Nachhaltigkeit sind ein zentrales Ziel in unserer Arbeit ([Blogbeitrag: Ökologische Nachhaltigkeit bei geOps](https://geops.com/de/blog/sustainability)). Aber nicht nur in Karten und Anwendungen für den Öffentlichen Verkehr fördert geOps nachhaltige Mobilität. Am 19. Oktober erhielten wir das [MobilSiegel](https://www.vag-freiburg.de/service-infos/mobilitaet-fuer-unternehmen/mobilsiegel) als Auszeichnung für nachhaltige betriebliche Mobilität.
+Climate protection and sustainability are a central goal in our work ([Blog post: Ecological sustainability at geOps](/en/blog/sustainability)). On 19 October, we received the [MobilSiegel](https://www.vag-freiburg.de/service-infos/mobilitaet-fuer-unternehmen/mobilsiegel) award for sustainable corporate mobility.
 
 ![Quelle: Hr. Patrick Seeger, Stadt Freiburg](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
 
 *Quelle: Hr. Patrick Seeger, Stadt Freiburg*
 
-Insgesamt wurden 28 Unternehmen für ihr Engagement von der Freiburger Verkehrs AG (VAG) im Auftrag der Stadt Freiburg und in Kooperation mit den Landkreisen Emmmendingen und Breisgau-Hochschwarzwald ausgezeichnet.
+A total of 28 companies were awarded for their commitment by the Freiburger Verkehrs AG (VAG) on behalf of the city of Freiburg and in cooperation with the districts of Emmmendingen and Breisgau-Hochschwarzwald.
 
-Bei der Verleihung wurde der monatliche Internet- und Stromzuschuss für Homeoffice, unsere Extras im Bereich ÖV (Bahncard, Jobticket, Mobilitätsbudget, ...) und die zusätzlichen Urlaubstage bei Verzicht auf private Flugreisen ([Blogbeitrag: Fliegen oder fahren?](https://geops.com/de/blog/fliegen-oder-fahren)) als 'Best-Practice' in unserem Unternehmen hervorgehoben . Wir sind stolz die höchste Stufe mit 5 Blättern erreicht zu haben und sehen die Auszeichnung als Anregung unser Unternehmen in Sachen nachhaltiger Mobilität auch weiterhin zu stärken.
+At the award ceremony, the monthly internet and electricity allowance for work at home, our public transport extras (railcard, job ticket, mobility budget, ...), support for commuting by bike and the additional days of holiday when foregoing private air travel ([Blog post: Fly or drive?](/en/blog/driveorfly)) were highlighted as 'best practice' in our company . We are proud to have reached the highest level with 5 leaves and see the award as an incentive to continue to strengthen our company in terms of sustainable mobility.
