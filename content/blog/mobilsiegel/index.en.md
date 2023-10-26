@@ -14,9 +14,9 @@ published: true
 ---
 Climate protection and sustainability are a central goal in our work ([Blog post: Ecological sustainability at geOps](/en/blog/sustainability)). On 19 October, we received the [MobilSiegel](https://www.vag-freiburg.de/service-infos/mobilitaet-fuer-unternehmen/mobilsiegel) award for sustainable corporate mobility.
 
-![Quelle: Hr. Patrick Seeger, Stadt Freiburg](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
+![Mobilsiegel](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
 
-*Quelle: Hr. Patrick Seeger, Stadt Freiburg*
+*Picture: Patrick Seeger, Stadt Freiburg*
 
 A total of 28 companies were awarded for their commitment by the Freiburger Verkehrs AG (VAG) on behalf of the city of Freiburg and in cooperation with the districts of Emmmendingen and Breisgau-Hochschwarzwald.
 

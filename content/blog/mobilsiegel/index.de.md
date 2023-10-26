@@ -10,7 +10,7 @@ Klimaschutz und Nachhaltigkeit sind ein zentrales Ziel in unserer Arbeit ([Blogb
 
 ![Quelle: Hr. Patrick Seeger, Stadt Freiburg](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
 
-*Quelle: Hr. Patrick Seeger, Stadt Freiburg*
+*Quelle: Patrick Seeger, Stadt Freiburg*
 
 Insgesamt wurden 28 Unternehmen für ihr Engagement von der Freiburger Verkehrs AG (VAG) im Auftrag der Stadt Freiburg und in Kooperation mit den Landkreisen Emmmendingen und Breisgau-Hochschwarzwald ausgezeichnet.
 
