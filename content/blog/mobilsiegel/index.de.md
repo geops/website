@@ -8,7 +8,7 @@ published: true
 ---
 Klimaschutz und Nachhaltigkeit sind ein zentrales Ziel in unserer Arbeit ([Blogbeitrag: Ökologische Nachhaltigkeit bei geOps](https://geops.com/de/blog/sustainability)). Aber nicht nur in unseren Karten und Anwendungen für den Öffentlichen Verkehr fördert geOps nachhaltige Mobilität. Am 19. Oktober erhielten wir das MobilSiegel als Auszeichnung für nachhaltige betriebliche Mobilität.
 
-![](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
+![Quelle: Hr. Patrick Seeger, Stadt Freiburg](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
 
 Insgesamt wurden 28 Unternehmen für ihr Engagement von der Freiburger Verkehrs AG (VAG) im Auftrag der Stadt Freiburg und in Kooperation mit den Landkreisen Emmmendingen und Breisgau-Hochschwarzwald ausgezeichnet.
 

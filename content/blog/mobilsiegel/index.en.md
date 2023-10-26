@@ -2,7 +2,7 @@
 title: MobilSiegel 2023
 summary: geOps receives the MobilSiegel as award for sustainable operational mobility.
 author: Elke Erhardt
-cover: /images/blog/mobilsiegel-2023/csm_mobilsiegel2021_5_640x480_6d81fb46fd.png
+cover: /images/blog/mobilsiegel-2023/mobilsiegel.png
 created: 2023-10-26
 slug: mobilsiegel
 tags:
@@ -14,7 +14,7 @@ published: true
 ---
 Klimaschutz und Nachhaltigkeit sind ein zentrales Ziel in unserer Arbeit ([Blogbeitrag: Ökologische Nachhaltigkeit bei geOps](https://geops.com/de/blog/sustainability)). Aber nicht nur in unseren Karten und Anwendungen für den Öffentlichen Verkehr fördert geOps nachhaltige Mobilität. Am 19. Oktober erhielten wir das MobilSiegel als Auszeichnung für nachhaltige betriebliche Mobilität.
 
-![](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
+![Quelle: Hr. Patrick Seeger, Stadt Freiburg](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
 
 Insgesamt wurden 28 Unternehmen für ihr Engagement von der Freiburger Verkehrs AG (VAG) im Auftrag der Stadt Freiburg und in Kooperation mit den Landkreisen Emmmendingen und Breisgau-Hochschwarzwald ausgezeichnet.
 
