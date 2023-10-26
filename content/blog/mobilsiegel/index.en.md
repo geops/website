@@ -16,6 +16,8 @@ Klimaschutz und Nachhaltigkeit sind ein zentrales Ziel in unserer Arbeit ([Blogb
 
 ![Quelle: Hr. Patrick Seeger, Stadt Freiburg](/images/blog/mobilsiegel-2023/20231019frbpse088.jpg)
 
+*Quelle: Hr. Patrick Seeger, Stadt Freiburg*
+
 Insgesamt wurden 28 Unternehmen für ihr Engagement von der Freiburger Verkehrs AG (VAG) im Auftrag der Stadt Freiburg und in Kooperation mit den Landkreisen Emmmendingen und Breisgau-Hochschwarzwald ausgezeichnet.
 
 Bei der Verleihung wurde der monatliche Internet- und Stromzuschuss fürs Homeoffice, unsere Extras im Bereich ÖV (Bahncard, Jobticket, Mobilitätsbudget, ...) und die zusätzlichen Urlaubstage bei Verzicht auf private Flugreisen ([Blogbeitrag: Fliegen oder fahren?](https://geops.com/de/blog/fliegen-oder-fahren)) als 'Best-Practice' in unserem Unternehmen hervorgehoben . Wir sind stolz die höchste Stufe mit 5 Blättern erreicht zu haben und sehen die Auszeichnung als Anregung unser Unternehmen in Sachen nachhaltiger Mobilität auch weiterhin zu stärken.
