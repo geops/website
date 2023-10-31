@@ -1,24 +1,27 @@
 ---
-title: dd
-summary: dummy
+title: Swiss Python Summit 2023
+summary: On September 21, 2023, our backend developer Tobias made his way to
+  Rapperswil to attend the Swiss Python Summit 2023.
+author: Tobias Kronauer
 created: 2023-10-31
-slug: dummy-slug
+slug: swiss-python-summit-2023-conference
+frontpageImage: /images/blog/swiss-python-summit-2023/img_0392.jpg
 published: false
 ---
-Am 21. September 2023 nahm unser Backendentwickler Tobias Kronauer am [Swiss Python Summit](https://www.python-summit.ch/) in Rapperswil, Schweiz teil. Die Organisation versteht sich als Schweizer Version der EuroPython 2015 und findet seit 2016 statt. Ziel dabei ist ein Wissensaustausch zwischen Python-Anwender:innen und richtet sich sowohl an Anfänger:innen als auch an Erfahrene.
+On September 21, 2023, I attended the [Swiss Python Summit](https://www.python-summit.ch/) in Rapperswil, Switzerland. The organization sees itself as the Swiss version of EuroPython 2015 and has been taking place since 2016. The goal is an exchange of knowledge between Python users and is aimed at both beginners and experienced users.
 
-Die Konferenz fand bei herrlichem Frühherbstwetter in einem Gebäude der Hochschule OST, direkt am Zürichsee gelegen, statt.
+The conference took place in beautiful early autumn weather in a building of the OST University of Applied Sciences, located directly at Lake Zurich.
 
-Die Themenauswahl der Referenten war sehr breit gestreut und bediente mehrere Zielgruppen, von wissenschaftlichen Vorträgen zu Anwendungen von Machine Learning über Webentwicklung mit Python bis hin zur Einführung in Cpython. Trotz ihrer Unterschiedlichkeit, hatten alle Vorträge eins gemein: sie holten einen sehr gut ab, aber gingen dennoch gut ins Detail.
+The choice of topics of the speakers was very broad and served several target groups, from scientific talks on applications of Machine Learning to web development with Python to an introduction to Cpython. Despite their diversity, all talks had one thing in common: they picked you up very well, but still went into good detail.
 
-Ein interessanter Vortrag war über die Libary [Kivy](https://kivy.org/), welche Frontendentwicklung in Python ermöglicht. Während Python hauptsächlich für das Backend bekannt ist, war es spannend zu sehen welche Entwicklungen im Frontendbereich geschehen. Ein Hauptaugenmerk von Kivy ist dabei, mit einer Codebasis Apps für verschiedene Plattformen zu entwickeln, was den Entwicklungsaufwand sehr stark reduziert. Die Library steckt noch in den Kinderschuhen, bietet sich sich aber als interessante Alternative zu [PyQt](https://riverbankcomputing.com/software/pyqt/intro) an.
+One interesting talk was about the Libary [Kivy](https://kivy.org/), which enables front-end development in Python. While Python is mainly known for the backend, it was exciting to see what developments are happening in the frontend. One of the main focuses of Kivy is to develop apps for different platforms with one code base, which reduces the development effort a lot. The library is still in its infancy, but offers itself as an interesting alternative to [PyQt](https://riverbankcomputing.com/software/pyqt/intro).
 
-Im Vortrag [A walk with Cpython](https://www.youtube.com/watch?v=36ntN0u7Bm0&feature=youtu.be&themeRefresh=1) lag der Fokus darauf, die Zuhörer:innen in die Welt des Python Compilers einzuführen. Auf Basis eines simplen Python-Skripts wurden die Hintergrundschritte von Cpython erklärt, der Referenzimplementierung von Python. Ziel war Fremdwörter wie [Abstract Syntax Tree](https://devguide.python.org/internals/compiler/#abstract-syntax-trees-ast), [Continuous Flow Graph](https://devguide.python.org/internals/compiler/#control-flow-graphs), OPCODES etc. zu entzaubern. Obwohl ein genaues Verständnis für die Python-Implementierung für Webentwicklung selten benötigt wird, hilft es doch viel für das Hintergrundverständnis. Auch gibt es einem die Möglichkeit, performanteren Code zu schreiben und zu verstehen warum dieser schneller läuft (wie zum Beispiel [List-Comprehensions unter Python 3.11](https://docs.python.org/3.11/whatsnew/3.11.html#pep-659-specializing-adaptive-interpreter)).
+In the talk [A walk with Cpython](https://www.youtube.com/watch?v=36ntN0u7Bm0&feature=youtu.be&themeRefresh=1) the focus was on introducing the audience to the world of the Python compiler. Based on a simple Python script the background steps of Cpython, the reference implementation of Python, were explained. The goal was to demystify foreign words like [Abstract Syntax Tree](https://devguide.python.org/internals/compiler/#abstract-syntax-trees-ast), [Continuous Flow Graph](https://devguide.python.org/internals/compiler/#control-flow-graphs), OPCODES, etc. Although a thorough understanding of Python implementation is rarely needed for web development, it helps a lot for background understanding. It also gives one the ability to write more performant code and understand why it runs faster (such as [List Comprehensions under Python 3.11](https://docs.python.org/3.11/whatsnew/3.11.html#pep-659-specializing-adaptive-interpreter)).
 
-Das leidige aber umso wichtigere Thema „Dokumentation“ wurde im Vortrag „Documenting Python Code“ behandelt. Der kritische Blick von Christian Heitzmann auf den Prozess der Dokumentation hilft einem auch interne Prozesse weiter zu optimieren und zu hinterfragen. Dabei zeigte sich aber auch gleichzeitig, dass die internen Prozesse von geOps in großen Teilen mit den Empfehlung des Vortragenden übereinstimmen. Ein sehr bestärkendes Gefühl!
+The tiresome but all the more important topic of "documentation" was covered in the talk "Documenting Python Code". The critical view of Christian Heitzmann on the process of documentation helps to further optimize and question internal processes. At the same time, it became clear that the internal processes of geOps largely correspond to the recommendations of the speaker. A very encouraging feeling!
 
-Gegen Ende hin kam dann der für den Autor interessanteste Vortrag: [A Short History of Python Web Frameworks](https://www.youtube.com/watch?v=K3y3f3mLJfk&feature=youtu.be). Quazi Nafiul Islam führte einen durch die historische Entwicklung von Web Frameworks in Python. Beginnend mit der ersten Version des HTTP Protokolls in den 90er Jahren zeigte er die Entwicklung von Python Frameworks, Schnittstellen etc. zu heutigen allumfassenden Bibliotheken wie Django. Dabei ging er auch darauf ein warum Frameworks sich über die Zeit behaupten, während andere relativ schnell verschwinden. Das Hauptargument seiner Meinung nach: die Offenheit des Entwicklerteams neue Technologien zu implementieren.
+Towards the end, the most interesting talk began: [A Short History of Python Web Frameworks](https://www.youtube.com/watch?v=K3y3f3mLJfk&feature=youtu.be). Quazi Nafiul Islam took you through the historical development of web frameworks in Python. Starting with the first version of the HTTP protocol in the 90s, he showed the evolution of Python frameworks, interfaces, etc. to today's all-encompassing libraries like Django. He also addressed why frameworks stand the test of time while others disappear relatively quickly. The main argument in his opinion: the openness of the development team to implement new technologies.
 
-Die Konferenz wurde mit kurzen Lightning Talks abgerundet, in deren Rahmen Teilnehmende aus dem Publikum kleinere Python Tricks vorstellen konnten.
+The conference was rounded off with short lightning talks, in which participants from the audience could present small Python tricks.
 
-Abends um 17 Uhr ging es mit dem Zug nach Hause. Insgesamt war es eine bereichernde Konferenzteilnahme, die einem neues Wissen mitgab, gleichzeitig aber auch bestehendes auffrischte.
+In the evening at 5 pm I went home by train. All in all, it was an enriching conference that gave us new knowledge, but at the same time also refreshed existing knowledge.
