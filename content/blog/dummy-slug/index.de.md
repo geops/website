@@ -10,6 +10,8 @@ Am 21. September 2023 nahm ich am [Swiss Python Summit](https://www.python-summi
 
 Die Konferenz fand bei herrlichem Frühherbstwetter in einem Gebäude der Hochschule OST, direkt am Zürichsee gelegen, statt.
 
+![](/images/blog/swiss-python-summit-2023/geops-swiss-python-summit-conference.jpg)
+
 Die Themenauswahl der Referenten war sehr breit gestreut und bediente mehrere Zielgruppen, von wissenschaftlichen Vorträgen zu Anwendungen von Machine Learning über Webentwicklung mit Python bis hin zur Einführung in Cpython. Trotz ihrer Unterschiedlichkeit, hatten alle Vorträge eins gemein: sie holten einen sehr gut ab, aber gingen dennoch gut ins Detail.
 
 Ein interessanter Vortrag war über die Libary [Kivy](https://kivy.org/), welche Frontendentwicklung in Python ermöglicht. Während Python hauptsächlich für das Backend bekannt ist, war es spannend zu sehen welche Entwicklungen im Frontendbereich geschehen. Ein Hauptaugenmerk von Kivy ist dabei, mit einer Codebasis Apps für verschiedene Plattformen zu entwickeln, was den Entwicklungsaufwand sehr stark reduziert. Die Library steckt noch in den Kinderschuhen, bietet sich sich aber als interessante Alternative zu [PyQt](https://riverbankcomputing.com/software/pyqt/intro) an.
