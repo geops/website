@@ -5,6 +5,10 @@ summary: On September 21, 2023, our backend developer Tobias made his way to
 author: Tobias Kronauer
 created: 2023-10-31
 slug: swiss-python-summit-2023-conference
+tags:
+  - conferences
+  - developers
+  - geops
 frontpageImage: /images/blog/swiss-python-summit-2023/geops-swiss-python-summit-conference.jpg
 published: false
 ---
