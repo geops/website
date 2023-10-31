@@ -5,7 +5,7 @@ summary: On September 21, 2023, our backend developer Tobias made his way to
 author: Tobias Kronauer
 created: 2023-10-31
 slug: swiss-python-summit-2023-conference
-frontpageImage: /images/blog/swiss-python-summit-2023/img_0392.jpg
+frontpageImage: /images/blog/swiss-python-summit-2023/geops-swiss-python-summit-conference.jpg
 published: false
 ---
 On September 21, 2023, I attended the [Swiss Python Summit](https://www.python-summit.ch/) in Rapperswil, Switzerland. The organization sees itself as the Swiss version of EuroPython 2015 and has been taking place since 2016. The goal is an exchange of knowledge between Python users and is aimed at both beginners and experienced users.
