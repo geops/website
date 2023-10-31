@@ -1,7 +1,7 @@
 {
   "en": {
-    "we1": "Intelligent web applications based on geographical and real-time data with a technical focus on public transport, mobility and the environment are the core competencies at geOps.",
-    "we2": "The spectrum ranges from data analysis and visualization through information systems and business solutions to complete geodata infra­structures and data hubs. geOps offers passenger information systems for public transport by integrating timetable and real-time data. ",
+    "we1": "The development and operation of intelligent web applications based on geo- and real-time data are the strength of geOps. The technical focus of geOps is on public transport, mobility and the environment.",
+    "we2": "The spectrum ranges from data analysis and visualisation to information systems and business solutions to complete data hubs. With the integration of timetable and real-time data, operational messages and detailed situation plans, geOps offers complete public transport passenger information systems.",
     "we3": "When selecting technologies, we have a clear focus on open source. In addition to using open source, it goes without saying that geOps also publishes its own developed products on a regular basis. We also support open source conferences, hackathons and similar events.",
     "circleYears": "Years",
     "we4": "geOps customers include transport companies, public administration and well-known international businesses.",
@@ -20,8 +20,8 @@
     "circleEmployee": "Employees"
   },
   "de": {
-    "we1": "Intelligente Web-Applikationen auf Basis von Geo- und Echtzeitdaten mit den fachlichen Schwerpunkten öffentlicher Verkehr, Mobilität und Umwelt sind die Stärke von geOps.",
-    "we2": "Die Bandbreite reicht dabei von der Datenanalyse und -visualisierung über Auskunfts­systeme und Geschäfts­lösungen bis hin zu kompletten Geo­daten-Infrastrukturen und Daten­drehscheiben. Mit der Integration von Fahrplan- und Echtzeitdaten bietet geOps Fahrgastinformationssysteme des öffentlichen Verkehrs.",
+    "we1": "Entwicklung und Betrieb intelligenter Web-Applikationen auf Basis von Geo- und Echtzeitdaten sind die Stärke von geOps. Die fachlichen Schwerpunkte setzt geOps in den Bereichen öffentlicher Verkehr, Mobilität und Umwelt.",
+    "we2": "Die Bandbreite reicht dabei von der Datenanalyse und -visualisierung über Auskunfts­systeme und Geschäfts­lösungen bis hin zu kompletten Daten­drehscheiben. Mit der Integration von Fahrplan- und Echtzeitdaten, Betriebsmeldungen und detaillierten Situationsplänen bietet geOps vollständige Fahrgastinformationssysteme des öffentlichen Verkehrs.",
     "we3": "Bei der Auswahl von Technologien setzen wir einen klaren Fokus auf Open Source. Neben der Nutzung von Open Source ist es für geOps selbst­verständlich, regelmässig auch eigene Entwicklungen zu veröffentlichen. Daneben unterstützen wir Open Source Konferenzen, Hackathons und ähnliche Events.",
     "circleYears": "Jahre",
     "we4": "Zu den Kunden von geOps zählen Verkehrsbetriebe, die öffentliche Verwaltung und namhafte inter­nationale Unternehmen.",
