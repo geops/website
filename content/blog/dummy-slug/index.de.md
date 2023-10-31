@@ -3,7 +3,7 @@ title: dd
 summary: dd
 created: 2023-10-31
 slug: dd
-published: true
+published: false
 ---
 Am 21. September 2023 nahm unser Backendentwickler Tobias Kronauer am [Swiss Python Summit](https://www.python-summit.ch/) in Rapperswil, Schweiz teil. Die Organisation versteht sich als Schweizer Version der EuroPython 2015 und findet seit 2016 statt. Ziel dabei ist ein Wissensaustausch zwischen Python-Anwender:innen und richtet sich sowohl an Anfänger:innen als auch an Erfahrene.
 
