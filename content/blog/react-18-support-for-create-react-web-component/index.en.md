@@ -1,9 +1,9 @@
 ---
 title: React 18 support for create-react-web-component
-summary: We wanted to update 5-years old dependences the trafimage-maps project.
-  But it appears one project was deprecated. What should we do? fix the project
-  or use something else? We decide to fix the project and give back to the
-  community.
+summary: We want to update five year old dependencies the trafimage-maps
+  project. But it appears one project dependency is deprecated. What should we
+  do? Fix the project or use something else? We decided to fix the project and
+  give back to the community.
 author: Olivier Terral
 cover: /images/blog/react-18-support-for-create-react-web-component/markus-spiske-8oykwqgbskq-unsplash.jpg
 created: 2023-12-19

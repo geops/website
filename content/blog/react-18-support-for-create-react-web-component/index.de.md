@@ -1,9 +1,10 @@
 ---
 title: React 18 Unterstützung für create-react-web-component
-summary: Wir wollten 5 Jahre alte Abhängigkeiten des trafimage-maps Projekts
-  aktualisieren. Aber es scheint, dass ein Projekt veraltet ist. Was sollen wir
-  tun? das Projekt reparieren oder etwas anderes verwenden? Wir entscheiden uns,
-  das Projekt zu fixen und der Gemeinschaft etwas zurückzugeben.
+summary: Wir wollen fünf Jahre alte Abhängigkeiten des Projekts trafimage-maps
+  aktualisieren. Aber es scheint, dass eine Projektabhängigkeit veraltet ist.
+  Was sollen wir tun? Das Projekt reparieren oder etwas anderes verwenden? Wir
+  haben uns entschieden, das Projekt zu reparieren und der Gemeinschaft etwas
+  zurückzugeben.
 created: 2023-12-19
 slug: react-18-unterstuetzung-fuer-create-react-web-component
 published: true
