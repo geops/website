@@ -1,11 +1,16 @@
 ---
 title: React 18 support for create-react-web-component
-summary: We wanted to update 5-years old dependences of trafimage-maps projetc.
-  But it appears one project was deprecated. What should we do fix the project
+summary: We wanted to update 5-years old dependences the trafimage-maps project.
+  But it appears one project was deprecated. What should we do? fix the project
   or use something else? We decide to fix the project and give back to the
   community.
+author: Olivier Terral
 created: 2023-12-19
 slug: react-18-support-for-create-react-web-component
+tags:
+  - developers
+  - geops
+  - javascript
 published: true
 ---
 Five years ago, we decide to transform the react application [maps.trafimage.ch](https:maps.trafimage.ch) (see project on [github](https://github.com/geops/trafimage-maps)) to a web component to facilitate the integration in an angular app and other non-react environments.
@@ -25,15 +30,9 @@ Until a big problem comes out :
 
 ![github project archived and deprecated](/images/blog/react-18-support-for-create-react-web-component/github-deprecated.png "github project archived and deprecated")
 
-
-
-T﻿he npm package were deprecated and the github project archived. My nightmare as OpenSource developer comes true.
-
-
+The  github project of create-react-web-component  is archived and the npm package is deprecated. My nightmare as OpenSource developer comes true.
 
 ![developer nightmare](/images/blog/react-18-support-for-create-react-web-component/dev-nightmare.gif "developer nightmare")
-
-
 
 The package is blocked to React 16. I hoped someone forked the project and fixed it but no. So 2 choices, find another package that does the same thing or get my hand dirty and fix the project of my own.
 
@@ -45,11 +44,7 @@ So I forked the project on \[geOps github repository](https://github.com/geops/c
 
 Transforming a react component to a web component is not so complicated. I could have copy/paste the 2 classes in the trafimage-maps project, but well, what the point to use OpenSource if you never give back.
 
-
-
 ![this the way](/images/blog/react-18-support-for-create-react-web-component/this-is-the-way.webp "this is the way")
-
-
 
 In bonus, I've removed all the CRA cli stuff and poylfill. It will make the project easier to manage. Now the user project is responsible to transpile it and add poylfill if needed.
 
