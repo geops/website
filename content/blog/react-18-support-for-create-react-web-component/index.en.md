@@ -24,25 +24,25 @@ Five years is long time in the javascript world, but for various reasons (mostly
 
 But now the time had come to face the inevitable. We decided to upgrade of a dozen major versions all at once.
 
-To our surprise, the updates mostly went smoothly, since all libraries turned out to be compatible with React 18. After some minor transpilation issues and refactoring of testing libraries, everything worked as expected.
+To our surprise, the updates mostly went smoothly, since all libraries turned out to be compatible with React 18. After some minor transpilation issues and refactoring of the testing environment, everything worked as expected.
 
 Until a major problem emerged:
 
 ![github project archived and deprecated](/images/blog/react-18-support-for-create-react-web-component/github-deprecated.png "github project archived and deprecated")
 
-The  github project of create-react-web-component is archived and the npm package is deprecated. My nightmare as OpenSource developer comes true.
+The github project of create-react-web-component is archived and the npm package is deprecated. My nightmare as OpenSource developer came true.
 
 ![developer nightmare](/images/blog/react-18-support-for-create-react-web-component/dev-nightmare.gif "developer nightmare")
 
-The package is pinned to React 16. I hoped someone forked the project and fixed it, but no luck. So two choices remained: find another package that does the same thing or get my hands dirty and fix the project myself.
+The package is pinned to React 16. I hoped someone had forked the project and fixed it, but no luck. So two choices remained: find another package that does the same thing or get my hands dirty and fix the project myself.
 
 After some research I found there are many more projects than five years ago that make react web-components, but none of them do exactly what create-react-web-component does. Specifically, none of them are able to pass non-serializable objects in such a simple way. 
 
-After a couple of hours of testing, I gave up and decided that fixing create-react-web-component was the best solution. I saw it as a challenge and was excited to find a way to make it work.
+After a couple of hours of testing, I gave up and decided that fixing create-react-web-component myself was the best solution. I saw it as a challenge and was excited to find a way to make it work.
 
 In contrast to five years ago, I now have a lot more experience using web-components. I also knew that React 18 introduced a new render function, which I assumed was the problem.
 
-So I forked the project on the [geOps github repository](https://github.com/geops/create-react-web-component). And it turned out it was as easy as I had hoped.
+So I forked the project on the [geOps github repository](https://github.com/geops/create-react-web-component) and got coding. And it turned out it was as easy as I had hoped.
 
 Transforming a react component to a web component is not so complicated. I could have copy/pasted my code updates into the trafimage-maps project, but what is the point of using OpenSource if you never give back.
 

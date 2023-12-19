@@ -17,13 +17,13 @@ Fünf Jahre sind eine lange Zeit in der Welt von JavaScript, aber aus verschiede
 
 Doch nun war die Zeit gekommen, sich dem Unvermeidlichen zu stellen. Wir beschlossen, ein Dutzend major-Versionen auf einem Schlag zu aktualisieren.
 
-Zu unserer Überraschung verliefen die Updates größtenteils reibungslos, da sich alle Bibliotheken als kompatibel mit React 18 erwiesen. Nach einigen kleineren Transpilierungsproblemen und der Überarbeitung von Testbibliotheken funktionierte alles wie erwartet.
+Zu unserer Überraschung verliefen die Updates größtenteils reibungslos, da sich alle Bibliotheken als kompatibel mit React 18 erwiesen. Nach einigen kleineren Transpilierungsproblemen und der Überarbeitung der Testumgebung funktionierte alles wie erwartet.
 
 Bis ein großes Problem auftauchte:
 
 ![github project archived and deprecated](/images/blog/react-18-support-for-create-react-web-component/github-deprecated.png "github project archived and deprecated")
 
-Das Github-Projekt von create-react-web-component ist archiviert und das npm-Paket ist veraltet. Mein Albtraum als OpenSource Entwickler wird wahr.
+Das Github-Projekt von create-react-web-component ist archiviert und das npm-Paket ist veraltet. Mein Albtraum als OpenSource Entwickler wurde wahr.
 
 ![developer nightmare](/images/blog/react-18-support-for-create-react-web-component/dev-nightmare.gif "developer nightmare")
 
@@ -35,7 +35,7 @@ Nach einigen Stunden des Ausprobierens gab ich auf und beschloss, dass die Repar
 
 Im Gegensatz zu vor fünf Jahren habe ich jetzt viel mehr Erfahrung mit Web-Komponenten. Ich wusste auch, dass mit React 18 eine neue Render-Funktion eingeführt wurde, von der ich annahm, dass sie das Problem war.
 
-Also habe ich das Projekt im [geOps github repository](https://github.com/geops/create-react-web-component) geforked. Und es stellte sich heraus, dass es so einfach war, wie ich gehofft hatte.
+Also habe ich das Projekt auf dem [geOps github repository](https://github.com/geops/create-react-web-component) geforkt und angefangen zu programmieren. Und es stellte sich heraus, dass es so einfach war, wie ich gehofft hatte.
 
 Die Umwandlung einer React-Komponente in eine Web-Komponente ist nicht so kompliziert. Ich hätte meine Code-Updates in das trafimage-maps-Projekt kopieren können, aber was nützt es, OpenSource zu verwenden, wenn man nie etwas zurückgibt.
 
