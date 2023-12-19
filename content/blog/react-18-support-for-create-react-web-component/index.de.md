@@ -8,7 +8,7 @@ created: 2023-12-19
 slug: react-18-unterstuetzung-fuer-create-react-web-component
 published: true
 ---
-Vor fünf Jahren beschlossen wir, die React-Anwendung [maps.trafimage.ch](https:maps.trafimage.ch) (siehe Projekt auf [github](https://github.com/geops/trafimage-maps)) in eine Webkomponente umzuwandeln, um die Integration in eine Angular-App und andere Nicht-React-Umgebungen zu erleichtern. 
+Vor fünf Jahren beschlossen wir, die React-Anwendung [maps.trafimage.ch](https://maps.trafimage.ch) (siehe Projekt auf [github](https://github.com/geops/trafimage-maps)) in eine Webkomponente umzuwandeln, um die Integration in eine Angular-App und andere Nicht-React-Umgebungen zu erleichtern. 
 
 Zu dieser Zeit gab es nicht viele Bibliotheken, die das konnten, eine davon war 
 [create-react-web-component](https://www.npmjs.com/package/create-react-web-component), vielen Dank an [SimonHoiberg](https://github.com/SimonHoiberg) für diese Bibliothek.

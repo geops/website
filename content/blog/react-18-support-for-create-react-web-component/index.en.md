@@ -15,7 +15,7 @@ tags:
 frontpageImage: /images/blog/react-18-support-for-create-react-web-component/markus-spiske-8oykwqgbskq-unsplash-small-optim.jpg
 published: true
 ---
-Five years ago, we decide to transform the react application [maps.trafimage.ch](https:maps.trafimage.ch) (see project on [github](https://github.com/geops/trafimage-maps)) to a web component to facilitate the integration in an angular app and other non-react environments. 
+Five years ago, we decide to transform the react application [maps.trafimage.ch](https://maps.trafimage.ch) (see project on [github](https://github.com/geops/trafimage-maps)) to a web component to facilitate the integration in an angular app and other non-react environments.
 
 At the time, there was not a lot of library that could do that, one of them was 
 [create-react-web-component](https://www.npmjs.com/package/create-react-web-component), thanks to [SimonHoiberg](https://github.com/SimonHoiberg) for this library.
