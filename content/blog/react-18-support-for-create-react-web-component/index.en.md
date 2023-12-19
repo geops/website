@@ -12,6 +12,7 @@ tags:
   - developers
   - geops
   - javascript
+frontpageImage: /images/blog/react-18-support-for-create-react-web-component/markus-spiske-8oykwqgbskq-unsplash-small-optim.jpg
 published: true
 ---
 Five years ago, we decide to transform the react application [maps.trafimage.ch](https:maps.trafimage.ch) (see project on [github](https://github.com/geops/trafimage-maps)) to a web component to facilitate the integration in an angular app and other non-react environments. 
