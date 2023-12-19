@@ -35,7 +35,7 @@ Nach einigen Recherchen gibt es viel mehr Projekte als noch vor 5 Jahren, die da
 
 Seit 5 Jahren habe ich viel mehr Erfahrung im Umgang mit Web-Komponenten. Ich wusste auch, dass React 18 eine neue Render-Funktion eingeführt hat, und das war wahrscheinlich das Problem.
 
-Also habe ich das Projekt auf [geOps github repository] (https://github.com/geops/create-react-web-component) geforkt. Und es scheint so einfach zu sein, wie es sich anhört.
+Also habe ich das Projekt auf [geOps github repository](https://github.com/geops/create-react-web-component) geforkt. Und es scheint so einfach zu sein, wie es sich anhört.
 
 Die Umwandlung einer React-Komponente in eine Web-Komponente ist nicht so kompliziert. Ich hätte die 2 Klassen in das trafimage-maps Projekt kopieren/einfügen können, aber naja, wozu OpenSource verwenden, wenn man nie etwas zurückgibt.
 
