@@ -38,7 +38,9 @@ The  github project of create-react-web-component  is archived and the npm packa
 
 The package is blocked to React 16. I hoped someone forked the project and fixed it but no. So 2 choices, find another package that does the same thing or get my hand dirty and fix the project of my own.
 
-After some research there is a lot more projects than 5 years ago that does the same things. But none of them does exactly what does create-react-web-component, by that, I mean  be able to pass non serializable object in a so simple way. After a couple of hours of testing, I gave up and decided that fixing create-rect-web-component was the best solution and I also liked the challenge.
+After some research there is a lot more projects than 5 years ago that does the same things. But none of them does exactly what does create-react-web-component, by that, I mean  be able to pass non serializable object in a so simple way. 
+
+After a couple of hours of testing, I gave up and decided that fixing create-rect-web-component was the best solution and I also liked the challenge.
 
 Since 5 years, I have a lot more experience using web-component. I also knew that React 18 introduced a new render function, and so, that was probably the problem.
 
