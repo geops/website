@@ -46,9 +46,7 @@ So I forked the project on \[geOps github repository](https://github.com/geops/c
 
 Transforming a react component to a web component is not so complicated. I could have copy/paste the 2 classes in the trafimage-maps project, but well, what the point to use OpenSource if you never give back.
 
-<﻿p align="center">
 ![this is the way](/images/blog/react-18-support-for-create-react-web-component/this-is-the-way.webp "this is the way")
-<﻿/p>
 
 In bonus, I've removed all the CRA cli stuff and poylfill. It will make the project easier to manage. Now the user project is responsible to transpile it and add poylfill if needed.
 
