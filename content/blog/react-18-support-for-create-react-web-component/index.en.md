@@ -44,7 +44,7 @@ After a couple of hours of testing, I gave up and decided that fixing create-rec
 
 Since 5 years, I have a lot more experience using web-component. I also knew that React 18 introduced a new render function, and so, that was probably the problem.
 
-So I forked the project on \[geOps github repository](https://github.com/geops/create-react-web-component). and it appears it was as easy as it sounded.
+So I forked the project on [geOps github repository](https://github.com/geops/create-react-web-component). and it appears it was as easy as it sounded.
 
 Transforming a react component to a web component is not so complicated. I could have copy/paste the 2 classes in the trafimage-maps project, but well, what the point to use OpenSource if you never give back.
 
