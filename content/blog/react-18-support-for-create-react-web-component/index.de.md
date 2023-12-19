@@ -5,7 +5,7 @@ summary: Wir wollten 5 Jahre alte Abhängigkeiten des trafimage-maps Projekts
   tun? das Projekt reparieren oder etwas anderes verwenden? Wir entscheiden uns,
   das Projekt zu fixen und der Gemeinschaft etwas zurückzugeben.
 created: 2023-12-19
-slug: react-18-unterstutzung-fur-create-react-web-component
+slug: react-18-unterstuetzung-fuer-create-react-web-component
 published: true
 ---
 Vor fünf Jahren beschlossen wir, die React-Anwendung [maps.trafimage.ch](https:maps.trafimage.ch) (siehe Projekt auf [github](https://github.com/geops/trafimage-maps)) in eine Webkomponente umzuwandeln, um die Integration in eine Angular-App und andere Nicht-React-Umgebungen zu erleichtern. 
