@@ -15,43 +15,41 @@ tags:
 frontpageImage: /images/blog/react-18-support-for-create-react-web-component/markus-spiske-8oykwqgbskq-unsplash-small-optim.jpg
 published: true
 ---
-Five years ago, we decide to transform the react application [maps.trafimage.ch](https://maps.trafimage.ch) (see project on [github](https://github.com/geops/trafimage-maps)) to a web component to facilitate the integration in an angular app and other non-react environments.
+Five years ago, we decided to transform the react application [maps.trafimage.ch](https://maps.trafimage.ch) (see project on [github](https://github.com/geops/trafimage-maps)) to a web component to facilitate the integration in Angular apps and other non-react environments.
 
-At the time, there was not a lot of library that could do that, one of them was 
-[create-react-web-component](https://www.npmjs.com/package/create-react-web-component), thanks to [SimonHoiberg](https://github.com/SimonHoiberg) for this library.
+At the time, there were not a lot of libraries that could do that. One of them was 
+[create-react-web-component](https://www.npmjs.com/package/create-react-web-component), thanks to [SimonHoiberg](https://github.com/SimonHoiberg) for this library. It was so easy to use that we decided to keep it.
 
-It was so easy to use that we keep it.
+Five years is long time in the javascript world, but for various reasons (mostly interdependency between packages and/or node version support) we hadn't updated dependencies like Node, OpenLayers, React and Material UI to their latest major versions.
 
-Five years is long time in the javascript world, and for different reasons (mostly interdependency between packages and/or node version support) we haven't updated to the last major dependencies like Node, OpenLayers, React and Material UI.
+But now the time had come to face the inevitable. We decided to upgrade of a dozen major versions all at once.
 
-But it was time, time for a big update of dozen major versions to update all at  once.
+To our surprise, the updates mostly went smoothly, since all libraries turned out to be compatible with React 18. After some minor transpilation issues and refactoring of testing libraries, everything worked as expected.
 
-It appears that it works pretty well, all librairies worked with React 18, it takes a few days of course, but except transpilation problems and update of testing librairies everythings works as expected.
-
-Until a big problem comes out :
+Until a major problem emerged:
 
 ![github project archived and deprecated](/images/blog/react-18-support-for-create-react-web-component/github-deprecated.png "github project archived and deprecated")
 
-The  github project of create-react-web-component  is archived and the npm package is deprecated. My nightmare as OpenSource developer comes true.
+The  github project of create-react-web-component is archived and the npm package is deprecated. My nightmare as OpenSource developer comes true.
 
 ![developer nightmare](/images/blog/react-18-support-for-create-react-web-component/dev-nightmare.gif "developer nightmare")
 
-The package is blocked to React 16. I hoped someone forked the project and fixed it but no. So 2 choices, find another package that does the same thing or get my hand dirty and fix the project of my own.
+The package is pinned to React 16. I hoped someone forked the project and fixed it, but no luck. So two choices remained: find another package that does the same thing or get my hands dirty and fix the project myself.
 
-After some research there is a lot more projects than 5 years ago that does the same things. But none of them does exactly what does create-react-web-component, by that, I mean  be able to pass non serializable object in a so simple way. 
+After some research I found there are many more projects than five years ago that make react web-components, but none of them do exactly what create-react-web-component does. Specifically, none of them are able to pass non-serializable objects in such a simple way. 
 
-After a couple of hours of testing, I gave up and decided that fixing create-rect-web-component was the best solution and I also liked the challenge.
+After a couple of hours of testing, I gave up and decided that fixing create-react-web-component was the best solution. I saw it as a challenge and was excited to find a way to make it work.
 
-Since 5 years, I have a lot more experience using web-component. I also knew that React 18 introduced a new render function, and so, that was probably the problem.
+In contrast to five years ago, I now have a lot more experience using web-components. I also knew that React 18 introduced a new render function, which I assumed was the problem.
 
-So I forked the project on [geOps github repository](https://github.com/geops/create-react-web-component). and it appears it was as easy as it sounded.
+So I forked the project on the [geOps github repository](https://github.com/geops/create-react-web-component). And it turned out it was as easy as I had hoped.
 
-Transforming a react component to a web component is not so complicated. I could have copy/paste the 2 classes in the trafimage-maps project, but well, what the point to use OpenSource if you never give back.
+Transforming a react component to a web component is not so complicated. I could have copy/pasted my code updates into the trafimage-maps project, but what is the point of using OpenSource if you never give back.
 
 ![this is the way](/images/blog/react-18-support-for-create-react-web-component/this-is-the-way.webp "this is the way")
 
-In bonus, I've removed all the CRA cli stuff and poylfill. It will make the project easier to manage. Now the user project is responsible to transpile it and add poylfill if needed.
+As a bonus, I removed all the CRA cli stuff and poylfill. It will make the project easier to manage. Now the user project is responsible to transpile it and add poylfill if needed.
 
-So the geOps team is happy to share that we have published a new package version of create-react-web-component that supports React 18 under the name [@geops/create-react-web-component](https://www.npmjs.com/package/@geops/create-react-web-component) 
+So the geOps team is happy to announce that we have published a new version of create-react-web-component with React 18support under the name [@geops/create-react-web-component](https://www.npmjs.com/package/@geops/create-react-web-component) 
 
 Merry christmas!!
