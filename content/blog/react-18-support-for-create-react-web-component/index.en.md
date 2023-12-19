@@ -5,6 +5,7 @@ summary: We wanted to update 5-years old dependences the trafimage-maps project.
   or use something else? We decide to fix the project and give back to the
   community.
 author: Olivier Terral
+cover: /images/blog/react-18-support-for-create-react-web-component/markus-spiske-8oykwqgbskq-unsplash.jpg
 created: 2023-12-19
 slug: react-18-support-for-create-react-web-component
 tags:
