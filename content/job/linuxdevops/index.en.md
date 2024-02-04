@@ -4,7 +4,7 @@ summary: Do you manage a mixed server infrastructure in the cloud with ease? You
   want to use your Linux skills for projects in the fields of public transport
   and environment?
 slug: linuxdevops
-created: 2023-03-15
+created: 2024-02-05
 ---
 ## What awaits you
 
@@ -28,7 +28,7 @@ Ideally, but not necessarily, you have a university degree in computer science o
 * Always enough organic fruit, mineral water and organic coffee.
 * Attractive office on the 9th floor of a new building right next to Freiburg's main train station.
 * Regular team events.
-* Living and working in Freiburg (D) in the border triangle of Germany, France, Switzerland.
+* Living and working in Freiburg (D) in the tri-boder region of Germany, France, Switzerland.
 * A good work-life balance through flexible working hours (full/part-time and home office).
 * Work processes that have grown over many years of experience and are constantly being optimized to make everyone's job easier.
 
