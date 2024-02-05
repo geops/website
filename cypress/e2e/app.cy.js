@@ -147,6 +147,7 @@ describe("app", () => {
         it("using default language (german) then navigate to english.", () => {
           commonDesktopHomeNavigation();
           cy.get(enLinkDesktop).click();
+          cy.wait(1000);
           cy.url().should("include", "/en");
           cy.get(deLinkDesktop).click();
           cy.wait(1000);
@@ -156,6 +157,7 @@ describe("app", () => {
         it("using english then navigate to german", () => {
           commonDesktopHomeNavigation("en");
           cy.get(deLinkDesktop).click();
+          cy.wait(1000);
           cy.url().should("not.include", "/en");
           cy.get(enLinkDesktop).click();
           cy.wait(1000);
@@ -173,6 +175,7 @@ describe("app", () => {
         it("using default language (german) then navigate to english.", () => {
           commonMobileHomeNavigation();
           cy.get(enLinkMobile).click({ force: true });
+          cy.wait(1000);
           cy.url().should("include", "/en");
           cy.get(deLinkMobile).click({ force: true });
           cy.wait(1000);
@@ -182,6 +185,7 @@ describe("app", () => {
         it("using english then navigate to german.", () => {
           commonMobileHomeNavigation("en");
           cy.get(deLinkMobile).click({ force: true });
+          cy.wait(1000);
           cy.url().should("not.include", "/en");
           cy.get(enLinkMobile).click({ force: true });
           cy.wait(1000);
