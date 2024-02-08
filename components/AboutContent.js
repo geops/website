@@ -7,6 +7,13 @@ import { useI18n } from "../lib/i18n";
 import Circle from "./Circle.js";
 import aboutImage from "../public/images/page/about/geops-about-text1.jpg";
 import about2Image from "../public/images/page/about/geops-about-text2.jpg";
+import bwconImage from "../public/images/partnership/bwcon.svg";
+import chOpenImage from "../public/images/partnership/ch-open.png";
+import fossgisImage from "../public/images/partnership/fossgis.svg";
+import itsChImage from "../public/images/partnership/its-ch.png";
+import medecinsSansFrontieresImage from "../public/images/partnership/medecins-sans-frontieres.svg";
+import sogiImage from "../public/images/partnership/sogi.png";
+import utpImage from "../public/images/partnership/utp.svg";
 import Markdown from "markdown-to-jsx";
 
 const TechnologyCarousel = dynamic(() => import("./TechnologyCarousel"), {
@@ -66,6 +73,22 @@ export default function AboutContent({ content, technologies }) {
         <Markdown>{content.sustainability}</Markdown>
       </p>
       <Image alt={t("about.sustainability")} src={about2Image} />
+      <h2 id="partnership">{t("about.partnership")}</h2>
+      <p>
+        <Markdown>{content.partnership}</Markdown>
+      </p>
+      <div className="columns-2 md:columns-3 lg:columns-4 gap-16 mt-16">
+        <Image alt="bwcon" src={bwconImage} />
+        <Image alt="CH Open" src={chOpenImage} />
+        <Image alt="FOSSGIS" src={fossgisImage} />
+        <Image alt="its ch" src={itsChImage} />
+        <Image
+          alt="Medecins sans Frontieres"
+          src={medecinsSansFrontieresImage}
+        />
+        <Image alt="VÖV UTP" src={utpImage} />
+        <Image alt="SOGI" src={sogiImage} />
+      </div>
     </div>
   );
 }
