@@ -17,7 +17,8 @@
     "title": "We map the future",
     "circleClients": "Customers",
     "circleExperience": "Experience",
-    "circleEmployee": "Employees"
+    "circleEmployee": "Employees",
+    "partnership": "Never work alone. On the one hand, we strengthen our expertise on a project basis through cooperation with partner companies. At the same time, we are committed to promoting open software and data, the use and provision of spatial data and the development of intelligent mobility solutions through memberships, active collaboration and sponsorship in various associations."
   },
   "de": {
     "we1": "Entwicklung und Betrieb intelligenter Web-Applikationen auf Basis von Geo- und Echtzeitdaten sind die Stärke von geOps. Die fachlichen Schwerpunkte setzt geOps in den Bereichen öffentlicher Verkehr, Mobilität und Umwelt.",
@@ -32,6 +33,7 @@
     "title": "We map the future",
     "circleClients": "Kunden",
     "circleExperience": "Erfahrung",
-    "circleEmployee": "Mitarbeiter"
+    "circleEmployee": "Mitarbeiter",
+    "partnership": "Never work alone. Einerseits stärken wir unsere Kompetenzen projektbasiert durch die Kooperation mit Partnerunternehmen. Gleichzeitig setzen wir uns für die Förderung offener Software und Daten, die Nutzung und Bereitstellung von Geoinformationen sowie die Entwicklung intelligenter Mobilitätslösungen durch Mitgliedschaften, aktive Mitarbeit und Sponsorings in verschiedenen Verbänden ein."
   }
 }

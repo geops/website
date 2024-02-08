@@ -205,6 +205,12 @@ collections:
               name: sustainability,
               widget: "markdown",
             }
+          - {
+              i18n: true,
+              label: Parnership,
+              name: partnership,
+              widget: "markdown",
+            }
       - label: "Imprint"
         name: "imprint"
         file: "content/page/imprint.json"
@@ -264,6 +270,8 @@ collections:
               - { i18n: true, label: We, name: we }
               - { i18n: true, label: Work, name: work }
               - { i18n: true, label: Tech, name: tech }
+              - { i18n: true, label: Sustainability, name: sustainability }
+              - { i18n: true, label: Parnership, name: partnership }
           - label: "About Teaser"
             name: "aboutTeaser"
             i18n: true
