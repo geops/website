@@ -78,7 +78,7 @@ export default function AboutContent({ content, technologies }) {
         <Markdown>{content.partnership}</Markdown>
       </p>
       <div className="columns-2 md:columns-3 lg:columns-4 gap-16 mt-16">
-        <Image alt="bwcon" src={bwconImage} />
+        <Image alt="bwcon" className="mt-0 w-full" src={bwconImage} />
         <Image alt="CH Open" src={chOpenImage} />
         <Image alt="FOSSGIS" src={fossgisImage} />
         <Image alt="its ch" src={itsChImage} />
