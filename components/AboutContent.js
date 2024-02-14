@@ -11,8 +11,7 @@ import bwconImage from "../public/images/partnership/bwcon.svg";
 import chOpenImage from "../public/images/partnership/ch-open.png";
 import fossgisImage from "../public/images/partnership/fossgis.svg";
 import itsChImage from "../public/images/partnership/its-ch.png";
-import medecinsSansFrontieresImage from "../public/images/partnership/medecins-sans-frontieres.svg";
-import sogiImage from "../public/images/partnership/sogi.png";
+import sogiImage from "../public/images/partnership/sogi.svg";
 import utpImage from "../public/images/partnership/utp.svg";
 import Markdown from "markdown-to-jsx";
 
@@ -21,7 +20,7 @@ const TechnologyCarousel = dynamic(() => import("./TechnologyCarousel"), {
 });
 
 export default function AboutContent({ content, technologies }) {
-  const { t } = useI18n();
+  const { language, t } = useI18n();
   return (
     <div className="prose prose-xl mx-auto max-w-screen-lg p-8">
       <h2 id="we">{t("about.we")}</h2>
@@ -77,17 +76,25 @@ export default function AboutContent({ content, technologies }) {
       <p>
         <Markdown>{content.partnership}</Markdown>
       </p>
-      <div className="columns-2 md:columns-3 lg:columns-4 gap-16 mt-16">
-        <Image alt="bwcon" className="mt-0 w-full" src={bwconImage} />
-        <Image alt="CH Open" src={chOpenImage} />
-        <Image alt="FOSSGIS" src={fossgisImage} />
-        <Image alt="its ch" src={itsChImage} />
-        <Image
-          alt="Medecins sans Frontieres"
-          src={medecinsSansFrontieresImage}
-        />
-        <Image alt="VÖV UTP" src={utpImage} />
-        <Image alt="SOGI" src={sogiImage} />
+      <div className="grid md:grid-cols-6 sm:grid-cols-3 grid-cols-2 items-center gap-x-8">
+        <a href="https://www.its-ch.ch/" target="partnership">
+          <Image alt="its ch" src={itsChImage} />
+        </a>
+        <a href="https://www.voev.ch/de/" target="partnership">
+          <Image alt="VÖV UTP" src={utpImage} />
+        </a>
+        <a href="https://www.ch-open.ch/" target="partnership">
+          <Image alt="CH Open" src={chOpenImage} />
+        </a>
+        <a href="https://www.fossgis.de/" target="partnership">
+          <Image alt="FOSSGIS" src={fossgisImage} />
+        </a>
+        <a href={`https://www.sogi.ch/${language}`} target="partnership">
+          <Image alt="SOGI" className="px-6 w-full" src={sogiImage} />
+        </a>
+        <a href="https://www.bwcon.de/de/" target="partnership">
+          <Image alt="bwcon" className="w-full" src={bwconImage} />
+        </a>
       </div>
     </div>
   );
