@@ -34,7 +34,7 @@ export default function TechnologyCarousel({ slides = [] }) {
         <Slider
           aria-label="Slider"
           className="overflow-hidden"
-          classNameAnimation="transition ease-in-out duration-1000"
+          classNameAnimation="transition ease-in-out duration-1000 h-32"
         >
           {slides.map((technology) => (
             <Slide key={technology.image} className="text-center">
