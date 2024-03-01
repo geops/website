@@ -2,7 +2,6 @@
 
 import Layout from "./Layout.js";
 import NewsletterForm from "./NewsletterForm.js";
-import PageHeader from "./PageHeader.js";
 
 export default function Newsletter({ content }) {
   return (
@@ -12,7 +11,6 @@ export default function Newsletter({ content }) {
       path="/newsletter"
       translationPath="/newsletter"
     >
-      <PageHeader title="Newsletter" />
       <NewsletterForm translations={content} />
     </Layout>
   );
