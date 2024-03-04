@@ -10,6 +10,7 @@ slug: redis-psub-multiplexer
 tags:
   - python
   - developers
+frontpageImage: /images/blog/using-redis-subscriptions-efficiently-in-python/screenshot-from-2024-02-29-17-15-17.png
 published: false
 ---
 In our [world wide public transport tracker](https://mobility.portal.geops.io/de/world.geops.transit) we deliver a lot of updates to a lot of clients simultaneously.
