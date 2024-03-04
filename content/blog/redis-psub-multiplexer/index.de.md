@@ -1,5 +1,5 @@
 ---
-title: Using Redis Subscriptions Efficiently in Python
+title: Using Redis Subscriptions efficiently in Python
 summary: Inspired by the websockets broadcast feature we built a subscription
   multiplexer for redis subscriptions to subscribe to Redis channels and
   patterns once for all relevant clients.
