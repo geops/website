@@ -32,7 +32,7 @@ Each GTFS feed is linked to its own hash map with the key consisting of
 * the generalization level of the vehicle trajectory (the closer you zoom in the more detail you see)
 * the  hex-encoded bounding box of the vehicle trajectory
 
-The first step is to push out the data already in the cache so the user doesn't look at an empty map for too long. That's fairly cheep and scales nicely, or as Redis puts it: [O(1)](https://redis.io/commands/hget/).
+The first step is to push out the data already in the cache so the user doesn't look at an empty map for too long. That's fairly cheap and scales nicely, or as Redis puts it: [O(1)](https://redis.io/commands/hget/).
 
 Scanning through the items in the hash map is also fast, since we only need to look at the key to see whether the value is relevant for the user's zoom level and map extent by comparing the generalization level and bounding box encoded in the name. This scales at O(n).
 
