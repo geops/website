@@ -62,6 +62,7 @@
     "format": "eslint --cache --fix && prettier --write .",
     "lint": "next lint",
     "start": "next start",
+    "test:prod": "next build && next start",
     "test": "jest --passWithNoTests",
     "up": "yarn upgrade-interactive --latest"
   },

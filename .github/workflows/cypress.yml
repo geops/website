@@ -11,9 +11,7 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-          start: |
-            yarn build
-            yarn start
+          start: yarn test:prod
           browser: chrome
 
   cypress-run-firefox:
@@ -29,9 +27,7 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-          start: |
-            yarn build
-            yarn start
+          start: start: yarn test:prod
           browser: firefox
 
   # Edge test is unstable
@@ -47,7 +43,5 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-          start: |
-            yarn build
-            yarn start
+          start: start: yarn test:prod
           browser: edge
