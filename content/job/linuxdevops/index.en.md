@@ -6,6 +6,8 @@ summary: Do you manage a mixed server infrastructure in the cloud with ease? You
 slug: linuxdevops
 created: 2024-02-05
 ---
+With reliability and passion, we operate Linux systems with business applications, data hubs or web services for our customers as weell as modern DevOps environments for our team. If you are as passionate as we are about the administration of Linux servers and the operation and continuous improvement of our development environment, we are looking for you as a Linux Administrator and DevOps for our location in Freiburg (D), full-time or part-time (60-100 %).
+
 ## What awaits you
 
 You will work in interdisciplinary teams on the development and operation of customer solutions and our own products. For the databases, interfaces, microservices and business applications that are required, you will organize the deploys and monitor operations with comprehensive monitoring. Our systems are top-notch, and yet there is always a lot to improve. You play a decisive role in the conception and implementation of all optimizations. You will also regularly have the opportunity to try out new technologies and evaluate them together with us.

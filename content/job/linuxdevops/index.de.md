@@ -5,6 +5,8 @@ summary: "Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
   Verkehr und Umwelt sinnvoll einsetzen? "
 slug: linuxdevops
 ---
+Mit Zuverlässigkeit und Leidenschaft betreiben wir für unsere Kunden Linux-Systeme mit Business Applications, Datendrehscheiben oder Webdiensten und moderne DevOps-Umgebungen für unser Team. Wenn du gleich wie wir für die Administration von Linux-Servern und den Betrieb und die laufende Verbesserung unserer Entwicklungsumgebung brennst, suchen wir gebau dich als Linux Administrator und DevOps (m/w/d) für unseren Standort in Freiburg (D), in Voll- oder Teilzeit (60-100 %).
+
 ## Was dich erwartet
 
 Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unserer eigenen Produkte. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du die Deploys und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top, und doch gibt es immer viel zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
