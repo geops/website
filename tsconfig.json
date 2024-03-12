@@ -18,7 +18,8 @@
         "name": "next"
       }
     ],
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "baseUrl": "http://localhost:3000"
   },
   "include": [
     "next-env.d.ts",
