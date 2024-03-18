@@ -66,7 +66,7 @@ MOCO wurde urspr­ünglich für die SBB entwickelt, um auf den Generalanzeigern 
 
 mapset ist unser Online-Tool zum Zeichnen von Situationsplänen rund um Haltestellen. In den vergangenen Monaten haben wir mapset um zahlreiche Funktionen ergänzt. Dazu gehört zum Beispiel die Möglichkeit, Pläne abweichend von der Nordausrichtung zu drehen oder die Ergänzung von Satellitenbildern als Planhintergrund.
 
-Am besten testen Sie die neuen Funktionen von mapset online in der Demoversion unter [mapset.ch](http://mapset.ch/). Wenn wir Sie speziell zu allen Neuerungen von mapset auf dem Laufenden halten dürfen, empfehlen wir Ihnen, den [mapset-Newsletter](https://geops.sh/mapset) zu abonnieren.
+Am besten testen Sie die neuen Funktionen von mapset online in der Demoversion unter [mapset.ch](http://mapset.ch/). Wenn wir Sie speziell zu allen Neuerungen von mapset auf dem Laufenden halten dürfen, empfehlen wir Ihnen, den [mapset-Newsletter](https://geops.sh/6E83A54F98A4E7532) zu abonnieren.
 
 ## Events
 
@@ -94,7 +94,7 @@ Am 8. und 9. September können Sie uns bei der [Generalversammlung](https://www
 
 Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten bei geOps auf dem Laufenden. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://geops.sh/geopsnews).
 
-Interessieren Sie sich speziell für mapset? Dann empfehlen wir Ihnen, zusätzlich unseren [mapset-Newsletter](https://geops.sh/mapset) zu abonnieren.
+Interessieren Sie sich speziell für mapset? Dann empfehlen wir Ihnen, zusätzlich unseren [mapset-Newsletter](https://geops.sh/6E83A54F98A4E7532) zu abonnieren.
 
 Wenn Sie Fragen haben oder eine persönliche Beratung wünschen, zögern Sie bitte nicht und nehmen Sie mit uns Kontakt auf.
 

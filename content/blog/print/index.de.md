@@ -21,7 +21,7 @@ Wir stellen Ihnen hier einige Links zusammen, mit denen Sie die in der Broschür
 * [Live Map S-Bahn München](https://s-bahn-muenchen-live.de/)
 * [geOps-Newsletter](https://geops.ch/newsletter)
 * [Online-Editor mapset](https://mapset.ch)
-* [mapset-Newsletter](https://geops.sh/mapset)
+* [mapset-Newsletter](https://geops.sh/6E83A54F98A4E7532)
 * [Developer Portal](https://developer.geops.io)
 
 Mit einer Mail an [info@geops.ch](mailto:info@geops.ch) können Sie gerne Ihr persönliches gedrucktes Exemplar der Broschüre anfordern. Als PDF können Sie die Broschüre [hier](/images/geops_broschuere_solutions_web.pdf) herunterladen.

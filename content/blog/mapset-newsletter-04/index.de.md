@@ -49,7 +49,7 @@ Damit wir die ungefähre Personenzahl abschätzen können, bitte wir um unverbin
 
 ## Bleiben Sie in Kontakt 
 
-Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um *mapset* auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://geops.sh/mapset).
+Gerne halten wir Sie mit unserem Newsletter über alle Neuigkeiten rund um *mapset* auf dem Laufenden. Lernen Sie mit dem Newsletter immer die neuesten Funktionen kennen, lesen Sie Erfahrungsberichte anderer Nutzer und erfahren Sie alles über die Nutzungsmöglichkeiten. Kennen Sie jemanden, der sich für den Newsletter interessiert? Dann leiten Sie diese Mail einfach weiter oder verweisen Sie auf unser [Newsletter-Abonnement](https://geops.sh/6E83A54F98A4E7532).
 
 Interessieren Sie sich auch für unsere sonstigen Angebote wie Karten- und Routing-Dienste oder Echtzeit-Fahrgastinformationen? Dann empfehlen wir Ihnen, zusätzlich unseren [allgemeinen Newsletter](http://geops.sh/geopsnews) zu abonnieren.
 
