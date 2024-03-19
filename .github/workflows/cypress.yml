@@ -5,13 +5,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       # Install NPM dependencies, cache them correctly
       # and run all Cypress tests
       - name: Cypress run
-        uses: cypress-io/github-action@v5
+        uses: cypress-io/github-action@v6
         with:
-          start: yarn start
+          start: yarn test:prod
           browser: chrome
 
   cypress-run-firefox:
@@ -21,13 +21,13 @@ jobs:
       options: --user 1001
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       # Install NPM dependencies, cache them correctly
       # and run all Cypress tests
       - name: Cypress run
-        uses: cypress-io/github-action@v5
+        uses: cypress-io/github-action@v6
         with:
-          start: yarn start
+          start: yarn test:prod
           browser: firefox
 
   # Edge test is unstable
@@ -38,10 +38,10 @@ jobs:
       options: --user 1001
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Cypress run
-        uses: cypress-io/github-action@v5
+        uses: cypress-io/github-action@v6
         with:
-          start: yarn start
+          start: yarn test:prod
           browser: edge
