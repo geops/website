@@ -46,7 +46,7 @@ export default function PageNotFound() {
         />
       </svg>
       <I18n language={"de"}>
-        <Button href={`/`}>Start</Button>
+        <Button onClick={() => window.location = window.location.origin}>Start</Button>
       </I18n>
     </div>
   );
