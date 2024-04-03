@@ -174,7 +174,6 @@ describe("app", () => {
 
         it("using default language (german) then navigate to english.", () => {
           commonMobileHomeNavigation();
-          cy.get('[data-cy="menuButton"]').click();
           cy.get(enLinkMobile).click({ force: true });
           cy.wait(1000);
           cy.url().should("include", "/en");
@@ -185,7 +184,6 @@ describe("app", () => {
 
         it("using english then navigate to german.", () => {
           commonMobileHomeNavigation("en");
-          cy.get('[data-cy="menuButton"]').click();
           cy.get(deLinkMobile).click({ force: true });
           cy.wait(1000);
           cy.url().should("not.include", "/en");
