@@ -1,13 +1,18 @@
 ---
 title: Alternative Routing – geOps wins DB Challenge
-summary: Over the past two weeks, we have been working on the question of how
-  alternative travel options can be determined in the event of a disruption. We
-  were able to win a DB Regio challenge.
+summary: In den letzten zwei Wochen haben wir uns mit der Frage beschäftigt, wie
+  sich im Störungsfall alternative Reisemöglichkeiten bestimmen lassen. Mit
+  unserem Konzept konnten wir eine Challenge von DB Regio gewinnen.
 created: 2024-04-26
 slug: dbchallenge
 frontpage: true
 published: true
 ---
-The onset of winter in the Munich area at the beginning of December 2023 was the test case for us. At that time, around 50 cm of snow fell in a short space of time, more than ever before in Munich since records began almost 100 years ago. The city was literally engulfed in snow chaos at the time. Public transport was particularly affected. Most long-distance, regional and S-Bahn connections around Munich were interrupted and all other means of transport were also severely restricted. In Bavaria, route agents are the name given to those railroad employees who, in such cases, send out recommendations for alternative routes via all information channels. Thanks to the availability of up-to-date data from various sources and, above all, their extensive experience, the route agents do an excellent job. But especially in the event of major disruptions, there is often not enough time to analyze the situation comprehensively. 
-Over the past two weeks, we have been working on the question of how software can support the route agents or even independently provide recommendations to travelers. The concept was developed as part of a challenge organized by DB Regio under the direction of DB mindbox from Berlin.
-We were obviously able to convince the jury with our concept. Last Wednesday, we received congratulations on winning the challenge from Katja Machatsch, Head of Product Innovation & Product Management at DB Regio. We are very much looking forward to
+Der Wintereinbruch im Raum München Anfang Dezember 2023 war der Test Case für uns. Damals fielen in kurzer Zeit um die 50 cm Schnee, so viel wie noch nie zuvor in München seit Beginn der Aufzeichnungen vor fast 100 Jahren. Die Stadt ist damals im wahrsten Sinne des Wortes im Schneechaos versunken. Der öffentliche Verkehr war besonders betroffen. Die meisten Fern-, Regional- und S-Bahn-Verbindungen um München waren unterbrochen und auch alle anderen Verkehrsmittel waren stark eingeschränkt. Streckenagenten heissen in Bayern diejenigen Mitarbeitenden der Bahn, die in solchen Fällen Empfehlungen für Altlernativrouten auf alle Informationskanäle ausspielen. Dank der Verfügbarkeit aktueller Daten aus verschiedenen Quellen und vor allem dank ihrer grossen Erfahrung machen die Streckenagenten diesen Job ganz hervorragend. Aber gerade im Falle von Grossstörungen fehlt häufig die Zeit, die Lage umfassend zu analysieren. 
+Wir haben uns die letzten zwei Wochen mit der Frage beschäftigt, wie eine Software die Streckenagenten unterstützen oder sogar selbständig Empfehlungen an die Reisenden ausspielen kann. Die Konzeption fand im Rahmen einer Challenge von DB Regio unter der Regie der DB Mindbox aus Berlin statt.
+
+![Gewinn der DB Challenge mit Kaja Machatsch © Deutsche Bahn AG | Pablo Castagnola](/images/blog/alternative-routing-–-geops-wins-db-challenge/021lma_8345.jpg "Gewinn der DB Challenge mit Kaja Machatsch © Deutsche Bahn AG | Pablo Castagnola")
+
+*Gewinn der DB Challenge mit Kaja Machatsch © Deutsche Bahn AG | Pablo Castagnola*
+
+Mit unserem Konzept konnten wir offensichtlich die Jury überzeugen. Letzten Mittwoch haben wir von Katja Machatsch, Leiterin Produktinnovation & Produktmanagement bei DB Regio, die Glückwünsche zum Gewinn der Challenge entgegengenommen. Wir freuen uns sehr, in den nächsten Monaten zusammen mit der Bahn aus dem Konzept einen PoC zu schmieden.
