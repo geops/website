@@ -5,6 +5,7 @@ summary: Over the past two weeks, we have been working on the question of how
   were able to win a Deutsche Bahn challenge with our concept.
 created: 2024-04-26
 slug: dbchallenge
+frontpage: true
 published: true
 ---
 l﻿orem

@@ -7,6 +7,12 @@ author: Uli Müller
 cover: /images/blog/alternative-routing-–-geops-wins-db-challenge/026lma_8543.jpg
 created: 2024-04-26
 slug: dbchallenge
+tags:
+  - conferences
+  - developers
+  - disruptions
+frontpage: true
+frontpageImage: /images/blog/alternative-routing-–-geops-wins-db-challenge/021lma_8345.jpg
 published: true
 ---
 l﻿orem
