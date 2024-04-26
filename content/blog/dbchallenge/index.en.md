@@ -22,4 +22,4 @@ Wir haben uns die letzten zwei Wochen mit der Frage beschäftigt, wie eine Softw
 ![Gewinn der DB Challenge mit Kaja Machatsch](/images/blog/alternative-routing-–-geops-wins-db-challenge/021lma_8345.jpg "Gewinn der DB Challenge mit Kaja Machatsch")
 
 
-Mit unserem Konzept konnten wir offensichtlich die Jury ünerzeugen. Letzten Mittwoch haben wir von Katja Machatsch, Leiterin Produktinnovation & Produktmanagement bei DB Regio, die Glückwünsche zum Gewinn der Challenge entgegengenommen. Wir freuen uns sehr, in den nächsten Monaten zusammen mit der Bahn aus dem Konzept einen PoC zu schmieden.
+Mit unserem Konzept konnten wir offensichtlich die Jury überzeugen. Letzten Mittwoch haben wir von Katja Machatsch, Leiterin Produktinnovation & Produktmanagement bei DB Regio, die Glückwünsche zum Gewinn der Challenge entgegengenommen. Wir freuen uns sehr, in den nächsten Monaten zusammen mit der Bahn aus dem Konzept einen PoC zu schmieden.
