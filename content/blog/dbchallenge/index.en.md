@@ -11,7 +11,7 @@ tags:
   - conferences
   - developers
   - disruptions
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/alternative-routing-–-geops-wins-db-challenge/021lma_8345.jpg
 frontpageWeight: 0
 published: true
