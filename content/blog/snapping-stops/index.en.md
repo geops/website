@@ -11,8 +11,6 @@ tags:
   - developers
 published: true
 ---
-## Snapping stops to vehicle trajectories
-
 When importing timetable data including vehicle trajectories, one is often confronted with the problem of associating the calls at the stops of a trip with locations along the vehicle trajectory. The most prominent example is a [GTFS](https://gtfs.org/) feed including a [shapes.txt](https://gtfs.org/schedule/reference/#shapestxt) file. The vehicle trajectory is given as one entity covering the whole trip. In addition, the spatial locations of the stops are available. The problem of splitting up the trajectory at the stops is trivial if the split locations are just the stops projected to the vehicle trajectory. But it is not always that easy. Think for example of a bus serving a stop A and then driving back on the same road and serving another stop B as illustrated in figure 1. Where should the stop be placed: On the way to A or on the way back? The answer is clear: On the way back since the order of the calls in the timetable tells us so. But from a geometric perspective alone, it is not clear at all since both branches could be the closest point on the trajectory depending on the location that is stored for the stop. Even if all the stops would be positioned exactly on the trajectory (which is typically not the case), this would not solve the problem in general since the trajectory could overlap with itself at a stop location.
 
 ![A sketch of a part of a vehicle trajectory in the shape of a tree. The trajectory is forming a U-turn. It is overlapping with itself in opposite directions in the stem part of the tree. Two stops A and B are depicted. Stop B lies next to the stem part of the trajectory. A question mark indicates the ambiguity in placing stop B on the different parts of the trajectory.](/images/blog/snapping-stops-to-vehicle-trajectories/snap_a_b.png "Figure 1: An illustration of the problem of snapping a stop to different branches of a trajectory.")
@@ -27,7 +25,7 @@ The GTFS standard provides a tool to solve this problem: Each vertex of the traj
 
 Thus our task is twofold: Determine when to trust the given kilometrage and solve the snapping problem for the case of missing/incomplete kilometrage.
 
-### Preprocessing kilometrage data
+## Preprocessing kilometrage data
 
 In a first step, we check the stop locations: If they are too far away from the trajectory, we give up and ignore the corresponding trip. If the stop locations are fine, we proceed as follows for the kilometrage data: First we check the kilometrage of the trajectory. If there are at least two vertices assigned with a distance and all distances are non-decreasing and the total distance spanned is non-zero, we trust the trajectory distances. Missing distance values are complemented by linear interpolation and extrapolation using the existing values and a measurement of the true inter-vertex distances.
 
@@ -35,7 +33,7 @@ If this step was not successful, the kilometrage for the calls is discarded comp
 
 At this point we have some (or even none) of the calls equipped with a trusted kilometrage and for the remaining calls we only know their spatial location and their order in the trip which brings us to the snapping problem.
 
-### The snapping problem
+## The snapping problem
 
 Now what exactly is the snapping problem? Given a sequence of points (the calls at the stops) and a line string (the vehicle trajectory), we are looking for a sequence of locations along the line string that minimizes the sum of square distances to the given points with the constraint that we always have to move forward along the trajectory. Or more generally speaking: We have conditions for the spacing between consecutive locations along the trajectory. For example we might require that we have to move at least 50 meters along the trajectory before stopping at the next call.
 
@@ -47,7 +45,7 @@ Our current approach to the snapping problem is based on an approximate, iterati
 
 If a finite solution exists, it is then given by the finite shortest path through the DAG from the sentinel start to end node since the shortest path length is per definition of our edge costs the sum of square distances. The constraints of the minimum spacing conditions hold since we only used admissible transitions. The calls with trusted kilometrage can easily be incorporated by picking exactly one candidate vertex corresponding to the known location on the trajectory in the particular layer of the DAG.
 
-### Time Complexity
+## Time Complexity
 
 We conclude with a few words about the time complexity of the algorithm. The shortest path problem can be solved very elegantly for this special type of graph by only constructing edges that really have to be explored on the fly. For each candidate in a given layer, we only have to consider the shortest paths to reachable candidates in the previous layer and then find the minimum cost by adding one more edge. But the cost for this additional edge is either infinite or constant! Thus we have to find the minimum over all candidates in the previous layer which have an admissible extension to the current layer. If we sort the candidates by their location along the trajectory, this problem reduces to calculating the cumulative minima once per layer and finding out which edges are admissible. We can use a bisection search with increasing lower bound to find the range of admissible edges for each candidate. Let `N_cand` be the number of candidate vertices per layer. Calculating the cumulative minima is `O(N_cand)` per layer and the bisection search is `O(N_cand * log(N_cand))` per layer.
 
