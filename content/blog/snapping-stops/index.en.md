@@ -15,6 +15,8 @@ When importing timetable data including vehicle trajectories, one is often confr
 
 ![A sketch of a part of a vehicle trajectory in the shape of a tree. The trajectory is forming a U-turn. It is overlapping with itself in opposite directions in the stem part of the tree. Two stops A and B are depicted. Stop B lies next to the stem part of the trajectory. A question mark indicates the ambiguity in placing stop B on the different parts of the trajectory.](/images/blog/snapping-stops-to-vehicle-trajectories/snap_a_b.png "Figure 1: An illustration of the problem of snapping a stop to different branches of a trajectory.")
 
+*Figure 1: An illustration of the problem of snapping a stop to different branches of a trajectory.*
+
 The GTFS standard provides a tool to solve this problem: Each vertex of the trajectory is assigned a distance value (kilometrage). Then for each call of a trip, the exact location on the trajectory can be identified by a corresponding distance value. But experience from real data sources tells us that this kilometrage is sometimes missing, inaccurate or plain wrong. Typical errors are:
 
 * missing or incomplete kilometrage for the trajectory
