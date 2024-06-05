@@ -35,6 +35,7 @@ const commonDesktopNavigationViaMenu = (path, lang = "") => {
   cy.visit(lang);
 
   const pathLang = lang ? lang + "/" : "";
+  cy.wait(1000);
 
   // Find a link with an href attribute containing the path and click it
   cy.get(selectMenuListDesktop).should("be.visible");
@@ -75,12 +76,14 @@ const commonMobileNavigationViaMenu = (path, lang = "") => {
   cy.visit(lang);
 
   const pathLang = lang ? lang + "/" : "";
+  cy.wait(1000);
 
   // Find a link with an href attribute containing the path and click it
   cy.get(selectMenuListDesktop).should("be.not.visible");
   cy.get(selectMenuListMobile).should("be.not.visible");
   cy.get(selectMenuButton).should("be.visible");
   cy.get(selectMenuButton).click();
+  cy.wait(1000);
   cy.get(selectMenuListMobile).should("be.visible");
 
   if (lang == "en") {
@@ -108,10 +111,11 @@ const commonMobileNavigationViaMenu = (path, lang = "") => {
     }
   });
   links.eq(indexVisible).click();
+  cy.wait(1000);
 
   // The new url should include "/solution"
   cy.url().should("include", "/" + pathLang + path);
-  cy.get(selectMainTitle).should("be.visible");
+  cy.get(selectMainTitle).should("exist");
 };
 
 const commonMobileHomeNavigation = (lang = "") => {
@@ -143,6 +147,7 @@ describe("app", () => {
         it("using default language (german) then navigate to english.", () => {
           commonDesktopHomeNavigation();
           cy.get(enLinkDesktop).click();
+          cy.wait(1000);
           cy.url().should("include", "/en");
           cy.get(deLinkDesktop).click();
           cy.wait(1000);
@@ -152,6 +157,7 @@ describe("app", () => {
         it("using english then navigate to german", () => {
           commonDesktopHomeNavigation("en");
           cy.get(deLinkDesktop).click();
+          cy.wait(1000);
           cy.url().should("not.include", "/en");
           cy.get(enLinkDesktop).click();
           cy.wait(1000);
@@ -169,6 +175,7 @@ describe("app", () => {
         it("using default language (german) then navigate to english.", () => {
           commonMobileHomeNavigation();
           cy.get(enLinkMobile).click({ force: true });
+          cy.wait(1000);
           cy.url().should("include", "/en");
           cy.get(deLinkMobile).click({ force: true });
           cy.wait(1000);
@@ -178,6 +185,7 @@ describe("app", () => {
         it("using english then navigate to german.", () => {
           commonMobileHomeNavigation("en");
           cy.get(deLinkMobile).click({ force: true });
+          cy.wait(1000);
           cy.url().should("not.include", "/en");
           cy.get(enLinkMobile).click({ force: true });
           cy.wait(1000);

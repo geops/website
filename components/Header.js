@@ -38,6 +38,7 @@ export default function Header({ pathByLocale }) {
     { href: "/about#work", title: t("about.work") },
     { href: "/about#tech", title: t("about.tech") },
     { href: "/about#sustainability", title: t("about.sustainability") },
+    { href: "/about#partnership", title: t("about.partnership") },
     { href: "/about#team", title: "Team" },
   ];
   const menu = [

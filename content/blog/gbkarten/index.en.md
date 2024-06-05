@@ -15,7 +15,7 @@ tags:
   - routing
 frontpage: true
 frontpageImage: /images/blog/digitale-geltungsbereichskarten/gb1.jpg
-frontpageWeight: 0
+frontpageWeight: 3
 published: true
 ---
 ## Background
