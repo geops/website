@@ -1,6 +1,6 @@
 ---
 title: Industry event  ZUKUNFT NAHVERKEHR
-summary: Discuss the future of local transport from 04-09 Septmber at STATION Berlin.
+summary: Discuss the future of local transport from 04-09 September at STATION Berlin.
 author: Uli Müller
 cover: /images/blog/branchenveranstaltung-zukunft-nahverkehr/messe-zukunft-nahverkehr.jpg
 created: 2023-08-11
