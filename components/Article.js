@@ -20,37 +20,50 @@ function PreBlock({ children, ...rest }) {
   return <pre {...rest}>{children}</pre>;
 }
 
-function ArticleImage({ alt, imageSizes, src }) {
+function ArticleImage({ alt, imageSizes, src, title }) {
   const { height, width } = imageSizes[src] || {};
   if (!height || !width) {
     return `Fehler: Bildgröße für ${src} konnte nicht ermittelt werden.`;
   }
 
-  return <Image alt={alt} src={src} height={height} width={width} />;
+  return (
+    <Image alt={alt} src={src} height={height} width={width} title={title} />
+  );
 }
 
-function ResponsiveImage({ alt, desktop, mobile, imageSizes }) {
+function ResponsiveImage({ alt, desktop, mobile, imageSizes, title }) {
   return (
     <>
       {desktop && (
         <div className="block-desktop">
-          <ArticleImage alt={alt} imageSizes={imageSizes} src={desktop} />
+          <ArticleImage
+            alt={alt}
+            imageSizes={imageSizes}
+            src={desktop}
+            title={title}
+          />
         </div>
       )}
       {mobile && (
         <div className="block-mobile">
-          <ArticleImage alt={alt} imageSizes={imageSizes} src={mobile} />
+          <ArticleImage
+            alt={alt}
+            imageSizes={imageSizes}
+            src={mobile}
+            title={title}
+          />
         </div>
       )}
     </>
   );
 }
 
-export default function Article({ author, body, created, imageSizes }) {
+export default function Article({ author, body, created, imageSizes, title }) {
   const { language, t } = useI18n();
 
   return (
     <article className="container prose prose-xl mx-auto mb-16 max-w-screen-lg break-words px-8 pt-8 lg:pt-0">
+      {title && <h1 className="pt-16 text-center">{title}</h1>}
       <Markdown
         options={{
           overrides: {

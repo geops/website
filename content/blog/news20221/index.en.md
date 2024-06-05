@@ -68,7 +68,7 @@ MOCO was originally developed for SBB to communicate disruptions via a map on th
 
 mapset is our online tool for drawing situation plans around bus and train stops. In recent months, we have added numerous functions to mapset. These include, for example, the possibility to rotate plans deviating from the north orientation or the addition of satellite images as plan backgrounds.
 
-The best way to test the new functions of mapset is to use the demo version at [mapset.ch](http://mapset.ch/). If you would like us to keep you up to date on all the new features of mapset, we recommend that you subscribe to the [mapset newsletter](https://geops.sh/mapset).
+The best way to test the new functions of mapset is to use the demo version at [mapset.ch](http://mapset.ch/). If you would like us to keep you up to date on all the new features of mapset, we recommend that you subscribe to the [mapset newsletter](https://geops.sh/6E83A54F98A4E7532).
 
 ## Events
 
@@ -96,7 +96,7 @@ On 8 and 9 September you can meet us at the [General Assembly](https://www.voev.
 
 We would be happy to keep you up to date with all the latest news at geOps with our newsletter. Do you know someone who would be interested in receiving the newsletter? Then simply forward this mail or refer them to our [newsletter subscription](https://geops.sh/geopsnews).
 
-Are you specifically interested in mapset? Then we recommend that you also subscribe to our [mapset newsletter](https://geops.sh/mapset).
+Are you specifically interested in mapset? Then we recommend that you also subscribe to our [mapset newsletter](https://geops.sh/6E83A54F98A4E7532).
 
 If you have any questions or would like personal advice, please do not hesitate to contact us.
 

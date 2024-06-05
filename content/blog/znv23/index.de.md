@@ -1,10 +1,10 @@
 ---
-title: Branchenveranstaltung ZUKUNFT NAHVERKEHR
-summary: Diskutieren Sie vom 04.-09. Septmber in der STATION Berlin die Zukunft
+title: Branchen-Event ZUKUNFT NAHVERKEHR
+summary: Diskutieren Sie vom 04.-09. September in der STATION Berlin die Zukunft
   Nahverkehr.
 created: 2023-08-11
 slug: znv23
-frontpage: true
+frontpage: false
 published: true
 ---
 ![](/images/blog/branchenveranstaltung-zukunft-nahverkehr/messe-zukunft-nahverkehr.jpg)

@@ -121,7 +121,7 @@ collections:
         hint: "Optimized image used for frontpage list."
         required: false
       - label: "Frontpage Weight"
-        hint: "Position in der Liste auf der Startseite."
+        hint: "Position in der Liste auf der Startseite, je kleiner die Zahl, desto weiter oben."
         name: "frontpageWeight"
         widget: "number"
         required: false
@@ -205,6 +205,12 @@ collections:
               name: sustainability,
               widget: "markdown",
             }
+          - {
+              i18n: true,
+              label: Parnership,
+              name: partnership,
+              widget: "markdown",
+            }
       - label: "Imprint"
         name: "imprint"
         file: "content/page/imprint.json"
@@ -264,6 +270,8 @@ collections:
               - { i18n: true, label: We, name: we }
               - { i18n: true, label: Work, name: work }
               - { i18n: true, label: Tech, name: tech }
+              - { i18n: true, label: Sustainability, name: sustainability }
+              - { i18n: true, label: Parnership, name: partnership }
           - label: "About Teaser"
             name: "aboutTeaser"
             i18n: true
@@ -574,7 +582,7 @@ collections:
         hint: "Originalbild für die Liste auf der Startseite. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
         required: false
       - label: "Frontpage Weight"
-        hint: "Position in der Liste auf der Startseite."
+        hint: "Position in der Liste auf der Startseite, je kleiner die Zahl, desto weiter oben."
         name: "frontpageWeight"
         widget: "number"
         required: false

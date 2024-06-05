@@ -26,7 +26,7 @@ We have put together some links here that you can use to test the offerings desc
 * [Live Map S-Bahn Munich](https://s-bahn-muenchen-live.de/)
 * [geOps Newsletter](https://geops.ch/en/newsletter)
 * [Online-Editor mapset](https://mapset.io)
-* [mapset Newsletter](https://geops.sh/mapset)
+* [mapset Newsletter](https://geops.sh/6E83A54F98A4E7532)
 * [Developer Portal](https://developer.geops.io)
 
 You are welcome to request your personal printed copy of the brochure by sending an e-mail to [info@geops.ch](mailto:info@geops.ch). You can download the brochure as a PDF [here](/images/geops_broschuere_solutions_web_EN.pdf).
