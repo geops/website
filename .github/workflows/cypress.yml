@@ -22,13 +22,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      # Install NPM dependencies, cache them correctly
-      # and run all Cypress tests
+
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18.18.2"
+
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-          start: yarn start
-          browser: firefox
+          runTests: false
+
+      - run: yarn start-server-and-test start http://localhost:3000 'cypress run --browser firefox --headless'
 
   # Edge test is unstable
   cypress-run-edge:
