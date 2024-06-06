@@ -16,7 +16,12 @@ const nextConfig = {
 };
 
 module.exports = process.env.SENTRY_PROJECT
-  ? withSentryConfig(nextConfig, { silent: true })
+  ? withSentryConfig(nextConfig, {
+      silent: true,
+      errorHandler: (err) => {
+        console.warn(err);
+      },
+    })
   : nextConfig;
 
 // Redirects from old Drupal website to Next.js based website.
