@@ -33,7 +33,7 @@ jobs:
         with:
           runTests: false
 
-      - run: yarn start-server-and-test start http://localhost:3000 'cypress run --browser firefox --headless'
+      - run: yarn cy:test:firefox
 
   # Edge test is unstable
   cypress-run-edge:
