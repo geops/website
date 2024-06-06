@@ -60,7 +60,7 @@
     "cy:open": "cypress open",
     "cy:test": "start-server-and-test start http://localhost:3000 'cypress run --browser chrome --headless'",
     "cy:test:chrome": "start-server-and-test start http://localhost:3000 'cypress run --browser chrome --headless'",
-    "cy:test:firefox": "start-server-and-test start http://localhost:3000 'cypress run --browser firefox --headless'",
+    "cy:test:firefox": "start-server-and-test start http://localhost:3000 'cypress run --browser firefox'",
     "dev": "next",
     "format": "eslint --cache --fix && prettier --write .",
     "lint": "next lint",
