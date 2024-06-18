@@ -1,5 +1,5 @@
 ---
-title: Hub for timetable and real-time data
+title: TRALIS – hub for timetable and real-time data
 summary: Data integrator and data supplier, analysis pot, con­verter - the data
   hub is the basis for these and more functions
 cover: /images/solution/transit-data-hub/datendrehscheibe.png
@@ -18,12 +18,12 @@ frontpage: false
 frontpageImage: /images/solution/transit-data-hub/datendrehscheibe.png
 color: "#549413"
 ---
-In public transport nothing works without timetable data. However, the data in the target timetable only becomes really useful if a large number of additional data is intelligently linked to the timetable. Real-time data, disruption information, detailed information on the stops, the routes of the journeys - these and more data are collected in the data hub and intelligently linked with one another. Our data hub is a system that grows continuously with incoming requirements. The basis are data structures that are aligned with the VDV and NetEx standards in order to be able to cover the many requirements of an information system for traffic. Considering the extent of information in the data hub, the possible applications are also very diverse.
+Nothing works in public transport without timetable data. However, the data from the target timetable only becomes really useful when a variety of other data is linked to it. Real-time data, disruption information, detailed information on stops, the routes of journeys - this and more data is collected and intelligently combined in the data hub TRALIS. TRALIS is a system that is constantly growing in line with requirements. It is based on data structures that are aligned with VDV and NeTEx (CEN) standards in order to cover the many requirements of an information system for transportation. Corresponding to the breadth of information in the data hub, the possible applications are also very wide-ranging.
 
 <ResponsiveImage alt="Maps" desktop="/images/solution/transit-data-hub/sbb.jpg" mobile="/images/solution/transit-data-hub/maps-4-.jpg" />
 
-* **Traveler and fault information**  - Basis for accurate traveler information in real time
-* **Live Maps**  - vehicle positions based on target and real-time data
-* **Analyzes and statistics**  - availability potentials, punctuality statistics, driving performance
-* **Converter**  - Conversion between various proprietary and open formats such as GTFS
-* **Enrichment**  - Enrichment of timetable data with routes (shapes) or real-time data
+* **Traveler and disruption information** - basis for accurate traveler information in real time
+* **Live Maps** - vehicle positions based on target and real-time data
+* **Analysis and statistics** - accessibility potential, punctuality statistics, travel performance, quality assessments
+* **Geo-routing** - enrichment of timetable data with route shapes or real-time data
+* **Converter** - Conversion between different standards and open formats such as [GTFS](https://gtfs.org/de/), [GTFS-RT](https://gtfs.org/de/realtime/), [NeTEx](https://en.wikipedia.org/wiki/NeTEx), [VDV-452](https://www.vdv.de/oepnv-datenmodell.aspx), [VDV-453 and VDV-454](https://www.vdv.de/ist-daten-schnittstellen.aspx), [SIRI real-time data](https://transmodel-cen.eu/siri-standard/)
