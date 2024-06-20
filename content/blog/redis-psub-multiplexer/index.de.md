@@ -11,7 +11,7 @@ In our [world wide public transport tracker](https://mobility.portal.geops.io/de
 
 Each dot on the map represents a data source that is currently active:
 
-![A wold map with about 500 colored dots.](/images/blog/using-redis-subscriptions-efficiently-in-python/screenshot-from-2024-03-04-16-51-58.png "Map of data sources for our public transport tracker")
+![A world map with about 500 colored dots.](/images/blog/using-redis-subscriptions-efficiently-in-python/screenshot-from-2024-03-04-16-51-58.png "Map of data sources for our public transport tracker")
 
 When you zoom in you will see trains and then buses appear on the map. That means that every user sees a different set of vehicles moving.
 
