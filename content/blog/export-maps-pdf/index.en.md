@@ -1,6 +1,6 @@
 ---
 title: Export and print web maps as PDF
-summary: For some time now, some of our apps have offered the export of our maps in PDF format. This article presents our solutions for some new features of this feature 
+summary: For some time now, some of our apps have offered the export of our maps in PDF format. This article presents our solutions for some updates of this feature.
 author: Daniel Marsh-Hunn
 cover: /images/blog/export-maps-pdf/map_to_pdf.png
 created: 2024-06-20
@@ -9,7 +9,7 @@ tags:
   - developers
 published: true
 ---
-In our projects, we often implement maps for interactive applications on the web. But every now and then a client still needs to offer a static version of the maps. These are useful for printing maps, among other things. Therefore, some geOps applications offer a way to download maps as PDFs. Here we use the map of [Areas of validity](https://maps.trafimage.ch/ch.sbb.geltungsbereiche?lang=en) from Alliance Swisspass and the map of [RAILplus](https://www.railplus.ch/de/partner-bahnen) members as examples of this feature.
+In our projects, we often implement maps for interactive applications on the web. But every now and then a client still needs to offer a static version of the maps. These are useful for printing maps, among other things. Therefore, some geOps applications offer a way to download maps as PDFs. Here we use the map of [Areas of validity](https://maps.trafimage.ch/ch.sbb.geltungsbereiche?lang=en) from Alliance SwissPass and the map of [RAILplus](https://www.railplus.ch/de/partner-bahnen) members as examples of this feature.
 
 This article presents our solutions for the following features:
 * Generate client-side PDFs from a web map
@@ -68,7 +68,7 @@ const image = await loadImage(url);
 ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
 ```
 
-To be able to use custom fonts in the map legend, we import the downloaded .woff file as a base64 string and insert it into the <defs> tag of the SVG tree as *font-face*.
+To be able to use custom fonts in the map legend, we import the downloaded .woff file as a base64 string and insert it into the \<defs\> tag of the SVG tree as *font-face*.
 
 
 ```js

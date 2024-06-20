@@ -1,6 +1,6 @@
 ---
 title: Webkarten als PDF exportieren und drucken
-summary: Schon seit einiger Zeit bieten einige unserer Apps den Export unserer Karten im PDF-Format. Dieser Artikel stellt unsere Lösungen für einige Neuerungen  dieser Funktion vor
+summary: Schon seit einiger Zeit bieten einige unserer Apps den Export unserer Karten im PDF-Format. Dieser Artikel stellt unsere Lösungen für einige Neuerungen  dieser Funktion vor.
 author: Daniel Marsh-Hunn
 cover: /images/blog/export-maps-pdf/map_to_pdf.png
 created: 2024-06-20
@@ -18,7 +18,7 @@ Dieser Artikel stellt unsere Lösungen für die folgenden Funktionen vor:
 * Abgeschnittene Beschriftungen am Kartenrand entfernen
 * Verwendung einer Kartenebene zur Erzeugung der Kartenlegende
 
-Technisch gesehen gibt es eine hervorragende Open Source Javascript-Bibliothek für die clientseitige PDF-Erzeugung: [jsPDF](https://github.com/parallax/jsPDF). Diese Bibliothek bietet eine benutzerfreundliche API und eine ausführliche [Dokumentation](https://rawgit.com/MrRio/jsPDF/master/docs/index.html). Zum Zeitpunkt der Erstellung dieses Artikels hat jsPDF 4,6k Forks und 28,6k Sterne auf GitHub, was für die Popularität der Bibliothek spricht.Auswahl an [Abfragefunktionen](https://testing-library.com/docs/queries/about), die für eine benutzerorientierte Auswahl der DOM-Elemente  verwendet werden können. 
+Technisch gesehen gibt es eine hervorragende Open Source Javascript-Bibliothek für die clientseitige PDF-Erzeugung: [jsPDF](https://github.com/parallax/jsPDF). Diese Bibliothek bietet eine benutzerfreundliche API und eine ausführliche [Dokumentation](https://rawgit.com/MrRio/jsPDF/master/docs/index.html). Zum Zeitpunkt der Erstellung dieses Artikels hat jsPDF 4,6k Forks und 28,6k Sterne auf GitHub, was für die Popularität der Bibliothek spricht. 
 
 Für den eigentlichen Export der Karte verwenden wir die Komponente [CanvasSaveButton](https://react-spatial.geops.io/?layers=swiss.boundaries&baselayers=basebright.baselayer,basedark.baselayer&mode=custom&x=876887.69&y=5928515.41&z=5#canvassavebutton) aus [react-spatial](https://react-spatial.geops.io/), einer von geOps entwickelten und gepflegten React-Bibliothek. Die Komponente gibt die Karte in der gewünschten Größe und Auflösung als HTML-Canvas zurück. Nach der Erstellung der PDF-Instanz kann das Canvas dann als Bild in das PDF-Dokument eingefügt werden. Das Dokument wird dann als PDF im gewünschten Format exportiert.
 
@@ -68,7 +68,7 @@ const image = await loadImage(url);
 ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
 ```
 
-Um individuelle Schriftarten in der Kartenlegende verwenden zu können, importieren wir die heruntergeladene .woff-Datei als base64-String und fügen diesen in den <defs>-Tag des SVG-Baums als *font-face* ein.
+Um individuelle Schriftarten in der Kartenlegende verwenden zu können, importieren wir die heruntergeladene .woff-Datei als base64-String und fügen diesen in den \<defs\>-Tag des SVG-Baums als *font-face* ein.
 
 
 ```js
