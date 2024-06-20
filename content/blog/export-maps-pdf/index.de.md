@@ -1,6 +1,6 @@
 ---
 title: Webkarten als PDF exportieren und drucken
-summary: Schon seit einiger Zeit bieten einige unserer Apps den Export unserer Karten im PDF-Format. Dieser Artikel stellt unsere Lösungen für einige Neuerungen  dieser Funktion vor.
+summary: Schon seit einiger Zeit bieten einige unserer Apps den Export unserer Karten im PDF-Format. Dieser Artikel stellt unsere Lösungen für diverse Neuerungen  dieser Funktion vor.
 author: Daniel Marsh-Hunn
 cover: /images/blog/export-maps-pdf/map_to_pdf.png
 created: 2024-06-20
