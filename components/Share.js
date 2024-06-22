@@ -1,29 +1,11 @@
-import TwitterIcon from "./icons/TwitterIcon2.js";
-import XingIcon from "./icons/XingIcon2.js";
 import LinkedInIcon from "./icons/LinkedInIcon2.js";
-import FacebookIcon from "./icons/FacebookIcon2.js";
 import MailIcon from "./icons/MailIcon2.js";
 
 const socialMedia = [
   {
-    icon: <TwitterIcon className="w-full" />,
-    href: "http://www.twitter.com/intent/tweet?url={url}&text={title}",
-    title: "Twitter",
-  },
-  {
     icon: <LinkedInIcon className="w-full" />,
     href: "https://www.linkedin.com/sharing/share-offsite/?url={url}",
     title: "LinkedIn",
-  },
-  {
-    icon: <FacebookIcon className="w-full" />,
-    href: "http://www.facebook.com/sharer.php?u={url}&t={title}",
-    title: "Facebook",
-  },
-  {
-    icon: <XingIcon className="w-full" />,
-    href: "https://www.xing.com/spi/shares/new?url={url}",
-    title: "Xing",
   },
   {
     icon: <MailIcon className="w-full" />,
