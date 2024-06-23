@@ -5,19 +5,19 @@ summary: "Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
   Verkehr und Umwelt sinnvoll einsetzen? "
 slug: linuxdevops
 ---
-Mit Zuverlässigkeit und Leidenschaft betreiben wir für unsere Kunden Linux-Systeme mit Business Applications, Datendrehscheiben oder Webdiensten und moderne DevOps-Umgebungen für unser Team. Wenn du gleich wie wir für die Administration von Linux-Servern und den Betrieb und die laufende Verbesserung unserer Entwicklungsumgebung brennst, suchen wir gebau dich als Linux Administrator und DevOps (m/w/d) für unseren Standort in Freiburg (D), in Voll- oder Teilzeit (60-100 %).
+Mit Leidenschaft betreiben wir für unsere Kunden leistungsfähige Linux-Systeme mit Business Applications, Datendrehscheiben oder Webdiensten und moderne DevOps-Umgebungen für unser Team. Wenn du gleich wie wir für die Administration von Linux-Servern und den Betrieb und die laufende Verbesserung unserer Entwicklungsumgebung brennst, suchen wir genau dich als Linux Administrator und DevOps (m/w/d) für unseren Standort in Freiburg (D), in Voll- oder Teilzeit (60-100 %).
 
 ## Was dich erwartet
 
-Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unserer eigenen Produkte. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du die Deploys und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top, und doch gibt es immer viel zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
+Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unserer eigenen Produkte. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du Bauen, Testen und Deploy und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top, und doch gibt es immer viel zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
 
 ## Qualifikationen
 
 Du bringst umfassende  Erfahrungen in der Linux-Administration mit.
 
-Du kennst dich auf mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
+Du kennst dich aus mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
 
-Ausgeprägte Problemlösungs- und Kommunikationsfähigkeitenz zeichnen dich aus. Du fühlst dich in einer agilen, kollaborativen Umgebung wohl. Du bist interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
+Ausgeprägte Problemlösungs- und Kommunikationsfähigkeiten zeichnen dich aus. Du fühlst dich in einer agilen, kollaborativen Umgebung wohl. Du bist interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
 
 Idealerweise, aber nicht zwingend, verfügst du über ein Hochschulstudium in Informatik oder anderen natur- und ingenieur­wissen­schaft­lichen Studien­gängen oder eine Ausbildung zum Fachinformatiker. 
 
