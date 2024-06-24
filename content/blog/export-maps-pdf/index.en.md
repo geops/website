@@ -40,6 +40,18 @@ To enhance the procedure automation, we place some predefined placeholder string
 
 
 ```js
+const loadImage = (src) =>
+  new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = () => {
+      window.setTimeout(() => {
+        resolve(img);
+      }, 2000);
+    };
+    img.onerror = reject;
+    img.src = src;
+  });
+
 const ctx = canvas.getContext("2d");
 const svgString = await fetch(overlayImageUrl).then((response) =>
   response.text(),
