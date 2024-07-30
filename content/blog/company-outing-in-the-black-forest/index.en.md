@@ -11,15 +11,15 @@ tags:
   - team
 published: true
 ---
-After a busy first half of the year, it was finally time for some relaxation and a cozy get-together away from the daily grind. This time, our annual two-day company outing took us to the southern Black Forest, where we were able to escape the hot weather and enjoy nature.
+After a busy first half of the year, it was finally time for some relaxation and a homely get-together away from the daily grind. This time, our annual two-day company outing took us to the southern Black Forest, where we were able to escape the hot weather and enjoy nature.
 
-Our adventure began with the train ride to Schluchsee. We had originally planned a trip on the historic Sauschwänzlebahn, but due to a locomotive fault we had to change our plans. Instead, an idyllic boat trip on the Schluchsee awaited us. We glided across the water in bright sunshine and admired the surrounding landscape. The cool, fresh air and picturesque scenery immediately put us in a good mood and helped us relax.
+Our adventure began with the train ride to the Schluchsee. We had originally intended to ride on the historic Sauschwänzlebahn, but due to a locomotive fault we had to change our plans. Instead, an idyllic boat trip on the Schluchsee awaited us. We glided across the water in bright sunshine and admired the surrounding landscape. The cool, fresh air and picturesque scenery immediately put us in a good mood and helped us relax.
 
 ![](/images/blog/company-outing-in-the-black-forest/img_3860.jpg)
 
 ## Guided tour of the Baden State Brewery Rothaus
 
-After the boat trip, we made our way to the Badische Staatsbrauerei Rothaus brewery. A hearty lunch of Zäpflesuppe soup and roast beer awaited us there. Invigorated and in a good mood, we then took part in a brewery tour, during which we also learned that we had previously only drunk "the purest medicine" (as the brewery guide put it). The tour offered exciting insights into the art of brewing and the history of Rothaus.
+After the boat trip, we made our way to the Badische Staatsbrauerei Rothaus brewery. A hearty lunch of Zäpflesuppe soup and roast beer awaited us there. Invigorated and in a good mood, we then took part in a brewery tour, during which we also learned that we had previously only drunk "pure medicine" (as the brewery guide put it). The tour offered exciting insights into the art of brewing and the history of Rothaus.
 
 ![](/images/blog/company-outing-in-the-black-forest/img_3999.jpg)
 
