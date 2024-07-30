@@ -1,5 +1,5 @@
 ---
-title: Company Excursion into the Black Forest
+title: Company Excursion in the Black Forest
 summary: A brewery tour at an altitude of 1,000 meters and a visit to a cavern
   power plant deep below the mountain were on the agenda for the geOps company
   outing.
