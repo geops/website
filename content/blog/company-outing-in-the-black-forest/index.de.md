@@ -1,5 +1,5 @@
 ---
-title: Betriebsausflug im Schwarzwald
+title: Betriebsausflug in den Schwarzwald
 summary: Eine Brauereiführung auf 1.000 Meter Höhe sowie der Besuch einen
   Kavernenkraftwerks tief unterm Berg standen bei dem Betriebsausflug von geOps
   auf dem Programm.
