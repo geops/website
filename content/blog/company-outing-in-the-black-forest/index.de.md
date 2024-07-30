@@ -1,10 +1,10 @@
 ---
-title: Betriebsausflug im Schwarzwald
+title: Betriebsausflug in den Schwarzwald
 summary: Eine Brauereiführung auf 1.000 Meter Höhe sowie der Besuch einen
   Kavernenkraftwerks tief unterm Berg standen bei dem Betriebsausflug von geOps
   auf dem Programm.
 created: 2024-07-30
-slug: betriebsausflug-im-schwarzwald
+slug: betriebsausflug-in-den-schwarzwald
 published: true
 ---
 Nach einem arbeitsreichen ersten Halbjahr war es endlich Zeit für Entspannung und gemütliches Beisammensein abseits des Arbeitsalltags. Unser alljährlicher, zweitägiger Betriebsausflug führte uns dieses Mal in den Südschwarzwald, wo wir dem heißen Wetter entfliehen und die Natur genießen konnten.
