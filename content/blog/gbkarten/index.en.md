@@ -13,7 +13,7 @@ tags:
   - maps
   - passengerinformation
   - routing
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/digitale-geltungsbereichskarten/gb1.jpg
 frontpageWeight: 3
 published: true
