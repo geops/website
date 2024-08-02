@@ -6,7 +6,7 @@ summary: "Die Karte der Geltungsbereiche von Generalabo, Halbtax und weiteren
   wurde, wurde durch eine automatisch erstellte, dynamische Webkarte abgelöst. "
 created: 2023-01-29
 slug: gbkarten
-frontpage: true
+frontpage: false
 published: true
 ---
 ## Hintergrund
