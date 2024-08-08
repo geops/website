@@ -20,38 +20,38 @@ From our many years of experience, we know the needs of transport companies and 
 
 Of course, you have every opportunity to implement your individual layout and design in terms of white label components. And specific requirements that we have not yet provided for can be programmed individually, as with any CMS. You decide whether we program your website or whether you continue to work with your existing web agency. In this case, the agency takes over the design and programming of the website. We work in partnership with them and offer advice, technical support or the development of extensions as required.
 
-### **The CMS**
+### The CMS
 
 *mobilityCMS* includes extensions of commercially available, established content management systems as they are relevant for public transport. It has a modular structure, whereby you can use all modules or just individual ones, depending on your needs. We currently offer two versions. One offers extensions for the widely used *TYPO3*. A technically more modern variant is based on add-ons for the headless CMS *Statamic*. Both variants are open source software. This means that there are no license costs for you.
 
-#### **Attractive public transport maps**
+#### Attractive public transport maps
 
-Place cards at mobilityCMS are the basis for displaying information in many places. They serve as an overview of the route network and stops, show the course of connections, the location of disruptions or the position of destinations of tourist interest. The maps focus on public transport and show, for example, stop edges and station buildings particularly prominently. The color scheme of the maps can be adapted to your corporate design.
+Place cards at *mobilityCMS* are the basis for displaying information in many places. They serve as an overview of the route network and stops, show the course of connections, the location of disruptions or the position of destinations of tourist interest. The maps focus on public transport and show, for example, stop edges and station buildings particularly prominently. The color scheme of the maps can be adapted to your corporate design.
 
-#### **Connection search**
+#### Connection search
 
-There are many options available for the connection search. Regardless of the tool you choose, you can use mobilityCMS Display all connections clearly as a string of pearls or on the map.
+There are many options available for the connection search. Regardless of the tool you choose, you can use *mobilityCMS* Display all connections clearly as a string of pearls or on the map.
 
-#### **Network plans**
+#### Network plans
 
-We calculate network plans largely automatically from timetables and graphically optimize them manually as required. The advantage of this is that the plans can be updated at any time without any additional work. The network maps are the basis for visualizing current information such as the routes of lines or disruptions in the network in interactive form. Of course, the maps are also suitable for output in printed form.
+We [calculate network plans largely automatically](https://geops.com/en/solution/network-plans) from timetables and graphically optimize them manually as required. The advantage of this is that the plans can be updated at any time without any additional work. The network maps are the basis for visualizing current information such as the routes of lines or disruptions in the network in interactive form. Of course, the maps are also suitable for output in printed form.
 
-#### **Stops**
+#### Stops
 
-Stops are automatically synchronized from different data sources such as Delfi in Germany or Atlas (formerly DiDok) in Switzerland. Regardless of the source, you can always display the latest data on your website. The CMS then offers the option of adding individual information such as texts or images for individual stops.
+Stops are [automatically synchronized](https://geops.com/en/solution/transit-data-hub) from different data sources such as Delfi in Germany or Atlas (formerly DiDok) in Switzerland. Regardless of the source, you can always display the latest data on your website. The CMS then offers the option of adding individual information such as texts or images for individual stops.
 
-#### **Bus stop maps**
+#### Station maps
 
-If you want to offer detailed situation maps for your stops, you can use mapset provides an intuitive drawing tool that you can use to illustrate the specific situation at a stop. This is interesting for regular operations, but also important in the case of special events, roadworks or when operating replacement services.
+If you want to offer detailed situation maps for your stops, [mapset](https://www.mapset.ch/en) provides an intuitive drawing tool that you can use to illustrate the specific situation at a stop. This is interesting for regular operations, but also important in the case of special events, constructions or when operating replacement services.
 
-#### **Faults and construction sites**
+#### Faults and construction sites
 
-Manage interruptions and other disruptions as well as planned construction sites with our tool MOCO. In MOCO all events can be recorded individually and mapped to routes or stops. By connecting various sources to MOCO faults can also be read in automatically and displayed on an overview map.
+Manage interruptions and other disruptions as well as planned construction sites with our tool [MOCO](https://geops.com/en/solution/disruption-information). In MOCO all events can be recorded individually and mapped to routes or stops. By connecting various sources to MOCO faults can also be read in automatically and displayed on an overview map.
 
-#### **Tourist highlights**
+#### Tourist highlights
 
-For many companies, tourism is an important segment. It makes sense for these companies to display the tourist highlights that can be reached with their offer on a map. mobilityCMS provides the necessary components for this. Map displays, lists and detailed descriptions can be easily implemented.
+For many companies, tourism is an important segment. It makes sense for these companies to display the tourist highlights that can be reached with their offer on a map. *mobilityCMS* provides the necessary components for this. Map displays, lists and detailed descriptions can be easily implemented.
 
-#### **Any other pages**
+#### Any other pages
 
 As with any other CMS, additional pages such as company information or a news page can be added as required. The advantage that mobilityCMS in this context is the possibility to integrate map views on such pages as well. For example, if you write a post about one of your lines, you can integrate a map showing the course of this line.
