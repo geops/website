@@ -7,7 +7,7 @@ pageCoverMobile: /images/solution/mobilitycms/2024-02-15-mobilitycms-home.png
 slug: mobilitycms
 contactSubtitle: Have you gotten curious and want to find out more about
   mobilityCMS? Then get in touch with us.
-weight: 1
+weight: 10
 tags:
   - mobility
   - passengerinformation
