@@ -8,7 +8,7 @@ pageCover: /images/solution/network-plans/lnp.png
 pageCoverMobile: /images/solution/network-plans/lnp.png
 slug: network-plans
 contactSubtitle: ""
-weight: 10
+weight: 9
 tags:
   - maps
   - passengerinformation
