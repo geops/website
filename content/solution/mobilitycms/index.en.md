@@ -18,7 +18,7 @@ gridImage: /images/solution/mobilitycms/2024-02-15-mobilitycms-home.png
 ---
 ## The website construction kit for public transport
 
-The website is your company's flagship. Your customers can use it to plan trips and buy tickets or travelcards. Public authorities can find out about your activities and the quality of your services. Local residents, the media and politicians can find out all about your company, construction projects and expansion plans here.
+The website is your companys flagship. Your customers can use it to plan trips and buy tickets or travelcards. Public authorities can find out about your activities and the quality of your services. Local residents, the media and politicians can find out all about your company, construction projects and expansion plans here.
 
 From our many years of experience, we know the needs of transport companies and that for public transport companies, all information revolves around stops and lines as well as the connections that run on them or - in the event of construction projects and disruptions - are impaired. We offer a modularkit so that you can use this information on your website in the best possible way and tailored to your requirements. All tools can be used individually or in combination for a complete user journey. With *mobilityCMS* you get [connections to web services and official public transport data hubs](https://geops.com/en/solution/transit-data-hub), from which a lot of information is automatically kept up to date. Time-consuming manual adjustments are therefore no longer necessary.
 
