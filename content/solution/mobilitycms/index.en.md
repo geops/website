@@ -1,8 +1,8 @@
 ---
 title: mobilityCMS
 summary: " A CMS tailored to public transport companies."
-cover: /images/solution/mobilitycms/2024-02-15-mobilitycms-home.png
-pageCover: /images/solution/mobilitycms/2024-02-22-mobilitycms-tablet.png
+cover: /images/solution/mobilitycms/mobility-cms-website-4.png
+pageCover: /images/solution/mobilitycms/mobility-cms-website-4.png
 pageCoverMobile: /images/solution/mobilitycms/2024-02-15-mobilitycms-home.png
 slug: mobilitycms
 contactSubtitle: Have you gotten curious and want to find out more about
