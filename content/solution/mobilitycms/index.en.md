@@ -14,6 +14,7 @@ tags:
 frontpage: false
 frontpageTitle: mobilityCMS
 color: white
+gridImage: /images/solution/mobilitycms/2024-02-15-mobilitycms-home.png
 ---
 ## The website construction kit for public transport
 
