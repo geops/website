@@ -12,7 +12,7 @@ Dein Herz schlägt für moderne, herausragende Software-Lösungen auf Basis inno
 * Konzeption und Realisierung der Frontends für Software-Lösungen mit Relevanz.
 * Anwendung unserer Backend-APIs und Microservices.
 * Weiterentwicklung unserer Open Source JavaScript Bibliotheken.
-* Ausarbeitung und Umsetzung von Screendesigns und UX.
+* Umsetzung von Screendesigns und UX.
 * Qualitätssicherung mit Code Reviews, automatisiertem Testing und Continous Delivery.
 * Arbeit im Team aus kompetenten und motivierten Expert:innen.
 
