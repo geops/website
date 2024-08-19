@@ -13,7 +13,7 @@ Your heart beats for modern, outstanding software solutions based on innovative 
 * Designing and implementing front ends for software solutions with relevance.
 * Application of our backend APIs and microservices.
 * Further development of our open source JavaScript libraries.
-* Elaboration and implementation of screen designs and UX.
+* Implementation of screen designs and UX.
 * Quality assurance with code reviews, automated testing and continuous delivery.
 * Working in a team of competent and motivated Expert:in.
 
