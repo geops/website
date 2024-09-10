@@ -12,8 +12,6 @@ published: true
 ---
 Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in Berlin? Das ist ganz bequem und umweltfreundlich mit dem Zug erreichbar. Ab verschiedenen Schweizer Bahnhöfen gibt es direkte Tag- und Nachtverbindungen in europäische Städte. Unsere Karte «Direktverbindungen nach Europa» für die SBB bildet das mit einem Liniennetzplan visuell ansprechend ab.
 
-
-
 ## Der Hintergrund
 
 Die direkten Tag- und Nachtverbindungen aus der Schweiz nach Europa werden bei den Bahnreisenden immer beliebter. Das weiss auch unsere Kundin SBB. Aus diesem Grund haben wir den spannenden Auftrag erhalten, die direkten Bahnverbindungen in verschiedene europäische Städte in einer eigenen [Karte](https://www.sbb.ch/de/freizeit-ferien/destinationen/staedte-laender-europa.html) abzubilden.
@@ -30,17 +28,13 @@ Um den immer wichtiger werdenden Nachtverbindungen die Relevanz zu geben, die si
 
 <ResponsiveImage alt="direct-connections-night" desktop="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_3.png" mobile="/images/blog/direct-connections-europe-new-line-network-map/blog_ipv_3_mobile.png" />
 
-
-
 ## Die Lösung
 
 In unserem geoCMS Cartaro ermöglichen wir die Datenerfassung- und pflege. Die Kunden können darin selbst die Verbindungen erfassen, welche in der Karte abgebildet werden sollen. Dafür stehen europaweite Zugnetze zur Verfügung, auf denen beliebige Verbindungen frei eingetragen werden können.
 
 Nebst der Wahl, ob es eine Tag- oder Nachtverbindung ist, können die Stationen erfasst, sowie ein Kurzbeschrieb und ein Link hinzugefügt werden. Ganz im Sinne einer internationalen Karte funktioniert das in vier Sprachen (deutsch, französisch, italienisch und englisch).
 
-Wir haben eigens einen Algorithmus entwickelt, mit dem auf Basis der neu eingetragenen oder geänderten Daten ein Liniennetzplan generiert werden kann. Um den Plan noch im Bearbeitungsmodus prüfen zu können, gibt es eine Vorschau. Nachdem diese durch die Kunden aufgerufen und geprüft wurde, können auf Knopfdruck Vektor Tiles mit den aktuellen Daten gebaut werden.
-
-
+Wir haben eigens einen Algorithmus entwickelt, mit dem auf Basis der neu eingetragenen oder geänderten Daten ein Liniennetzplan generiert werden kann. Um den Plan noch im Bearbeitungsmodus prüfen zu können, gibt es eine Vorschau. Nachdem diese durch die Kunden aufgerufen und geprüft wurde, können auf Knopfdruck Vector Tiles mit den aktuellen Daten gebaut werden.
 
 ## Ausblick
 
