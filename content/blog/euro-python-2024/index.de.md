@@ -1,7 +1,7 @@
 ---
 title: EuroPython 2024 in Prag
-summary: Im Juli fuhren unsere Backendentwickler mit dem Nachtzug nach Prag um
-  an der EuroPython teilzunehmen.
+summary: Im Juli fuhren zwei Backendentwickler mit dem Nachtzug nach Prag, um an
+  der EuroPython teilzunehmen.
 created: 2024-09-12
 slug: euro-python-2024
 published: true
