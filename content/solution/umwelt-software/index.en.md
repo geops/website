@@ -5,7 +5,6 @@ summary: Our environmental software focuses on interoperability, durability and
 cover: /images/solution/umwelt-software/tree_app.png
 pageCover: /images/solution/umwelt-software/altlast4web.jpg
 slug: umwelt-software
-color: "#1A6A70"
 weight: 5
 tags:
   - altlast4web
@@ -13,9 +12,10 @@ tags:
   - maps
 frontpage: false
 frontpageImage: /images/solution/umwelt-software/altlast4web.jpg
+color: "#1A6A70"
 gridImage: /images/solution/umwelt-software/treeapp.png
 ---
-Through the use of open interfaces and standards, our applications can be seamlessly integrated into existing systems. We rely on established open source software for development and provide our products under open source licenses. Many customers can use our software license-free and mutually benefit from the enhancements and optimizations.
+Through the use of open interfaces and standards, our applications can be seamlessly integrated into existing systems. We rely on established open-source software for development and provide our products under open-source licenses. Many customers can use our software license-free and mutually benefit from the enhancements and optimizations.
 
 ## Altlast4Web
 
@@ -31,7 +31,7 @@ Numerous export options are available for data exchange. On the one hand, export
 
 ![](/images/solution/umwelt-software/grafik_bg_weis.png)
 
-Altlast4Web is a web application that is completely based on open source software. The open source model enables use without license costs and further development according to the needs of all customers.
+Altlast4Web is a web application that is completely based on open-source software. The open-source model enables use without license costs and further development according to the needs of all customers.
 
 ### TreeApp
 
