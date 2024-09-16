@@ -24,4 +24,4 @@ Die für mich, aber auch für andere, interessanteste Keynote war von Armin Rona
 
 Freitag abends wurde die Konferenz abgerundet von unterhaltsamen Vorträgen wie Musizieren mit Python Code und Lightning Talks.
 
-Samstags ging es mit dem Zug wieder nach Hause. Für uns war die Konferenzteilnahme sehr bereichend. Wir haben einiges Neues gelernt und konnten bestehendes vertiefen.
+Samstags ging es mit dem Zug wieder nach Hause. Für uns war die Konferenzteilnahme sehr bereichend. Wir haben einiges Neues gelernt und konnten Bestehendes vertiefen.
