@@ -6,13 +6,13 @@ created: 2024-09-12
 slug: euro-python-2024
 published: true
 ---
-Im Juli 2024 nahmen wir, Milan und Tobias, an der [EuroPython](https://ep2024.europython.eu/) in Prag teil. Die Konferenz gehört zu den größten Python-Konferenzen Europas und richtet sich sowohl an Expert:innen als auch Anfänger:innen. Wir konnten nicht nur  Maintainern von namhaften (Open Source)-Bibliotheken wie [pydantic](https://docs.pydantic.dev/latest/), [Sentry](https://sentry.io/) und [FastAPI](https://fastapi.tiangolo.com/) zuhören, sondern auch bei warmen Sommerabenden ein (oder auch mehrere) Bier an der Moldau genießen. Das aber nur in Lokalen, da Alkoholkonsum in der Öffentlichkeit verboten ist, wie wir feststellen mussten.
+Im Juli 2024 nahmen wir, Milan und Tobias, an der [EuroPython](https://ep2024.europython.eu/) in Prag teil. Die Konferenz gehört zu den größten Python-Konferenzen Europas und richtet sich sowohl an Expert:innen als auch Anfänger:innen. Wir konnten nicht nur Maintainern von namhaften (Open Source)-Bibliotheken wie [pydantic](https://docs.pydantic.dev/latest/), [Sentry](https://sentry.io/) und [FastAPI](https://fastapi.tiangolo.com/) zuhören, sondern auch bei warmen Sommerabenden ein (oder auch mehrere) Bier an der Moldau genießen. Das aber nur in Lokalen, da Alkoholkonsum in der Öffentlichkeit verboten ist, wie wir feststellen mussten.
 
 ![](https://confluence.geops.com/download/attachments/166564682/IMG_20240710_210923.jpg?version=1&modificationDate=1725880372330&api=v2 "Tobias Kronauer > Blogeintrag Europython 2024 > IMG_20240710_210923.jpg")
 
 Die Konferenz an sich dauerte eine Woche und war in mehrere Teile unterteilt: Zwei Tage fanden Tutorials und Workshops statt, drei Tage gab es Vorträge und Keynotes und abschließend über das Wochenende Sprints. Wir beide nahmen lediglich an den Vorträgen teil, während Milan noch kurz zu den Sprints reinschnupperte.
 
-Ich fand die Vorträge  alle gut bis sehr gut. Dies lag sicherlich auch am professionellen Setting, denn viele der Vortragenden kamen von namhaften Unternehmen. Die Konferenz wurde komplett von Freiwilligen organisiert, dennoch waren auch große Unternehmen wie Bloomberg und Microsoft vor Ort.
+Ich fand die Vorträge alle gut bis sehr gut. Dies lag sicherlich auch am professionellen Setting, denn viele der Vortragenden kamen von namhaften Unternehmen. Die Konferenz wurde komplett von Freiwilligen organisiert, dennoch waren auch große Unternehmen wie Bloomberg und Microsoft vor Ort.
 
 Wie es sich für ein Unternehmen im Bereich des öffentlichen Verkehrs gehört, fuhren wir beide mit dem Nachtzug in einer tropischen Nacht von Freiburg nach Prag. Wir kamen direkt mit der ersten Kaffeepause im Prager Konferenzzentrum an. Der Kaffee war auch dringend nötig, da ich durch die nicht-vorhandene Klimaanlage im Zug die ganze Nacht über kein Auge zugemacht habe.
 
