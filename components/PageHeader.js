@@ -11,7 +11,9 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
           "h-[calc(100vh-8rem)] lg:h-[50vh]"
         }`}
       >
-        <div className={`relative ${titleDown ? "h-[50vh]" : "h-full"}`}>
+        <div
+          className={`relative ${titleDown ? "h-[max(75vw,300px)] sm:h-[min(50vw,600px)]" : "h-full"}`}
+        >
           {src && (
             <Image
               alt={`${title} Cover`}
