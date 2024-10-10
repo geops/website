@@ -12,7 +12,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
         }`}
       >
         <div
-          className={`relative ${titleDown ? "h-[calc(50vh+100px)]" : "h-full"}`}
+          className={`relative ${titleDown ? "h-[max(75vw,300px)] sm:h-[min(50vw,600px)]" : "h-full"}`}
         >
           {src && (
             <Image
