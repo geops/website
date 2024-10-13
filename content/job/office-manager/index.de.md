@@ -1,13 +1,13 @@
 ---
-title: Office-Manager (m/w/d)
+title: Office-Manager:in
 summary: Du bist ein Organisationstalent und überzeugst durch dein sympathisches
   Auftreten? Dann bist du vielleicht genau die/der Richtige! Für unseren
-  Standort in Freiburg suchen wir ab sofort eine/n Office-Manager/in bzw.
-  Sekretär/in (m/w/d) in Teilzeit (30-50%).
+  Standort in Freiburg suchen wir ab sofort eine/n Office-Manager:in bzw.
+  Sekretär:in in Teilzeit (30-50%).
 slug: office-manager
 created: 2024-10-13
 ---
-Du bist ein Organisationstalent und überzeugst durch dein sympathisches Auftreten? Dann bist du vielleicht genau die/der Richtige! Für unseren Standort in Freiburg suchen wir ab sofort eine/n Office-Manager/in bzw. Sekretär/in (m/w/d) in Teilzeit (30-50%).
+Du bist ein Organisationstalent und überzeugst durch dein sympathisches Auftreten? Dann bist du vielleicht genau die/der Richtige! Für unseren Standort in Freiburg suchen wir ab sofort eine/n Office-Manager:in bzw. Sekretär:in in Teilzeit (30-50%)..
 
 
 
@@ -26,11 +26,11 @@ Du bist ein Organisationstalent und überzeugst durch dein sympathisches Auftret
 
 
 
-* Ausbildung als Bürokauffrau/-kaufmann, eine ähnliche Ausbildung oder umfassende Praxiserfahrung in Büromanagement und Buchhaltung.
+* Ausbildung als Bürofachkraft, eine ähnliche Ausbildung oder umfassende Praxiserfahrung in Büromanagement und Buchhaltung.
 * Engagement, Zuverlässigkeit und Organisationstalent.
-* Motivation zur Mitarbeit in einem flexiblen und motivierten Team.
+* Motivation zur Mitarbeit in einem flexiblen und motivierenden Team.
 * Routinierter Umgang mit Internet und MS Office Anwendungen.
-* Sehr gute Deutschkenntnisse in Wort und Schrift.
+* Gute Deutschkenntnisse in Wort und Schrift.
 * Offenheit und Kommunikationsbereitschaft.
 
 
@@ -39,14 +39,17 @@ Du bist ein Organisationstalent und überzeugst durch dein sympathisches Auftret
 
 
 
+* Eine offene, freundliche, durch gegenseitige Wertschätzung geprägte Arbeitsatmosphäre.
 * Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienstmöglichkeiten.
 * Attraktive Zusatzleistungen zum Festgehalt (z.B. Jobticket, Kita-Zuschüsse und vieles mehr).
 * Individuelle Förderung und Weiterbildung.
+* Schöne und modern ausgestattete, gut mit dem öffentlichen Verkehr erreichbare Büros (direkt am Freiburger Hauptbahnhof). 
+
 * Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee.
-* Attraktives Büro im 9. Stock direkt am Freiburger Hauptbahnhof.
-* Sehr gute Erreichbarkeit mit öffentlichen Verkehrsmitteln.
 * Regelmässige Team-Events.
 * Flexible Arbeitszeiten (Voll-/Teilzeit und Home Office).
+
+Vielfalt ist uns wichtig – wir freuen uns über Bewerbungen unabhängig von Geschlecht, Herkunft, Religion, Behinderung, Alter oder sexueller Orientierung.
 
 
 
