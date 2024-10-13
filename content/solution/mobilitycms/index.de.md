@@ -28,11 +28,9 @@ Bei Unternehmen des öffentlichen Verkehrs drehen sich alle Informationen um Hal
 
 
 
-*mobilityCMS* beinhaltet Erweiterungen für handelsübliche, etablierte Content Management Systeme. Es ist modular aufgebaut, wobei alle Module zusammen oder nur einzelne davon genutzt werden können. Derzeit bieten wir zwei Varianten an. 
+*mobilityCMS* beinhaltet Erweiterungen für handelsübliche, etablierte Content Management Systeme. Es ist modular aufgebaut, wobei alle Module zusammen oder nur einzelne davon genutzt werden können. Derzeit bieten wir zwei Varianten an. Eine bietet Extensions für das weit verbreitete *TYPO3*. Eine weitere Variante basiert auf AddOns für das Headless-CMS *Statamic*. Beide Varianten sind Open Source. Das heisst, dass keine Lizenzkosten anfallen.
 
 
-
-Eine bietet Extensions für das weit verbreitete *TYPO3*. Eine weitere Variante basiert auf AddOns für das Headless-CMS *Statamic*. Beide Varianten sind Open Source. Das heisst, dass keine Lizenzkosten anfallen.
 
 ### Attraktive Karten des öffentlichen Verkehrs
 
