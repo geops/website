@@ -19,7 +19,7 @@ export default function PageHeader({
         }`}
       >
         <div
-          className={`relative ${titleDown ? "h-[max(75vw,300px)] sm:h-[min(50vw,600px)]" : "h-full"} ${maintainAspectRatio ? "w-[min(100vw,1800px)] sm:h-[min(50vw,900px)] m-auto" : ""}`}
+          className={`relative ${titleDown ? "h-[max(75vw,300px)] sm:h-[min(50vw,600px)]" : "h-full"} ${maintainAspectRatio ? "w-[min(100%,1800px)] sm:h-[min(50vw,900px)] m-auto" : ""}`}
         >
           {src && (
             <Image
