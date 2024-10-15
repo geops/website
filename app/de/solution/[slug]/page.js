@@ -1,7 +1,7 @@
 import getContentList from "../../../../lib/getContentList.js";
 import { getSolutionSlugProps } from "../../../../lib/getProps.js";
 import { generateSolutionSlugMetadata } from "../../../../lib/getMetadata.js";
-import Slug from "../../../../components/SolutionArtcile.js";
+import Slug from "../../../../components/SolutionArticle.js";
 
 export async function generateMetadata({ params: { slug } }) {
   const md = await generateSolutionSlugMetadata("de", slug);

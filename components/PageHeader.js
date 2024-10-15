@@ -1,6 +1,13 @@
 import Image from "next/image";
 
-export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
+export default function PageHeader({
+  src,
+  srcMobile,
+  title,
+  titleDown,
+  text,
+  maintainAspectRatio,
+}) {
   return (
     <>
       <div
@@ -12,7 +19,7 @@ export default function PageHeader({ src, srcMobile, title, titleDown, text }) {
         }`}
       >
         <div
-          className={`relative ${titleDown ? "h-[max(75vw,300px)] sm:h-[min(50vw,600px)]" : "h-full"}`}
+          className={`relative ${titleDown ? "h-[max(75vw,300px)] sm:h-[min(50vw,600px)]" : "h-full"} ${maintainAspectRatio ? "w-[min(100vw,1800px)] sm:h-[min(50vw,900px)] m-auto" : ""}`}
         >
           {src && (
             <Image
