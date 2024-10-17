@@ -28,7 +28,6 @@ export default function Solution(props) {
         srcMobile={solution.pageCoverMobile}
         title={solution.title}
         titleDown
-        maintainAspectRatio
       />
       <Article body={solution.body} imageSizes={solution.imageSizes} />
       <ContactPerson
