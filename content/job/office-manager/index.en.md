@@ -2,8 +2,8 @@
 title: Ofiice-Manager
 summary: Du bist ein Organisationstalent und überzeugst durch dein sympathisches
   Auftreten? Dann bist du vielleicht genau die/der Richtige! Für unseren
-  Standort in Freiburg suchen wir ab sofort eine/n Office-Manager/in bzw.
-  Sekretär/in (m/w/d) in Teilzeit (30-50%).
+  Standort in Freiburg suchen wir ab sofort eine/n Office-Manager:in bzw.
+  Sekretär:in in Teilzeit (30-50%).
 slug: office-manager
 created: 2024-10-13
 ---
