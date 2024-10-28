@@ -1,5 +1,5 @@
 ---
-title: Linux Administrator und DevOps (m/w/d) 60-100%
+title: Linux Administrator und DevOps-Engineer (m/w/d) 80-100%
 summary: "Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
   links? Du willst dein Linux-Können für Projekte in den Bereichen öffentlicher
   Verkehr und Umwelt sinnvoll einsetzen? "

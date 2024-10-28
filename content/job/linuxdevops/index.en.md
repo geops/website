@@ -1,5 +1,5 @@
 ---
-title: Linux Administrator and DevOps 60-100%
+title: Linux Administrator and DevOps-Engineer 80-100%
 summary: Do you manage a mixed server infrastructure in the cloud with ease? You
   want to use your Linux skills for projects in the fields of public transport
   and environment?
