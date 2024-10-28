@@ -1,5 +1,5 @@
 ---
-title: Ofiice-Manager
+title: Ofiice-Manager:in
 summary: Du bist ein Organisationstalent und überzeugst durch dein sympathisches
   Auftreten? Dann bist du vielleicht genau die/der Richtige! Für unseren
   Standort in Freiburg suchen wir ab sofort eine/n Office-Manager:in bzw.
