@@ -1,11 +1,11 @@
 ---
-title: Linux Administrator und DevOps (m/w/d) 60-100%
+title: Linux Administrator und DevOps-Engineer (m/w/d) 80-100%
 summary: "Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
   links? Du willst dein Linux-Können für Projekte in den Bereichen öffentlicher
   Verkehr und Umwelt sinnvoll einsetzen? "
 slug: linuxdevops
 ---
-Mit Leidenschaft betreiben wir für unsere Kunden leistungsfähige Linux-Systeme mit Business Applications, Datendrehscheiben oder Webdiensten und moderne DevOps-Umgebungen für unser Team. Wenn du gleich wie wir für die Administration von Linux-Servern und den Betrieb und die laufende Verbesserung unserer Entwicklungsumgebung brennst, suchen wir genau dich als Linux Administrator und DevOps (m/w/d) für unseren Standort in Freiburg (D), in Voll- oder Teilzeit (60-100 %).
+Mit Leidenschaft betreiben wir für unsere Kunden leistungsfähige Linux-Systeme mit Business Applications, Datendrehscheiben oder Webdiensten und moderne DevOps-Umgebungen für unser Team. Wenn du gleich wie wir für die Administration von Linux-Servern und den Betrieb und die laufende Verbesserung unserer Entwicklungsumgebung brennst, suchen wir genau dich als Linux Administrator und DevOps (m/w/d) für unseren Standort in Freiburg (D), in Voll- oder Teilzeit (80-100 %).
 
 ## Was dich erwartet
 

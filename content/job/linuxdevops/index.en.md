@@ -1,12 +1,12 @@
 ---
-title: Linux Administrator and DevOps 60-100%
+title: Linux Administrator and DevOps-Engineer 80-100%
 summary: Do you manage a mixed server infrastructure in the cloud with ease? You
   want to use your Linux skills for projects in the fields of public transport
   and environment?
 slug: linuxdevops
 created: 2024-02-05
 ---
-With reliability and passion, we operate Linux systems with business applications, data hubs or web services for our customers as weell as modern DevOps environments for our team. If you are as passionate as we are about the administration of Linux servers and the operation and continuous improvement of our development environment, we are looking for you as a Linux Administrator and DevOps for our location in Freiburg (D), full-time or part-time (60-100 %).
+With reliability and passion, we operate Linux systems with business applications, data hubs or web services for our customers as weell as modern DevOps environments for our team. If you are as passionate as we are about the administration of Linux servers and the operation and continuous improvement of our development environment, we are looking for you as a Linux Administrator and DevOps for our location in Freiburg (D), full-time or part-time (80-100 %).
 
 ## What awaits you
 
