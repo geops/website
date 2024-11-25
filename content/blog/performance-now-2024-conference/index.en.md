@@ -4,7 +4,7 @@ summary: Zwei Frontend-Entwickler von geOps machten sich nach Amsterdam auf, um 
 author: Daniel Marsh-Hunn & Friedjoff Trautwein
 cover: /images/blog/performance-now-2024-conference/perf-now.jpg
 created: 2024-11-25
-slug: performance-now-2024-conference
+slug: performance-now-2024
 tags:
   - developers
 published: true
