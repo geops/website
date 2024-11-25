@@ -13,6 +13,8 @@ geOps developers are encouraged to regularly expand their knowledge and skill se
 
 In November 2024 two geOps frontend developers headed to Amsterdam to attend [performance.now()](https://perfnow.nl/), a two-day single-track conference with fourteen world-class sessions covering today’s most important web performance insights. Considering the importance of performance in loading geOps maps and applications, this was an excellent opportunity for a deep dive into the domain.
 
+![Amsterdam by night](/images/blog/performance-now-2024-conference/amsterdam-by-night.JPEG "Amsterdam by night")
+
 The conference took place at the stunning Zuiderkerk, a 17th century protestant church turned into a conference venue. Attendees were well provided for, with food and drinks included throughout the whole event. Various sponsors were present promoting their products, [Mozilla](https://www.mozilla.org/), [Google](https://www.google.com/), [Akamai](https://www.akamai.com/) and [Sentry](https://sentry.io/) among others.
 
 The talks were extremely interesting and professional. The topics varied among several performance-related domains, and as one would expect, terms like “load times”, “caching” and “prefetching” were mentioned in most talks. Particularly interesting were presentations focusing on the performance angle of established frontend topics.
