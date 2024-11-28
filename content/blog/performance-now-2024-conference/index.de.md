@@ -27,6 +27,6 @@ Die meisten Vorträge betonten auch die verschiedenen Möglichkeiten der Perform
 
 Zuletzt hat [Annie Sullivan](https://www.linkedin.com/in/anniesullie/), die bei Google das Team für [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals) leitet, in einem inspirierenden Vortrag ihre langjährige Erfahrung gebündelt weitergegeben und gezeigt, mit welchen Methoden die komplexen Herausforderungen in diesem Themenbereich gemeistert werden können.
 
-![Vortragende der performance.now()-Konferenz](/images/blog/performance-now-2024-conference/perf-now-speakers.jpg "Vortragende der performance.now-Konferenz")
+![Vortragende der performance.now()-Konferenz](/images/blog/performance-now-2024-conference/perf-now-speakers.png "Vortragende der performance.now-Konferenz")
 
 Alles in allem war die Konferenz ein großer Erfolg und die Teilnehmer konnten neue Anregungen und Ideen für ihre eigenen Projekte mitnehmen. Als geOps-Entwickler freuen wir uns über die Möglichkeit, tiefere Einblicke in die Leistung unserer Anwendungen zu gewinnen und sie noch weiter zu verbessern.

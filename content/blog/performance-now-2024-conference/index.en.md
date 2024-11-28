@@ -27,7 +27,7 @@ Most talks also emphasised on the various ways of measuring and auditing perform
 
 Finally, [Annie Sullivan](https://www.linkedin.com/in/anniesullie/), who heads the [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals) team at Google, shared her many years of experience in an inspiring presentation and showed which methods can be used to overcome the complex challenges in this area.
 
-![performance.now() speakers](/images/blog/performance-now-2024-conference/perf-now-speakers.jpg "performance.now speakers")
+![performance.now() speakers](/images/blog/performance-now-2024-conference/perf-now-speakers.png "performance.now speakers")
 
 All in all, the conference was a great success and attendees acquired new input and ideas for their own projects. As geOps developers, we’re excited about the opportunity to gain deeper insights into our applications’ performance and enhance them even further.
 
