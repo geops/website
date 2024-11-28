@@ -2,7 +2,7 @@
 title: performance.now()
 summary: Zwei Frontend-Entwickler von geOps machten sich nach Amsterdam auf, um an der performance.now() teilzunehmen, einer zweitägigen Konferenz mit vierzehn erstklassigen Sessions, die die wichtigsten Erkenntnisse zur Web-Performance von heute behandeln. 
 author: Daniel Marsh-Hunn & Friedjoff Trautwein
-cover: /images/blog/performance-now-2024-conference/perf-now.jpg
+cover: /images/blog/performance-now-2024-conference/perfnow-sticker.png
 created: 2024-11-25
 slug: performance-now-2024
 tags:
@@ -13,7 +13,7 @@ geOps developers are encouraged to regularly expand their knowledge and skill se
 
 In November 2024 two geOps frontend developers headed to Amsterdam to attend [performance.now()](https://perfnow.nl/), a two-day single-track conference with fourteen world-class sessions covering today’s most important web performance insights. Considering the importance of performance in loading geOps maps and applications, this was an excellent opportunity for a deep dive into the domain.
 
-![Amsterdam by night](/images/blog/performance-now-2024-conference/amsterdam-by-night.JPEG "Amsterdam by night")
+![Tim Kadlec at perf.now](/images/blog/performance-now-2024-conference/perfnow-2024-kadlec.png "Tim Kadlec at perf.now")
 
 The conference took place at the stunning Zuiderkerk, a 17th century protestant church turned into a conference venue. Attendees were well provided for, with food and drinks included throughout the whole event. Various sponsors were present promoting their products, [Mozilla](https://www.mozilla.org/), [Google](https://www.google.com/), [Akamai](https://www.akamai.com/) and [Sentry](https://sentry.io/) among others.
 
