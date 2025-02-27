@@ -1,8 +1,7 @@
 ---
-title: "geOps auf dem ÖPNV-Zukunftskongress 2025: Innovative Lösungen für den
-  öffentlichen Verkehr"
-summary: Wir freuen uns, unsere Teilnahme am 2. ÖPNV-Zukunftskongress vom 5. bis
-  7. Mai 2025 in Freiburg im Breisgau anzukündigen!
+title: geOps at ÖPNV-Zukunftskongress 2025
+summary: We are pleased to announce our participation in the 2nd Public
+  Transport Future Congress from May 5 to 7, 2025 in Freiburg im Breisgau!
 created: 2025-02-27
 frontpage: true
 published: true
