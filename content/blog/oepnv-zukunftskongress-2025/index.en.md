@@ -53,6 +53,4 @@ To coincide with the ÖPNV-Zukunftskongress, we cordially invite you to an open 
 
 Take the opportunity to take a look behind the scenes, get to know our team and find out more about our solutions in a relaxed atmosphere between **Monday, 05.05.2025, 14:00 and Wednesday, 07.05.2025, 18:00**. Simply drop by or make an appointment with us via this link.
 
-Visit our stand and our open day to find out more about how our software solutions make public transport more efficient, reliable and user-friendly!
-
 We look forward to inspiring discussions and exchanges with you in Freiburg!
