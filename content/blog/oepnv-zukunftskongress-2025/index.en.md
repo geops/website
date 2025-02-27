@@ -45,7 +45,7 @@ You can find more information about our products and solutions on [our website](
 
 ### Visit us at the ÖPNV-Zukunftskongress!
 
-The ÖPNV-Zukunftskongress offers a unique platform for exchange between experts, decision-makers and innovators in the field of local public transport. Under the motto "Developing a new mobility culture", forward-looking solutions will be discussed to shape the mobility of tomorrow. We will be available at our stand for the entire duration of the congress. If you want to be on the safe side, book an appointment with us via [this link](https://www.etermin.net/geOps).
+The ÖPNV-Zukunftskongress offers a unique platform for exchange between experts, decision-makers and innovators in the field of local public transport. Under the motto **"Developing a new mobility culture"**, forward-looking solutions will be discussed to shape the mobility of tomorrow. We will be available at our stand for the entire duration of the congress. If you want to be on the safe side, book an appointment with us via [this link](https://www.etermin.net/geOps).
 
 ### Open day at geOps - only 100 m from the congress!
 
