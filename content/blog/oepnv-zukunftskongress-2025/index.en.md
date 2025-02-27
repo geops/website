@@ -1,5 +1,5 @@
 ---
-title: geOps at the Public Transport Future Congress 2025
+title: geOps at the ÖPNV-Zukunftskongress 2025
 summary: We are pleased to announce our participation in the 2nd Public
   Transport Future Congress from May 5 to 7, 2025 in Freiburg im Breisgau!
 author: Uli Müller
