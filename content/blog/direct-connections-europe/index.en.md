@@ -13,7 +13,7 @@ tags:
   - maps
   - passengerinformation
   - cartaro
-frontpage: true
+frontpage: false
 frontpageWeight: 2
 published: true
 ---
