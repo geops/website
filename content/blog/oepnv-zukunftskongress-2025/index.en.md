@@ -1,5 +1,5 @@
 ---
-title: geOps at the Public Transport Future Congress 2025
+title: geOps at the ÖPNV-Zukunftskongress 2025
 summary: We are pleased to announce our participation in the 2nd Public
   Transport Future Congress from May 5 to 7, 2025 in Freiburg im Breisgau!
 author: Uli Müller
@@ -33,11 +33,11 @@ In addition to these specific projects, we present our broad portfolio of softwa
 
 **Routing and network plans:** Optimized routing for different means of transport and automated network plans based on current timetable data.
 
-**moco:** Information in the event of incidents: the tool for incident and construction site communication.
+**moco:** Information in the event of incidents  the tool for incident and construction site communication.
 
-**Mapset:** Do-it-yourself plans: easy creation of individual plans for public transport.
+**Mapset:** Do-it-yourself plans  easy creation of individual plans for public transport.
 
-**TRALIS:** Hub for timetable and real-time data: Integration and processing of timetable data to enable reliable forecasts and comprehensive data analysis.
+**TRALIS:** Hub for timetable and real-time data  Integration and processing of timetable data to enable reliable forecasts and comprehensive data analysis.
 
 **MobilityCMS:** The website construction kit specially developed for public transport companies to provide information efficiently and in a targeted manner.
 
@@ -52,7 +52,5 @@ The ÖPNV-Zukunftskongress offers a unique platform for exchange between experts
 To coincide with the ÖPNV-Zukunftskongress, we cordially invite you to an open day at our Freiburg offices - just 100 meters from the congress center!
 
 Take the opportunity to take a look behind the scenes, get to know our team and find out more about our solutions in a relaxed atmosphere between **Monday, 05.05.2025, 14:00 and Wednesday, 07.05.2025, 18:00**. Simply drop by or make an appointment with us via this link.
-
-Visit our stand and our open day to find out more about how our software solutions make public transport more efficient, reliable and user-friendly!
 
 We look forward to inspiring discussions and exchanges with you in Freiburg!
