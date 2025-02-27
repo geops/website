@@ -1,49 +1,50 @@
 ---
-title: geOps at ÖPNV-Zukunftskongress 2025
-summary: We are pleased to announce our participation in the 2nd Public
-  Transport Future Congress from May 5 to 7, 2025 in Freiburg im Breisgau!
+title: geOps auf dem ÖPNV-Zukunftskongress 2025
+summary: Wir freuen uns, unsere Teilnahme am 2. ÖPNV-Zukunftskongress vom 5. bis
+  7. Mai 2025 in Freiburg im Breisgau anzukündigen!
 created: 2025-02-27
+slug: oepnv-zukunftskongress-2025
 frontpage: true
 published: true
 ---
-As a developer of **innovative software solutions for local public transport (LPT)**, we will be presenting our latest technologies and products that contribute to seamless and efficient mobility.
+Als Entwickler **innovativer Softwarelösungen für den öffentlichen Personennahverkehr (ÖPNV)** präsentieren wir dort unsere neuesten Technologien und Produkte, die zu einer nahtlosen und effizienten Mobilität beitragen.
 
-### Multimodal mobility card for the RVF
+### Multimodale Mobilitätskarte für den RVF
 
-Regional and innovative - a special highlight is the presentation of our multimodal mobility card for the Freiburg Regional Transport Association (RVF). This provides a real-time overview of all forms and aspects of mobility - directly on site in Freiburg, where the congress is taking place. The local relevance makes this solution particularly exciting and shows what modern mobility can look like in urban and rural areas.
+Regional und innovativ  – ein besonderes Highlight ist die Vorstellung unserer multimodalen Mobilitätskarte für den Regio-Verkehrsverbund Freiburg (RVF). Diese gibt in Echtzeit einen Überblick über alle Formen und Aspekte der Mobilität – und das direkt vor Ort in Freiburg, wo der Kongress stattfindet. Die lokale Relevanz macht diese Lösung besonders spannend und zeigt, wie moderne Mobilität im städtischen und ländlichen Raum aussehen kann.
 
-### Ensuring connections with the NVBW: improving the quality of local rail passenger transport
+### Anschlusssicherung der NVBW: Qualität im Schienenpersonennahverkehr verbessern
 
-Another focal point is the "Anschlusssicherung" project of the Nahverkehrsgesellschaft Baden-Württemberg (NVBW). This aims to increase the punctuality and reliability of connections - a central component of the **Action Plan for Quality in Local Rail Passenger Transport** and the **Local Public Transport Strategy 2030 of the Baden-Württemberg Ministry of Transport**. We show how our software solutions help to sustainably improve the quality and thus the acceptance of public transport.
+Ein weiterer Schwerpunkt ist das Projekt „Anschlusssicherung“ der Nahverkehrsgesellschaft Baden-Württemberg (NVBW). Dieses zielt darauf ab, die Pünktlichkeit und Zuverlässigkeit von Anschlussverbindungen zu steigern – ein zentraler Bestandteil des **Aktionsplans Qualität im Schienenpersonennahverkehr** und der **ÖPNV-Strategie 2030 des Verkehrsministeriums Baden-Württemberg**. Wir zeigen, wie unsere Softwarelösungen dazu beitragen, die Qualität und damit die Akzeptanz des ÖPNV nachhaltig zu verbessern.
 
-### Innovative software solutions from geOps
+### Innovative Softwarelösungen von geOps
 
-In addition to these specific projects, we present our broad portfolio of software solutions that are tailored to the needs of modern mobility:
+Neben diesen spezifischen Projekten präsentieren wir unser breites Portfolio an Softwarelösungen, die auf die Bedürfnisse moderner Mobilität zugeschnitten sind:
 
-**Live maps and real-time forecasts:** Precise display of vehicle positions on interactive maps with real-time data.
+**Live Maps und Echtzeitprognosen:** Präzise Darstellung von Fahrzeugpositionen auf interaktiven Karten mit Echtzeitdaten.
 
-**Routing and route network plans:** Optimized routing for different modes of transport and automated network plans based on current timetable data.
+**Routing und Liniennetzpläne:** Optimierte Wegfindung für verschiedene Verkehrsmittel und automatisierte Netzpläne auf Basis aktueller Fahrplandaten.
 
-**moco:** Information in the event of incidents: the tool for incident and construction site communication.
+**moco:** Information bei Ereignissen: das Tool zur Störfall- und Baustellenkommunikation.
 
-**Mapset:** Do-it-yourself maps: easy creation of individual maps for public transport.
+**mapset:** Pläne zum Selbermachen: einfache Erstellung von individuellen Plänen für den öffentlichen Verkehr.
 
-**TRALIS:** Hub for timetable and real-time data: Integration and processing of timetable data to enable reliable forecasts and comprehensive data analysis.
+**TRALIS:** Drehscheibe für Fahrplan- und Echtzeitdaten: Integration und Verarbeitung von Fahrplandaten, um zuverlässige Prognosen und umfassende Datenanalysen zu ermöglichen.
 
-**mobilityCMS:** The website construction kit specially developed for public transport companies to provide information in an efficient and targeted manner.
+**mobilityCMS:** Der Website-Baukasten speziell entwickelt für Unternehmen des öffentlichen Verkehrs, um Informationen effizient und zielgerichtet bereitzustellen.
 
-You can find more information about our products and solutions on [our website](https://geops.com).
+Mehr Informationen zu unseren Produkten und Lösungen finden Sie auf [unserer Website](https://geops.com).
 
-Visit us at the ÖPNV-Zukunftskongress!
+### Besuchen Sie uns auf dem ÖPNV-Zukunftskongress!
 
-The ÖPNV-Zukunftskongress offers a unique platform for exchange between experts, decision-makers and innovators in the field of local public transport. Under the motto "Developing a new mobility culture", forward-looking solutions will be discussed to shape the mobility of tomorrow. We will be available at our stand for the entire duration of the congress. If you want to be on the safe side, book an appointment with us via this link.
+Der ÖPNV-Zukunftskongress bietet eine einzigartige Plattform für den Austausch zwischen Fachleuten, Entscheider:innen und Innovator:innen im Bereich des öffentlichen Nahverkehrs. Unter dem Motto „Neue Mobilitätskultur entwickeln“ werden zukunftsweisende Lösungen diskutiert, um die Mobilität von morgen zu gestalten. Wir sind während der gesamten Kongressdauer an unserem Stand verfügbar. Wenn Sie auf Nummer sicher gehen wollen, buchen Sie unter diesen Link einen Termin mit uns.
 
-### Open day at geOps - only 100 m from the congress!
+### Tag der offenen Tür bei geOps – nur 100 m vom Kongress entfernt!
 
-To coincide with the ÖPNV-Zukunftskongress, we cordially invite you to an open day at our Freiburg offices - just 100 meters from the congress center!
+Passend zum ÖPNV-Zukunftskongress laden wir Sie herzlich zu einem Tag der offenen Tür in unseren Freiburger Büros ein – nur 100 Meter vom Kongresszentrum entfernt!
 
-Take the opportunity to take a look behind the scenes, get to know our team and find out more about our solutions in a relaxed atmosphere between **Monday, 05.05.2025, 14:00 and Wednesday, 07.05.2025, 18:00**. Simply drop by or make an appointment with us via this link.
+Nutzen Sie die Gelegenheit, zwischen **Montag, 05.05.2025, 14 Uhr, bis Mittwoch, 07.05.2025, 18 Uhr**, hinter die Kulissen zu schauen, unser Team kennenzulernen und in entspannter Atmosphäre mehr über unsere Lösungen zu erfahren. Kommen Sie einfach vorbei oder vereinbaren Sie unter diesem Link einen Termin mit uns.
 
-Visit our stand and our open day and find out more about how our software solutions make public transport more efficient, reliable and user-friendly!
+Besuchen Sie unseren Stand und unseren Tag der offenen Tür und erfahren Sie mehr darüber, wie unsere Softwarelösungen den öffentlichen Verkehr effizienter, zuverlässiger und benutzerfreundlicher machen!
 
-We look forward to inspiring discussions and exchanges with you in Freiburg!
+Wir freuen uns auf inspirierende Gespräche und den Austausch mit Ihnen in Freiburg!
