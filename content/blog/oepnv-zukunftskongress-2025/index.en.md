@@ -33,11 +33,11 @@ In addition to these specific projects, we present our broad portfolio of softwa
 
 **Routing and network plans:** Optimized routing for different means of transport and automated network plans based on current timetable data.
 
-**moco:** Information in the event of incidents: the tool for incident and construction site communication.
+**moco:** Information in the event of incidents  the tool for incident and construction site communication.
 
-**Mapset:** Do-it-yourself plans: easy creation of individual plans for public transport.
+**Mapset:** Do-it-yourself plans  easy creation of individual plans for public transport.
 
-**TRALIS:** Hub for timetable and real-time data: Integration and processing of timetable data to enable reliable forecasts and comprehensive data analysis.
+**TRALIS:** Hub for timetable and real-time data  Integration and processing of timetable data to enable reliable forecasts and comprehensive data analysis.
 
 **MobilityCMS:** The website construction kit specially developed for public transport companies to provide information efficiently and in a targeted manner.
 

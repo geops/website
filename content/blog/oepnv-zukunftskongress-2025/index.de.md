@@ -25,11 +25,11 @@ Neben diesen spezifischen Projekten präsentieren wir unser breites Portfolio an
 
 **Routing und Liniennetzpläne:** Optimierte Wegfindung für verschiedene Verkehrsmittel und automatisierte Netzpläne auf Basis aktueller Fahrplandaten.
 
-**moco:** Information bei Ereignissen: das Tool zur Störfall- und Baustellenkommunikation.
+**moco:** Information bei Ereignissen  das Tool zur Störfall- und Baustellenkommunikation.
 
-**mapset:** Pläne zum Selbermachen: einfache Erstellung von individuellen Plänen für den öffentlichen Verkehr.
+**mapset:** Pläne zum Selbermachen  einfache Erstellung von individuellen Plänen für den öffentlichen Verkehr.
 
-**TRALIS:** Drehscheibe für Fahrplan- und Echtzeitdaten: Integration und Verarbeitung von Fahrplandaten, um zuverlässige Prognosen und umfassende Datenanalysen zu ermöglichen.
+**TRALIS:** Drehscheibe für Fahrplan- und Echtzeitdaten  Integration und Verarbeitung von Fahrplandaten, um zuverlässige Prognosen und umfassende Datenanalysen zu ermöglichen.
 
 **mobilityCMS:** Der Website-Baukasten speziell entwickelt für Unternehmen des öffentlichen Verkehrs, um Informationen effizient und zielgerichtet bereitzustellen.
 
