@@ -37,12 +37,12 @@ Mehr Informationen zu unseren Produkten und Lösungen finden Sie auf [unserer We
 
 ### Besuchen Sie uns auf dem ÖPNV-Zukunftskongress!
 
-Der ÖPNV-Zukunftskongress bietet eine einzigartige Plattform für den Austausch zwischen Fachleuten, Entscheider:innen und Innovator:innen im Bereich des öffentlichen Nahverkehrs. Unter dem Motto „Neue Mobilitätskultur entwickeln“ werden zukunftsweisende Lösungen diskutiert, um die Mobilität von morgen zu gestalten. Wir sind während der gesamten Kongressdauer an unserem Stand verfügbar. Wenn Sie auf Nummer sicher gehen wollen, buchen Sie unter diesem Link einen Termin mit uns.
+Der ÖPNV-Zukunftskongress bietet eine einzigartige Plattform für den Austausch zwischen Fachleuten, Entscheider:innen und Innovator:innen im Bereich des öffentlichen Nahverkehrs. Unter dem Motto „Neue Mobilitätskultur entwickeln“ werden zukunftsweisende Lösungen diskutiert, um die Mobilität von morgen zu gestalten. Wir sind während der gesamten Kongressdauer an unserem Stand verfügbar. Wenn Sie auf Nummer sicher gehen wollen, buchen Sie unter [diesem Link](https://www.etermin.net/geOps) einen Termin mit uns.
 
 ### Tag der offenen Tür bei geOps – nur 100 m vom Kongress entfernt!
 
 Passend zum ÖPNV-Zukunftskongress laden wir Sie herzlich zu einem Tag der offenen Tür in unseren Freiburger Büros ein – nur 100 Meter vom Kongresszentrum entfernt!
 
-Nutzen Sie die Gelegenheit, zwischen **Montag, 05.05.2025, 14 Uhr, bis Mittwoch, 07.05.2025, 18 Uhr**, hinter die Kulissen zu schauen, unser Team kennenzulernen und in entspannter Atmosphäre mehr über unsere Lösungen zu erfahren. Kommen Sie einfach vorbei oder vereinbaren Sie unter diesem Link einen Termin mit uns.
+Nutzen Sie die Gelegenheit, zwischen **Montag, 05.05.2025, 14 Uhr, bis Mittwoch, 07.05.2025, 18 Uhr**, hinter die Kulissen zu schauen, unser Team kennenzulernen und in entspannter Atmosphäre mehr über unsere Lösungen zu erfahren. Kommen Sie einfach vorbei oder vereinbaren Sie unter [diesem Link](https://www.etermin.net/geOps) einen Termin mit uns.
 
 Wir freuen uns auf inspirierende Gespräche und den Austausch mit Ihnen in Freiburg!

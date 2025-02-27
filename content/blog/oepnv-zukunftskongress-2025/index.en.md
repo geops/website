@@ -45,12 +45,12 @@ You can find more information about our products and solutions on [our website](
 
 ### Visit us at the ÖPNV-Zukunftskongress!
 
-The ÖPNV-Zukunftskongress offers a unique platform for exchange between experts, decision-makers and innovators in the field of local public transport. Under the motto "Developing a new mobility culture", forward-looking solutions will be discussed to shape the mobility of tomorrow. We will be available at our stand for the entire duration of the congress. If you want to be on the safe side, book an appointment with us via this link.
+The ÖPNV-Zukunftskongress offers a unique platform for exchange between experts, decision-makers and innovators in the field of local public transport. Under the motto "Developing a new mobility culture", forward-looking solutions will be discussed to shape the mobility of tomorrow. We will be available at our stand for the entire duration of the congress. If you want to be on the safe side, book an appointment with us via [this link](https://www.etermin.net/geOps).
 
 ### Open day at geOps - only 100 m from the congress!
 
 To coincide with the ÖPNV-Zukunftskongress, we cordially invite you to an open day at our Freiburg offices - just 100 meters from the congress center!
 
-Take the opportunity to take a look behind the scenes, get to know our team and find out more about our solutions in a relaxed atmosphere between **Monday, 05.05.2025, 14:00 and Wednesday, 07.05.2025, 18:00**. Simply drop by or make an appointment with us via this link.
+Take the opportunity to take a look behind the scenes, get to know our team and find out more about our solutions in a relaxed atmosphere between **Monday, 05.05.2025, 14:00 and Wednesday, 07.05.2025, 18:00**. Simply drop by or make an appointment with us via [this link](https://www.etermin.net/geOps).
 
 We look forward to inspiring discussions and exchanges with you in Freiburg!
