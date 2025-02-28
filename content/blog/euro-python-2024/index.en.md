@@ -3,9 +3,10 @@ title: EuroPython 2024 in Prag
 summary: Im Juli fuhren zwei Backendentwickler mit dem Nachtzug nach Prag, um an
   der EuroPython teilzunehmen.
 author: Tobias Kronauer
-cover: ""
+cover: /images/blog/europython-2024-in-prag/img_20240710_210923.jpg
 created: 2024-09-12
 slug: euro-python-2024
+frontpageImage: /images/blog/europython-2024-in-prag/img_20240710_210923.jpg
 published: true
 ---
 Im Juli 2024 nahmen wir, Milan und Tobias, an der [EuroPython](https://ep2024.europython.eu/) in Prag teil. Die Konferenz gehört zu den größten Python-Konferenzen Europas und richtet sich sowohl an Expert:innen als auch Anfänger:innen. Wir konnten nicht nur Maintainern von namhaften (Open Source)-Bibliotheken wie [pydantic](https://docs.pydantic.dev/latest/), [Sentry](https://sentry.io/) und [FastAPI](https://fastapi.tiangolo.com/) zuhören, sondern auch bei warmen Sommerabenden ein (oder auch mehrere) Bier an der Moldau genießen. Das aber nur in Lokalen, da Alkoholkonsum in der Öffentlichkeit verboten ist, wie wir feststellen mussten.
