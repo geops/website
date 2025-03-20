@@ -1,0 +1,11 @@
+{
+  "name": "Moritz Geist",
+  "photo": "/images/person/male_avatar.png",
+  "position": {
+    "de": "Software Architect",
+    "en": "Software Architect"
+  },
+  "email": "moritz.geist@geops.com",
+  "telephone": "+49 761 458 925 0",
+  "github": "moehritz"
+}
