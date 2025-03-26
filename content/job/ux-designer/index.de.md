@@ -13,7 +13,7 @@ summary: >+
 slug: ux-designer
 created: 2025-03-20
 ---
-Du brennst für nutzerzentriertes Design und möchtest moderne, intuitive Software-Lösungen mitgestalten? Dann werde Teil unseres Teams! Seit über 20 Jahren entwickeln wir mit Leidenschaft Webapplikationen und interaktive Karten – mit Fokus auf Umwelt und öffentlichen Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir eine:n kreative:n und erfahrene:n UX/UI-Spezialist:in, der/die unser Design auf das nächste Level hebt.
+Du brennst für nutzerzentriertes Design und möchtest moderne, intuitive Software-Lösungen mitgestalten? Dann werde Teil unseres Teams in Freiburg (DE) oder Olten (CH)! Seit über 20 Jahren entwickeln wir mit Leidenschaft Webapplikationen und interaktive Karten – mit Fokus auf Umwelt und öffentlichen Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir eine:n kreative:n und erfahrene:n UX/UI-Spezialist:in, der/die unser Design auf das nächste Level hebt.
 
 ## Was dich erwartet
 
