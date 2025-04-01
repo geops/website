@@ -15,7 +15,7 @@ frontpageImage: /images/blog/geops-auf-dem-öpnv-zukunftskongress-2025-innovativ
 frontpageWeight: 0
 published: true
 ---
-As a developer of **innovative software solutions for local public transport (LPT)**, we will be presenting our latest technologies and products that contribute to seamless and efficient mobility.
+We are pleased to announce our participation in the [2nd ÖPNV-Zukunftskongress](https://anmeldung-zukunftskongress.zukunftsnetzwerk-oepnv.de/) from May 5 to 7, 2025 in Freiburg im Breisgau! As a developer of **innovative software solutions for local public transport (LPT)**, we will be presenting our latest technologies and products that contribute to seamless and efficient mobility.
 
 ### Multimodal mobility card for the RVF
 
@@ -40,8 +40,6 @@ In addition to these specific projects, we present our broad portfolio of softwa
 **TRALIS:** Hub for timetable and real-time data  Integration and processing of timetable data to enable reliable forecasts and comprehensive data analysis.
 
 **MobilityCMS:** The website construction kit specially developed for public transport companies to provide information efficiently and in a targeted manner.
-
-You can find more information about our products and solutions on [our website](https://geops.com).
 
 ### Visit us at the ÖPNV-Zukunftskongress!
 

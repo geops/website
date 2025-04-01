@@ -7,7 +7,7 @@ slug: oepnv-zukunftskongress-2025
 frontpage: true
 published: true
 ---
-Als Entwickler **innovativer Softwarelösungen für den öffentlichen Personennahverkehr (ÖPNV)** präsentieren wir dort unsere neuesten Technologien und Produkte, die zu einer nahtlosen und effizienten Mobilität beitragen.
+Wir freuen uns, unsere Teilnahme am [2. ÖPNV-Zukunftskongress](https://anmeldung-zukunftskongress.zukunftsnetzwerk-oepnv.de/) vom 5. bis 7. Mai 2025 in Freiburg im Breisgau anzukündigen! Als A nbieter **innovativer Softwarelösungen für den öffentlichen Personennahverkehr (ÖPNV)** präsentieren wir dort unsere neuesten Technologien und Produkte, die zu einer nahtlosen und effizienten Mobilität beitragen.
 
 ### Multimodale Mobilitätskarte für den RVF
 
@@ -21,19 +21,17 @@ Ein weiterer Schwerpunkt ist das Projekt „Anschlusssicherung“ der Nahverkehr
 
 Neben diesen spezifischen Projekten präsentieren wir unser breites Portfolio an Softwarelösungen, die auf die Bedürfnisse moderner Mobilität zugeschnitten sind:
 
-**Live Maps und Echtzeitprognosen:** Präzise Darstellung von Fahrzeugpositionen auf interaktiven Karten mit Echtzeitdaten.
+**Live Maps und Echtzeitprognosen:** Präzise Echtzeit-Darstellung von Fahrzeugpositionen und den Angeboten von Shared Mobility. [mehr...](https://geops.com/de/solution/livemap)
 
-**Routing und Liniennetzpläne:** Optimierte Wegfindung für verschiedene Verkehrsmittel und automatisierte Netzpläne auf Basis aktueller Fahrplandaten.
+**Routing und Liniennetzpläne:** Optimierte Wegfindung für verschiedene Verkehrsmittel und automatisierte Netzpläne auf Basis aktueller Fahrplandaten. [mehr...](https://geops.com/de/solution/netzplaene)
 
-**moco:** Information bei Ereignissen  das Tool zur Störfall- und Baustellenkommunikation.
+**moco:** Das Tool zur Störfall- und Baustellenkommunikation. [mehr...](https://geops.com/de/solution/disruption-information)
 
-**mapset:** Pläne zum Selbermachen  einfache Erstellung von individuellen Plänen für den öffentlichen Verkehr.
+**mapset:** Einfache Erstellung von individuellen Plänen für den öffentlichen Verkehr. [mehr...](https://mapset.ch)
 
-**TRALIS:** Drehscheibe für Fahrplan- und Echtzeitdaten  Integration und Verarbeitung von Fahrplandaten, um zuverlässige Prognosen und umfassende Datenanalysen zu ermöglichen.
+**TRALIS:** Drehscheibe für Fahrplan- und Echtzeitdaten für zuverlässige Prognosen, umfassende Datenanalysen und viele weitere Anwendungen. [mehr...](https://geops.com/de/solution/transit-data-hub)
 
-**mobilityCMS:** Der Website-Baukasten speziell entwickelt für Unternehmen des öffentlichen Verkehrs, um Informationen effizient und zielgerichtet bereitzustellen.
-
-Mehr Informationen zu unseren Produkten und Lösungen finden Sie auf [unserer Website](https://geops.com).
+**mobilityCMS:** Der Website-Baukasten speziell entwickelt für Unternehmen des öffentlichen Verkehrs, um Informationen effizient und zielgerichtet bereitzustellen. [mehr...](https://geops.com/de/solution/mobilitycms)
 
 ### Besuchen Sie uns auf dem ÖPNV-Zukunftskongress!
 
