@@ -422,6 +422,7 @@ collections:
       - label: "E-Mail"
         name: "email"
         widget: "string"
+        required: false
       - label: "Telephone"
         name: "telephone"
         widget: "string"

@@ -20,14 +20,18 @@ export default function TeamGridItem({ person }) {
           <p>
             {person.position[language]}
             <br />
-            <br />
-            E-Mail:{" "}
-            <a
-              className="text-green hover:text-green-light"
-              href={`mailto:${person.email}`}
-            >
-              {person.email}
-            </a>
+            {person.email && (
+              <>
+                <br />
+                E-Mail:{" "}
+                <a
+                  className="text-green hover:text-green-light"
+                  href={`mailto:${person.email}`}
+                >
+                  {person.email}
+                </a>
+              </>
+            )}
             {person.telephone && (
               <>
                 <br />
