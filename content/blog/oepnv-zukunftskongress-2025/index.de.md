@@ -7,7 +7,7 @@ slug: oepnv-zukunftskongress-2025
 frontpage: true
 published: true
 ---
-Wir freuen uns, unsere Teilnahme am [2. ÖPNV-Zukunftskongress](https://anmeldung-zukunftskongress.zukunftsnetzwerk-oepnv.de/) vom 5. bis 7. Mai 2025 in Freiburg im Breisgau anzukündigen! Als A nbieter **innovativer Softwarelösungen für den öffentlichen Personennahverkehr (ÖPNV)** präsentieren wir dort unsere neuesten Technologien und Produkte, die zu einer nahtlosen und effizienten Mobilität beitragen.
+Wir freuen uns, unsere Teilnahme am [2. ÖPNV-Zukunftskongress](https://anmeldung-zukunftskongress.zukunftsnetzwerk-oepnv.de/) vom 5. bis 7. Mai 2025 in Freiburg im Breisgau anzukündigen! Als Anbieter **innovativer Softwarelösungen für den öffentlichen Personennahverkehr (ÖPNV)** präsentieren wir dort unsere neuesten Technologien und Produkte, die zu einer nahtlosen und effizienten Mobilität beitragen.
 
 ### Multimodale Mobilitätskarte für den RVF
 
