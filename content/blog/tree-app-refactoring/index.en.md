@@ -36,6 +36,8 @@ Im Zuge des Refactorings wurde die Tree App auch technisch in Version 3.0 auf de
 
 Mit dem Refactoring wurde auch das Layout der Anwendung überarbeitet. Ziel war es, die Benutzeroberfläche übersichtlicher zu gestalten, Platz effizienter zu nutzen und die Bedienbarkeit auf mobilen Geräten deutlich zu verbessern. Die App passt sich jetzt noch besser an verschiedene Bildschirmgrößen an – ein wichtiger Schritt, da viele Nutzer:innen die Tree App direkt im Feld verwenden.
 
+![](/images/blog/treeapp-in-transition-refactoring-for-the-future-of-the-forest/tree-app_gespeicherte_nutzerdaten.png)
+
 ### Gespeicherte Nutzerdaten – Empfehlungen sichtbar machen
 
 Eine der wichtigsten neuen Funktionen der überarbeiteten Tree App ist die Möglichkeit, **manuell erstellte Baumartenempfehlungen zu speichern**. Nutzer:innen können eigene Standortauswahlen treffen und diese nun dauerhaft in der App hinterlegen.
