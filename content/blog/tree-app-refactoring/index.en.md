@@ -20,7 +20,7 @@ Langfristige Entscheidungen sind das Fundament einer nachhaltigen Waldwirtschaft
 
 Seit der ersten Version der TreeApp hat sich nicht nur das Klima verändert, sondern auch die technologische Landschaft. Um die Anwendung langfristig wartbar, flexibel und zukunftsfähig zu machen, wurde entschieden, die bestehende Codebasis grundlegend zu überarbeiten.
 
-Der bisherige Architekturansatz – eine gemeinsame Bibliothek für alle Profile – brachte Einschränkungen bei Performance, Wartbarkeit und individueller Anpassung. Durch die Umstellung auf eine Bibliothek pro Profil schaffen wir klarere Strukturen, erleichtern gezielte Erweiterungen und verbessern die Gesamtperformance der App.
+Der bisherige Architekturansatz – lokale JSON files als Datenquelle für alle Tree-App Daten – brachte Einschränkungen bei Performance, Wartbarkeit und individueller Anpassung. Durch Umstellung auf eine lokale sqlite Datenbank können nun Daten, beispielsweise zum Debugging, einfach über SQL gezielt abgerufen werden. Dieser Upgrade verbessert auch die Gesamtperformance der App.
 
 ### Technologisches Upgrade
 
