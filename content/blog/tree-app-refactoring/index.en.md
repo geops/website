@@ -26,10 +26,10 @@ The previous architectural approach - local JSON files as the data source for al
 As part of the refactoring, the Tree App has also been technically updated to version 3.0:
 
 * **TypeScript:** For more type safety, better error analysis and long-term maintainability.
-  \*\* **Tailwind CSS:** For a more flexible, component-based UI
-  **Next.js:** As a modern React framework for server-side rendering, better performance and simplified routing structures.
-  \*\* **sql.js:** For client-side use of structured data, with seamless integration into the application.
-  \*\* **Integrated database:** Newly introduced to store individual location preferences and recommendations.
+* **Tailwind CSS:** For a more flexible, component-based UI
+* **Next.js:** As a modern React framework for server-side rendering, better performance and simplified routing structures.
+* **sql.js:** For client-side use of structured data, with seamless integration into the application.
+* **Integrated database:** Newly introduced to store individual location preferences and recommendations.
 
 ### New layout - optimized for mobile use
 
