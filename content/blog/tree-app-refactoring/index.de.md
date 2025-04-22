@@ -1,11 +1,9 @@
 ---
 title: TreeApp im Wandel – Refactoring für die Zukunft des Waldes
-summary: Die TreeApp wurde technisch umfassend überarbeitet, um die Wartbarkeit,
-  Performance und mobile Nutzbarkeit zu verbessern – inklusive moderner
-  Technologien wie TypeScript, Next.js und einer integrierten Datenbank zur
-  Speicherung von Empfehlungen. Dabei bleibt die wissenschaftliche Logik
-  unverändert, ergänzt durch neue Funktionen wie das Teilen eigener
-  Baumartenempfehlungen auf der Karte.
+summary: Die TreeApp wurde technisch modernisiert – mit TypeScript, Next.js und
+  integrierter Datenbank für Empfehlungen. Verbesserte Performance, mobile
+  Nutzbarkeit und neue Funktionen wie das Teilen eigener Baumartenempfehlungen
+  runden das Update ab.
 created: 2025-04-14
 slug: tree-app-refactoring
 published: true

@@ -1,10 +1,9 @@
 ---
 title: TreeApp in transition - refactoring for the future of the forest
-summary: The TreeApp has undergone a comprehensive technical overhaul to improve
-  maintainability, performance and mobile usability - including modern
-  technologies such as TypeScript, Next.js and a integrated database for storing
-  user data. The scientific logic remains unchanged, supplemented by new
-  functions such as sharing your own tree species recommendations on the map.
+summary: The TreeApp has been technically modernized - with TypeScript, Next.js
+  and an integrated database for recommendations. Improved performance, mobile
+  usability and new functions such as sharing your own tree species
+  recommendations round off the update.
 author: Elke Erhardt
 cover: /images/blog/treeapp-in-transition-refactoring-for-the-future-of-the-forest/thumbnail_treeapp_0.png
 created: 2025-04-14
