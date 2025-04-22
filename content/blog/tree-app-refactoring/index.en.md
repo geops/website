@@ -1,10 +1,9 @@
 ---
 title: TreeApp in transition - refactoring for the future of the forest
-summary: The TreeApp has undergone a comprehensive technical overhaul to improve
-  maintainability, performance and mobile usability - including modern
-  technologies such as TypeScript, Next.js and a integrated database for storing
-  user data. The scientific logic remains unchanged, supplemented by new
-  functions such as sharing your own tree species recommendations on the map.
+summary: The TreeApp has been technically modernized - with TypeScript, Next.js
+  and an integrated database for recommendations. Improved performance, mobile
+  usability and new functions such as sharing your own tree species
+  recommendations round off the update.
 author: Elke Erhardt
 cover: /images/blog/treeapp-in-transition-refactoring-for-the-future-of-the-forest/thumbnail_treeapp_0.png
 created: 2025-04-14
@@ -14,42 +13,42 @@ tags:
   - environment
 published: true
 ---
-Langfristige Entscheidungen sind das Fundament einer nachhaltigen Waldwirtschaft – und genau hier setzt die [Tree App](https://www.tree-app.ch) an. Entwickelt von geOps im Auftrag der Eidgenössischen Forschungsanstalt für Wald, Schnee und Landschaft (WSL), bietet die App Baumartenempfehlungen für verschiedene Standorttypen, basierend auf Klimaszenarien und aktuellen Forschungsergebnissen. Damit unterstützt sie Waldbewirtschafter:innen bei der zukunftssicheren Planung.
+Long-term decisions are the foundation of sustainable forest management - and this is exactly where the [Tree App](https://www.tree-app.ch) comes in. Developed by geOps on behalf of the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) and the Federal Office for the Environment (FOEN), the app offers tree species recommendations for various site types based on climate scenarios and current research findings. It thus supports forest managers in future-proof planning.
 
-### Warum Refactoring?
+### Why refactoring?
 
-Seit der ersten Version der Tree App hat sich nicht nur das Klima verändert, sondern auch die technologische Landschaft. Um die Anwendung langfristig wartbar, flexibel und zukunftsfähig zu machen, wurde entschieden, die bestehende Codebasis grundlegend zu überarbeiten.
+Since the first version of the Tree App, not only the climate has changed, but also the technological landscape. In order to make the application maintainable, flexible and future-proof in the long term, it was decided to fundamentally revise the existing code base.
 
-Der bisherige Architekturansatz – lokale JSON files als Datenquelle für alle Tree App Daten – brachte Einschränkungen bei Performance, Wartbarkeit und individueller Anpassung. Durch Umstellung auf eine lokale sqlite Datenbank können nun Daten, beispielsweise zum Debugging, einfach über SQL gezielt abgerufen werden. Dieser Upgrade verbessert auch die Gesamtperformance der App.
+The previous architectural approach - local JSON files as the data source for all Tree App data - had limitations in terms of performance, maintainability and customization. By switching to a local sqlite database, data can now be easily retrieved via SQL, for example for debugging. This upgrade also improves the overall performance of the app.
 
-### Technologisches Upgrade
+### Technological upgrade
 
-Im Zuge des Refactorings wurde die Tree App auch technisch in Version 3.0 auf den neuesten Stand gebracht:
+As part of the refactoring, the Tree App has also been technically updated to version 3.0:
 
-* **TypeScript:** Für mehr Typsicherheit, bessere Fehleranalyse und langfristige Wartbarkeit.
-* **Tailwind CSS:** Für ein flexibleres, komponentenbasiertes UI
-* **Next.js:** Als modernes React-Framework für serverseitiges Rendering, bessere Performance und vereinfachte Routing-Strukturen.
-* **sql.js:** Für die clientseitige Nutzung strukturierter Daten, mit nahtloser Integration in die Anwendung.
-* **Integrierte Datenbank:** Neu eingeführt, um individuelle Standortpräferenzen und Empfehlungen zu speichern.
+* **TypeScript:** For more type safety, better error analysis and long-term maintainability.
+* **Tailwind CSS:** For a more flexible, component-based UI
+* **Next.js:** As a modern React framework for server-side rendering, better performance and simplified routing structures.
+* **sql.js:** For client-side use of structured data, with seamless integration into the application.
+* **Integrated database:** Newly introduced to store individual location preferences and recommendations.
 
-### Neues Layout – optimiert für mobile Nutzung
+### New layout - optimized for mobile use
 
-Mit dem Refactoring wurde auch das Layout der Anwendung überarbeitet. Ziel war es, die Anwendungsoberfläche übersichtlicher zu gestalten, Platz effizienter zu nutzen und die Bedienbarkeit auf mobilen Geräten deutlich zu verbessern. Die App passt sich jetzt noch besser an verschiedene Bildschirmgrößen an – ein wichtiger Schritt, da viele Nutzer:innen die Tree App direkt im Feld verwenden.
+With the refactoring, the layout of the application was also revised. The aim was to make the application interface clearer, use space more efficiently and significantly improve usability on mobile devices. The app now adapts even better to different screen sizes - an important step, as many users use the Tree app directly in the field.
 
 ![](/images/blog/treeapp-in-transition-refactoring-for-the-future-of-the-forest/tree-app_gespeicherte_nutzerdaten.png)
 
-### Gespeicherte Userdaten – Empfehlungen sichtbar machen
+### Saved user data - make recommendations visible
 
-Eine der wichtigsten neuen Funktionen der überarbeiteten Tree App ist die Möglichkeit, manuell erstellte Baumartenempfehlungen zu speichern. Nutzer:innen können eigene Standortauswahlen treffen und diese nun dauerhaft in der App hinterlegen.
+One of the most important new functions of the revised Tree App is the option to save manually created tree species recommendations. Users can make their own location selections and save them permanently in the app.
 
-Diese gespeicherten Daten erscheinen – auf Wunsch – in den Kartenebenen und sind so für alle Nutzer:innen sichtbar. Das fördert den Austausch und bietet Einblick in praxisnahe Einschätzungen vor Ort.
+This saved data appears - if desired - in the map layers and is thus visible to all users. This promotes exchange and provides insight into practical assessments on site.
 
-### Kontinuität trotz Veränderung
+### Continuity despite change
 
-Trotz der umfangreichen technischen Anpassungen bleibt eines unverändert: Die wissenschaftliche Logik und die Datengrundlage der Tree App. Alle Empfehlungen basieren weiterhin auf den fundierten Erkenntnissen der WSL, inklusive der definierten Standorttypen, Höhenstufen und Klimaszenarien. Auch bestehende Profile und deren Inhalte wurden sorgfältig übernommen und angepasst.
+Despite the extensive technical adjustments, one thing remains unchanged: The scientific logic and data basis of the Tree App. All recommendations continue to be based on the sound findings of the WSL, including the defined site types, altitude levels and climate scenarios. Existing profiles and their content have also been carefully adopted and adapted.
 
-### Fazit
+### Conclusion
 
-Die Tree App bleibt das, was sie immer war – ein zuverlässiges Werkzeug zur Entscheidungsunterstützung in der Forstwirtschaft. Durch das Refactoring, moderne Technologien, ein verbessertes Layout und neue Funktionen wird sie noch leistungsfähiger und zukunftssicherer – genau wie die Wälder, für die sie entwickelt wurde.
+The Tree App remains what it has always been - a reliable tool for decision support in forestry. Refactoring, modern technologies, an improved layout and new functions have made it even more powerful and future-proof - just like the forests for which it was developed.
 
-Hier gehts zur [Tree App](https://www.tree-app.ch)
+Click here for the [Tree App](https://www.tree-app.ch)
