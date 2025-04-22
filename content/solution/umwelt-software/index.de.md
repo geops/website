@@ -23,7 +23,7 @@ Für den Datenaustausch stehen zahlreiche Exportmöglichkeiten zur Verfügung. E
 
 Altlast4Web ist eine Webapplikation, die komplett auf Open Source Software beruht. Das Open Source-Modell ermöglicht eine Nutzung ohne Lizenzkosten sowie die Weiterentwicklung nach den Bedürfnissen aller Kunden.
 
-### TreeApp
+### Tree App
 
 Waldwirtschaft ist geprägt von langfristigen Entscheidungen, die meist erst die nächsten Generationen betreffen. In Zeiten des Klimawandels wird es immer wichtiger die richtige Entscheidung für die Zukunft der Wälder zu treffen. Zu diesem Thema hat geOps für die Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft WSL eine App für Baumartenempfehlungen entwickelt, die eine Hilfestellung für Entschei­&shy;dungen bei der Pflanzung und Pflege von Bäumen sein soll.
 
