@@ -51,4 +51,4 @@ Trotz der umfangreichen technischen Anpassungen bleibt eines unverändert: Die w
 
 Die Tree App bleibt das, was sie immer war – ein zuverlässiges Werkzeug zur Entscheidungsunterstützung in der Forstwirtschaft. Durch das Refactoring, moderne Technologien, ein verbessertes Layout und neue Funktionen wird sie noch leistungsfähiger und zukunftssicherer – genau wie die Wälder, für die sie entwickelt wurde.
 
-Hier gehts zur [Tree App](https://www.tree-app.ch)
+Hier gehts zur [Tree App](https://www.tree-app.ch).
