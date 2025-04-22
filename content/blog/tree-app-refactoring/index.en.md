@@ -1,16 +1,16 @@
 ---
-title: TreeApp in transition - refactoring for the future of the forest
+title: Tree App in transition - refactoring for the future of the forest
 summary: The TreeApp has been technically modernized - with TypeScript, Next.js
   and an integrated database for recommendations. Improved performance, mobile
   usability and new functions such as sharing your own tree species
   recommendations round off the update.
-author: Elke Erhardt
-cover: /images/blog/treeapp-in-transition-refactoring-for-the-future-of-the-forest/thumbnail_treeapp_0.png
 created: 2025-04-14
+cover: /images/blog/treeapp-in-transition-refactoring-for-the-future-of-the-forest/thumbnail_treeapp_0.png
 slug: tree-app-refactoring
 tags:
   - treeapp
   - environment
+author: Elke Erhardt & Daniel Marsh-Hunn
 published: true
 ---
 Long-term decisions are the foundation of sustainable forest management - and this is exactly where the [Tree App](https://www.tree-app.ch) comes in. Developed by geOps on behalf of the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) and the Federal Office for the Environment (FOEN), the app offers tree species recommendations for various site types based on climate scenarios and current research findings. It thus supports forest managers in future-proof planning.
@@ -51,4 +51,4 @@ Despite the extensive technical adjustments, one thing remains unchanged: The sc
 
 The Tree App remains what it has always been - a reliable tool for decision support in forestry. Refactoring, modern technologies, an improved layout and new functions have made it even more powerful and future-proof - just like the forests for which it was developed.
 
-Click here for the [Tree App](https://www.tree-app.ch)
+Click here for the [Tree App](https://www.tree-app.ch).

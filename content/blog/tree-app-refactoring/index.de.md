@@ -1,11 +1,16 @@
 ---
-title: TreeApp im Wandel – Refactoring für die Zukunft des Waldes
+title: Tree App im Wandel – Refactoring für die Zukunft des Waldes
 summary: Die TreeApp wurde technisch modernisiert – mit TypeScript, Next.js und
   integrierter Datenbank für Empfehlungen. Verbesserte Performance, mobile
   Nutzbarkeit und neue Funktionen wie das Teilen eigener Baumartenempfehlungen
   runden das Update ab.
 created: 2025-04-14
+cover: /images/blog/treeapp-in-transition-refactoring-for-the-future-of-the-forest/thumbnail_treeapp_0.png
 slug: tree-app-refactoring
+tags:
+  - treeapp
+  - environment
+author: Elke Erhardt & Daniel Marsh-Hunn
 published: true
 ---
 Langfristige Entscheidungen sind das Fundament einer nachhaltigen Waldwirtschaft – und genau hier setzt die [Tree App](https://www.tree-app.ch) an. Entwickelt von geOps im Auftrag der Eidgenössischen Forschungsanstalt für Wald, Schnee und Landschaft (WSL) und dem Bundesamt für Umwelt (BAFU), bietet die App Baumartenempfehlungen für verschiedene Standorttypen, basierend auf Klimaszenarien und aktuellen Forschungsergebnissen. Damit unterstützt sie Waldbewirtschafter:innen bei der zukunftssicheren Planung.
@@ -46,4 +51,4 @@ Trotz der umfangreichen technischen Anpassungen bleibt eines unverändert: Die w
 
 Die Tree App bleibt das, was sie immer war – ein zuverlässiges Werkzeug zur Entscheidungsunterstützung in der Forstwirtschaft. Durch das Refactoring, moderne Technologien, ein verbessertes Layout und neue Funktionen wird sie noch leistungsfähiger und zukunftssicherer – genau wie die Wälder, für die sie entwickelt wurde.
 
-Hier gehts zur [Tree App](https://www.tree-app.ch)
+Hier gehts zur [Tree App](https://www.tree-app.ch).
