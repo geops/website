@@ -8,7 +8,7 @@ created: 2025-04-14
 slug: tree-app-refactoring
 published: true
 ---
-Langfristige Entscheidungen sind das Fundament einer nachhaltigen Waldwirtschaft – und genau hier setzt die [Tree App](https://www.tree-app.ch) an. Entwickelt von geOps im Auftrag der Eidgenössischen Forschungsanstalt für Wald, Schnee und Landschaft (WSL), bietet die App Baumartenempfehlungen für verschiedene Standorttypen, basierend auf Klimaszenarien und aktuellen Forschungsergebnissen. Damit unterstützt sie Waldbewirtschafter:innen bei der zukunftssicheren Planung.
+Langfristige Entscheidungen sind das Fundament einer nachhaltigen Waldwirtschaft – und genau hier setzt die [Tree App](https://www.tree-app.ch) an. Entwickelt von geOps im Auftrag der Eidgenössischen Forschungsanstalt für Wald, Schnee und Landschaft (WSL) und dem Bundesamt für Umwelt (BAFU), bietet die App Baumartenempfehlungen für verschiedene Standorttypen, basierend auf Klimaszenarien und aktuellen Forschungsergebnissen. Damit unterstützt sie Waldbewirtschafter:innen bei der zukunftssicheren Planung.
 
 ### Warum Refactoring?
 
