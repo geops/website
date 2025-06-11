@@ -10,7 +10,7 @@ tags:
   - geops
   - mobility
   - conferences
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/geops-auf-dem-öpnv-zukunftskongress-2025-innovative-lösungen-für-den-öffentlichen-verkehr/aussteller_postingvorlagen_geops.png
 frontpageWeight: 0
 published: false
