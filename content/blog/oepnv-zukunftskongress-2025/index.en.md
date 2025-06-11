@@ -13,7 +13,7 @@ tags:
 frontpage: true
 frontpageImage: /images/blog/geops-auf-dem-öpnv-zukunftskongress-2025-innovative-lösungen-für-den-öffentlichen-verkehr/aussteller_postingvorlagen_geops.png
 frontpageWeight: 0
-published: true
+published: false
 ---
 We are pleased to announce our participation in the [2nd ÖPNV-Zukunftskongress](https://anmeldung-zukunftskongress.zukunftsnetzwerk-oepnv.de/) from May 5 to 7, 2025 in Freiburg im Breisgau! As a developer of **innovative software solutions for local public transport (LPT)**, we will be presenting our latest technologies and products that contribute to seamless and efficient mobility.
 
