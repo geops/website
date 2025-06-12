@@ -4,7 +4,8 @@ slug: jessi
 frontpage: true
 published: true
 ---
-**Ein Blick hinter die Kulissen von geOps**\
+## **Ein Blick hinter die Kulissen von geOps**
+
 Unsere Stärke sind nicht nur Daten, Karten und Mobilitätslösungen – sondern vor allem die Menschen dahinter. In unserer neuen Interviewreihe stellen wir euch Kolleginnen und Kollegen aus dem geOps-Team vor.
 
 Den Anfang macht: **Jessi – Software Engineer bei geOps** 
