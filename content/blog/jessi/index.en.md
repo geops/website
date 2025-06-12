@@ -1,8 +1,8 @@
 ---
-title: "Faces of geOps: Jessi im Porträt"
-summary: 'In unserer neuen Interviewreihe "Faces of geOps" stellen wir euch
-  Kolleginnen und Kollegen aus dem geOps-Team vor. Heute: Jessi, Software
-  Engineer mit Quereinstiegs-Hintergrund.'
+title: "Faces of geOps: a portrait of Jessi"
+summary: "In our new interview series “Faces of geOps”, we introduce you to
+  colleagues from the geOps team. Today: Jessi, software engineer with a career
+  change background."
 cover: /images/blog/faces-of-geops-jessi-im-porträt/5.png
 created: 2025-06-11
 slug: jessi
@@ -11,16 +11,17 @@ frontpageImage: /images/blog/faces-of-geops-jessi-im-porträt/5.png
 frontpageWeight: 1
 published: true
 ---
-## **Ein Blick hinter die Kulissen von geOps**
+## **A look behind the scenes at geOps**
 
-Unsere Stärke sind nicht nur Daten, Karten und Mobilitätslösungen – sondern vor allem die Menschen dahinter. In unserer neuen Interviewreihe stellen wir euch Kolleginnen und Kollegen aus dem geOps-Team vor.
+Our strengths are not just data, maps and mobility solutions - but above all the people behind them. In our new series of interviews, we introduce you to colleagues from the geOps team.
 
-Den Anfang macht: **Jessi – Software Engineer bei geOps** 
+Let's start with: **Jessi - Software Engineer at geOps**
 
-**Was hat dich ins Unternehmen geführt?**\
-Ich bin als Auszubildende und absolute Quereinsteigerin ins Unternehmen gekommen. Besonders angesprochen haben mich der Fokus auf die Themen öffentlicher Verkehr, Mobilität und Umwelt – Bereiche, die mir enorm wichtig sind. 
+**What brought you to the company?**\
+I joined the company as a trainee and absolute career changer. I was particularly attracted by the focus on public transport, mobility and the environment - areas that are extremely important to me.
 
-**Was hast du hier gelernt, dass du nie in einem Studium oder Kurs gelernt hast?**Ich habe gelernt, dass es nicht nur okay, sondern wichtig ist, Fragen zu stellen und um Hilfe zu bitten. Gerade im Arbeitsalltag lernt man am meisten durch den Austausch mit Kolleg:innen. Nur wer fragt, versteht die Zusammenhänge wirklich und entwickelt sich weiter.
+**What have you learned here that you never learned on a course or at university?**\
+I've learned that it's not just okay, but important, to ask questions and ask for help. Especially in everyday working life, you learn the most by exchanging ideas with colleagues. Only those who ask questions really understand the context and continue to develop.
 
-**Woran arbeitest du gerade?**\
-Aktuell bin ich im IT-Infrastruktur-Team tätig und kümmere mich um die alltägliche Support Anfragen aus dem Team und betreue unsere Server-Infrastruktur, unterstütze aber auch bei der Umsetzung kleinerer Features in unseren Softwareprodukten. Zurzeit arbeite ich beispielsweise an der Reportgenerierung im Rahmen des Neuaufbaus unseres Altlasten-Managementsystems. Dabei kann ich sowohl technische Einblicke gewinnen als auch praktisch zur Weiterentwicklung unserer Lösungen beitragen.
+**What are you currently working on?**\
+I currently work in the IT infrastructure team and deal with day-to-day support requests from the team and look after our server infrastructure, but I also help with the implementation of smaller features in our software products. For example, I am currently working on report generation as part of the new development of our legacy management system. This allows me to gain technical insights as well as make a practical contribution to the further development of our solutions.
