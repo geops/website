@@ -1,4 +1,8 @@
 ---
+title: "Faces of geOps: Jessi im Porträt"
+summary: "In unserer neuen Interviewreihe „Faces of geOps“ stellen wir euch
+  Kolleginnen und Kollegen aus dem geOps-Team vor. Heute: Jessi,
+  Software-Ingenieurin mit Quereinstiegs-Hintergrund."
 created: 2025-06-11
 slug: jessi
 frontpage: true
