@@ -14,9 +14,17 @@ Ende Juni stand unser alljährlicher Betriebsausflug an – und diesmal hiess es
 
 Wir starteten früh im **Eisenbahnbetriebslabor Schweiz AG (ebl-Schweiz)** in Dübendorf. Dort durften wir live erleben, wie Fahrpläne nicht nur in der Theorie funktionieren, sondern tatsächlich in einem detailgetreuen Modellbetrieb umgesetzt werden: Züge im Miniaturformat, Stellwerk-Action und präzise Taktzeitsteuerung. Für uns bei geOps – Entwickler:innen digitaler Kartenlösungen für den öffentlichen Verkehr – fühlte sich das an wie eine spielerische Fortsetzung unserer täglichen Arbeit, nur mit echten Hebeln und Schienen. 
 
+
+
+![](/images/blog/vom-stellwerk-zum-weinglas-unser-betriebsausflug-2025/image00016.jpeg)
+
 ### Tag 2: Kultur, Aussicht & Wein
 
 Am zweiten Tag ging es entspannt weiter: Besichtigung der **Festung Munot**, Spaziergang zur **Siblingerhöhe** und schlieslich eine gemütliche Wanderung in ein Weingut in Hallau. Dort liessen wir den Tag mit einer feinen Degustation und kulinarischen Häppchen ausklingen – bei bestem Wetter und in ausgelassener Stimmung.
+
+![](/images/blog/vom-stellwerk-zum-weinglas-unser-betriebsausflug-2025/image00050.jpeg)
+
+![](/images/blog/vom-stellwerk-zum-weinglas-unser-betriebsausflug-2025/image00053.jpeg)
 
 ### Erkenntnisse & Fazit
 
