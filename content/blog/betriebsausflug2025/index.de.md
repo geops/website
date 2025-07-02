@@ -8,7 +8,7 @@ slug: betriebsausflug2025
 frontpage: true
 published: true
 ---
-Ende Juni stand unser alljährlicher Betriebsausflug an – und diesmal hiess es für das geOps-Team: vom Modellstellwerk zur Weinverkostung.
+E﻿nde Juni war es wieder so weit: Unser alljährlicher Betriebsausflug stand auf dem Programm – und wie jedes Jahr wartete ein spannendes, gut abgestimmtes Erlebnis aus das Team von geOps. Diesmal führte uns die Reise von der Welt der Signale und Fahrpläne bis in die idyllischen Rebberge des Klettgaus. Eine Reise, die wie gemacht war für uns, die täglich digitale Lösungen für den öffentlichen Verkehr entwickeln – und die sich auch ausserhalb des Büros für Koordination, Teamgeist und gute Verbindungen begeistern.
 
 ### Tag 1: Technik & Teamwork im Eisenbahnbetriebslabor
 
@@ -17,6 +17,8 @@ Wir starteten früh im **Eisenbahnbetriebslabor Schweiz AG (ebl-Schweiz)** in D�
 ![](/images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00025.jpeg)
 
 ![](/images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00016.jpeg)
+
+Nach der technischen Vertiefung ging es weiter nach Schaffhausen, wo wir den Tag bei einem gemeinsamen Nachtessen ausklingen liessen. In geselliger Runde genossen wir ein feines Menü, gute Gespräche und einen herrlichen Sommerabend – der perfekte Übergang vom intensiven Tüfteln zum entspannten Teil unseres Ausflugs.
 
 ### Tag 2: Kultur, Aussicht & Wein
 
