@@ -8,7 +8,7 @@ slug: betriebsausflug2025
 frontpage: true
 published: true
 ---
-E﻿nde Juni war es wieder so weit: Unser alljährlicher Betriebsausflug stand auf dem Programm – und wie jedes Jahr wartete ein spannendes, gut abgestimmtes Erlebnis aus das Team von geOps. Diesmal führte uns die Reise von der Welt der Signale und Fahrpläne bis in die idyllischen Rebberge des Klettgaus. Eine Reise, die wie gemacht war für uns, die täglich digitale Lösungen für den öffentlichen Verkehr entwickeln – und die sich auch ausserhalb des Büros für Koordination, Teamgeist und gute Verbindungen begeistern.
+E﻿nde Juni war es wieder so weit: Unser alljährlicher Betriebsausflug stand auf dem Programm – und wie jedes Jahr wartete ein spannendes, gut abgestimmtes Erlebnis auf das Team von geOps. Diesmal führte uns die Reise von der Welt der Signale und Fahrpläne bis in die idyllischen Rebberge des Klettgaus. Eine Reise, die wie gemacht war für uns, die täglich digitale Lösungen für den öffentlichen Verkehr entwickeln – und die sich auch ausserhalb des Büros für Koordination, Teamgeist und gute Verbindungen begeistern.
 
 ### Tag 1: Technik & Teamwork im Eisenbahnbetriebslabor
 
