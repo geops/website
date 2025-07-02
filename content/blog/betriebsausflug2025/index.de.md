@@ -1,5 +1,5 @@
 ---
-title: "Vom Stellwerk zum Weinglas: Unser Betriebsausflug 2025"
+title: "Vom Stellwerk zum Weinglas: unser Betriebsausflug 2025"
 summary: "Two days out and about between model railroads, timetables and
   vineyards: our company excursion this year combined technology, team spirit
   and enjoyment in a perfectly timed manner."
