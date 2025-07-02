@@ -12,13 +12,11 @@ published: true
 ---
 Our annual company excursion took place at the end of June - and this time it was time for the geOps team to go from the model signal box to wine tasting.
 
-### \
-Day 1: Technology & teamwork in the railroad operations laboratory
+### Day 1: Technology & teamwork in the railroad operations laboratory
 
 We started early at the **Swiss Railway Operations Laboratory** in Dübendorf. There we were able to experience live how timetables not only work in theory, but are actually implemented in a detailed model operation: Trains in miniature format, signal box action and precise cycle time control. For us at geOps - developers of digital solutions for public transport - it felt like a playful continuation of our daily work, only with real levers and tracks.
 
-### \
-Day 2: Culture, views & wine
+### Day 2: Culture, views & wine
 
 The second day continued in a relaxed manner: a visit to **Munot Fortress** in Schaffhausen, a hike to **Siblingerhöhe** and finally a leisurely walk to a winery in Hallau. There we ended the day with a fine wine tasting and culinary snacks - in the best weather and in a relaxed atmosphere.
 
