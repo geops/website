@@ -1,8 +1,8 @@
 ---
 title: "From signal box to wine glass: our company excursion in 2025"
-summary: "Zwei Tage unterwegs zwischen Modellbahn, Fahrplänen und Weinbergen:
-  Unser diesjähriger Betriebsausflug verband Technik, Teamgeist und Genuss auf
-  perfekt getaktete Weise."
+summary: "Two days out and about between model railroads, timetables and
+  vineyards: our company excursion this year combined technology, team spirit
+  and enjoyment in a perfectly timed manner."
 cover: /images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00025.jpeg
 created: 2025-07-01
 slug: companyexcursion2025
