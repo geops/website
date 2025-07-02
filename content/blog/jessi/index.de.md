@@ -21,3 +21,5 @@ Ich bin als Auszubildende und absolute Quereinsteigerin ins Unternehmen gekommen
 
 **Woran arbeitest du gerade?**\
 Aktuell bin ich im IT-Infrastruktur-Team tätig und kümmere mich um die alltägliche Support Anfragen aus dem Team und betreue unsere Server-Infrastruktur, unterstütze aber auch bei der Umsetzung kleinerer Features in unseren Softwareprodukten. Zurzeit arbeite ich beispielsweise an der Reportgenerierung im Rahmen des Neuaufbaus unseres Altlasten-Managementsystems. Dabei kann ich sowohl technische Einblicke gewinnen als auch praktisch zur Weiterentwicklung unserer Lösungen beitragen.
+
+![](/images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-3-.png)
