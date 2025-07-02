@@ -1,27 +1,29 @@
 ---
-title: "Vom Stellwerk zum Weinglas: Unser Betriebsausflug 2025"
+title: "From signal box to wine glass: our company excursion in 2025"
 summary: "Zwei Tage unterwegs zwischen Modellbahn, Fahrplänen und Weinbergen:
   Unser diesjähriger Betriebsausflug verband Technik, Teamgeist und Genuss auf
   perfekt getaktete Weise."
 cover: /images/blog/image00025.jpeg
 created: 2025-07-01
-slug: betriebsausflug2025
+slug: companyexcursion2025
 frontpage: true
 frontpageImage: /images/blog/image00025.jpeg
 published: true
 ---
-Ende Juni stand unser alljährlicher Betriebsausflug an – und diesmal hiess es für das geOps-Team: vom Modellstellwerk zur Weinverkostung.
+Our annual company excursion took place at the end of June - and this time it was time for the geOps team to go from the model signal box to wine tasting.
 
-### Tag 1: Technik & Teamwork im Eisenbahnbetriebslabor
+### \
+Day 1: Technology & teamwork in the railroad operations laboratory
 
-Wir starteten früh im **Eisenbahnbetriebslabor Schweiz AG (ebl-Schweiz)** in Dübendorf. Dort durften wir live erleben, wie Fahrpläne nicht nur in der Theorie funktionieren, sondern tatsächlich in einem detailgetreuen Modellbetrieb umgesetzt werden: Züge im Miniaturformat, Stellwerk-Action und präzise Taktzeitsteuerung. Für uns bei geOps – Entwickler:innen digitaler Kartenlösungen für den öffentlichen Verkehr – fühlte sich das an wie eine spielerische Fortsetzung unserer täglichen Arbeit, nur mit echten Hebeln und Schienen. 
+We started early at the **Swiss Railway Operations Laboratory** in Dübendorf. There we were able to experience live how timetables not only work in theory, but are actually implemented in a detailed model operation: Trains in miniature format, signal box action and precise cycle time control. For us at geOps - developers of digital solutions for public transport - it felt like a playful continuation of our daily work, only with real levers and tracks.
 
-### Tag 2: Kultur, Aussicht & Wein
+### \
+Day 2: Culture, views & wine
 
-Am zweiten Tag ging es entspannt weiter: Besichtigung der **Festung Munot**, Spaziergang zur **Siblingerhöhe** und schlieslich eine gemütliche Wanderung in ein Weingut in Hallau. Dort liessen wir den Tag mit einer feinen Degustation und kulinarischen Häppchen ausklingen – bei bestem Wetter und in ausgelassener Stimmung.
+The second day continued in a relaxed manner: a visit to **Munot Fortress** in Schaffhausen, a hike to **Siblingerhöhe** and finally a leisurely walk to a winery in Hallau. There we ended the day with a fine wine tasting and culinary snacks - in the best weather and in a relaxed atmosphere.
 
-### Erkenntnisse & Fazit
+### F﻿indings & conclusions
 
-Der Ausflug hat uns nicht nur spannende Einblicke in die Welt der Fahrplanerstellung und Eisenbahntechnik ermöglicht, sondern auch gezeigt, wie wichtig gutes Timing und klare Kommunikation sind – sei es im Modellbetrieb oder im Projektalltag bei geOps. Abseits vom Bildschirm entstand Raum für Austausch, gemeinsame Erlebnisse und echten Teamzusammenhalt.
+The trip not only gave us exciting insights into the world of timetabling and railroad technology, but also showed us how important good timing and clear communication are - whether in model operation or in everyday project work at geOps. Away from the screen, there was room for exchange, shared experiences and real team cohesion.
 
-Und ganz nebenbei haben wir festgestellt: Wenn Planung, Zusammenarbeit und der richtige Takt stimmen, läuft’s  fast so zuverlässig wie der Schweizer Zugverkehr.
+And incidentally, we also discovered that when planning, collaboration and the right timing are right, things run almost as reliably as Swiss rail traffic.
