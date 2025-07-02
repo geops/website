@@ -3,11 +3,11 @@ title: "Faces of geOps: a portrait of Jessi"
 summary: "In our new interview series “Faces of geOps”, we introduce you to
   colleagues from the geOps team. Today: Jessi, software engineer with a career
   change background."
-cover: /images/blog/faces-of-geops-jessi-im-porträt/5.png
+cover: /images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-5-.png
 created: 2025-06-11
 slug: jessi
 frontpage: true
-frontpageImage: /images/blog/faces-of-geops-jessi-im-porträt/5.png
+frontpageImage: /images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-5-.png
 frontpageWeight: 1
 published: true
 ---
@@ -25,3 +25,5 @@ I've learned that it's not just okay, but important, to ask questions and ask fo
 
 **What are you currently working on?**\
 I currently work in the IT infrastructure team and deal with day-to-day support requests from the team and look after our server infrastructure, but I also help with the implementation of smaller features in our software products. For example, I am currently working on report generation as part of the new development of our legacy management system. This allows me to gain technical insights as well as make a practical contribution to the further development of our solutions.
+
+![](/images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-4-.png)
