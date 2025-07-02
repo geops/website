@@ -10,7 +10,7 @@ frontpage: true
 frontpageImage: /images/blog/image00025.jpeg
 published: true
 ---
-Our annual company excursion took place at the end of June - and this time it was time for the geOps team to go from the model signal box to wine tasting.
+It was that time again at the end of June: our annual company excursion was on the agenda - and as every year, an exciting, well-coordinated experience awaited the geOps team. This time, the journey took us from the world of signals and timetables to the idyllic vineyards of Klettgau. A trip that was made for us, who develop digital solutions for public transport every day - and who are also passionate about coordination, team spirit and good connections outside the office.
 
 ### Day 1: Technology & teamwork in the railroad operations laboratory
 
@@ -19,6 +19,8 @@ We started early at the **Swiss Railway Operations Laboratory** in Dübendorf. T
 ![](/images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00025.jpeg)
 
 ![](/images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00016.jpeg)
+
+After the in-depth technical session, we continued on to Schaffhausen, where we rounded off the day with dinner together. In convivial company, we enjoyed a delicious meal, good conversation and a wonderful summer evening - the perfect transition from the intensive tinkering to the relaxed part of our excursion.
 
 ### Day 2: Culture, views & wine
 
