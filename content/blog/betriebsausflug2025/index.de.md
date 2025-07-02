@@ -1,8 +1,8 @@
 ---
 title: "Vom Stellwerk zum Weinglas: unser Betriebsausflug 2025"
-summary: "Two days out and about between model railroads, timetables and
-  vineyards: our company excursion this year combined technology, team spirit
-  and enjoyment in a perfectly timed manner."
+summary: "Zwei Tage unterwegs zwischen Modellbahn, Fahrplänen und Weinbergen:
+  Unser diesjähriger Betriebsausflug verband Technik, Teamgeist und Genuss auf
+  perfekt getaktete Weise."
 created: 2025-07-01
 slug: betriebsausflug2025
 frontpage: true
