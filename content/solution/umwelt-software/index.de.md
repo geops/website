@@ -19,7 +19,7 @@ Daneben enthält  alma eine komplette Geschäftskontrolle. Es lassen sich belieb
 
 Für den Datenaustausch stehen zahlreiche Exportmöglichkeiten zur Verfügung. Einerseits lassen sich Exporte nach individuellen Anforder&shy;ungen konfigurieren und in verschiedenen Geodaten-Formaten oder in Tabellenform als EXCEL oder als PDF ausgeben. Andererseits bietet alma modellkonforme Exporte im Interlis-Format, mit denen die Anforderungen an den KbS als Geobasisdatensatz oder die Anforder&shy;ungen des Katasters öffentlich-rechtlicher Beschränkungen (ÖREB) erfüllt werden.
 
-![](/images/solution/umwelt-software/grafik_bg_weis.png)
+![](/images/solution/umwelt-software/mockuuups_minimal_dell_display_mockup.png)
 
  alma ist eine Webapplikation, die komplett auf Open Source Software beruht. Das Open Source-Modell ermöglicht eine Nutzung ohne Lizenzkosten sowie die Weiterentwicklung nach den Bedürfnissen aller Kunden.
 
