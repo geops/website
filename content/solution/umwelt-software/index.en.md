@@ -21,13 +21,13 @@ Through the use of open interfaces and standards, our applications can be seamle
 
 alma is a business control that is used in Switzerland and the Principality of Liechtenstein for the long-term management of the cadastre of polluted locations.
 
-The federal law on environmental protection obliges the Swiss cantons and federal agencies to draw up a publicly accessible cadastre of polluted sites (KbS). geOps has been developing software for creating and managing KbS in Switzerland for over 15 years. With  alma we offer software that covers all aspects in this area of ​​responsibility.
+The federal law on environmental protection obliges the Swiss cantons and federal agencies to draw up a publicly accessible cadastre of polluted sites (KbS). geOps has been developing software for creating and managing KbS in Switzerland for over 20 years. With  alma we offer software that covers all aspects in this area of ​​responsibility.
 
 Not only all the relevant data for assessment and monitoring can be recorded with it. Thanks to the integrated geodata processing, the perimeters of the locations can be precisely digitized and displayed on various maps within alma without the need for additional GIS software.
 
 In addition,  alma contains a complete business control. Any processes can be modeled and transactions and pending tasks based on them can be handled. Individualized report templates allow the creation of data sheets and serial letters, either ad hoc or as an integrated step in the business process.
 
-Numerous export options are available for data exchange. On the one hand, exports can be configured according to individual requirements and output in various geodata formats or in tabular form as EXCEL or PDF. On the other hand,  alma offers model-compliant exports in Interlis format, with which the requirements of the KbS as a geographic base data set or the requirements of the cadastre of public law restrictions (ÖREB) are met.
+Numerous export options are available for data exchange. On the one hand, exports can be configured according to individual requirements and output in various geodata formats or in tabular form as EXCEL or PDF. On the other hand,  alma offers model-compliant exports in Interlis format, with which the requirements of the KbS as a geographic base data set (MGDM) or the requirements of the cadastre of public law restrictions (ÖREB) are met.
 
 ![](/images/solution/umwelt-software/mockuuups_minimal_dell_display_mockup.png)
 

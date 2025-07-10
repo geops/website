@@ -11,13 +11,13 @@ Durch den Einsatz offener Schnittstellen und Standards lassen sich unsere Anwend
 
 alma ist eine Ge­schäfts­kontrolle, die in der Schweiz und dem Fürstentum Liechtenstein für die langfristige Führung des Katasters belasteter Standorte eingesetzt wird.
 
-Das Bundesgesetz über den Umwelt&shy;schutz verpflichtet die Schweizer Kantone und Bundesstellen, einen öffentlich zugänglichen Kataster der belasteten Standorte (KbS) zu erstellen. geOps entwickelt seit über 15 Jahren Software für die Erstellung und Führung des KbS in der Schweiz. Mit alma bieten wir eine Software, die sämtliche Aspekte in diesem Aufgabenbereich abdeckt.
+Das Bundesgesetz über den Umwelt&shy;schutz verpflichtet die Schweizer Kantone und Bundesstellen, einen öffentlich zugänglichen Kataster der belasteten Standorte (KbS) zu erstellen. geOps entwickelt seit über 20 Jahren Software für die Erstellung und Führung des KbS in der Schweiz. Mit alma bieten wir eine Software, die sämtliche Aspekte in diesem Aufgabenbereich abdeckt.
 
 Nicht nur alle für die Beurteilung und Überwachung relevanten Sachdaten können damit erfasst werden. Dank der integrierten Geodaten-Bearbeitung lassen sich innerhalb von  alma, ohne Notwendigkeit weiterer GIS-Software, die Perimeter der Standorte präzise digitalisieren und auf verschiedenen Karten anzeigen.
 
 Daneben enthält  alma eine komplette Geschäftskontrolle. Es lassen sich beliebige Prozesse modellieren und darauf basierende Geschäfte und Pendenzen abwickeln. Individualisierte Berichtsvorlagen erlauben die Erstellung von Daten&shy;blättern und Serienbriefen, entweder ad hoc oder als integrierter Schritt im Geschäftsablauf.
 
-Für den Datenaustausch stehen zahlreiche Exportmöglichkeiten zur Verfügung. Einerseits lassen sich Exporte nach individuellen Anforder&shy;ungen konfigurieren und in verschiedenen Geodaten-Formaten oder in Tabellenform als EXCEL oder als PDF ausgeben. Andererseits bietet alma modellkonforme Exporte im Interlis-Format, mit denen die Anforderungen an den KbS als Geobasisdatensatz oder die Anforder&shy;ungen des Katasters öffentlich-rechtlicher Beschränkungen (ÖREB) erfüllt werden.
+Für den Datenaustausch stehen zahlreiche Exportmöglichkeiten zur Verfügung. Einerseits lassen sich Exporte nach individuellen Anforder&shy;ungen konfigurieren und in verschiedenen Geodaten-Formaten oder in Tabellenform als EXCEL oder als PDF ausgeben. Andererseits bietet alma modellkonforme Exporte im Interlis-Format, mit denen die Anforderungen an den KbS als Geobasisdatensatz (MGDM) oder die Anforder&shy;ungen des Katasters öffentlich-rechtlicher Beschränkungen (ÖREB) erfüllt werden.
 
 ![](/images/solution/umwelt-software/mockuuups_minimal_dell_display_mockup.png)
 
