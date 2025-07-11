@@ -4,6 +4,7 @@ summary: A quick look at how switching to uv improved our Python workflow,
   replacing tools like pip, pip-tools, and virtualenv with a faster, all-in-one
   solution—plus tips for migrating existing projects.
 author: Milan Oberkirch
+cover: /images/blog/managing-python-dependencies-with-uv/chatgpt-image-jul-11-2025-at-02_57_49-pm.png
 created: 2025-07-11
 slug: modern-python-tooling-with-uv
 tags:
