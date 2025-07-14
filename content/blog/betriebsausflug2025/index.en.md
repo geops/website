@@ -10,7 +10,7 @@ tags:
   - geops
   - team
 frontpage: true
-frontpageImage: /images/blog/image00025.jpeg
+frontpageImage: /images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00025.jpeg
 published: true
 ---
 It was that time again at the end of June: our annual company excursion was on the agenda - and as every year, an exciting, well-coordinated experience awaited the geOps team. This time, the journey took us from the world of signals and timetables to the idyllic vineyards of Klettgau. A trip that was made for us, who develop digital solutions for public transport every day - and who are also passionate about coordination, team spirit and good connections outside the office.
