@@ -84,5 +84,3 @@ createdb <default-database-name>
 uv run manage.py migrate
 uv run manage.py runserver
 ```
-
-``
