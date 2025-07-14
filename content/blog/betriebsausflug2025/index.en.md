@@ -6,6 +6,9 @@ summary: "Two days out and about between model railroads, timetables and
 cover: /images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00025.jpeg
 created: 2025-07-01
 slug: companyexcursion2025
+tags:
+  - geops
+  - team
 frontpage: true
 frontpageImage: /images/blog/image00025.jpeg
 published: true
