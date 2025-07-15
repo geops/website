@@ -17,7 +17,7 @@ Since my [last blog post about python tooling about 5 years ago](https://geops.
 
 uv claims to be "a single tool to replace `pip`**, `pip-tools`, `pipx`, `poetry`, `pyenv`, `twine`, `virtualenv`,** and more" while being "10-100x faster than pip". Similar to ruff it can be used as a drop-in for the tools it replaces, which is what we started with when we ran into an issue where [pip-tools output was no longer reproducible](https://github.com/jazzband/pip-tools/issues/2131) for some projects. It is as easy as it sounds: `uv pip compile` instead of `pip-compile` and copy-pasting the right snippet from <https://docs.astral.sh/uv/guides/integration/pre-commit/> into the `.pre-commit-config.yaml` .
 
-After [Armin Ronachers talk on the prececessor of uv at the EuroPython 2024](https://ep2024.europython.eu/session/the-catch-in-rye-seeding-change-and-lessons-learned/) reminded me how overly complicated managing Python dependencies still tends to be with some combination of `"dev-requirements.in", "dev-requriements.txt", "pyproject.toml"`, plus instructions in the projects readme file about how the venv should be set up, I decided to take another look at uv, which is the successor of Rye.
+After [Armin Ronachers talk on the predecessor of uv at the EuroPython 2024](https://ep2024.europython.eu/session/the-catch-in-rye-seeding-change-and-lessons-learned/) reminded me how overly complicated managing Python dependencies still tends to be with some combination of "dev-requirements.in", "dev-requriements.txt", "pyproject.toml", plus instructions in the projects readme file about how the venv should be set up, I decided to take another look at uv, which is the successor of Rye.
 
 The basic idea is that you can do everything with uv: from creating the Package Metadata (pyproject.toml) in the first place over adding dependencies and development dependencies to publishing your package to PyPi without even having to activate your venv. The starting-form-scatch case is very well documented at <https://docs.astral.sh/uv/guides/projects/>so I don't have to repeat it here. Also not covered in this post are other features than managing a projects dependencies.
 
@@ -25,7 +25,7 @@ Instead here is a quick run-down of what needs to be done to switch to uv from 
 
 ### Moving dev-requirements.in to a dependency-group
 
-Instead of having another set of files to specify development dependencies `uv`  used dependency-groups within the pyproject.toml. For a new project you could add those with `uv add --dev <whatever>` . For migrating an exisitng list it's easier to just edit the pyproject.toml directly by adding:
+Instead of having another set of files to specify development dependencies `uv`  uses dependency-groups within the pyproject.toml. For a new project you could add those with `uv add --dev <whatever>` . For migrating an existing list it's easier to just edit the pyproject.toml directly by adding:
 
 ```
 [dependency-groups]
@@ -38,7 +38,7 @@ Note that dependency groups have no meaning outside of uv, they are not optiona
 
 ### Migrating pinned versions
 
-In order to keep the versions pinned from other tools you have to convince uv to not update anything when first creating the uv.lock file. Unless I'm missing something there is no straightforward way to do this, so I resorted to installing pip and wheel and creating a wheelhouse with all the requirements and telling uv look up dependencies in the wheelhouse instead of the index:
+In order to keep the versions pinned from other tools you have to convince uv to not update anything when first creating the uv.lock file. Unless I'm missing something there is no straightforward way to do this, so I resorted to installing pip and wheel and creating a wheelhouse with all the requirements and telling uv to look up dependencies in the wheelhouse instead of the index:
 
 ```
 $ uv pip install pip wheel
@@ -53,7 +53,7 @@ $ uv run pip wheel -w wheels/ tzdata
 $ uv lock -f wheels/ --no-index
 ```
 
-Congtratulations, once uv has nothing left to complain about you have a lock file with the exact same versions pinned as before.
+Congratulations, once uv has nothing left to complain about you have a lock file with the exact same versions pinned as before.
 
 ### Pre-Commit and CI-Configuration
 
