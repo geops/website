@@ -3,7 +3,7 @@ title: Software for the environment
 summary: Our environmental software focuses on interoperability, durability and
   usability.
 cover: /images/solution/umwelt-software/tree_app.png
-pageCover: /images/solution/umwelt-software/alma-bild-geops-projekte4x.jpg
+pageCover: /images/solution/umwelt-software/alma-bild-geops-projekte-1x-1.jpg
 slug: umwelt-software
 weight: 5
 tags:
