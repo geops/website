@@ -15,9 +15,9 @@ published: false
 ---
 Je besser das Angebot im öffentlichen Verkehr ist, umso höher ist das Risiko für Störungen. Dichte Taktfolgen, kurze Kupplungs- und Umstiegszeiten, eine stark belastete Infrastruktur und die Notwendigkeit von Baumassnahmen machen das System anfällig. Einschränkungen im Betriebsablauf, egal ob geplant oder ungeplant, sind daher unvermeidlich. Umso wichtiger ist es, den Reisenden umfassende, zielgerichtete Informationen über Abweichungen und alternative Reisemöglichkeiten zu bieten. 
 
-## Baukasten zur Reisenden-Information
+## Baukasten zur Reisendeninformation
 
-Der Anspruch, Reisende schnell und genau über Abweichungen vom Regelbetrieb zu informieren, ist nicht mit einer Insellösung zu erreichen. Vielmehr müssen Daten aus vorhandenen Reisenden-Informations&shy;systemen genutzt und aufeinander abgestimmt werden, häufig sind redaktionelle Überarbei&shy;tungen unerlässlich, und schliesslich müssen die Informationen zielgerichtet auf verschiedensten Kanälen wie Apps und Webseiten, Fahrzeugdisplays oder Monitoren am Bahnhof ausgegeben werden.
+Stattdessen gilt es, Daten aus bestehenden Reisendeninformationssystemen zu nutzen und aufeinander abzustimmen. Häufig sind redaktionelle Überarbeitungen unerlässlich, bevor die Informationen schliesslich zielgerichtet über verschiedene Kanäle wie Apps, Webseiten, Fahrzeugdisplays oder Monitore am Bahnhof ausgespielt werden können.
 
 ![Baustellenkommunikation](/images/solution/disruption-information/moco_screen_960.png "Baustellenkommunikation")
 
