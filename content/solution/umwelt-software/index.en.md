@@ -1,7 +1,7 @@
 ---
 title: Software for the environment
 summary: Our environmental software focuses on interoperability, durability and
-  user-friendliness.
+  usability.
 cover: /images/solution/umwelt-software/tree_app.png
 pageCover: /images/solution/umwelt-software/altlast4web.jpg
 slug: umwelt-software
