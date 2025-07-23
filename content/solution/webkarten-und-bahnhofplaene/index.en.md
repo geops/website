@@ -38,7 +38,7 @@ Based on our [GeoCMS Cartaro](/solution/cartaro) geOps develops and operates the
 
 The contents of numerous thematic SBB map are updated with our Cartaro editing tool. Among other things, the maps for traveling with restricted mobility and for SBB construction projects are based on Cartaro. SBB's specialist departments also use our editing tool, e.g. to always find the right person responsible for a route section across Switzerland.
 
-The GeoCMS train station plans is the central platform for the maintenance of information about the offers of the 35 largest Swiss train stations. Opening times, logos, images and other content are managed by the SBB real estate managers and our ARGE partner evoq in GeoCMS. The data form the basis for online and offline plans and for the offer pages on [www.sbb.ch](https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/bahnhof-bern/geschaefte/shop-detail.html/geo-blumen-ackermann-6448).
+The GeoCMS train station plans is the central platform for the maintenance of information about the offers of the 35 largest Swiss train stations. Opening times, logos, images and other content are managed by the SBB real estate managers and our ARGE partner evoq in GeoCMS. The data form the basis for online and offline plans and for the offer pages on [sbb.ch](https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/bahnhof-bern/geschaefte/shop-detail.html/geo-blumen-ackermann-6448).
 
 The SBB informs its customers about restrictions in rail traffic on large general advertisements. For each malfunction, the location, duration, additional information and possible alternative connections are recorded in Cartaro and exported via an interface as graphics optimized for the respective monitor.
 
