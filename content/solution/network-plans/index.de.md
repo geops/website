@@ -7,11 +7,11 @@ slug: netzplaene
 contactSubtitle: ""
 frontpage: false
 ---
-Reisendeninformation hat viele Facetten. Auf der einen Seite steht die personalisierte Information, also die nach spezifischen Wünschen ausgewählte Verbindung mit Unterstützung für die multimodale Reisekette. Mit unseren Leistungen im Bereich Routing und Karten bieten wir für diese Sicht die exakte Visualisierung der Reisewege sowie Optionen für die Navigation. Auf der anderen Seite stehen Liniennetzpläne. Sie helfen Reisenden, sich einen Überblick über das öV-Angebot zu verschaffen und unabhängig von einer konkreten Verbindungs-Anfrage eine Vorstellung über mögliche Reiserouten zu entwickeln.
+Reisendeninformation hat viele Facetten. Auf der einen Seite steht die personalisierte Information, also die nach spezifischen Wünschen ausgewählte Verbindung mit Unterstützung für die multimodale Reisekette. Mit unseren Leistungen im Bereich Routing und Karten bieten wir für diese Sicht die exakte Visualisierung der Reisewege sowie Optionen für die Navigation. Auf der anderen Seite stehen Liniennetzpläne. Sie helfen Reisenden, sich einen Überblick über das öV-Angebot zu verschaffen und unabhängig von einer konkreten Verbindungsanfrage eine Vorstellung über mögliche Reiserouten zu entwickeln.
 
 ## Übersicht des öV-Angebots
 
-Liniennetzpläne greifen unterschiedliche Bereiche aus dem Gesamtangebot auf. Sie können nach Regionen, Betreibern, Verkehrsmitteln, Tag- und Nachtnetzen oder anderen Kriterien differenziert sein. Bei topographischen Netzplänen ist die Lage der Linien eng an der realen Situation orientiert, während schematisierte Pläne mehr oder weniger stark abstrahiert sind, um die Zusammenhänge der Linien und Stationen deutlicher herauszustellen.
+Liniennetzpläne greifen unterschiedliche Bereiche aus dem Gesamtangebot auf. Sie können nach Regionen, Betreibern, Verkehrsmitteln, Tag- und Nachtnetzen oder anderen Kriterien differenziert sein. Bei topographischen Netzplänen ist die Lage der Linien eng an der realen Situation orientiert, während schematisierte Pläne mehr oder weniger stark abstrahiert sind, um die Zusammenhänge der Linien und Stationen übersichtlicher darzustellen.
 
 <ResponsiveImage alt="Liniennetzplan" desktop="/images/solution/network-plans/liniennetz_01.png" mobile="/images/solution/network-plans/LNP_mobile.png" />
 
