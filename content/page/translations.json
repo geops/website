@@ -14,6 +14,11 @@
     "blog": {
       "header": "News about projects and technologies as well as work at geOps."
     },
+    "terms": {
+      "path": "/terms",
+      "translationPath": "/bedingungen",
+      "title": "Terms of service"
+    },
     "privacy": {
       "path": "/privacy",
       "translationPath": "/datenschutz",
@@ -23,11 +28,6 @@
       "path": "/imprint",
       "translationPath": "/impressum",
       "title": "Imprint"
-    },
-    "terms": {
-      "path": "/terms",
-      "translationPath": "/bedingungen",
-      "title": "Terms of service"
     },
     "newsletterTeaser": {
       "title": "Always up to date",
@@ -111,6 +111,11 @@
     "blog": {
       "header": "Neues über Projekte und Technologien sowie die Arbeit bei geOps."
     },
+    "terms": {
+      "path": "/bedingungen",
+      "translationPath": "/terms",
+      "title": "Bedingungen"
+    },
     "privacy": {
       "path": "/datenschutz",
       "translationPath": "/privacy",
@@ -120,11 +125,6 @@
       "path": "/impressum",
       "translationPath": "/imprint",
       "title": "Impressum"
-    },
-    "terms": {
-      "path": "/bedingungen",
-      "translationPath": "/terms",
-      "title": "Bedingungen"
     },
     "newsletterTeaser": {
       "title": "Immer auf dem Laufenden",
@@ -150,7 +150,7 @@
     },
     "openSourceTeaser": {
       "title": "Open Source – was sonst?",
-      "text": "Unsere Projekte setzen durchweg auf Open Source Komponenten. Mit Open Source entwickeln wir für unsere Kunden die beste Lösung, bieten attraktive Preise und geben die Freiheit, alles aus einem Produkt herauszuholen. Von unseren Projekten geben wir regelmässig Entwicklungen an die Community zurück. ",
+      "text": "Unsere Projekte setzen durchweg auf Open Source Komponenten. Mit Open Source entwickeln wir für unsere Kundschaft die beste Lösung, bieten attraktive Preise und geben die Freiheit, alles aus einem Produkt herauszuholen. Von unseren Projekten geben wir regelmässig Entwicklungen an die Community zurück. ",
       "action": "Mehr erfahren"
     },
     "contactPerson": {
