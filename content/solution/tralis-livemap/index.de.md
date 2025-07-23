@@ -16,7 +16,7 @@ published: true
 ---
 LiveMaps zeigen die Positionen von Fahrzeugen des öffentlichen Verkehrs auf einer Karte. 
 
-In der Grundversion werden die Fahrzeugpositionen auf Basis des **Soll-Fahrplans**, also des mittel- und langfristig geplanten Fahrplanangebots extrapoliert. Zugverspätungen, Ausfälle oder Umleitungen werden dabei ignoriert. Die resultierenden Darstellungen sind daher als Reisendeninformation nur bedingt geeignet. Sie können jedoch einen guten Überblick über das eigentliche Angebot des öffentlichen Verkehrs geben. Weiter sind diese Ansätze auch bei Planern und Entscheidern beliebt, da auch die Möglichkeit besteht, verschiedene Planungsszenarien zu visualisieren. Unsere [weltweit verfügbare Darstellung des öffentlichen Verkehrs](https://tracker.geops.ch/?z=6&s=1&x=1150450.8381&y=6451274.7870&l=transport)  basiert zu einem grossen Teil auf Solldaten.
+In der Grundversion werden die Fahrzeugpositionen auf Basis des **Soll-Fahrplans**, also des mittel- und langfristig geplanten Fahrplanangebots extrapoliert. Zugverspätungen, Ausfälle oder Umleitungen werden dabei ignoriert. Die resultierenden Darstellungen sind daher als Reisendeninformation nur bedingt geeignet. Sie können jedoch einen guten Überblick über das eigentliche Angebot des öffentlichen Verkehrs geben. Weiter sind diese Ansätze auch bei Personen in Planung und Entscheidungsfindung beliebt, da auch die Möglichkeit besteht, verschiedene Planungsszenarien zu visualisieren. Unsere [weltweit verfügbare Darstellung des öffentlichen Verkehrs](https://tracker.geops.ch/?z=6&s=1&x=1150450.8381&y=6451274.7870&l=transport) basiert zu einem grossen Teil auf Solldaten.
 
 ![](/images/solution/tralis-livemap/tracker_worldwide_960.png)
 
