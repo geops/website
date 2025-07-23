@@ -43,4 +43,4 @@ The fundamentals divide the forest into location types, which depend on the fore
 
 The logic from the research bases developed can be called up in a user-friendly way in a mobile web application for forest managers and all other interested parties.
 
-[www.tree-app.ch](http://www.tree-app.ch/)
+tree-app.ch
