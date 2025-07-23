@@ -33,4 +33,4 @@ Die Grundlagen gliedern den Wald in Standortstypen, die von Waldregion und Höhe
 
 Die Logik aus den erarbeiteten Forschungsgrundlagen ist in einer mobil nutzbaren Webapplikation für die Waldbewirtschaftenden und alle anderen Interessierten nutzer&shy;freundlich abrufbar.
 
-[www.tree-app.ch](http://www.tree-app.ch/)
+[tree-app.ch](http://www.tree-app.ch/)
