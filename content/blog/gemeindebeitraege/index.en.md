@@ -11,7 +11,7 @@ slug: gemeindebeitraege
 tags:
   - passengerinformation
   - mobility
-published: true
+published: false
 ---
 # Automatisierte Berechnung der Gemeindebeiträge – Mehr Effizienz für den VVL
 

@@ -7,7 +7,7 @@ summary: "Weniger Aufwand, mehr Transparenz: Für den Verkehrsverbund Luzern
   zuverlässig und nachvollziehbar abgewickelt."
 created: 2025-07-25
 slug: gemeindebeitraege
-published: true
+published: false
 ---
 # Automatisierte Berechnung der Gemeindebeiträge – Mehr Effizienz für den VVL
 
