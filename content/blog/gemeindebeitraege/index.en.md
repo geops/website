@@ -14,13 +14,9 @@ tags:
   - mobility
 published: false
 ---
-Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals aufwendiger Prozess jetzt schnell, zuverlässig und nach
+Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals aufwendiger Prozess jetzt schnell, zuverlässig und nachvollziehbar abgewickelt.
 
 ![](/images/blog/berechnung-der-gemeindebeiträge-im-öv-–-mehr-effizienz-durch-digitalisierung/bahnhofplatz_luzern_1.jpg)
-
-vollziehbar abgewickelt.
-
-
 
 ## Die Ausgangslage: Hoher Aufwand für faire Kostenverteilung
 
