@@ -6,6 +6,7 @@ summary: "Weniger Aufwand, mehr Transparenz: Für den Verkehrsverbund Luzern
   intelligenter Logik wird ein vormals aufwendiger Prozess jetzt schnell,
   zuverlässig und nachvollziehbar abgewickelt."
 author: Uli Müller
+cover: /images/blog/berechnung-der-gemeindebeiträge-im-öv-–-mehr-effizienz-durch-digitalisierung/bahnhofplatz_luzern_1.jpg
 created: 2025-07-25
 slug: gemeindebeitraege
 tags:
@@ -13,7 +14,13 @@ tags:
   - mobility
 published: false
 ---
-Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals aufwendiger Prozess jetzt schnell, zuverlässig und nachvollziehbar abgewickelt.
+Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals aufwendiger Prozess jetzt schnell, zuverlässig und nach
+
+![](/images/blog/berechnung-der-gemeindebeiträge-im-öv-–-mehr-effizienz-durch-digitalisierung/bahnhofplatz_luzern_1.jpg)
+
+vollziehbar abgewickelt.
+
+
 
 ## Die Ausgangslage: Hoher Aufwand für faire Kostenverteilung
 
@@ -27,10 +34,10 @@ Der VVL suchte deshalb nach einer Lösung, um den Prozess zu automatisieren und 
 
 Unsere massgeschneiderte Lösung basiert auf den offenen Fahrplandaten (GTFS) von [opentransportdata.swiss](https://opentransportdata.swiss). Sie ermittelt automatisch die Anzahl der Fahrten pro Haltestelle und Gemeinde – und berücksichtigt dabei alle relevanten Sonderfälle:
 
-- **Kantonale Feiertage** mit abweichenden Fahrplänen  
-- **Rundkurse**, bei denen Fahrten nicht doppelt gezählt werden dürfen  
-- **Nicht beitragsrelevante Linien oder Kategorien**, die gefiltert werden  
-- **Temporäre Einschränkungen**, z. B. durch Baustellen, die ignoriert werden
+* **Kantonale Feiertage** mit abweichenden Fahrplänen  
+* **Rundkurse**, bei denen Fahrten nicht doppelt gezählt werden dürfen  
+* **Nicht beitragsrelevante Linien oder Kategorien**, die gefiltert werden  
+* **Temporäre Einschränkungen**, z. B. durch Baustellen, die ignoriert werden
 
 Die Berechnung ist transparent und jederzeit nachvollziehbar. Auffälligkeiten und Inkonsistenzen werden automatisch erkannt, sodass der VVL frühzeitig reagieren kann.
 
@@ -40,10 +47,10 @@ Was früher viele Stunden manueller Arbeit bedeutete, läuft nun weitgehend auto
 
 **Die Vorteile für den VVL:**
 
-- Deutlich weniger Aufwand für Auswertungen und Nacharbeiten  
-- Fehlerreduktion durch automatische Erkennung von Abweichungen  
-- Klar nachvollziehbare Ergebnisse für Gemeinden und Verkehrsunternehmen  
-- Flexible Anpassbarkeit für zukünftige Linien, Tarife oder Regelungen
+* Deutlich weniger Aufwand für Auswertungen und Nacharbeiten  
+* Fehlerreduktion durch automatische Erkennung von Abweichungen  
+* Klar nachvollziehbare Ergebnisse für Gemeinden und Verkehrsunternehmen  
+* Flexible Anpassbarkeit für zukünftige Linien, Tarife oder Regelungen
 
 Das Projekt konnte dank unserer Erfahrung und der Nutzung standardisierter Datenformate mit minimalem Aufwand realisiert werden – zur vollen Zufriedenheit der Kundin.
 
