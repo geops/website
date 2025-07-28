@@ -13,22 +13,20 @@ Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals auf
 
 ## Die Ausgangslage: Hoher Aufwand für faire Kostenverteilung
 
-Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden, berechnet der VVL jährlich die Gemeindebeiträge. Grundlage ist die Anzahl der Fahrten an allen Haltestellen einer Gemeinde – eine an sich klare Methode, die in der Praxis jedoch aufwendig umzusetzen war.  
+Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden, berechnet der VVL jährlich die Gemeindebeiträge. Eine Grundlage dafür ist die Anzahl der Abfahrten an allen Haltestellen einer Gemeinde – eine an sich klare Methode, die in der Praxis jedoch aufwendig umzusetzen war.  
 
-Bislang mussten Fahrplandaten manuell ausgewertet und zahlreiche Sonderfälle geprüft werden: kantonale Feiertage, Rundkurse, Baustellen, nicht beitragsrelevante Linien und Abweichungen zwischen verschiedenen Datenquellen. Jeder dieser Faktoren bedeutete zusätzliche Arbeitsschritte – und machte den Prozess fehleranfällig.
-
-Der VVL suchte deshalb nach einer Lösung, um den Prozess zu automatisieren und gleichzeitig die Qualität und Nachvollziehbarkeit der Ergebnisse zu erhöhen.
+Bislang wurden die Fahrplandaten von den Transportunternehmen ausgewertet, manuell in eine Vorlage übertragen, dem VVL zugestellt und dort stichprobenartig überprüft. Dieser Prozess bedeutete für die Transportunternehmen und den VVL einen grossen Aufwand und war zugleich fehleranfällig. Der VVL suchte deshalb nach einer Lösung, um den Prozess zu automatisieren und gleichzeitig die Qualität und Nachvollziehbarkeit der Ergebnisse zu erhöhen.
 
 ## Die Lösung: Automatisierung mit offenen GTFS-Daten
 
 Unsere massgeschneiderte Lösung basiert auf den offenen Fahrplandaten (GTFS) von [opentransportdata.swiss](https://opentransportdata.swiss). Sie ermittelt automatisch die Anzahl der Fahrten pro Haltestelle und Gemeinde – und berücksichtigt dabei alle relevanten Sonderfälle:
 
-* **Kantonale Feiertage** mit abweichenden Fahrplänen  
-* **Rundkurse**, bei denen Fahrten nicht doppelt gezählt werden dürfen  
+* **Saisons und Feiertage** mit abweichenden Fahrplänen  
+* **Schlaufen**, bei denen Fahrten nicht doppelt gezählt werden dürfen  
 * **Nicht beitragsrelevante Linien oder Kategorien**, die gefiltert werden  
 * **Temporäre Einschränkungen**, z. B. durch Baustellen, die ignoriert werden
 
-Die Berechnung ist transparent und jederzeit nachvollziehbar. Auffälligkeiten und Inkonsistenzen werden automatisch erkannt, sodass der VVL frühzeitig reagieren kann.
+Die Berechnung ist transparent und jederzeit nachvollziehbar. Auffälligkeiten und Inkonsistenzen werden automatisch erkannt, sodass ein qualitätsgesichertes Ergebnis gewährleistet ist.
 
 ## Der Nutzen: Mehr Tempo, weniger Fehler, zufriedene Partner
 
@@ -37,9 +35,10 @@ Was früher viele Stunden manueller Arbeit bedeutete, läuft nun weitgehend auto
 **Die Vorteile für den VVL:**
 
 * Deutlich weniger Aufwand für Auswertungen und Nacharbeiten  
-* Fehlerreduktion durch automatische Erkennung von Abweichungen  
-* Klar nachvollziehbare Ergebnisse für Gemeinden und Verkehrsunternehmen  
-* Flexible Anpassbarkeit für zukünftige Linien, Tarife oder Regelungen
+* Weniger Aufwand für administrative Prozesse
+* Fehlerreduktion durch automatisierte Berechnungen und integrierte Qualitätssicherung 
+* Klar nachvollziehbare Ergebnisse für Gemeinden und Transportunternehmen  
+* Flexible Anpassbarkeit für zukünftige Linien, Haltestellen oder Regelungen
 
 Das Projekt konnte dank unserer Erfahrung und der Nutzung standardisierter Datenformate mit minimalem Aufwand realisiert werden – zur vollen Zufriedenheit der Kundin.
 
