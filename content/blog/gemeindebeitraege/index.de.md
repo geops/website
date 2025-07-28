@@ -19,7 +19,7 @@ Bislang wurden die Fahrplandaten von den Transportunternehmen ausgewertet, manue
 
 ## Die Lösung: Automatisierung mit offenen GTFS-Daten
 
-Unsere massgeschneiderte Lösung basiert auf den offenen Fahrplandaten (GTFS) von [opentransportdata.swiss](https://opentransportdata.swiss). Sie ermittelt automatisch die Anzahl der Fahrten pro Haltestelle und Gemeinde – und berücksichtigt dabei alle relevanten Sonderfälle:
+Unsere massgeschneiderte Lösung basiert auf den offenen Fahrplandaten (GTFS) von [opentransportdata.swiss](https://opentransportdata.swiss). Sie ermittelt automatisch die Anzahl der Abfahrten pro Haltestelle und Gemeinde – und berücksichtigt dabei alle relevanten Sonderfälle:
 
 * **Saisons und Feiertage** mit abweichenden Fahrplänen  
 * **Schlaufen**, bei denen Fahrten nicht doppelt gezählt werden dürfen  
