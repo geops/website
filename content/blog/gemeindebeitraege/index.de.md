@@ -30,9 +30,7 @@ Die Berechnung ist transparent und jederzeit nachvollziehbar. Auffälligkeiten u
 
 ## Der Nutzen: Mehr Tempo, weniger Fehler, zufriedene Partner
 
-Was früher viele Stunden manueller Arbeit bedeutete, läuft nun weitgehend automatisiert – schnell, zuverlässig und transparent.
-
-**Die Vorteile für den VVL:**
+Was früher viele Stunden manueller Arbeit bedeutete, läuft nun weitgehend automatisiert. Schnell, zuverlässig und transparent.
 
 * Deutlich weniger Aufwand für Auswertungen und Nacharbeiten  
 * Weniger Aufwand für administrative Prozesse
@@ -50,4 +48,4 @@ Das Projekt konnte dank unserer Erfahrung und der Nutzung standardisierter Daten
 
 Digitale Lösungen wie diese zeigen, wie offene Daten und intelligente Systeme den öV-Alltag einfacher machen können. Sie sparen Zeit, erhöhen die Transparenz und schaffen Vertrauen zwischen allen Beteiligten.  
 
-Möchten auch Sie Prozesse im öffentlichen Verkehr effizienter gestalten? **[Kontaktieren Sie uns](mailto:info@geops.ch)** – wir unterstützen Sie dabei, massgeschneiderte, praxistaugliche Lösungen zu entwickeln.
+Möchten auch Sie Prozesse im öffentlichen Verkehr effizienter gestalten? **[Kontaktieren Sie uns](mailto:info@geops.ch)** und wir unterstützen Sie dabei, massgeschneiderte, praxistaugliche Lösungen zu entwickeln.
