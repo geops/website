@@ -13,47 +13,45 @@ tags:
   - mobility
 published: false
 ---
-Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals aufwendiger Prozess jetzt schnell, zuverlässig und nachvollziehbar abgewickelt.
+Thanks to automation, open data and intelligent logic, a previously complex process is now handled quickly, reliably and transparently.
 
 ![](/images/blog/berechnung-der-gemeindebeiträge-im-öv-–-mehr-effizienz-durch-digitalisierung/bahnhofplatz_luzern_1.jpg)
 
-## Die Ausgangslage: Hoher Aufwand für faire Kostenverteilung
+## The starting point: high costs for fair cost distribution
 
-Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden, berechnet der VVL jährlich die [Gemeindebeiträge](https://www.vvl.ch/oev-angebot/dienstleistungen/finanzierung/gemeindebeitraege). Eine Grundlage dafür ist die Anzahl der Abfahrten an allen Haltestellen einer Gemeinde – eine an sich klare Methode, die in der Praxis jedoch aufwendig umzusetzen war.  
+Public transport in the canton of Lucerne is co-financed by the participating municipalities. To ensure that costs are distributed fairly, the VVL calculates the [municipal contributions](https://www.vvl.ch/oev-angebot/dienstleistungen/finanzierung/gemeindebeitraege) annually. This is based on the number of departures at all stops in a municipality – a clear method in itself, but one that was costly to implement in practice.  
 
-Bislang wurden die Fahrplandaten von den Transportunternehmen ausgewertet, manuell in eine Vorlage übertragen, dem VVL zugestellt und dort stichprobenartig überprüft. Dieser Prozess bedeutete für die Transportunternehmen und den VVL einen grossen Aufwand und war zugleich fehleranfällig. Der VVL suchte deshalb nach einer Lösung, um den Prozess zu automatisieren und gleichzeitig die Qualität und Nachvollziehbarkeit der Ergebnisse zu erhöhen.
+Until now, the timetable data was evaluated by the transport companies, manually transferred to a template, sent to the VVL and checked there on a random basis. This process was very time-consuming for the transport companies and the VVL and was also prone to errors. The VVL therefore sought a solution to automate the process while increasing the quality and traceability of the results.
 
-## Die Lösung: Automatisierung mit offenen GTFS-Daten
+## The solution: automation with open GTFS data
 
-Unsere massgeschneiderte Lösung basiert auf den offenen Fahrplandaten (GTFS) von [opentransportdata.swiss](https://opentransportdata.swiss). Sie ermittelt automatisch die Anzahl der Abfahrten pro Haltestelle und Gemeinde – und berücksichtigt dabei alle relevanten Sonderfälle:
+Our customised solution is based on the open timetable data (GTFS) from [opentransportdata.swiss](https://opentransportdata.swiss). It automatically determines the number of departures per stop and municipality, taking into account all relevant special cases:
 
-* **Saisons und Feiertage** mit abweichenden Fahrplänen  
-* **Schlaufen**, bei denen Fahrten nicht doppelt gezählt werden dürfen  
-* **Nicht beitragsrelevante Linien oder Kategorien**, die gefiltert werden  
-* **Temporäre Einschränkungen**, z. B. durch Baustellen, die ignoriert werden
+* **S﻿easons and public holidays** with different timetables
+* **L﻿oops** where journeys must not be counted twice
+* **N﻿on-contributory lines or categories**, which are filtered out
+* **T﻿emporary restrictions**, e.g. due to construction sites, which are ignored
 
-Die Berechnung ist transparent und jederzeit nachvollziehbar. Auffälligkeiten und Inkonsistenzen werden automatisch erkannt, sodass ein qualitätsgesichertes Ergebnis gewährleistet ist.
+The calculation is transparent and traceable at all times. Anomalies and inconsistencies are automatically detected, ensuring a quality-assured result.
 
-## Der Nutzen: Mehr Tempo, weniger Fehler, zufriedene Partner
+## The benefits: faster processing, fewer errors, satisfied partners
 
-Was früher viele Stunden manueller Arbeit bedeutete, läuft nun weitgehend automatisiert – schnell, zuverlässig und transparent.
+What used to take many hours of manual work is now largely automated. Fast, reliable and transparent.
 
-**Die Vorteile für den VVL:**
+* Significantly less effort for evaluations and follow-up works
+* L﻿ess effort for administrative processes
+* E﻿rror reduction through automated calculations and integrated quality assurance
+* Clearly traceable results for municipalities and transport companies
+* Flexible adaptability for future lines, stops or regulations
 
-* Deutlich weniger Aufwand für Auswertungen und Nacharbeiten  
-* Weniger Aufwand für administrative Prozesse
-* Fehlerreduktion durch automatisierte Berechnungen und integrierte Qualitätssicherung 
-* Klar nachvollziehbare Ergebnisse für Gemeinden und Transportunternehmen  
-* Flexible Anpassbarkeit für zukünftige Linien, Haltestellen oder Regelungen
-
-> *«Das manuelle Verarbeiten von rund 140 Exceldateien gehört der Vergangenheit an. Dank der automatisierten Fahrplanauswertung von geOps sparen wir Zeit, reduzieren Fehler und gewinnen spürbar an Effizienz – nicht nur bei uns, sondern auch bei den Transportunternehmen.»*
+> *«*Manually processing around 140 Excel files is now a thing of the past. Thanks to geOps' automated timetable evaluation, we save time, reduce errors and gain noticeable efficiency – not only for us, but also for the transport companies*.»*
 >
-> *— Sylvie Gernet, Fachspezialistin Finanzen öV beim VVL*
+> *—* Public Transport Finance Specialist at VVL
 
-Das Projekt konnte dank unserer Erfahrung und der Nutzung standardisierter Datenformate mit minimalem Aufwand realisiert werden – zur vollen Zufriedenheit der Kundin.
+Thanks to our experience and the use of standardised data formats, the project was completed with minimal effort – to the customer's complete satisfaction.
 
-## Gemeinsam mehr erreichen
+## Achieving more together
 
-Digitale Lösungen wie diese zeigen, wie offene Daten und intelligente Systeme den öV-Alltag einfacher machen können. Sie sparen Zeit, erhöhen die Transparenz und schaffen Vertrauen zwischen allen Beteiligten.  
+Digital solutions such as these demonstrate how open data and intelligent systems can simplify everyday public transport. They save time, increase transparency and build trust between all parties involved.
 
-Möchten auch Sie Prozesse im öffentlichen Verkehr effizienter gestalten? **[Kontaktieren Sie uns](mailto:info@geops.ch)** – wir unterstützen Sie dabei, massgeschneiderte, praxistaugliche Lösungen zu entwickeln.
+Would you also like to make public transport processes more efficient? Please contact us and we will assist you in developing customised, practical solutions.
