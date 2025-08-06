@@ -13,7 +13,7 @@ Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals auf
 
 ## Die Ausgangslage: Hoher Aufwand für faire Kostenverteilung
 
-Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden, berechnet der VVL jährlich die Gemeindebeiträge. Eine Grundlage dafür ist die Anzahl der Abfahrten an allen Haltestellen einer Gemeinde – eine an sich klare Methode, die in der Praxis jedoch aufwendig umzusetzen war.  
+Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden, berechnet der VVL jährlich die [Gemeindebeiträge](https://www.vvl.ch/oev-angebot/dienstleistungen/finanzierung/gemeindebeitraege). Eine Grundlage dafür ist die Anzahl der Abfahrten an allen Haltestellen einer Gemeinde – eine an sich klare Methode, die in der Praxis jedoch aufwendig umzusetzen war.  
 
 Bislang wurden die Fahrplandaten von den Transportunternehmen ausgewertet, manuell in eine Vorlage übertragen, dem VVL zugestellt und dort stichprobenartig überprüft. Dieser Prozess bedeutete für die Transportunternehmen und den VVL einen grossen Aufwand und war zugleich fehleranfällig. Der VVL suchte deshalb nach einer Lösung, um den Prozess zu automatisieren und gleichzeitig die Qualität und Nachvollziehbarkeit der Ergebnisse zu erhöhen.
 
