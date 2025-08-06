@@ -18,7 +18,7 @@ Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals auf
 
 ## Die Ausgangslage: Hoher Aufwand für faire Kostenverteilung
 
-Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden, berechnet der VVL jährlich die Gemeindebeiträge. Eine Grundlage dafür ist die Anzahl der Abfahrten an allen Haltestellen einer Gemeinde – eine an sich klare Methode, die in der Praxis jedoch aufwendig umzusetzen war.  
+Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden, berechnet der VVL jährlich die [Gemeindebeiträge](https://www.vvl.ch/oev-angebot/dienstleistungen/finanzierung/gemeindebeitraege). Eine Grundlage dafür ist die Anzahl der Abfahrten an allen Haltestellen einer Gemeinde – eine an sich klare Methode, die in der Praxis jedoch aufwendig umzusetzen war.  
 
 Bislang wurden die Fahrplandaten von den Transportunternehmen ausgewertet, manuell in eine Vorlage übertragen, dem VVL zugestellt und dort stichprobenartig überprüft. Dieser Prozess bedeutete für die Transportunternehmen und den VVL einen grossen Aufwand und war zugleich fehleranfällig. Der VVL suchte deshalb nach einer Lösung, um den Prozess zu automatisieren und gleichzeitig die Qualität und Nachvollziehbarkeit der Ergebnisse zu erhöhen.
 
@@ -44,6 +44,10 @@ Was früher viele Stunden manueller Arbeit bedeutete, läuft nun weitgehend auto
 * Fehlerreduktion durch automatisierte Berechnungen und integrierte Qualitätssicherung 
 * Klar nachvollziehbare Ergebnisse für Gemeinden und Transportunternehmen  
 * Flexible Anpassbarkeit für zukünftige Linien, Haltestellen oder Regelungen
+
+*«Das manuelle Verarbeiten von rund 140 Exceldateien gehört der Vergangenheit an. Dank der automatisierten Fahrplanauswertung von geOps sparen wir Zeit, reduzieren Fehler und gewinnen spürbar an Effizienz – nicht nur bei uns, sondern auch bei den Transportunternehmen.»*
+
+*— Sylvie Gernet, Fachspezialistin Finanzen öV beim VVL*
 
 Das Projekt konnte dank unserer Erfahrung und der Nutzung standardisierter Datenformate mit minimalem Aufwand realisiert werden – zur vollen Zufriedenheit der Kundin.
 

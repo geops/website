@@ -40,6 +40,10 @@ Was früher viele Stunden manueller Arbeit bedeutete, läuft nun weitgehend auto
 * Klar nachvollziehbare Ergebnisse für Gemeinden und Transportunternehmen  
 * Flexible Anpassbarkeit für zukünftige Linien, Haltestellen oder Regelungen
 
+*«Das manuelle Verarbeiten von rund 140 Exceldateien gehört der Vergangenheit an. Dank der automatisierten Fahrplanauswertung von geOps sparen wir Zeit, reduzieren Fehler und gewinnen spürbar an Effizienz – nicht nur bei uns, sondern auch bei den Transportunternehmen.»*
+
+*— Sylvie Gernet, Fachspezialistin Finanzen öV beim VVL*
+
 Das Projekt konnte dank unserer Erfahrung und der Nutzung standardisierter Datenformate mit minimalem Aufwand realisiert werden – zur vollen Zufriedenheit der Kundin.
 
 ## Gemeinsam mehr erreichen
