@@ -1,12 +1,13 @@
 ---
-title: Berechnung der Gemeindebeiträge im öV – Mehr Effizienz durch Digitalisierung
-summary: "Weniger Aufwand, mehr Transparenz: Für den Verkehrsverbund Luzern
-  (VVL) haben wir eine digitale Lösung entwickelt, die die Berechnung der
-  Gemeindebeiträge deutlich vereinfacht. "
+title: "Calculation of municipal contributions to public transport: greater
+  efficiency thanks to digitalisation"
+summary: "Less effort, more transparency: We have developed a digital solution
+  for the Lucerne Transport Association (Verkehrsverbung Luzern VVL) that
+  significantly simplifies the calculation of municipal contributions."
 author: Uli Müller
 cover: /images/blog/berechnung-der-gemeindebeiträge-im-öv-–-mehr-effizienz-durch-digitalisierung/bahnhofplatz_luzern_1.jpg
 created: 2025-07-25
-slug: gemeindebeitraege
+slug: municipalcontributions
 tags:
   - passengerinformation
   - mobility

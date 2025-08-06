@@ -7,21 +7,21 @@ created: 2025-07-25
 slug: gemeindebeitraege
 published: false
 ---
-Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals aufwendiger Prozess jetzt schnell, zuverlässig und nachvollziehbar abgewickelt.
+Thanks to automation, open data and intelligent logic, a previously complex process is now handled quickly, reliably and transparently.
 
 ![](/images/blog/berechnung-der-gemeindebeiträge-im-öv-–-mehr-effizienz-durch-digitalisierung/bahnhofplatz_luzern_1.jpg)
 
-## Die Ausgangslage: Hoher Aufwand für faire Kostenverteilung
+## The starting point: high costs for fair cost distribution
 
-Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden, berechnet der VVL jährlich die [Gemeindebeiträge](https://www.vvl.ch/oev-angebot/dienstleistungen/finanzierung/gemeindebeitraege). Eine Grundlage dafür ist die Anzahl der Abfahrten an allen Haltestellen einer Gemeinde – eine an sich klare Methode, die in der Praxis jedoch aufwendig umzusetzen war.  
+Public transport in the canton of Lucerne is co-financed by the participating municipalities. To ensure that costs are distributed fairly, the VVL calculates the [municipal contributions](https://www.vvl.ch/oev-angebot/dienstleistungen/finanzierung/gemeindebeitraege) annually. This is based on the number of departures at all stops in a municipality – a clear method in itself, but one that was costly to implement in practice.  
 
-Bislang wurden die Fahrplandaten von den Transportunternehmen ausgewertet, manuell in eine Vorlage übertragen, dem VVL zugestellt und dort stichprobenartig überprüft. Dieser Prozess bedeutete für die Transportunternehmen und den VVL einen grossen Aufwand und war zugleich fehleranfällig. Der VVL suchte deshalb nach einer Lösung, um den Prozess zu automatisieren und gleichzeitig die Qualität und Nachvollziehbarkeit der Ergebnisse zu erhöhen.
+Until now, the timetable data was evaluated by the transport companies, manually transferred to a template, sent to the VVL and checked there on a random basis. This process was very time-consuming for the transport companies and the VVL and was also prone to errors. The VVL therefore sought a solution to automate the process while increasing the quality and traceability of the results.
 
-## Die Lösung: Automatisierung mit offenen GTFS-Daten
+## The solution: automation with open GTFS data
 
-Unsere massgeschneiderte Lösung basiert auf den offenen Fahrplandaten (GTFS) von [opentransportdata.swiss](https://opentransportdata.swiss). Sie ermittelt automatisch die Anzahl der Abfahrten pro Haltestelle und Gemeinde – und berücksichtigt dabei alle relevanten Sonderfälle:
+Our customised solution is based on the open timetable data (GTFS) from [opentransportdata.swiss](https://opentransportdata.swiss). It automatically determines the number of departures per stop and municipality, taking into account all relevant special cases:
 
-* **Saisons und Feiertage** mit abweichenden Fahrplänen  
+* **S**
 * **Schlaufen**, bei denen Fahrten nicht doppelt gezählt werden dürfen  
 * **Nicht beitragsrelevante Linien oder Kategorien**, die gefiltert werden  
 * **Temporäre Einschränkungen**, z. B. durch Baustellen, die ignoriert werden
