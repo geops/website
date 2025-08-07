@@ -11,6 +11,7 @@ slug: municipalcontributions
 tags:
   - passengerinformation
   - mobility
+frontpage: true
 published: false
 ---
 Thanks to automation, open data and intelligent logic, a previously complex process is now handled quickly, reliably and transparently.

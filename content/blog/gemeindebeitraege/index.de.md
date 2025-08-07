@@ -5,6 +5,7 @@ summary: "Weniger Aufwand, mehr Transparenz: Für den Verkehrsverbund Luzern
   Gemeindebeiträge deutlich vereinfacht. "
 created: 2025-07-25
 slug: gemeindebeitraege
+frontpage: true
 published: false
 ---
 Dank Automatisierung, offenen Daten und intelligenter Logik wird ein vormals aufwendiger Prozess jetzt schnell, zuverlässig und nachvollziehbar abgewickelt.
