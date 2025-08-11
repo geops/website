@@ -30,9 +30,9 @@
       "title": "Imprint"
     },
     "newsletterTeaser": {
-      "title": "Always up to date",
-      "subtitle": "... with our geOps newsletter.",
-      "action": "Subscribe"
+      "title": "Stay up to date",
+      "subtitle": "Don't miss out on any news about geOps.",
+      "action": "Subscribe now"
     },
     "relatedList": {
       "solution": "Solution",
@@ -127,9 +127,9 @@
       "title": "Impressum"
     },
     "newsletterTeaser": {
-      "title": "Immer auf dem Laufenden",
-      "subtitle": "... mit unserem geOps Newsletter.",
-      "action": "Abonnieren"
+      "title": "Bleiben Sie informiert",
+      "subtitle": "Verpassen Sie keine Neuigkeiten rund um geOps.",
+      "action": "Jetzt abonnieren"
     },
     "relatedList": {
       "solution": "Lösung",
