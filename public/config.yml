@@ -673,6 +673,7 @@ collections:
         label: 'Testimonial'
         description: 'Author descriptions'
         required: false
+        widget: object
         fields:
           - name: testimonials
             label: Testimonials
