@@ -71,7 +71,7 @@ export default function JobArticle({ content, job }) {
         {/* > xl*/}
         <Share />
       </div>
-      <Article body={job.body} title={job.title} />
+      <Article body={job.body} title={job.title} imageSizes={job.imageSizes} />
       <div className="mx-auto max-w-screen-lg xl:hidden">
         {/* < xl */}
         <Share />
