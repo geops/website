@@ -2,7 +2,7 @@ backend:
   name: github
   repo: geops/website
   branch: main
-  base_url: https://website-git-daniel-addcmsforcases-geops.vercel.app/
+  base_url: https://geops.com/
   auth_endpoint: api/auth
   #name: git-gateway
 
