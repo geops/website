@@ -6,7 +6,7 @@ summary: Möchtest du intuitive und visuell überzeugende Interfaces für Web- u
 slug: uxui-specialist
 created: 2025-09-02
 ---
-Du brennst für nutzerzentriertes Design und möchtest moderne, intuitive Software-Lösungen mitgestalten? Dann werde Teil unseres Teams in Freiburg (DE) oder Olten (CH)! Seit über 20 Jahren entwickeln wir mit Leidenschaft Webapplikationen und interaktive Karten mit Fokus auf Umwelt und öffentlichen Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir eine:n kreative:n und erfahrene:n UX/UI-Spezialist:in, der/die unser Design auf das nächste Level hebt.
+Du brennst für nutzerzentriertes Design und möchtest moderne, intuitive Software-Lösungen mitgestalten? Dann werde Teil unseres Teams in Freiburg (DE) oder Olten (CH)! Seit über 20 Jahren entwickeln wir mit Leidenschaft Web- und Mobile-Apps und interaktive Karten mit Fokus auf Umwelt und öffentlichen Verkehr. Für unsere vielfältigen Kundenprojekte suchen wir eine:n kreative:n und erfahrene:n UX/UI-Spezialist:in, der/die unser Design auf das nächste Level hebt.
 
 ![](/images/job/ux-ui-spezialist-in/uxui-spezialistin_linkedin-1-.png)
 
