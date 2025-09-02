@@ -38,8 +38,6 @@ Bei uns hast du die Möglichkeit, digitale Produkte mitzugestalten, die einen ec
 * Deine Kreativität, Kommunikationsstärke und dein Auge für gutes Design helfen dir, innovative und ansprechende Lösungen zu entwickeln.
 * Du solltest sehr gute Deutschkenntnisse in Wort und Schrift mitbringen.
 
-
-
 ## Was bieten wir dir?
 
 * Gute Verdienstmöglichkeiten und attraktive Zusatz­leistungen zum Festgehalt in einem stetig wachsenden Unternehmen.
@@ -51,8 +49,6 @@ Bei uns hast du die Möglichkeit, digitale Produkte mitzugestalten, die einen ec
 * Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee sowie regelmässige Team-Events.
 * Schöne und modern ausgestattete, gut mit dem öV erreichbare Büros in Olten und Freiburg.
 
-
-
 ## Das klingt nach deinem Job?
 
-Prima! Dann freuen wir uns auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com). Wir suchen dich zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Sende uns gerne auch Arbeitsproben, die uns überzeugen können und teile uns mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
+Prima! Dann freuen wir uns auf deine Bewerbung. Wir suchen dich zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Sende uns gerne auch Arbeitsproben, die uns überzeugen können und teile uns mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst.
