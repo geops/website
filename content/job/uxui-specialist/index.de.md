@@ -1,12 +1,8 @@
 ---
 title: UX/UI-Spezialist:in
-summary: >-
-  Möchtest du intuitive und visuell überzeugende Interfaces für Web- und
+summary: Möchtest du intuitive und visuell überzeugende Interfaces für Web- und
   Mobile-Anwendungen im Bereich öffentlicher Verkehr und Umwelt gestalten, die
   Nutzer:innen begeistern?
-
-
-  Dann bewirb dich jetzt als UX/UI-Spezialist:in!
 slug: uxui-specialist
 created: 2025-09-02
 ---
