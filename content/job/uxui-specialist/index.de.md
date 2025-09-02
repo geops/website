@@ -1,12 +1,12 @@
 ---
 title: UX/UI-Spezialist:in
 summary: >-
-  Möchtest du als UX/UI-Spezialist:in intuitive und ansprechende Interfaces für
-  Web- und Mobile-Anwendungen im Bereich öffentlicher Verkehr und Umwelt
-  gestalten?
+  Möchtest du intuitive und visuell überzeugende Interfaces für Web- und
+  Mobile-Anwendungen im Bereich öffentlicher Verkehr und Umwelt gestalten, die
+  Nutzer:innen begeistern?
 
 
-  Dann bewirb dich jetzt!
+  Dann bewirb dich jetzt als UX/UI-Spezialist:in!
 slug: uxui-specialist
 created: 2025-09-02
 ---
@@ -23,7 +23,7 @@ Bei uns hast du die Möglichkeit, digitale Produkte mitzugestalten, die einen ec
 * Du erstellst Wireframes, Mockups und interaktive Prototypen, um neue Ideen anschaulich zu visualisieren.
 * Du arbeitest eng mit Entwickler:innen und Projektteams zusammen, um sicherzustellen, dass deine Designs nahtlos in funktionale Anwendungen überführt werden.
 * Um unsere Produkte stetig zu verbessern, führst du Nutzerforschung und Usability-Tests durch und nutzt die Erkenntnisse für datenbasierte Designentscheidungen.
-* Ob Desktop oder Mobile – du erstellst und optimierst responsive Designs für eine optimale Nutzererfahrung auf allen Geräten.
+* Ob Desktop oder Mobile. Du erstellst und optimierst responsive Designs für eine optimale Nutzererfahrung auf allen Geräten. 
 * Deine Design-Skills bringst du auch bei Präsentationen und Marketingmaterialien ein und unterstützt so die visuelle Weiterentwicklung unserer Produkte.
 
 ## Qualifikationen
