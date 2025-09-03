@@ -148,6 +148,11 @@
       "subtitle": "Neuste Technologien, spannende Projekte und ein tolles Team.",
       "action": "Zu den Stellen"
     },
+    "cases": {
+      "title": "Cases",
+      "header": "Entdecken Sie unsere Referenzprojekte",
+      "text": "Daten, Design, Code und Know-how. Mit Blick auf die Realität und dem Puls der Mobilität. Das ist unser Antrieb für digitale Lösungen, die bewegen. Der Beweis? Unsere Projekte. Live, skalierbar und weltweit im Einsatz."
+    },
     "openSourceTeaser": {
       "title": "Open Source – was sonst?",
       "text": "Unsere Projekte setzen durchweg auf Open-Source-Komponenten. Mit Open Source entwickeln wir für unsere Kundschaft die beste Lösung, bieten attraktive Preise und geben die Freiheit, alles aus einem Produkt herauszuholen. Von unseren Projekten geben wir regelmässig Entwicklungen an die Community zurück. ",
