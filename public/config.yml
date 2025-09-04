@@ -2,8 +2,8 @@ backend:
   name: github
   repo: geops/website
   branch: main
-  base_url: https://geops.com/
-  auth_endpoint: api/auth
+  base_url: /api
+  auth_endpoint: /auth
   #name: git-gateway
 
 # Used for testing.
