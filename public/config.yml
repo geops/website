@@ -2,9 +2,9 @@ backend:
   name: github
   repo: geops/website
   branch: main
-  base_url: https://geops.com/
-  auth_endpoint: api/auth
-  #name: git-gateway
+  base_url: /api
+  auth_endpoint: /auth
+  # name: test-repo
 
 # Used for testing.
 # local_backend: true
@@ -637,3 +637,96 @@ collections:
         widget: "number"
         required: true
         hint: "Position im Karussell."
+
+  - label: "Cases"
+    name: "cases"
+    description: "Bilder und Texte für die Referenzprojekte, unter geops.com/cases zu finden."
+    folder: "content/cases"
+    media_folder: "/public/images/cases/{{slug}}"
+    public_folder: "/images/cases/{{slug}}"
+    preview_path: "en/cases"
+    create: true
+    i18n: true
+    slug: "{{fields.slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Grid Image"
+        name: "gridImage"
+        widget: "image"
+        hint: "Originalbild für die Kachel-Darstellung, die unter geops.com/cases zu finden ist. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
+        required: true
+      - label: "Frontpage Weight"
+        hint: "Position in der Liste auf geops.com/cases, je kleiner die Zahl, desto weiter oben."
+        name: "frontpageWeight"
+        widget: "number"
+        required: false
+      - label: "Cover"
+        hint: "Die Bildgröße sollte mindestens **1000 x 1000 Pixel** betragen. Originalbild für die Verwendung im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel."
+        name: "cover"
+        widget: "image"
+        required: true
+      - label: "Customer"
+        name: "customer"
+        widget: "string"
+        i18n: true
+      - label: "Service"
+        name: "service"
+        widget: "string"
+        i18n: true
+      - label: "Timeline"
+        name: "timeline"
+        widget: "string"
+      - label: "Content"
+        name: "body"
+        hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
+        widget: "markdown"
+        i18n: true
+      - name: 'testimonial'
+        label: 'Testimonial'
+        description: 'Author descriptions'
+        required: false
+        widget: object
+        fields:
+          - name: testimonials
+            label: Testimonials
+            label_singular: 'Testimonial'
+            widget: list
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
+              - { label: 'Text', name: 'text', widget: 'markdown' }
+      - label: "Tags"
+        name: "tags"
+        hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."
+        multiple: true
+        options:
+          [
+            "altlast4web",
+            "boden4web",
+            "cartaro",
+            "conferences",
+            "developers",
+            "disruptions",
+            "environment",
+            "geops",
+            "iabp",
+            "javascript",
+            "maps",
+            "mapset",
+            "mobility",
+            "passengerinformation",
+            "postgis",
+            "processes",
+            "python",
+            "railreplacement",
+            "realtime",
+            "routing",
+            "scrum",
+            "team",
+            "treeapp",
+            "wimo",
+          ]
+        required: false
+        widget: "select"
