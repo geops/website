@@ -1,13 +1,13 @@
 backend:
-  name: github
-  repo: geops/website
-  branch: main
-  base_url: /api
-  auth_endpoint: /auth
-  #name: git-gateway
+  # name: github
+  # repo: geops/website
+  # branch: main
+  # base_url: /api
+  # auth_endpoint: /auth
+  name: test-repo
 
 # Used for testing.
-# local_backend: true
+local_backend: true
 
 i18n:
   # Required and can be one of multiple_folders, multiple_files or single_file
@@ -653,6 +653,21 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
+      - label: "Grid Image"
+        name: "gridImage"
+        widget: "image"
+        hint: "Originalbild für die Kachel-Darstellung, die unter geops.com/cases zu finden ist. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
+        required: true
+      - label: "Frontpage Weight"
+        hint: "Position in der Liste auf geops.com/cases, je kleiner die Zahl, desto weiter oben."
+        name: "frontpageWeight"
+        widget: "number"
+        required: false
+      - label: "Cover"
+        hint: "Die Bildgröße sollte mindestens **1000 x 1000 Pixel** betragen. Originalbild für die Verwendung im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel."
+        name: "cover"
+        widget: "image"
+        required: true
       - label: "Customer"
         name: "customer"
         widget: "string"
@@ -682,3 +697,36 @@ collections:
             fields:
               - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
               - { label: 'Text', name: 'text', widget: 'markdown' }
+      - label: "Tags"
+        name: "tags"
+        hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."
+        multiple: true
+        options:
+          [
+            "altlast4web",
+            "boden4web",
+            "cartaro",
+            "conferences",
+            "developers",
+            "disruptions",
+            "environment",
+            "geops",
+            "iabp",
+            "javascript",
+            "maps",
+            "mapset",
+            "mobility",
+            "passengerinformation",
+            "postgis",
+            "processes",
+            "python",
+            "railreplacement",
+            "realtime",
+            "routing",
+            "scrum",
+            "team",
+            "treeapp",
+            "wimo",
+          ]
+        required: false
+        widget: "select"
