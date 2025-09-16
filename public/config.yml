@@ -642,6 +642,7 @@ collections:
     name: "cases"
     description: "Bilder und Texte für die Referenzprojekte, unter geops.com/cases zu finden."
     folder: "content/cases"
+    path: "{{slug}}/index"
     media_folder: "/public/images/cases/{{slug}}"
     public_folder: "/images/cases/{{slug}}"
     preview_path: "en/cases"
@@ -651,6 +652,12 @@ collections:
     fields:
       - label: "Title"
         name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Slug"
+        hint: "Eindeutiger Teil der URL, der hinter geops.com/cases/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
+        name: "slug"
+        pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
         i18n: true
       - label: "Grid Image"
