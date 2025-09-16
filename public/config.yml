@@ -1,10 +1,10 @@
 backend:
-  name: github
-  repo: geops/website
-  branch: main
-  base_url: /api
-  auth_endpoint: /auth
-  # name: test-repo
+  # name: github
+  # repo: geops/website
+  # branch: main
+  # base_url: /api
+  # auth_endpoint: /auth
+  name: test-repo
 
 # Used for testing.
 # local_backend: true
@@ -682,8 +682,55 @@ collections:
       - label: "Content"
         name: "body"
         hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
-        widget: "markdown"
+        widget: "object"
         i18n: true
+        fields:
+          - name: lead
+            label: Lead
+            widget: markdown
+            i18n: true
+          - name: sections
+            label: Sections
+            label_singular: 'Section'
+            widget: list
+            i18n: true
+            fields:
+              - name: title
+                label: Title
+                widget: string
+                i18n: true
+              - name: text
+                label: Text
+                widget: markdown
+                i18n: true
+              - name: image
+                label: Image
+                widget: image
+                required: false
+                hint: "Optionales Bild für die Section, Breite mindestens 1000px."
+              - name: orientation
+                label: Orientation
+                widget: select
+                options:
+                  - { label: Column, value: column }
+                  - { label: Row, value: row }
+                default: column
+                hint: "Text und Bild nebeneinander (Row) oder untereinander (Column) anordnen."
+              - name: features
+                label: Features
+                label_singular: 'Feature'
+                widget: list
+                required: false
+                max: 3
+                fields:
+                  - name: text
+                    label: Text
+                    widget: markdown
+                    i18n: true
+                  - name: icon
+                    label: Icon
+                    widget: image
+                    hint: "SVG Datei, idealerweise 100x100px."
       - name: 'testimonial'
         label: 'Testimonial'
         description: 'Author descriptions'
