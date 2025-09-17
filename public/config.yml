@@ -671,7 +671,7 @@ collections:
         required: true
       - label: "Frontpage Weight"
         hint: "Position in der Liste auf geops.com/cases, je kleiner die Zahl, desto weiter oben."
-        name: "frontpageWeight"
+        name: "weight"
         widget: "number"
         required: false
       - label: "Cover"
