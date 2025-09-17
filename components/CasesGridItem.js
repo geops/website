@@ -3,8 +3,6 @@ import Link from "next/link";
 import React from "react";
 
 function CasesGridItem({ slug, title, gridImage, tags, imageSizes }) {
-  console.log(tags);
-
   return (
     <Link href={`/cases/${slug}`}>
       <div className="group flex justify-between flex-col overflow-hidden">
@@ -19,8 +17,8 @@ function CasesGridItem({ slug, title, gridImage, tags, imageSizes }) {
             />
           </div>
         )}
-        <div className="flex-1 p-4">
-          <h3 className="text-lg font-bold text-white">{title}</h3>
+        <div className="flex-1 py-2">
+          <h3 className="text-xl font-bold text-white">{title}</h3>
           {tags?.map((tag) => (
             <span
               key={tag}
