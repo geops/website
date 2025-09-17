@@ -7,7 +7,7 @@ customer: test
 service: test
 timeline: "2024"
 content:
-  lead: L﻿EADING
+  lead: L﻿EADER
 testimonial:
   testimonials: []
 ---
