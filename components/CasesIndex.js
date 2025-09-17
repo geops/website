@@ -27,8 +27,6 @@ export default function SolutionIndex({ cases }) {
         </div>
         <div className="container mx-auto grid grid-cols-1 gap-8 py-16 md:grid-cols-2 xl:grid-cols-3">
           {cases.map((caseItem) => {
-            console.log(caseItem);
-
             return <CasesItem key={caseItem.slug} {...caseItem} />;
           })}
         </div>

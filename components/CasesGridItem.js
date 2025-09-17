@@ -24,7 +24,7 @@ function CasesGridItem({ slug, title, gridImage, tags, imageSizes }) {
           {tags?.map((tag) => (
             <span
               key={tag}
-              className="inline-block text-white rounded px-2 py-1 text-xs font-semibold mr-2 border-green-dark border text-green-dark"
+              className="inline-block text-green-dark rounded px-2 py-1 text-xs font-semibold mr-2 border-green-dark border text-green-dark"
             >
               {tag}
             </span>
