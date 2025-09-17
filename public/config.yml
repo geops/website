@@ -658,6 +658,7 @@ collections:
         name: "summary"
         widget: "text"
         i18n: true
+        required: false
       - label: "Slug"
         hint: "Eindeutiger Teil der URL, der hinter geops.com/cases/... erscheint. Sonder- und Leerzeichen sind zu vermeiden. Kann nicht nach dem ersten Speichern NICHT mehr geändert werden."
         name: "slug"
@@ -668,7 +669,6 @@ collections:
         name: "gridImage"
         widget: "image"
         hint: "Originalbild für die Kachel-Darstellung, die unter geops.com/cases zu finden ist. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
-        required: true
       - label: "Frontpage Weight"
         hint: "Position in der Liste auf geops.com/cases, je kleiner die Zahl, desto weiter oben."
         name: "weight"
@@ -678,7 +678,6 @@ collections:
         hint: "Die Bildgröße sollte mindestens **1000 x 1000 Pixel** betragen. Originalbild für die Verwendung im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel."
         name: "cover"
         widget: "image"
-        required: true
       - label: "Customer"
         name: "customer"
         widget: "text"
@@ -709,6 +708,7 @@ collections:
             label_singular: 'Section'
             widget: list
             i18n: true
+            required: false
             fields:
               - name: title
                 label: Title
