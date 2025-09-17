@@ -1,4 +1,8 @@
 ---
+customer: test
+service: test
 testimonial:
-  testimonials: []
+  testimonials:
+    - name: Bar
+      text: B﻿ar Text
 ---

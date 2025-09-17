@@ -9,5 +9,10 @@ timeline: "2024"
 content:
   lead: L﻿EADER
 testimonial:
-  testimonials: []
+  testimonials:
+    - name: Foo
+      text: F﻿oo Text
+tags:
+  - developers
+  - cartaro
 ---
