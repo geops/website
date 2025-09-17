@@ -643,9 +643,9 @@ collections:
     description: "Bilder und Texte für die Referenzprojekte, unter geops.com/cases zu finden."
     folder: "content/cases"
     path: "{{slug}}/index"
-    media_folder: "/public/images/cases/{{slug}}"
-    public_folder: "/images/cases/{{slug}}"
-    preview_path: "en/cases"
+    media_folder: "/public/images/cases/{{dirname}}"
+    public_folder: "/images/cases/{{dirname}}"
+    preview_path: "en/cases/{{fields.slug}}"
     create: true
     i18n: true
     slug: "{{fields.slug}}"
@@ -748,6 +748,7 @@ collections:
             label: "Testimonials"
             label_singular: "Testimonial"
             widget: list
+            i18n: true
             fields:
               - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
               - { label: "Text", name: "text", widget: "markdown", i18n: true }
