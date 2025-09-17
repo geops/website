@@ -654,6 +654,10 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        i18n: true
       - label: "Slug"
         hint: "Eindeutiger Teil der URL, der hinter geops.com/cases/... erscheint. Sonder- und Leerzeichen sind zu vermeiden. Kann nicht nach dem ersten Speichern NICHT mehr geändert werden."
         name: "slug"
@@ -677,11 +681,11 @@ collections:
         required: true
       - label: "Customer"
         name: "customer"
-        widget: "string"
+        widget: "text"
         i18n: true
       - label: "Service"
         name: "service"
-        widget: "string"
+        widget: "text"
         i18n: true
       - label: "Timeline"
         name: "timeline"
