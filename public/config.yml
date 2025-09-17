@@ -742,6 +742,7 @@ collections:
         description: "Author descriptions"
         required: false
         widget: object
+        i18n: true
         fields:
           - name: "testimonials"
             label: "Testimonials"
