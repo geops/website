@@ -655,7 +655,7 @@ collections:
         widget: "string"
         i18n: true
       - label: "Slug"
-        hint: "Eindeutiger Teil der URL, der hinter geops.com/cases/... erscheint. Sonder- und Leerzeichen sind zu vermeiden."
+        hint: "Eindeutiger Teil der URL, der hinter geops.com/cases/... erscheint. Sonder- und Leerzeichen sind zu vermeiden. Kann nicht nach dem ersten Speichern NICHT mehr geändert werden."
         name: "slug"
         pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
         widget: "string"
@@ -695,48 +695,48 @@ collections:
             label: Lead
             widget: markdown
             i18n: true
-      #     - name: sections
-      #       label: Sections
-      #       label_singular: 'Section'
-      #       widget: list
-      #       i18n: true
-      #       fields:
-      #         - name: title
-      #           label: Title
-      #           widget: string
-      #           i18n: true
-      #         - name: text
-      #           label: Text
-      #           widget: markdown
-      #           i18n: true
-      #         - name: image
-      #           label: Image
-      #           widget: image
-      #           required: false
-      #           hint: "Optionales Bild für die Section, Breite mindestens 1000px."
-      #         - name: orientation
-      #           label: Orientation
-      #           widget: select
-      #           options:
-      #             - { label: Column, value: column }
-      #             - { label: Row, value: row }
-      #           default: column
-      #           hint: "Text und Bild nebeneinander (Row) oder untereinander (Column) anordnen."
-      #         - name: features
-      #           label: Features
-      #           label_singular: 'Feature'
-      #           widget: list
-      #           required: false
-      #           max: 3
-      #           fields:
-      #             - name: text
-      #               label: Text
-      #               widget: markdown
-      #               i18n: true
-      #             - name: icon
-      #               label: Icon
-      #               widget: image
-      #               hint: "SVG Datei, idealerweise 100x100px."
+          - name: sections
+            label: Sections
+            label_singular: 'Section'
+            widget: list
+            i18n: true
+            fields:
+              - name: title
+                label: Title
+                widget: string
+                i18n: true
+              - name: text
+                label: Text
+                widget: markdown
+                i18n: true
+              - name: image
+                label: Image
+                widget: image
+                required: false
+                hint: "Optionales Bild für die Section, Breite mindestens 1000px."
+              - name: orientation
+                label: Orientation
+                widget: select
+                options:
+                  - { label: Column, value: column }
+                  - { label: Row, value: row }
+                default: column
+                hint: "Text und Bild nebeneinander (Row) oder untereinander (Column) anordnen."
+              - name: features
+                label: Features
+                label_singular: 'Feature'
+                widget: list
+                required: false
+                max: 3
+                fields:
+                  - name: text
+                    label: Text
+                    widget: markdown
+                    i18n: true
+                  - name: icon
+                    label: Icon
+                    widget: image
+                    hint: "SVG Datei, idealerweise 100x100px."
       - name: "testimonial"
         label: "Testimonial"
         description: "Author descriptions"
@@ -748,7 +748,7 @@ collections:
             label: "Testimonials"
             label_singular: "Testimonial"
             widget: list
-            i18n: true
+            i18n: duplicate
             fields:
               - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
               - { label: "Text", name: "text", widget: "markdown", i18n: true }
