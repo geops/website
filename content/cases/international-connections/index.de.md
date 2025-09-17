@@ -45,9 +45,9 @@ content:
 
 
         Ein eigens entwickelter Algorithmus generiert auf Basis dieser Daten automatisch den Liniennetzplan. Schon während der Bearbeitung kann die SBB den Plan in einer Vorschau prüfen, bevor auf Knopfdruck die aktuellen Vector Tiles erstellt werden.
-      image: /images/cases/desktop-mobile.png
+      image: /images/cases/international-connections/desktop-mobile.png
     - orientation: column
-      image: /images/cases/speed.png
+      image: /images/cases/international-connections/speed.png
       text: >-
         Der internationale Bahnverkehr wird weiter an Bedeutung gewinnen und die
         Karte „Direktverbindungen nach Europa“ soll sich mit entwickeln. Wir

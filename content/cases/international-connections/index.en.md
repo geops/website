@@ -1,9 +1,9 @@
 ---
 title: "Europe at a glance: our route map for rail travellers"
 slug: international-connections
-gridImage: /images/cases/cover.png
+gridImage: /images/cases/international-connections/cover.png
 frontpageWeight: 1
-cover: /images/cases/cover.png
+cover: /images/cases/international-connections/cover.png
 customer: Swiss Federal Railways SBB, International Passenger Transport
 service: Data collection, automated calculation of route network plans, map
   publication, UX/UI design, frontend
@@ -41,7 +41,7 @@ content:
 
 
         A specially developed algorithm automatically generates the route network plan based on this data. Even during processing, SBB can check the plan in a preview before creating the current vector tiles at the touch of a button.
-      image: /images/cases/desktop-mobile.png
+      image: /images/cases/international-connections/desktop-mobile.png
     - orientation: column
       title: "Looking ahead: even more service for rail passengers"
       text: >-
@@ -52,7 +52,7 @@ content:
 
 
         The map is integrated into the SBB website under [Direct connections](https://www.sbb.ch/de/freizeit-ferien/destinationen/staedte-laender-europa.html) and \[Night connections to Europe](https://www.sbb.ch/de/ leisure-holidays/trains-excursions/night-train.html) and, like most of our maps, is also available on the \[Trafimage web map portal](https://maps.trafimage.ch/ch.sbb.direktverbindungen?baselayers=ch.sbb.direktverbindungen. base-light,ch.sbb.direktverbindungen.base-dark,ch.sbb.direktverbindungen.base-aerial&lang=en&layers=ch.sbb.direktverbindungen.night,ch.sbb.direktverbindungen.day&x=925472&y=5920000&z=9).
-      image: /images/cases/speed.png
+      image: /images/cases/international-connections/speed.png
   lead: A city break in Venice or an important business meeting in Berlin? Many
     European destinations can be reached comfortably and environmentally
     friendly by train from Switzerland. There are direct day and night
