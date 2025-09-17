@@ -10,6 +10,7 @@ customer: Swiss Federal Railways SBB, International Passenger Transport
 service: Data collection, automated calculation of route network plans, map
   publication, UX/UI design, front end
 timeline: 2023 - 2024
+published: true
 content:
   sections: []
   title: "Europe at a glance: our route map for rail travellers"
