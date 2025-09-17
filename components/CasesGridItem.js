@@ -7,13 +7,13 @@ function CasesGridItem({ slug, title, gridImage, tags, imageSizes }) {
 
   return (
     <Link href={`/cases/${slug}`}>
-      <div className="group flex justify-between flex-col transition-all duration-500 hover:scale-105 rounded-xl overflow-hidden">
+      <div className="group flex justify-between flex-col overflow-hidden">
         {gridImage && (
-          <div className="flex-4">
+          <div className="flex-4 rounded-xl overflow-hidden">
             <Image
               src={gridImage}
               alt={title}
-              className="w-full rounded-xl"
+              className="w-full rounded-xl group-hover:scale-105 transition-all duration-500 object-cover"
               height={imageSizes[gridImage]?.height}
               width={imageSizes[gridImage]?.width}
             />
@@ -24,7 +24,7 @@ function CasesGridItem({ slug, title, gridImage, tags, imageSizes }) {
           {tags?.map((tag) => (
             <span
               key={tag}
-              className="inline-block text-green-dark rounded px-2 py-1 text-xs font-semibold mr-2 border-green-dark border text-green-dark"
+              className="inline-block text-green-dark rounded px-2 py-1 text-xs font-semibold mr-2 border-green-dark border text-green-dark group-hover:text-green transition-colors duration-500"
             >
               {tag}
             </span>
