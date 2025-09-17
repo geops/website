@@ -738,49 +738,49 @@ collections:
       #               label: Icon
       #               widget: image
       #               hint: "SVG Datei, idealerweise 100x100px."
-      # - name: 'testimonial'
-      #   label: 'Testimonial'
-      #   description: 'Author descriptions'
-      #   required: false
-      #   widget: object
-      #   fields:
-      #     - name: testimonials
-      #       label: Testimonials
-      #       label_singular: 'Testimonial'
-      #       widget: list
-      #       fields:
-      #         - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
-      #         - { label: 'Text', name: 'text', widget: 'markdown' }
-      # - label: "Tags"
-      #   name: "tags"
-      #   hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."
-      #   multiple: true
-      #   options:
-      #     [
-      #       "altlast4web",
-      #       "boden4web",
-      #       "cartaro",
-      #       "conferences",
-      #       "developers",
-      #       "disruptions",
-      #       "environment",
-      #       "geops",
-      #       "iabp",
-      #       "javascript",
-      #       "maps",
-      #       "mapset",
-      #       "mobility",
-      #       "passengerinformation",
-      #       "postgis",
-      #       "processes",
-      #       "python",
-      #       "railreplacement",
-      #       "realtime",
-      #       "routing",
-      #       "scrum",
-      #       "team",
-      #       "treeapp",
-      #       "wimo",
-      #     ]
-      #   required: false
-      #   widget: "select"
+      - name: 'testimonial'
+        label: 'Testimonial'
+        description: 'Author descriptions'
+        required: false
+        widget: object
+        fields:
+          - name: testimonials
+            label: Testimonials
+            label_singular: 'Testimonial'
+            widget: list
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
+              - { label: 'Text', name: 'text', widget: 'markdown' }
+      - label: "Tags"
+        name: "tags"
+        hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."
+        multiple: true
+        options:
+          [
+            "altlast4web",
+            "boden4web",
+            "cartaro",
+            "conferences",
+            "developers",
+            "disruptions",
+            "environment",
+            "geops",
+            "iabp",
+            "javascript",
+            "maps",
+            "mapset",
+            "mobility",
+            "passengerinformation",
+            "postgis",
+            "processes",
+            "python",
+            "railreplacement",
+            "realtime",
+            "routing",
+            "scrum",
+            "team",
+            "treeapp",
+            "wimo",
+          ]
+        required: false
+        widget: "select"
