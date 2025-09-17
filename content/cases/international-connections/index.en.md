@@ -1,7 +1,7 @@
 ---
 title: "Europe at a glance: our route map for rail travellers"
 slug: international-connections
-gridImage: /images/cases/cover.png
+gridImage: /images/cases/international-connections/cover.png
 frontpageWeight: 1
 cover: /images/cases/cover.png
 customer: Swiss Federal Railways SBB, International Passenger Transport
