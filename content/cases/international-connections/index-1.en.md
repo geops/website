@@ -20,4 +20,9 @@ content:
     [‘Direct connections to
     Europe’](https://www.sbb.ch/de/freizeit-ferien/destinationen/staedte-laender-europa.html)
     for SBB shows this in a visually appealing way with a route network map.
+tags:
+  - cartaro
+  - maps
+  - passengerinformation
+  - mobility
 ---
