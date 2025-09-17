@@ -1,10 +1,10 @@
 backend:
-  name: github
-  repo: geops/website
-  branch: main
-  base_url: https://geops.com/
-  auth_endpoint: api/auth
-  # name: test-repo
+  # name: github
+  # repo: geops/website
+  # branch: main
+  # base_url: https://geops.com/
+  # auth_endpoint: api/auth
+  name: test-repo
 
 # Used for testing.
 # local_backend: true
@@ -748,7 +748,7 @@ collections:
             label: "Testimonials"
             label_singular: "Testimonial"
             widget: list
-            i18n: duplicate
+            i18n: true
             fields:
               - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
               - { label: "Text", name: "text", widget: "markdown", i18n: true }
