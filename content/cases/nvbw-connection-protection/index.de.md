@@ -33,7 +33,7 @@ content:
         bislang nicht flächendeckend umgesetzt. Infolgedessen ist die
         Sicherstellung von Anschlüssen heute vielfach nicht mehr gewährleistet,
         und die Belange der Fahrgäste geraten zunehmend aus dem Blickfeld.
-    - orientation: column
+    - orientation: row
       title: Digitale Assistenten unterstützen das Personal
       text: >-
         Die NVBW als Servicegesellschaft des Verkehrsministeriums
@@ -45,6 +45,7 @@ content:
 
 
         Im Hintergrund verarbeitet das System Fahrplan-Solldaten und Echtzeitdaten. Aus den Solldaten werden die vorgesehenen Anschlüsse hergeleitet, wobei auch die Umsteigezeiten zwischen zwei Fahrten berücksichtigt werden. Mit den Echtzeitdaten werden dann die Hinweise erstellt, wie lange auf Zubringer gewartet werden soll. Die Web-Anwendung informiert die Leitstelle sehr detailliert darüber, welche Anschlüsse gesichert werden oder welche wegen zu grossen zeitlichen Differenzen gebrochen werden müssen. In der App für die Fahrzeugführer:innen werden die Wartezeiten ohne weitere Details gezeigt, um jegliche unnötige Ablenkung zu vermeiden.
+      image: /images/cases/nvbw-connection-protection/nvbw-mobile.png
     - orientation: column
       title: "Die technische Basis: TRALIS als Datendrehscheibe"
       text: Für die Verarbeitung und Analyse von Soll- und Echtzeitdaten kommt unsere
