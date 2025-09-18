@@ -4,7 +4,7 @@ import { ch } from "./Contact.js";
 import ContactPerson from "./ContactPerson.js";
 import Layout from "./Layout.js";
 import RelatedList from "./RelatedList.js";
-import CasesArticleLead from "./CasesArticleLead.js";
+import CasesArticleBody from "./CasesArticleBody.js";
 
 export default function CasesArticle(props) {
   const { related, case: caseItem } = props;
@@ -23,7 +23,7 @@ export default function CasesArticle(props) {
       slugByLocale={caseItem.slugByLocale}
       shareImg={caseItem?.cover}
     >
-      <CasesArticleLead case={caseItem} />
+      <CasesArticleBody case={caseItem} />
       <ContactPerson
         person={{ ...ch, email: caseItem.contactEmail || ch.email }}
         subtitle={caseItem.contactSubtitle}

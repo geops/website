@@ -2,7 +2,7 @@
 
 import Layout from "./Layout.js";
 import { useI18n } from "../lib/i18n.js";
-import CasesItem from "./CasesGridItem.js";
+import CasesGridItem from "./CasesGridItem.js";
 
 export default function SolutionIndex({ cases }) {
   const { t } = useI18n();
@@ -27,7 +27,7 @@ export default function SolutionIndex({ cases }) {
         </div>
         <div className="container mx-auto grid grid-cols-1 gap-8 py-16 md:grid-cols-2 max-w-screen-lg">
           {cases.map((caseItem) => {
-            return <CasesItem key={caseItem.slug} {...caseItem} />;
+            return <CasesGridItem key={caseItem.slug} {...caseItem} />;
           })}
         </div>
       </div>
