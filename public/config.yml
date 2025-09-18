@@ -672,6 +672,8 @@ collections:
       - label: "Grid width full"
         name: "gridWidthFull"
         widget: "boolean"
+        required: false
+        hint: "Wenn aktiviert, nimmt die Kachel die volle Breite ein (2 von 2 Spalten)."
       - label: "Frontpage Weight"
         hint: "Position in der Liste auf geops.com/cases, je kleiner die Zahl, desto weiter oben."
         name: "weight"
@@ -695,6 +697,7 @@ collections:
       - label: "Published"
         name: "published"
         widget: "boolean"
+        required: false
       - label: "Content"
         name: "content"
         hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
