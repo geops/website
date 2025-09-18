@@ -5,7 +5,7 @@ import React from "react";
 function CasesGridItem({ slug, title, gridImage, tags, imageSizes }) {
   return (
     <Link href={`/cases/${slug}`}>
-      <div className="group flex justify-between flex-col overflow-hidden">
+      <div className="group flex justify-between flex-col overflow-hidden max-h-96">
         {gridImage && (
           <div className="flex-4 rounded-xl overflow-hidden">
             <Image

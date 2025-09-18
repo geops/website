@@ -25,7 +25,7 @@ export default function SolutionIndex({ cases }) {
           </h1>
           <p className="text-center">{t("cases.description")}</p>
         </div>
-        <div className="container mx-auto grid grid-cols-1 gap-8 py-16 md:grid-cols-2 xl:grid-cols-3">
+        <div className="container mx-auto grid grid-cols-1 gap-8 py-16 md:grid-cols-2 max-w-screen-lg">
           {cases.map((caseItem) => {
             return <CasesItem key={caseItem.slug} {...caseItem} />;
           })}
