@@ -5,10 +5,10 @@ summary: A powerful, attractive and reliable public transport system is at the
   trains and buses, ensuring that connections run as scheduled is a very
   important factor in shaping passengers' confidence in public transport.
 slug: nvbw-connection-protection
-gridImage: /images/cases/nvbw-connection-protection/nvbw-cover.png
+gridImage: /images/cases/nvbw-connection-protection/fuehrerstand.png
 gridWidthFull: true
 weight: 2
-cover: /images/cases/fuehrerstand.png
+cover: /images/cases/nvbw-cover.png
 customer: |-
   NVBW - Local Transport Company
   Baden-Württemberg mbH
@@ -83,4 +83,9 @@ testimonial:
         further developments in the pipeline, such as precise transfer times and
         the inclusion of additional modes of transport.
       name: Marius Welle – Quality Management, NVBW
+tags:
+  - cartaro
+  - maps
+  - passengerinformation
+  - mobility
 ---
