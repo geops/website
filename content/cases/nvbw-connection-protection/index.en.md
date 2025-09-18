@@ -73,16 +73,6 @@ content:
     important factor in shaping passengers' confidence in public transport.
   title: Connection guarantees as an important component for quality in public
     transport
-testimonial:
-  testimonials:
-    - text: With these two applications, we can provide staff in both control centres
-        and on trains with the necessary information about connections in a
-        targeted manner. The applications have a very successful, clear design
-        that is well received by users and shows that the user's perspective
-        played a central role in their development. In addition, we already have
-        further developments in the pipeline, such as precise transfer times and
-        the inclusion of additional modes of transport.
-      name: Marius Welle – Quality Management, NVBW
 tags:
   - mobility
 ---

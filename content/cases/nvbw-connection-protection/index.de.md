@@ -71,15 +71,4 @@ content:
         Simulationen verschiedener Szenarien ergänzt werden, um für möglichst
         viele Reisende das schnelle und sichere Erreichen ihrer Ziele zu
         ermöglichen.
-testimonial:
-  testimonials:
-    - text: Mit den beiden Anwendungen können wir den Personalen sowohl in den
-        Leitstellen als auch auf den Zügen zielgerichtet die nötigen
-        Informationen zu Anschlüssen zukommen lassen. Die Anwendungen sind in
-        einer sehr gelungenen, übersichtlichen Optik gestaltet, die bei Nutzern
-        gut ankommt und zeigt, dass bei der Entwicklung der Blick der Anwender
-        eine zentrale Rolle spielte. Darüber hinaus haben wir bereits
-        Weiterentwicklungen wie gleisscharfe Umsteigezeiten oder die Aufnahme
-        weiterer Verkehrsmittel in Aussicht.
-      name: Marius Welle – Qualitätsmanagement, NVBW
 ---
