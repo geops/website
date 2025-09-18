@@ -10,8 +10,6 @@ function CasesGridItem({
   tags,
   imageSizes,
 }) {
-  console.log(slug);
-
   return (
     <Link
       href={`cases/${slug}`}

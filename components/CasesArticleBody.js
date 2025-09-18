@@ -81,6 +81,7 @@ function CasesArticleBody({ case: caseItem }) {
                   author={author}
                   position={position}
                   portrait={portrait}
+                  className="bg-white max-w-[500px] lg:max-w-[700px]"
                 />
               ),
             )}

@@ -8,7 +8,6 @@ import CasesArticleBody from "./CasesArticleBody.js";
 
 export default function CasesArticle(props) {
   const { related, case: caseItem } = props;
-  console.log(props);
 
   if (!caseItem) {
     return null;
