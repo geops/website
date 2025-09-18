@@ -12,15 +12,17 @@ function Testimonial({
   return (
     <div className="flex flex-col md:last:odd:col-span-2 lg:last:odd:col-span-1 items-center">
       <div
-        className={`bg-gray-lighter rounded-xl relative flex flex-col gap-4 max-w-[400px] ${itemsLength % 2 === 0 ? "xl:min-h-[450px] 2xl:min-h-[380px] xl:max-w-[320px]" : ""} md:min-h-[400px] min-h-[350px] mt-20 md:last:odd:col-span-2 lg:last:odd:col-span-1 items-center ${className}`}
+        className={`bg-gray-lighter rounded-xl relative flex flex-col gap-4 max-w-[400px] ${itemsLength % 2 === 0 ? "xl:min-h-[450px] 2xl:min-h-[380px] xl:max-w-[320px]" : ""} md:min-h-[400px] min-h-[350px] ${portrait ? "mt-20" : ""} md:last:odd:col-span-2 lg:last:odd:col-span-1 items-center ${className}`}
       >
-        <Image
-          src={portrait}
-          alt={author}
-          width={150}
-          height={150}
-          className="rounded-full absolute -top-[calc(150px/2)] left-1/2 translate-x-[-50%] !mt-0 !mb-0 object-cover"
-        />
+        {portrait ? (
+          <Image
+            src={portrait}
+            alt={author}
+            width={150}
+            height={150}
+            className="rounded-full absolute -top-[calc(150px/2)] left-1/2 translate-x-[-50%] !mt-0 !mb-0 object-cover"
+          />
+        ) : null}
         <div className="p-8 ">
           <p className="mt-20 text-lg italic text-center">
             &#171;{quote}&#187;
