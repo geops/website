@@ -5,7 +5,7 @@ summary: Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das
   und Bussen ist die Gewährleistung der vorgesehenen Anschlüsse  ein ganz
   wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
 slug: nvbw-anschlusssicherung
-gridWidthFull: true
+gridWidthFull: false
 customer: |-
   NVBW - Nahverkehrsgesellschaft
   Baden-Württemberg mbH

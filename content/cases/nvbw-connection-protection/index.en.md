@@ -6,7 +6,7 @@ summary: A powerful, attractive and reliable public transport system is at the
   important factor in shaping passengers' confidence in public transport.
 slug: nvbw-connection-protection
 gridImage: /images/cases/nvbw-connection-protection/fuehrerstand.png
-gridWidthFull: true
+gridWidthFull: false
 weight: 2
 cover: /images/cases/nvbw-connection-protection/nvbw-cover.png
 customer: |-
