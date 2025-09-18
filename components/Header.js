@@ -21,6 +21,8 @@ export default function Header({ pathByLocale }) {
   const [aboutMenuOpen, setAboutMenuOpen] = useState(false);
   const { language, t } = useI18n();
 
+  console.log(pathByLocale);
+
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
@@ -43,6 +45,7 @@ export default function Header({ pathByLocale }) {
   ];
   const menu = [
     { href: "/solution", title: t("solution.title") },
+    { href: "/cases", title: t("cases.title") },
     { href: "/about", title: t("about.title") },
     { href: "/blog", title: "Blog" },
     { href: t("career.path"), title: t("career.title") },
