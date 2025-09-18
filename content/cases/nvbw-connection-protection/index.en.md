@@ -8,7 +8,7 @@ slug: nvbw-connection-protection
 gridImage: /images/cases/nvbw-connection-protection/fuehrerstand.png
 gridWidthFull: true
 weight: 2
-cover: /images/cases/nvbw-cover.png
+cover: /images/cases/nvbw-connection-protection/nvbw-cover.png
 customer: |-
   NVBW - Local Transport Company
   Baden-Württemberg mbH
