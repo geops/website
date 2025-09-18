@@ -4,10 +4,10 @@ summary: A city break in Venice or an important business meeting in Berlin? Many
   European destinations can be reached comfortably and environmentally friendly
   by train from Switzerland.
 slug: international-connections
-gridImage: /images/cases/test/cover.png
+gridImage: /images/cases/international-connections/cover.png
 gridWidthFull: true
 weight: 1
-cover: /images/cases/test/cover.png
+cover: /images/cases/international-connections/cover.png
 customer: Swiss Federal Railways SBB, International Passenger Transport
 service: Data collection, automated calculation of route network plans, map
   publication, UX/UI design, front end
