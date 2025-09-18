@@ -84,8 +84,5 @@ testimonial:
         the inclusion of additional modes of transport.
       name: Marius Welle – Quality Management, NVBW
 tags:
-  - cartaro
-  - maps
-  - passengerinformation
   - mobility
 ---
