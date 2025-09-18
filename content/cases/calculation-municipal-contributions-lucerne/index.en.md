@@ -6,9 +6,9 @@ summary: Our automated solution makes the calculation of public transport
   GTFS data enables a transparent process. Instead of manual Excel evaluations,
   correct and transparent figures are now available at the touch of a button.
 slug: calculation-municipal-contributions-lucerne
-gridImage: /images/cases/greater-efficiency-through-digitalisation-calculation-of-municipal-contributions-to-public-transport-in-the-canton-of-lucerne/bahnhofplatz_luzern.webp
+gridImage: /images/cases/calculation-municipal-contributions-lucerne/bahnhofplatz_luzern.webp
 weight: 3
-cover: /images/cases/greater-efficiency-through-digitalisation-calculation-of-municipal-contributions-to-public-transport-in-the-canton-of-lucerne/2023_linie10-e-bus-eveline-beerkircher.jpg
+cover: /images/cases/calculation-municipal-contributions-lucerne/2023_linie10-e-bus-eveline-beerkircher.jpg
 customer: Lucerne Transport Network VVL
 service: Automated timetable evaluation
 timeline: Seit 2023
@@ -46,7 +46,7 @@ content:
 
         The calculation is transparent and can be traced at any time. Anomalies and inconsistencies are automatically
       title: Automation with open GTFS data
-      image: /images/cases/greater-efficiency-through-digitalisation-calculation-of-municipal-contributions-to-public-transport-in-the-canton-of-lucerne/vvl.png
+      image: /images/cases/calculation-municipal-contributions-lucerne/vvl.png
     - orientation: column
       text: >-
         What used to take many hours of manual work is now largely automated.

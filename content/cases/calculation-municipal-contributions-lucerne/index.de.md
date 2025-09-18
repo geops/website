@@ -50,7 +50,7 @@ content:
 
 
         Die Berechnung ist transparent und jederzeit nachvollziehbar. Auffälligkeiten und Inkonsistenzen werden automatisch erkannt, sodass ein qualitätsgesichertes Ergebnis gewährleistet ist.
-      image: /images/cases/greater-efficiency-through-digitalisation-calculation-of-municipal-contributions-to-public-transport-in-the-canton-of-lucerne/vvl.png
+      image: /images/cases/calculation-municipal-contributions-lucerne/vvl.png
     - orientation: column
       title: Mehr Tempo, weniger Fehler, zufriedene Partner
       text: >-
