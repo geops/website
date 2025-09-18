@@ -10,11 +10,11 @@ function CasesGridItem({
   tags,
   imageSizes,
 }) {
-  console.log(gridWidthFull);
+  console.log(slug);
 
   return (
     <Link
-      href={`/cases/${slug}`}
+      href={`cases/${slug}`}
       className={`group flex flex-col overflow-hidden gap-4 justify-center ${
         gridWidthFull ? "md:col-span-2" : ""
       }`}

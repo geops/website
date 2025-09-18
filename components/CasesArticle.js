@@ -18,8 +18,8 @@ export default function CasesArticle(props) {
     <Layout
       title={caseItem.title}
       description={caseItem.summary}
-      path={`/case`}
-      translationPath={`/case`}
+      path={`/cases`}
+      translationPath={`/cases`}
       slugByLocale={caseItem.slugByLocale}
       shareImg={caseItem?.cover}
     >
