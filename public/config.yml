@@ -756,21 +756,17 @@ collections:
                     label: Icon
                     widget: image
                     hint: "SVG Datei, idealerweise 100x100px."
-      - name: "testimonial"
-        label: "Testimonial"
-        description: "Author descriptions"
+      - name: testimonials
+        label: Testimonials
         required: false
-        widget: object
+        label_singular: Testimonial
+        widget: list
         i18n: true
         fields:
-          - name: "testimonials"
-            label: "Testimonials"
-            label_singular: "Testimonial"
-            widget: list
-            i18n: true
-            fields:
-              - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
-              - { label: "Text", name: "text", widget: "markdown", i18n: true }
+          - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
+          - { label: "Position", name: "position", widget: "string", required: false }
+          - { label: "Text", name: "text", widget: "markdown", i18n: true }
+          - { label: "Portrait", name: "portrait", widget: "image", required: false, hint: "compressed JPEG, 400px wide, 400px high" }
       - label: "Tags"
         name: "tags"
         hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."
