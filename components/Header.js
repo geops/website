@@ -21,8 +21,6 @@ export default function Header({ pathByLocale }) {
   const [aboutMenuOpen, setAboutMenuOpen] = useState(false);
   const { language, t } = useI18n();
 
-  console.log(pathByLocale);
-
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {

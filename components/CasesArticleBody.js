@@ -14,8 +14,7 @@ function CasesArticleBody({ case: caseItem }) {
     testimonials,
     imageSizes,
   } = caseItem;
-
-  console.log(testimonials);
+  console.log(sections);
 
   return (
     <>
@@ -49,26 +48,38 @@ function CasesArticleBody({ case: caseItem }) {
         </div>
         {sections?.length && (
           <div className="flex flex-col gap-24">
-            {sections.map(({ title, text, image, orientation }) => {
-              return (
-                <div key={title}>
-                  <h2>{title}</h2>
-                  <div
-                    className={`grid grid-cols-1 ${orientation === "row" ? "lg:grid-cols-2" : ""} gap-8 lg:gap-16`}
-                  >
-                    <Markdown>{text}</Markdown>
-                    {image && (
-                      <Image
-                        src={image}
-                        alt={title || ""}
-                        width={imageSizes[image].width}
-                        height={imageSizes[image].height}
-                      />
-                    )}
+            {sections.map(
+              ({ title, text, image, imagePosition, highlight }) => {
+                const imageClass = /top|left/.test(imagePosition)
+                  ? "lg:order-[-1]"
+                  : "";
+                const containerClass = /right|left/.test(imagePosition)
+                  ? "lg:grid-cols-2"
+                  : "";
+                const highlightClass = highlight
+                  ? "bg-green-light mx-24 pb-8 px-8"
+                  : "";
+                return (
+                  <div key={title} className={highlightClass}>
+                    <h2>{title}</h2>
+                    <div
+                      className={`grid grid-cols-1 gap-8 lg:gap-16 ${containerClass}`}
+                    >
+                      <Markdown>{text}</Markdown>
+                      {image && (
+                        <Image
+                          src={image}
+                          alt={title || ""}
+                          width={imageSizes[image].width}
+                          height={imageSizes[image].height}
+                          className={imageClass}
+                        />
+                      )}
+                    </div>
                   </div>
-                </div>
-              );
-            })}
+                );
+              },
+            )}
           </div>
         )}
         {testimonials?.length > 0 && (
