@@ -1,18 +1,11 @@
 import Image from "next/image";
 import React from "react";
 
-function Testimonial({
-  quote,
-  author,
-  portrait,
-  position,
-  itemsLength = 1,
-  className = "",
-}) {
+function Testimonial({ quote, author, portrait, position, className = "" }) {
   return (
     <div className="flex flex-col md:last:odd:col-span-2 lg:last:odd:col-span-1 items-center">
       <div
-        className={`bg-gray-lighter rounded-xl relative flex flex-col gap-4 max-w-[400px] ${itemsLength % 2 === 0 ? "xl:min-h-[450px] 2xl:min-h-[380px] xl:max-w-[320px]" : ""} md:min-h-[400px] min-h-[350px] ${portrait ? "mt-20" : ""} md:last:odd:col-span-2 lg:last:odd:col-span-1 items-center ${className}`}
+        className={`bg-gray-lighter rounded-xl relative flex flex-col gap-4 max-w-[400px] md:min-h-[400px] min-h-[350px] ${portrait ? "mt-20" : ""} md:last:odd:col-span-2 lg:last:odd:col-span-1 items-center ${className}`}
       >
         {portrait ? (
           <Image

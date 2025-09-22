@@ -139,11 +139,15 @@ function CareerTestimonials({ items }) {
       {items?.map((testimonial) => (
         <Testimonial
           key={testimonial.author}
-          itemsLength={items.length}
           author={testimonial.author}
           quote={testimonial.quote}
           portrait={`/images/career/${testimonial.portrait}`}
           position={testimonial.position}
+          className={
+            items.length % 2 === 0
+              ? "xl:min-h-[450px] 2xl:min-h-[380px] xl:max-w-[320px]"
+              : ""
+          }
         />
       ))}
     </div>
