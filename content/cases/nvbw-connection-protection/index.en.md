@@ -17,8 +17,7 @@ timeline: "2025"
 published: true
 content:
   sections:
-    - orientation: column
-      text: Unfortunately, the control centres of railway companies in Germany are
+    - text: Unfortunately, the control centres of railway companies in Germany are
         currently very busy and therefore focus primarily on operational
         processes in the event of disruptions. This means that there is usually
         not enough time to provide comprehensive passenger information and
@@ -31,8 +30,7 @@ content:
         connections are often no longer guaranteed today, and the needs of
         passengers are increasingly being overlooked.
       title: Scarce resources – an obstacle to reliable travel information
-    - orientation: column
-      title: Digital assistants to support staff
+    - title: Digital assistants to support staff
       text: >-
         The NVBW, as a service company of the Baden-Württemberg Ministry of
         Transport, has therefore commissioned us to develop an integrated system
@@ -45,8 +43,7 @@ content:
         In the background, the system processes scheduled data and real-time data. The scheduled connections are derived from the scheduled data, taking into account the transfer times between two journeys. The real-time data is then used to generate information on how long to wait for feeder services. The web application provides the control centre with very detailed information about which connections are guaranteed and which have to be broken due to excessive time differences. The app for drivers shows the waiting times without further details in order to avoid any unnecessary distractions.
       image: /images/cases/nvbw-connection-protection/nvbw-mobile.png
       imagePosition: null
-    - orientation: column
-      title: "The technical basis: TRALIS as a data hub"
+    - title: "The technical basis: TRALIS as a data hub"
       text: Our TRALIS data hub is used to process and analyse target and real-time
         data. TRALIS is optimised to integrate even large amounts of data,
         analyse it with minimal latency and output it back to the customer
@@ -56,8 +53,7 @@ content:
         performance reasons). The backend is operated on classic rental servers,
         with automated deployment allowing for short-term horizontal scaling if
         required.
-    - orientation: column
-      title: "Looking ahead: from the pilot phase to productive use"
+    - title: "Looking ahead: from the pilot phase to productive use"
       text: Both tools are currently in the pilot phase. Various minor optimisations
         are already planned, such as more differentiated consideration of
         transfer times. Above all, however, interfaces to the companies' ITCS

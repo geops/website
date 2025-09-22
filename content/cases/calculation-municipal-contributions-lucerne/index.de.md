@@ -20,8 +20,7 @@ content:
   title: "Mehr Effizienz durch Digitalisierung: Berechnung der Gemeindebeiträge im
     öV im Kanton Luzern"
   sections:
-    - orientation: column
-      title: Hoher Aufwand für faire Kostenverteilung
+    - title: Hoher Aufwand für faire Kostenverteilung
       text: >-
         Der öffentliche Verkehr im Kanton Luzern wird von den beteiligten
         Gemeinden mitfinanziert. Damit die Kosten gerecht verteilt werden,
@@ -33,8 +32,7 @@ content:
 
 
         Bislang wurden die Fahrplandaten von den Transportunternehmen ausgewertet, manuell in eine Vorlage übertragen, dem VVL zugestellt und dort stichprobenartig überprüft. Dieser Prozess bedeutete für die Transportunternehmen und den VVL einen grossen Aufwand und war zugleich fehleranfällig. Der VVL suchte deshalb nach einer Lösung, um den Prozess zu automatisieren und gleichzeitig die Qualität und Nachvollziehbarkeit der Ergebnisse zu erhöhen.
-    - orientation: row
-      title: Automatisierung mit offenen GTFS-Daten
+    - title: Automatisierung mit offenen GTFS-Daten
       text: >-
         Unsere massgeschneiderte Lösung basiert auf den offenen Fahrplandaten
         (GTFS) von [opentransportdata.swiss](https://opentransportdata.swiss/).
@@ -53,8 +51,7 @@ content:
 
         Die Berechnung ist transparent und jederzeit nachvollziehbar. Auffälligkeiten und Inkonsistenzen werden automatisch erkannt, sodass ein qualitätsgesichertes Ergebnis gewährleistet ist.
       image: /images/cases/calculation-municipal-contributions-lucerne/vvl.png
-    - orientation: column
-      title: Mehr Tempo, weniger Fehler, zufriedene Partner
+    - title: Mehr Tempo, weniger Fehler, zufriedene Partner
       text: >-
         Was früher viele Stunden manueller Arbeit bedeutete, läuft nun
         weitgehend automatisiert. Schnell, zuverlässig und transparent.
@@ -72,8 +69,7 @@ content:
 
 
         Das Projekt konnte dank unserer Erfahrung und der Nutzung standardisierter Datenformate mit minimalem Aufwand realisiert werden und das zur vollen Zufriedenheit der Kundin.
-    - orientation: column
-      title: Datenqualität auf Knopfdruck
+    - title: Datenqualität auf Knopfdruck
       text: Während früher eine leere EXCEL-Tabelle am Anfang des Prozesses stand,
         liefert die neue Lösung eine vollständig befüllte EXCEL-Tabelle als
         Ergebnis aus. Wir haben uns hier für EXCEL als Ausgabeformt entschieden,
@@ -88,8 +84,7 @@ content:
         Einlesen der Daten bis zur Ausgabe als EXCEL ist in unserer
         Build-Umgebung als Gitlab CI/CD-Pipeline aufgebaut und kann so jederzeit
         auf Knopfdruck wiederholt werden.
-    - orientation: column
-      title: "Blick nach vorn: gemeinsam mehr erreichen"
+    - title: "Blick nach vorn: gemeinsam mehr erreichen"
       text: Digitale Lösungen wie diese zeigen, wie offene Daten und intelligente
         Systeme den ÖV-Alltag einfacher machen können. Sie sparen Zeit, erhöhen
         die Transparenz und schaffen Vertrauen zwischen allen Beteiligten.
