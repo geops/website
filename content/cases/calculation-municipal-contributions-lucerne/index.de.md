@@ -51,6 +51,7 @@ content:
 
         Die Berechnung ist transparent und jederzeit nachvollziehbar. Auffälligkeiten und Inkonsistenzen werden automatisch erkannt, sodass ein qualitätsgesichertes Ergebnis gewährleistet ist.
       image: /images/cases/calculation-municipal-contributions-lucerne/vvl.png
+      imagePosition: right
     - title: Mehr Tempo, weniger Fehler, zufriedene Partner
       text: >-
         Was früher viele Stunden manueller Arbeit bedeutete, läuft nun
@@ -88,6 +89,7 @@ content:
       text: Digitale Lösungen wie diese zeigen, wie offene Daten und intelligente
         Systeme den ÖV-Alltag einfacher machen können. Sie sparen Zeit, erhöhen
         die Transparenz und schaffen Vertrauen zwischen allen Beteiligten.
+      highlight: true
 testimonials:
   - text: Das manuelle Verarbeiten von rund 140 Exceldateien gehört der
       Vergangenheit an. Dank der automatisierten Fahrplanauswertung von geOps
