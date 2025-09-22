@@ -741,6 +741,7 @@ collections:
                   - { label: Bottom, value: bottom }
                   - { label: Left, value: left }
                   - { label: Right, value: right }
+                required: false
                 default: bottom
                 hint: "Position des Bildes relativ zum Text."
               - name: highlight
