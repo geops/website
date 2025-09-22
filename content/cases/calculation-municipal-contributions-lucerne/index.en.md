@@ -48,6 +48,7 @@ content:
         The calculation is transparent and can be traced at any time. Anomalies and inconsistencies are automatically
       title: Automation with open GTFS data
       image: /images/cases/calculation-municipal-contributions-lucerne/vvl.png
+      imagePosition: right
     - orientation: column
       text: >-
         What used to take many hours of manual work is now largely automated.
@@ -87,6 +88,7 @@ content:
       text: Digital solutions such as these demonstrate how open data and intelligent
         systems can simplify everyday public transport. They save time, increase
         transparency and build trust between all parties involved.
+      highlight: true
   lead: Our automated solution makes the calculation of public transport
     contributions in the canton of Lucerne efficient, error-free and
     transparent. GTFS data enables a transparent process. Instead of manual

@@ -44,6 +44,7 @@ content:
 
         In the background, the system processes scheduled data and real-time data. The scheduled connections are derived from the scheduled data, taking into account the transfer times between two journeys. The real-time data is then used to generate information on how long to wait for feeder services. The web application provides the control centre with very detailed information about which connections are guaranteed and which have to be broken due to excessive time differences. The app for drivers shows the waiting times without further details in order to avoid any unnecessary distractions.
       image: /images/cases/nvbw-connection-protection/nvbw-mobile.png
+      imagePosition: null
     - orientation: column
       title: "The technical basis: TRALIS as a data hub"
       text: Our TRALIS data hub is used to process and analyse target and real-time
@@ -67,6 +68,7 @@ content:
         waiting times will suffice in the long term. It may be necessary to
         supplement simulations of various scenarios in order to enable as many
         travellers as possible to reach their destinations quickly and safely.
+      highlight: true
   lead: A powerful, attractive and reliable public transport system is at the
     heart of a successful transport revolution. In addition to the punctuality
     of trains and buses, ensuring that connections run as scheduled is a very
