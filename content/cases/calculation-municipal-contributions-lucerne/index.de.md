@@ -9,6 +9,8 @@ summary: Mit unserer automatisierten Lösung wird die Berechnung der
 slug: berechnung-gemeindebeitraege-luzern
 customer: Verkehrsverbund Luzern VVL
 service: Automatisierte Fahrplanauswertung
+timeline: Seit 2023
+published: true
 content:
   lead: Mit unserer automatisierten Lösung wird die Berechnung der
     ÖV-Gemeindebeiträge im Kanton Luzern effizient, fehlerfrei und
