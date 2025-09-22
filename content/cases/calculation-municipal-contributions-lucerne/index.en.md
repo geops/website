@@ -11,7 +11,8 @@ weight: 3
 cover: /images/cases/calculation-municipal-contributions-lucerne/2023_linie10-e-bus-eveline-beerkircher.jpg
 customer: Lucerne Transport Network VVL
 service: Automated timetable evaluation
-timeline: Seit 2023
+timeline: Since 2023
+published: true
 content:
   sections:
     - orientation: column
