@@ -1,10 +1,10 @@
 backend:
-  # name: github
-  # repo: geops/website
-  # branch: main
-  # base_url: https://geops.com/
-  # auth_endpoint: api/auth
-  name: test-repo
+  name: github
+  repo: geops/website
+  branch: main
+  base_url: https://geops.com/
+  auth_endpoint: api/auth
+  # name: test-repo
 
 # Used for testing.
 # local_backend: true
