@@ -1,10 +1,10 @@
 backend:
-  name: github
-  repo: geops/website
-  branch: main
-  base_url: https://geops.com/
-  auth_endpoint: api/auth
-  # name: test-repo
+  # name: github
+  # repo: geops/website
+  # branch: main
+  # base_url: https://geops.com/
+  # auth_endpoint: api/auth
+  name: test-repo
 
 # Used for testing.
 # local_backend: true
@@ -733,30 +733,22 @@ collections:
                 widget: image
                 required: false
                 hint: "Optionales Bild für die Section, Breite mindestens 1000px."
-              - name: orientation
-                label: Orientation
+              - name: imagePosition
+                label: Image Position
                 widget: select
                 options:
-                  - { label: Column, value: column }
-                  - { label: Row, value: row }
-                default: column
-                hint: "Text und Bild nebeneinander (Row) oder untereinander (Column) anordnen."
-              - name: features
-                label: Features
-                label_singular: 'Feature'
-                widget: list
+                  - { label: Top, value: top }
+                  - { label: Bottom, value: bottom }
+                  - { label: Left, value: left }
+                  - { label: Right, value: right }
+                default: bottom
+                hint: "Position des Bildes relativ zum Text."
+              - name: highlight
+                label: Highlight
+                widget: boolean
                 required: false
-                max: 3
-                i18n: true
-                fields:
-                  - name: text
-                    label: Text
-                    widget: markdown
-                    i18n: true
-                  - name: icon
-                    label: Icon
-                    widget: image
-                    hint: "SVG Datei, idealerweise 100x100px."
+                default: false
+                hint: "Hebt die Section mit einem farbigen Hintergrund hervor."
       - name: testimonials
         label: Testimonials
         required: false
