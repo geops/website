@@ -207,7 +207,7 @@ collections:
             }
           - {
               i18n: true,
-              label: Parnership,
+              label: Partnership,
               name: partnership,
               widget: "markdown",
             }
