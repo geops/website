@@ -15,8 +15,7 @@ timeline: Since 2023
 published: true
 content:
   sections:
-    - orientation: column
-      title: High expenditure for fair cost distribution
+    - title: High expenditure for fair cost distribution
       text: >-
         Public transport in the canton of Lucerne is co-financed by the
         participating municipalities. To ensure that costs are distributed
@@ -28,8 +27,7 @@ content:
 
 
         Until now, timetable data was evaluated by the transport companies, manually transferred to a template, sent to the VVL and checked there on a random basis. This process involved a great deal of effort for the transport companies and the VVL and was also prone to errors. The VVL therefore sought a solution to automate the process while increasing the quality and traceability of the results.
-    - orientation: row
-      text: >-
+    - text: >-
         Our tailor-made solution is based on the open timetable data (GTFS) from
         [opentransportdata.swiss](https://opentransportdata.swiss/). It
         automatically determines the number of departures per stop and
@@ -49,8 +47,7 @@ content:
       title: Automation with open GTFS data
       image: /images/cases/calculation-municipal-contributions-lucerne/vvl.png
       imagePosition: right
-    - orientation: column
-      text: >-
+    - text: >-
         What used to take many hours of manual work is now largely automated.
         Fast, reliable and transparent.
 
@@ -68,8 +65,7 @@ content:
 
         Thanks to our experience and the use of standardised data formats, the project was completed with minimal effort and to the customer's complete satisfaction.
       title: More speed, fewer errors, satisfied partners
-    - orientation: column
-      text: Whereas previously a blank Excel spreadsheet was used at the start of the
+    - text: Whereas previously a blank Excel spreadsheet was used at the start of the
         process, the new solution delivers a fully populated Excel spreadsheet
         as the result. We opted for Excel as the output format in order to give
         VVL the greatest possible flexibility for further evaluation. The
@@ -83,8 +79,7 @@ content:
         Gitlab CI/CD pipeline and can thus be repeated at any time at the touch
         of a button.
       title: Data quality at the touch of a button
-    - orientation: column
-      title: "Looking ahead: achieving more together"
+    - title: "Looking ahead: achieving more together"
       text: Digital solutions such as these demonstrate how open data and intelligent
         systems can simplify everyday public transport. They save time, increase
         transparency and build trust between all parties involved.

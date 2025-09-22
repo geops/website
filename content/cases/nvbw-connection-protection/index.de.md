@@ -18,8 +18,7 @@ content:
     ganz wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
   title: Anschlusssicherung als wichtiger Baustein für Qualität im ÖPNV
   sections:
-    - orientation: column
-      title: Knappe Ressourcen – ein Hindernis für verlässliche Reisendeninformation
+    - title: Knappe Ressourcen – ein Hindernis für verlässliche Reisendeninformation
       text: Leider sind die Leitstellen der Eisenbahnverkehrsunternehmen in
         Deutschland heute sehr ausgelastet und konzentrieren sich daher im
         Störungsfall vorrangig auf betriebliche Abläufe. Die Zeit für die
@@ -33,8 +32,7 @@ content:
         bislang nicht flächendeckend umgesetzt. Infolgedessen ist die
         Sicherstellung von Anschlüssen heute vielfach nicht mehr gewährleistet,
         und die Belange der Fahrgäste geraten zunehmend aus dem Blickfeld.
-    - orientation: column
-      title: Digitale Assistenten unterstützen das Personal
+    - title: Digitale Assistenten unterstützen das Personal
       text: >-
         Die NVBW als Servicegesellschaft des Verkehrsministeriums
         Baden-Württemberg hat uns daher beauftragt, ein unternehmensübergreifend
@@ -46,8 +44,7 @@ content:
 
         Im Hintergrund verarbeitet das System Fahrplan-Solldaten und Echtzeitdaten. Aus den Solldaten werden die vorgesehenen Anschlüsse hergeleitet, wobei auch die Umsteigezeiten zwischen zwei Fahrten berücksichtigt werden. Mit den Echtzeitdaten werden dann die Hinweise erstellt, wie lange auf Zubringer gewartet werden soll. Die Web-Anwendung informiert die Leitstelle sehr detailliert darüber, welche Anschlüsse gesichert werden oder welche wegen zu grossen zeitlichen Differenzen gebrochen werden müssen. In der App für die Fahrzeugführer:innen werden die Wartezeiten ohne weitere Details gezeigt, um jegliche unnötige Ablenkung zu vermeiden.
       image: /images/cases/nvbw-connection-protection/nvbw-mobile.png
-    - orientation: column
-      title: "Die technische Basis: TRALIS als Datendrehscheibe"
+    - title: "Die technische Basis: TRALIS als Datendrehscheibe"
       text: Für die Verarbeitung und Analyse von Soll- und Echtzeitdaten kommt unsere
         Datendrehscheibe TRALIS zum Einsatz. TRALIS ist optimiert dafür, auch
         grosse Datenmengen zu integrieren, mit minimalen Latenzen zu analysieren
@@ -58,8 +55,7 @@ content:
         verzichtet). Der Betrieb des Backends erfolgt auf klassischen
         Mietservern, wobei das automatisierte Deployment bei Bedarf auch
         kurzfristige horizontale Skalierungen erlaubt.
-    - orientation: column
-      title: "Blick nach vorn: von der Pilotphase zum produktiven Einsatz"
+    - title: "Blick nach vorn: von der Pilotphase zum produktiven Einsatz"
       text: Derzeit finden sich beide Tools in der Pilotphase. Schon jetzt geplant
         sind verschiedene, kleine Optimierungen wie die differenziertere
         Berücksichtigung von Umsteigezeiten. Vor allem aber sollen
