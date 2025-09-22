@@ -7,6 +7,7 @@ import ArrowCircleIcon from "./icons/ArrowCircleIcon.js";
 import CaretIcon from "./icons/CaretIcon.js";
 import Button from "./Button";
 import Hero from "./Hero.js";
+import Testimonial from "./Testimonial.js";
 
 const { screens } = resolveConfig(tailwindConfig).theme;
 
@@ -136,29 +137,18 @@ function CareerTestimonials({ items }) {
       className={`container mx-auto grid gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-${items.length} items-center mb-10 px-8 justify-center w-full`}
     >
       {items?.map((testimonial) => (
-        <div
-          className={`pt-20 flex flex-col md:last:odd:col-span-2 lg:last:odd:col-span-1 items-center `}
+        <Testimonial
           key={testimonial.author}
-        >
-          <div
-            className={`bg-gray-lighter p-8 rounded-xl relative flex flex-col gap-4 max-w-[400px] ${items.length % 2 === 0 ? "xl:min-h-[450px] 2xl:min-h-[380px] xl:max-w-[320px]" : ""} md:min-h-[400px] min-h-[350px]`}
-          >
-            <Image
-              src={`/images/career/${testimonial.image}`}
-              alt={testimonial.author}
-              width={150}
-              height={150}
-              className="rounded-full absolute -top-20 left-1/2 translate-x-[-50%]"
-            />
-            <p className="mt-20 text-lg italic text-center">
-              &#171;{testimonial.quote}&#187;
-            </p>
-            <p className="mt-auto text-sm text-center">
-              <span className="text-green">{testimonial.author}</span>,{" "}
-              {testimonial.position}
-            </p>
-          </div>
-        </div>
+          author={testimonial.author}
+          quote={testimonial.quote}
+          portrait={`/images/career/${testimonial.portrait}`}
+          position={testimonial.position}
+          className={
+            items.length % 2 === 0
+              ? "xl:min-h-[450px] 2xl:min-h-[380px] xl:max-w-[320px]"
+              : ""
+          }
+        />
       ))}
     </div>
   );
