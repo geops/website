@@ -14,7 +14,6 @@ function CasesArticleBody({ case: caseItem }) {
     testimonials,
     imageSizes,
   } = caseItem;
-  console.log(sections);
 
   return (
     <>
