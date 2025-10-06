@@ -17,7 +17,9 @@ function Testimonial({ quote, author, portrait, position, className = "" }) {
           />
         ) : null}
         <div className="p-8 ">
-          <p className="mt-20 text-lg italic text-center">
+          <p
+            className={`text-lg italic text-center ${portrait ? "mt-20" : ""}`}
+          >
             &#171;{quote}&#187;
           </p>
           <p className="mt-auto text-sm text-center">
