@@ -65,16 +65,10 @@ content:
         supplement simulations of various scenarios in order to enable as many
         travellers as possible to reach their destinations quickly and safely.
       highlight: true
-  lead: >-
-    A powerful, attractive and reliable public transport system is at the heart
-    of a successful transport revolution. In addition to the punctuality of
-    trains and buses, ensuring that connections run as scheduled is a very
+  lead: A powerful, attractive and reliable public transport system is at the
+    heart of a successful transport revolution. In addition to the punctuality
+    of trains and buses, ensuring that connections run as scheduled is a very
     important factor in shaping passengers' confidence in public transport.
-
-
-    <iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="600" title="interactive train station map" class="block-desktop border-gray-lighter border-2" />
-
-    <ResponsiveImage mobile="/images/solution/webkarten-und-bahnhofplaene/bahnhofplan.png" alt="interactive train station map" />
   title: Connection guarantees as an important component for quality in public
     transport
 testimonials:
