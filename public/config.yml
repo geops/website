@@ -684,14 +684,17 @@ collections:
         name: "cover"
         widget: "image"
       - label: "Customer"
+        hint: "Kunde"
         name: "customer"
         widget: "text"
         i18n: true
       - label: "Service"
+        hint: "Dienstleistung"
         name: "service"
         widget: "text"
         i18n: true
       - label: "Timeline"
+        hint: "Zeitraum"
         name: "timeline"
         widget: "string"
         i18n: true
@@ -715,7 +718,7 @@ collections:
             i18n: true
           - name: sections
             label: Sections
-            label_singular: 'Section'
+            label_singular: "Section"
             widget: list
             i18n: true
             required: false
@@ -757,10 +760,26 @@ collections:
         widget: list
         i18n: true
         fields:
-          - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
-          - { label: "Position", name: "position", widget: "string", required: false }
+          - {
+              label: "Name",
+              name: "name",
+              widget: "string",
+              hint: "First and Last",
+            }
+          - {
+              label: "Position",
+              name: "position",
+              widget: "string",
+              required: false,
+            }
           - { label: "Text", name: "text", widget: "markdown", i18n: true }
-          - { label: "Portrait", name: "portrait", widget: "image", required: false, hint: "compressed JPEG, 400px wide, 400px high" }
+          - {
+              label: "Portrait",
+              name: "portrait",
+              widget: "image",
+              required: false,
+              hint: "compressed JPEG, 400px wide, 400px high",
+            }
       - label: "Tags"
         name: "tags"
         hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."

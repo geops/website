@@ -2,14 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-function CasesGridItem({
-  slug,
-  title,
-  gridImage,
-  gridWidthFull,
-  tags,
-  imageSizes,
-}) {
+function CasesGridItem({ slug, title, gridImage, gridWidthFull, imageSizes }) {
   return (
     <Link
       href={`cases/${slug}`}
@@ -29,16 +22,6 @@ function CasesGridItem({
         </div>
       )}
       <div className="text-xl font-bold text-white">{title}</div>
-      <div className="flex items-center">
-        {tags?.map((tag) => (
-          <span
-            key={tag}
-            className="inline-block text-green-dark rounded px-2 py-1 text-xs font-semibold mr-2 border-green-dark border text-green-dark group-hover:text-green transition-colors duration-500"
-          >
-            {tag}
-          </span>
-        ))}
-      </div>
     </Link>
   );
 }

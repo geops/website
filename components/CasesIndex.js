@@ -4,7 +4,7 @@ import Layout from "./Layout.js";
 import { useI18n } from "../lib/i18n.js";
 import CasesGridItem from "./CasesGridItem.js";
 
-export default function SolutionIndex({ cases }) {
+export default function CasesIndex({ cases }) {
   const { t } = useI18n();
 
   return (

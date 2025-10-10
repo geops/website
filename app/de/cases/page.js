@@ -1,4 +1,4 @@
-import ArticleIndex from "../../../components/CasesIndex.js";
+import CasesIndex from "../../../components/CasesIndex.js";
 import { getCasesProps } from "../../../lib/getProps.js";
 import { generateCasesMetadata } from "../../../lib/getMetadata.js";
 
@@ -9,5 +9,5 @@ export async function generateMetadata() {
 
 export default async function Page() {
   const props = await getCasesProps("de");
-  return <ArticleIndex {...props} />;
+  return <CasesIndex {...props} />;
 }

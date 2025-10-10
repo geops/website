@@ -19,15 +19,12 @@ function CasesArticleBody({ case: caseItem }) {
     <>
       <PageHeader src={cover} srcMobile={cover} titleDown />
       <article className="container prose prose-xl mx-auto mb-16 max-w-screen-lg break-words px-8 pt-8 lg:pt-0">
-        <CaseDetails
-          timeline={caseItem.timeline}
-          customer={caseItem.customer}
-          service={caseItem.service}
-        />
-        <div className="mb-24">
-          <h1 className="!leading-snug text-balance">{title}</h1>
+        <div className="mb-8">
+          <p>{caseItem.customer}</p>
+          <h1 className="!leading-snug text-balance text-green">{title}</h1>
           <Markdown
             options={{
+              forceBlock: true,
               overrides: {
                 img: {
                   component: ArticleImage,
@@ -46,7 +43,7 @@ function CasesArticleBody({ case: caseItem }) {
           </Markdown>
         </div>
         {sections?.length && (
-          <div className="flex flex-col gap-24">
+          <div className="flex flex-col gap-8">
             {sections.map(
               ({ title, text, image, imagePosition, highlight }) => {
                 const imageClass = /top|left/.test(imagePosition)
@@ -55,16 +52,13 @@ function CasesArticleBody({ case: caseItem }) {
                 const containerClass = /right|left/.test(imagePosition)
                   ? "lg:grid-cols-2"
                   : "";
-                const highlightClass = highlight
-                  ? "bg-green-light mx-24 pb-8 px-8"
-                  : "";
                 return (
-                  <div key={title} className={highlightClass}>
-                    <h2>{title}</h2>
+                  <div key={title}>
+                    <h2 className={highlight ? "text-green" : ""}>{title}</h2>
                     <div
                       className={`grid grid-cols-1 gap-8 lg:gap-16 ${containerClass}`}
                     >
-                      <Markdown>{text}</Markdown>
+                      <Markdown options={{ forceBlock: true }}>{text}</Markdown>
                       {image && (
                         <Image
                           src={image}
@@ -82,7 +76,7 @@ function CasesArticleBody({ case: caseItem }) {
           </div>
         )}
         {testimonials?.length > 0 && (
-          <div className="mt-32 flex flex-col gap-16">
+          <div className="mt-16 flex flex-col gap-16">
             {testimonials.map(
               ({ text: quote, name: author, position, portrait }, index) => (
                 <Testimonial
@@ -97,6 +91,7 @@ function CasesArticleBody({ case: caseItem }) {
             )}
           </div>
         )}
+        <CaseDetails timeline={caseItem.timeline} service={caseItem.service} />
       </article>
     </>
   );

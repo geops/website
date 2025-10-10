@@ -5,7 +5,7 @@ summary: A city break in Venice or an important business meeting in Berlin? Many
   by train from Switzerland.
 slug: international-connections
 gridImage: /images/cases/international-connections/cover.png
-gridWidthFull: false
+gridWidthFull: true
 weight: 1
 cover: /images/cases/international-connections/cover.png
 customer: Swiss Federal Railways SBB, International Passenger Transport

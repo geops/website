@@ -4,7 +4,7 @@ summary: "Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in
   Berlin? Viele europäische Ziele sind von der Schweiz aus bequem und
   umweltfreundlich per Zug erreichbar. "
 slug: internationale-verbindungen
-gridWidthFull: false
+gridWidthFull: true
 customer: Schweizerische Bundesbahnen SBB, Internationaler Personenverkehr
 service: Datenerfassung, Automatisierte Berechnung von Liniennetzplänen,
   Kartenveröffentlichung, UX/UI-Konzeption, Frontend

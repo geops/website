@@ -1,17 +1,9 @@
 import { useI18n } from "../lib/i18n";
 
-export function CaseDetails({ timeline, customer, service }) {
+export function CaseDetails({ timeline, service }) {
   const { t } = useI18n();
   return (
-    <div className="text-gray-700 dark:text-gray-300 max-w-screen-sm mx-auto mt-32 mb-56">
-      {customer && (
-        <div>
-          <h3>
-            <strong>{t("cases.customer")}</strong>
-          </h3>
-          <span>{customer}</span>
-        </div>
-      )}
+    <div className="text-gray-700 max-w-screen-sm mx-auto my-8 grid gap-8 md:grid-cols-2">
       {service && (
         <div>
           <h3>
