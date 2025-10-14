@@ -2,7 +2,7 @@
 title: International connections
 summary: A city break in Venice or an important business meeting in Berlin? Many
   European destinations can be reached comfortably and environmentally friendly
-  by train from Switzerland.
+  by train from Switzerland. Test1
 slug: international-connections
 gridImage: /images/cases/international-connections/cover.png
 gridWidthFull: true
