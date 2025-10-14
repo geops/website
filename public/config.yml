@@ -1,9 +1,9 @@
 backend:
-  name: test-repo
+  name: github
   repo: geops/website
   branch: staging
-  base_url: /api
-  auth_endpoint: /auth
+  base_url: https://stag.geops.com/
+  auth_endpoint: api/auth
   # name: test-repo
 
 # Used for testing.
