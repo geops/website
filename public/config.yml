@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: geops/website
-  branch: main
+  branch: staging
   base_url: /api
   auth_endpoint: /auth
   # name: test-repo
@@ -207,7 +207,7 @@ collections:
             }
           - {
               i18n: true,
-              label: Parnership,
+              label: Partnership,
               name: partnership,
               widget: "markdown",
             }
@@ -642,9 +642,10 @@ collections:
     name: "cases"
     description: "Bilder und Texte für die Referenzprojekte, unter geops.com/cases zu finden."
     folder: "content/cases"
+    path: "{{slug}}/index"
     media_folder: "/public/images/cases/{{slug}}"
     public_folder: "/images/cases/{{slug}}"
-    preview_path: "en/cases"
+    preview_path: "en/cases/{{fields.slug}}"
     create: true
     i18n: true
     slug: "{{fields.slug}}"
@@ -653,50 +654,132 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
+      - label: "Summary"
+        name: "summary"
+        widget: "text"
+        i18n: true
+        required: false
+      - label: "Slug"
+        hint: "Eindeutiger Teil der URL, der hinter geops.com/cases/... erscheint. Sonder- und Leerzeichen sind zu vermeiden. Kann nicht nach dem ersten Speichern NICHT mehr geändert werden."
+        name: "slug"
+        pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Please no special characters"]
+        widget: "string"
+        i18n: true
       - label: "Grid Image"
         name: "gridImage"
         widget: "image"
         hint: "Originalbild für die Kachel-Darstellung, die unter geops.com/cases zu finden ist. Die Bildgröße sollte mindestens 1000 x 1000 Pixel betragen."
-        required: true
+      - label: "Grid width full"
+        name: "gridWidthFull"
+        widget: "boolean"
+        required: false
+        hint: "Wenn aktiviert, nimmt die Kachel die volle Breite ein (2 von 2 Spalten)."
       - label: "Frontpage Weight"
         hint: "Position in der Liste auf geops.com/cases, je kleiner die Zahl, desto weiter oben."
-        name: "frontpageWeight"
+        name: "weight"
         widget: "number"
         required: false
       - label: "Cover"
         hint: "Die Bildgröße sollte mindestens **1000 x 1000 Pixel** betragen. Originalbild für die Verwendung im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel."
         name: "cover"
         widget: "image"
-        required: true
       - label: "Customer"
+        hint: "Kunde"
         name: "customer"
-        widget: "string"
+        widget: "text"
         i18n: true
       - label: "Service"
+        hint: "Dienstleistung"
         name: "service"
-        widget: "string"
+        widget: "text"
         i18n: true
       - label: "Timeline"
+        hint: "Zeitraum"
         name: "timeline"
         widget: "string"
-      - label: "Content"
-        name: "body"
-        hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
-        widget: "markdown"
         i18n: true
-      - name: 'testimonial'
-        label: 'Testimonial'
-        description: 'Author descriptions'
+      - label: "Published"
+        name: "published"
+        widget: "boolean"
         required: false
-        widget: object
+      - label: "Content"
+        name: "content"
+        hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/solution/..." mobile="/images/solution/..." />** eingebunden werden.'
+        i18n: true
+        widget: "object"
         fields:
-          - name: testimonials
-            label: Testimonials
-            label_singular: 'Testimonial'
+          - name: title
+            label: Title
+            widget: string
+            i18n: true
+          - name: lead
+            label: Lead
+            widget: markdown
+            i18n: true
+          - name: sections
+            label: Sections
+            label_singular: "Section"
             widget: list
+            i18n: true
+            required: false
             fields:
-              - { label: 'Name', name: 'name', widget: 'string', hint: 'First and Last' }
-              - { label: 'Text', name: 'text', widget: 'markdown' }
+              - name: title
+                label: Title
+                widget: string
+                i18n: true
+              - name: text
+                label: Text
+                widget: markdown
+                i18n: true
+              - name: image
+                label: Image
+                widget: image
+                required: false
+                hint: "Optionales Bild für die Section, Breite mindestens 1000px."
+              - name: imagePosition
+                label: Image Position
+                widget: select
+                options:
+                  - { label: Top, value: top }
+                  - { label: Bottom, value: bottom }
+                  - { label: Left, value: left }
+                  - { label: Right, value: right }
+                required: false
+                default: bottom
+                hint: "Position des Bildes relativ zum Text."
+              - name: highlight
+                label: Highlight
+                widget: boolean
+                required: false
+                default: false
+                hint: "Hebt die Section mit einem farbigen Hintergrund hervor."
+      - name: testimonials
+        label: Testimonials
+        required: false
+        label_singular: Testimonial
+        widget: list
+        i18n: true
+        fields:
+          - {
+              label: "Name",
+              name: "name",
+              widget: "string",
+              hint: "First and Last",
+            }
+          - {
+              label: "Position",
+              name: "position",
+              widget: "string",
+              required: false,
+            }
+          - { label: "Text", name: "text", widget: "markdown", i18n: true }
+          - {
+              label: "Portrait",
+              name: "portrait",
+              widget: "image",
+              required: false,
+              hint: "compressed JPEG, 400px wide, 400px high",
+            }
       - label: "Tags"
         name: "tags"
         hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."
