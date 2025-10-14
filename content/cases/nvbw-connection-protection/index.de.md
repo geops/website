@@ -33,7 +33,6 @@ content:
         bislang nicht flächendeckend umgesetzt. Infolgedessen ist die
         Sicherstellung von Anschlüssen heute vielfach nicht mehr gewährleistet,
         und die Belange der Fahrgäste geraten zunehmend aus dem Blickfeld.
-      image: /images/cases/connection-fuse-for-the-nvbw/divers-1-.png
     - title: Digitale Assistenten unterstützen das Personal
       text: >-
         Die NVBW als Servicegesellschaft des Verkehrsministeriums

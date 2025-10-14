@@ -34,7 +34,6 @@ content:
         longer guaranteed today, and the needs of passengers are increasingly
         being overlooked.
       title: Scarce resources – an obstacle to reliable travel information
-      image: /images/cases/connection-fuse-for-the-nvbw/divers-1-.png
     - title: Digital assistants to support staff
       text: >-
         The NVBW, as a service company of the Baden-Württemberg Ministry of
