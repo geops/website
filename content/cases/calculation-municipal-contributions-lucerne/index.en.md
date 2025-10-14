@@ -97,7 +97,7 @@ testimonials:
       errors and gain noticeable efficiency – not only for us, but also for the
       transport companies.
     position: Public transport finance specialist, VVL
-    name: Sylvie Gernet
+    name: Silvie Gernet
 tags:
   - processes
 ---
