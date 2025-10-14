@@ -17,23 +17,20 @@ timeline: "2025"
 published: true
 content:
   sections:
-    - text: <iframe
-        src="https://maps2.trafimage.ch/ch.sbb.infrastruktur?disabled=header,footer,menu"
-        width="100%" height="600" title="Traifmage Webkartenportal"
-        class="block-desktop border-gray-lighter border-2" /> Unfortunately, the
-        control centres of railway companies in Germany are currently very busy
-        and therefore focus primarily on operational processes in the event of
-        disruptions. This means that there is usually not enough time to provide
-        comprehensive passenger information and secure travel chains. The
-        situation has worsened in recent years as DB Netz AG, the operator of
-        the rail network, has abandoned its previous role of coordinating
-        connections between trains – a practice that had been standard for over
-        a century. This has made coordination between the control centres of the
-        individual companies considerably more complex and has not yet been
-        implemented across the board. As a result, connections are often no
-        longer guaranteed today, and the needs of passengers are increasingly
-        being overlooked.
+    - text: Unfortunately, the control centres of railway companies in Germany are
+        currently very busy and therefore focus primarily on operational
+        processes in the event of disruptions. This means that there is usually
+        not enough time to provide comprehensive passenger information and
+        secure travel chains. The situation has worsened in recent years as DB
+        Netz AG, the operator of the rail network, has abandoned its previous
+        role of coordinating connections between trains – a practice that had
+        been standard for over a century. This has made coordination between the
+        control centres of the individual companies considerably more complex
+        and has not yet been implemented across the board. As a result,
+        connections are often no longer guaranteed today, and the needs of
+        passengers are increasingly being overlooked.
       title: Scarce resources – an obstacle to reliable travel information
+      image: ""
     - title: Digital assistants to support staff
       text: >-
         The NVBW, as a service company of the Baden-Württemberg Ministry of
@@ -69,10 +66,11 @@ content:
         supplement simulations of various scenarios in order to enable as many
         travellers as possible to reach their destinations quickly and safely.
       highlight: true
-  lead: A powerful, attractive and reliable public transport system is at the
-    heart of a successful transport revolution. In addition to the punctuality
-    of trains and buses, ensuring that connections run as scheduled is a very
-    important factor in shaping passengers' confidence in public transport.
+  lead: >-
+    ![](/images/cases/connection-fuse-for-the-nvbw/divers-1-.png)
+
+
+    A powerful, attractive and reliable public transport system is at the heart of a successful transport revolution. In addition to the punctuality of trains and buses, ensuring that connections run as scheduled is a very important factor in shaping passengers' confidence in public transport.
   title: Connection guarantees as an important component for quality in public
     transport
 testimonials:
