@@ -1,5 +1,5 @@
 ---
-title: NVBW Anschlusssicherung
+title: Anschlusssicherung für die NVBW
 summary: Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das
   Herzstück einer erfolgreichen Verkehrswende. Neben der Pünktlichkeit von Zügen
   und Bussen ist die Gewährleistung der vorgesehenen Anschlüsse  ein ganz
@@ -10,6 +10,7 @@ customer: |-
   NVBW - Nahverkehrsgesellschaft
   Baden-Württemberg mbH
 service: "Automatisierte Fahrplanauswertung\t"
+timeline: "2025"
 published: true
 content:
   lead: Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das
@@ -32,6 +33,7 @@ content:
         bislang nicht flächendeckend umgesetzt. Infolgedessen ist die
         Sicherstellung von Anschlüssen heute vielfach nicht mehr gewährleistet,
         und die Belange der Fahrgäste geraten zunehmend aus dem Blickfeld.
+      image: /images/cases/connection-fuse-for-the-nvbw/divers-1-.png
     - title: Digitale Assistenten unterstützen das Personal
       text: >-
         Die NVBW als Servicegesellschaft des Verkehrsministeriums
@@ -68,6 +70,7 @@ content:
         Simulationen verschiedener Szenarien ergänzt werden, um für möglichst
         viele Reisende das schnelle und sichere Erreichen ihrer Ziele zu
         ermöglichen.
+      highlight: true
 testimonials:
   - text: Mit den beiden Anwendungen können wir den Personalen sowohl in den
       Leitstellen als auch auf den Zügen zielgerichtet die nötigen Informationen
