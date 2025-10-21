@@ -17,7 +17,7 @@ timeline: "2025"
 published: true
 content:
   sections:
-    - text: Unfortunately, the control centres of railway companies in Germany are
+    - text: <iframe src="https://maps2.trafimage.ch/ch.sbb.infrastruktur?disabled=header,footer,menu" width="100%" height="600" title="Traifmage Webkartenportal" class="block-desktop border-gray-lighter border-2" /> Unfortunately, the control centres of railway companies in Germany are
         currently very busy and therefore focus primarily on operational
         processes in the event of disruptions. This means that there is usually
         not enough time to provide comprehensive passenger information and
