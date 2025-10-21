@@ -6,7 +6,7 @@
 
 @layer base {
   body {
-    @apply text-base leading-8;
+    @apply text-lg leading-8;
     font-family: "Lato";
   }
 
