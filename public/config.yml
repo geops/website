@@ -133,6 +133,32 @@ collections:
         hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/blog/..." mobile="/images/blog/..." />** eingebunden werden.'
         widget: "markdown"
         i18n: true
+  - label: "Customer"
+    name: "customer"
+    description: "Kunden werden mit Cases verlinkt und unter geops.com/cases aufgelistet."
+    folder: "content/customer"
+    path: "{{name}}"
+    identifier_field: "name"
+    media_folder: "/public/images/customer"
+    public_folder: "/images/customer"
+    create: true
+    i18n: true
+    extension: "json"
+    fields:
+      - label: "Name"
+        name: "name"
+        hint: "Kurzer Name des Kunden"
+        widget: "string"
+        i18n: true
+      - label: "Full Name"
+        name: "fullName"
+        hint: "Vollständiger Name des Kunden"
+        widget: "string"
+        i18n: true
+      - label: "Logo"
+        name: "logo"
+        widget: "image"
+        required: false
   - label: "Job"
     name: "job"
     description: "Ausschreibungen für Jobs, werden unter geops.com/karriere aufgelistet."
@@ -686,8 +712,10 @@ collections:
       - label: "Customer"
         hint: "Kunde"
         name: "customer"
-        widget: "text"
-        i18n: true
+        widget: "relation"
+        collection: "customer"
+        search_fields: ["name", "fullName"]
+        value_field: "name"
       - label: "Service"
         hint: "Dienstleistung"
         name: "service"
@@ -753,6 +781,11 @@ collections:
                 required: false
                 default: false
                 hint: "Hebt die Section mit einem farbigen Hintergrund hervor."
+      - name: "testimonialsOnTop"
+        label: "Testimonials on Top"
+        widget: "boolean"
+        required: false
+        hint: "Testimonials werden oberhalb von den Sections angezeigt."
       - name: testimonials
         label: Testimonials
         required: false

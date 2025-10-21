@@ -3,8 +3,9 @@
 import Layout from "./Layout.js";
 import { useI18n } from "../lib/i18n.js";
 import CasesGridItem from "./CasesGridItem.js";
+import CustomerLogoCarousel from "./CustomerLogoCarousel.js";
 
-export default function CasesIndex({ cases }) {
+export default function CasesIndex({ cases, customers }) {
   const { t } = useI18n();
 
   return (
@@ -31,6 +32,7 @@ export default function CasesIndex({ cases }) {
           })}
         </div>
       </div>
+      <CustomerLogoCarousel customers={customers} />
     </Layout>
   );
 }

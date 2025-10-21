@@ -6,9 +6,7 @@ summary: Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das
   wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
 slug: nvbw-anschlusssicherung
 gridWidthFull: false
-customer: |-
-  NVBW - Nahverkehrsgesellschaft
-  Baden-Württemberg mbH
+customer: NVBW
 service: "Automatisierte Fahrplanauswertung\t"
 timeline: "2025"
 published: true

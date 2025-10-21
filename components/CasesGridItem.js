@@ -2,16 +2,23 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-function CasesGridItem({ slug, title, gridImage, gridWidthFull, imageSizes }) {
+function CasesGridItem({
+  customer,
+  slug,
+  title,
+  gridImage,
+  gridWidthFull,
+  imageSizes,
+}) {
   return (
     <Link
       href={`cases/${slug}`}
-      className={`group flex flex-col overflow-hidden gap-4 justify-center ${
+      className={`group flex flex-col overflow-hidden gap-4 justify-top ${
         gridWidthFull ? "md:col-span-2" : ""
       }`}
     >
       {gridImage && (
-        <div className="rounded-xl overflow-hidden">
+        <div className="rounded-xl overflow-hidden relative">
           <Image
             src={gridImage}
             alt={title}
@@ -19,6 +26,9 @@ function CasesGridItem({ slug, title, gridImage, gridWidthFull, imageSizes }) {
             height={imageSizes[gridImage]?.height}
             width={imageSizes[gridImage]?.width}
           />
+          <div className="absolute bottom-4 right-4 text-right font-bold text-shadow text-white">
+            {customer.name}
+          </div>
         </div>
       )}
       <div className="text-xl font-bold text-white">{title}</div>

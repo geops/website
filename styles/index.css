@@ -6,7 +6,7 @@
 
 @layer base {
   body {
-    @apply text-lg leading-9;
+    @apply text-base leading-8;
     font-family: "Lato";
   }
 
@@ -41,7 +41,7 @@
   .prose p,
   .prose ol,
   .prose ul {
-    @apply text-lg leading-9;
+    @apply text-lg leading-8;
   }
   .prose ul {
     @apply pl-2;

@@ -9,9 +9,7 @@ gridImage: /images/cases/nvbw-connection-protection/fuehrerstand.png
 gridWidthFull: false
 weight: 2
 cover: /images/cases/connection-fuse-for-the-nvbw/header.png
-customer: |-
-  NVBW - Local Transport Company
-  Baden-Württemberg mbH
+customer: NVBW
 service: Automated timetable evaluation
 timeline: "2025"
 published: true
