@@ -9,7 +9,7 @@ created: 2025-04-14
 ---
 Du möchtest die Mobilität von morgen mitgestalten und digitale Lösungen für einen attraktiveren öffentlichen Verkehr vorantreiben? Dann werde Teil unseres Teams in Olten (CH). Seit über 20 Jahren entwickeln wir mit Leidenschaft webbasierte Anwendungen und Datenplattformen mit Fokus auf Umwelt und Mobilität. Für unsere innovativen Digitailiserungsprojekte suchen wir eine:n IT Project Manager / Product Owner, der/die mit technischem Verständnis, Organisationsstärke und Leidenschaft komplexe digitale Projekte von der Idee bis zum Go-Live steuert und dabei als fachliche:r wie technische:r Sparringpartner:in für Team und Kund:innen agiert. 
 
-![](/images/job/it-project-manager-product-owner-öffentlicher-verkehr-und-mobilität-80-100/project-manager_website.png)
+![](/images/job/it-project-manager-product-owner-öffentlicher-verkehr-und-mobilität-80-100/project-manager_website_2.png)
 
 ## Was dich erwartet
 
