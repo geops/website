@@ -16,8 +16,8 @@ export default function CasesIndex({ cases, customers }) {
       translationPath="/cases"
       shareImg={(cases && cases[0]?.gridImage) || null}
     >
-      <div className="bg-gray-darker px-4 py-8 sm:px-8">
-        <div className="mx-auto max-w-screen-md text-white">
+      <div className="px-4 py-8 sm:px-8">
+        <div className="mx-auto max-w-screen-md">
           <h1
             data-cy="pageMainTitle"
             className="mb-16 mt-8 text-center text-green"

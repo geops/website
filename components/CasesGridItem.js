@@ -31,7 +31,7 @@ function CasesGridItem({
           </div>
         </div>
       )}
-      <div className="text-xl font-bold text-white">{title}</div>
+      <div className="text-xl font-bold">{title}</div>
     </Link>
   );
 }
