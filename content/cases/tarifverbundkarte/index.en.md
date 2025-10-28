@@ -6,8 +6,8 @@ summary: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
   doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle Verbunde der
   Schweiz und schaffen die Möglichkeit, die Orientierung zu behalten.
 slug: tarifverbundkarte
-gridImage: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/tarifverbundkarte_01.webp
-cover: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/verbund.png
+gridImage: /images/cases/tarifverbundkarte/tarifverbundkarte_01.webp
+cover: /images/cases/tarifverbundkarte/verbund.png
 customer: SBB
 service: xy
 timeline: "2025"
@@ -30,7 +30,7 @@ content:
 
 
         Die neue Tarifverbundkarte basiert nicht länger auf manuell gezeichneten Inhalten, sondern nutzt stattdessen die Tarifdatenbank NOVA, das Herzstück des künftigen Preissystem ÖV Schweiz (ZPS), als zentrale Grundlage. Diese Datenbank enthält alle Informationen zur Gültigkeit von Abonnements pro Verbindung («Kanten») und Betreiber und wird routinemässig zum Fahrplanwechsel aktualisiert.
-      image: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/divers.png
+      image: /images/cases/tarifverbundkarte/divers.png
     - imagePosition: left
       highlight: false
       title: Komplexe Tarifdaten verständlich machen
@@ -42,7 +42,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/verbundskarte.png
+      image: /images/cases/tarifverbundkarte/verbundskarte.png
     - imagePosition: bottom
       highlight: false
       title: Flexible und effiziente Integration in Web und Print
@@ -65,7 +65,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/1000_f_1356199167_apar6prdhjpivjzzzg4lyazj1ubcwrwn.jpg
+      image: /images/cases/tarifverbundkarte/1000_f_1356199167_apar6prdhjpivjzzzg4lyazj1ubcwrwn.jpg
   title: Mit der Tarifverbundkarte der Schweiz Abo-Verbunde sichtbar machen.
   lead: >-
     Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
