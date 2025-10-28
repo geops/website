@@ -47,7 +47,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/tarifverbundkarte/verbundskarte.png
+      image: /images/solution/tarifverbundkarte/verbund.png
     - imagePosition: bottom
       highlight: false
       title: Flexible und effiziente Integration in Web und Print

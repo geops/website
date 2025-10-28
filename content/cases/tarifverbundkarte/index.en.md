@@ -6,8 +6,8 @@ summary: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
   doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle Verbunde der
   Schweiz und schaffen die Möglichkeit, die Orientierung zu behalten.
 slug: tarifverbundkarte
-gridImage: /images/cases/tarifverbundkarte/tarifverbundkarte_01.webp
-cover: /images/cases/tarifverbundkarte/verbund.png
+gridImage: /images/solution/tarifverbundkarte/verbund.png
+cover: /images/solution/tarifverbundkarte/tarifverbundkarte_01.webp
 customer: SBB
 service: xy
 timeline: "2025"
@@ -42,7 +42,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/tarifverbundkarte/verbundskarte.png
+      image: /images/solution/tarifverbundkarte/verbund.png
     - imagePosition: bottom
       highlight: false
       title: Flexible und effiziente Integration in Web und Print
