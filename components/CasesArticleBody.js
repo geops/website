@@ -74,7 +74,7 @@ function CasesArticleBody({ case: caseItem }) {
             return (
               <div key={title}>
                 <div
-                  className={`grid grid-cols-1 gap-8 lg:gap-16 ${containerClass}`}
+                  className={`grid grid-cols-1 gap-8 lg:gap-16 items-center ${containerClass}`}
                 >
                   <div>
                     <h2 className={highlight ? "text-green" : ""}>{title}</h2>
