@@ -198,8 +198,8 @@
     },
     "cases": {
       "customer": "Kunde",
-      "service": "Service / Dienstleistung",
-      "timeline": "Timeline",
+      "service": "Dienstleistung",
+      "timeline": "Zeitraum",
       "title": "Arbeiten",
       "header": "Entdecken Sie unsere Referenzprojekte",
       "description": "Daten, Design, Code und Know-how. Mit Blick auf die Realität und dem Puls der Mobilität. Das ist unser Antrieb für digitale Lösungen, die bewegen. Der Beweis? Unsere Projekte. Live, skalierbar und weltweit im Einsatz."
