@@ -669,8 +669,8 @@ collections:
     description: "Bilder und Texte für die Referenzprojekte, unter geops.com/cases zu finden."
     folder: "content/cases"
     path: "{{slug}}/index"
-    media_folder: "/public/images/solution/{{dirname}}"
-    public_folder: "/images/solution/{{dirname}}"
+    media_folder: "/public/images/cases/{{dirname}}"
+    public_folder: "/images/cases/{{dirname}}"
     preview_path: "en/cases/{{fields.slug}}"
     create: true
     i18n: true
