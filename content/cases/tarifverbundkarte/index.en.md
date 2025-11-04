@@ -76,5 +76,5 @@ content:
     behalten.
 
 
-    ![]()
+    ![](/images/cases/tarifverbundkarte/verbund.png)
 ---

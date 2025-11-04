@@ -12,12 +12,16 @@ timeline: "2025"
 published: true
 content:
   title: Mit der Tarifverbundkarte der Schweiz Abo-Verbunde sichtbar machen.
-  lead: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
+  lead: >-
+    Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
     Verkehrsverbunde. Auf welcher Strecke gilt welcher Verbund-Fahrausweis? Und
     behält er seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht
     es doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle
     Verbunde der Schweiz und schaffen die Möglichkeit, die Orientierung zu
     behalten.
+
+
+    ![](/images/cases/tarifverbundkarte/verbund.png)
   sections:
     - imagePosition: bottom
       highlight: false
