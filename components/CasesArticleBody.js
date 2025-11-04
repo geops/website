@@ -67,29 +67,28 @@ function CasesArticleBody({ case: caseItem }) {
           sections.map(({ title, text, image, imagePosition, highlight }) => {
             const imageClass = /top|left/.test(imagePosition)
               ? "lg:order-[-1]"
-              : "";
+              : "mt-0";
             const containerClass = /right|left/.test(imagePosition)
               ? "lg:grid-cols-2"
               : "";
             return (
-              <div key={title}>
-                <div
-                  className={`grid grid-cols-1 gap-8 lg:gap-16 items-center ${containerClass}`}
-                >
-                  <div>
-                    <h2 className={highlight ? "text-green" : ""}>{title}</h2>
-                    <Markdown options={{ forceBlock: true }}>{text}</Markdown>
-                  </div>
-                  {image && (
-                    <Image
-                      src={image}
-                      alt={title || ""}
-                      width={imageSizes[image].width}
-                      height={imageSizes[image].height}
-                      className={imageClass}
-                    />
-                  )}
+              <div
+                key={title}
+                className={`grid grid-cols-1 gap-8 lg:gap-16 items-center ${containerClass}`}
+              >
+                <div>
+                  <h2 className={highlight ? "text-green" : ""}>{title}</h2>
+                  <Markdown options={{ forceBlock: true }}>{text}</Markdown>
                 </div>
+                {image && (
+                  <Image
+                    src={image}
+                    alt={title || ""}
+                    width={imageSizes[image].width}
+                    height={imageSizes[image].height}
+                    className={imageClass}
+                  />
+                )}
               </div>
             );
           })}
