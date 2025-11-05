@@ -10,7 +10,7 @@ summary: Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in
   internationalen Verbindungen auf einen Blick.
 slug: internationale-verbindungen
 gridWidthFull: true
-customer: SBB
+customer: SBB CFF FFS
 service: Datenerfassung, Automatisierte Berechnung von Liniennetzplänen,
   Kartenveröffentlichung, UX/UI-Konzeption, Frontend
 timeline: 2023 – 2024
