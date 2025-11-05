@@ -6,8 +6,8 @@ summary: Gemeinsam mit Alliance SwissPass haben wir eine vollautomatisierte
   ÖV-Abonnementen über sämtliche Linien und Verkehrsunternehmen präzise, aktuell
   und bedienungsfreundlich visualisiert.
 slug: gb-karte
-gridImage: /images/cases/gb-karte.png
-cover: /images/cases/screenshot-2025-09-03-141917.png
+gridImage: /images/cases/gb-karte/gb-karte.png
+cover: /images/cases/gb-karte/screenshot-2025-09-03-141917.png
 customer: SBB
 service: Automatisierte Kartenlösung, Datenintegration, UX/UI-Konzeption,
   Responsives Frontend
@@ -29,7 +29,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/gb2.png
+      image: /images/cases/gb-karte/gb2.png
     - imagePosition: bottom
       highlight: false
       title: NOVA-Daten als Fundament für eine neue Kartenlösung
@@ -52,7 +52,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/1000_f_328826348_mzaaxsslbfipjeaanzcuoobcuvbydoaq.jpg
+      image: /images/cases/gb-karte/1000_f_328826348_mzaaxsslbfipjeaanzcuoobcuvbydoaq.jpg
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: Blick nach vorn: mehr Funktionen, mehr Abos, mehr
@@ -76,7 +76,7 @@ content:
     <!--EndFragment-->
 
 
-    ![](/images/cases/gb3.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
+    ![](/images/cases/gb-karte/gb3.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
 testimonialsOnTop: true
 testimonials:
   - name: Karin Fankhauser
@@ -89,7 +89,7 @@ testimonials:
 
 
       <!--EndFragment-->
-    portrait: /images/cases/divers-leinwände-querformat-.png
+    portrait: /images/cases/gb-karte/gb-karte7divers-leinwände-querformat-.png
 tags:
   - maps
 ---

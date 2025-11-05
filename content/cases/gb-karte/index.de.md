@@ -23,7 +23,7 @@ content:
     <!--EndFragment-->
 
 
-    ![](/images/cases/gb3.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
+    ![](/images/cases/gb-karte/gb3.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
   sections:
     - imagePosition: bottom
       highlight: false
@@ -39,7 +39,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/gb2.png
+      image: /images/cases/gb-karte/gb2.png
     - imagePosition: bottom
       highlight: false
       title: NOVA-Daten als Fundament für eine neue Kartenlösung
@@ -62,7 +62,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/1000_f_328826348_mzaaxsslbfipjeaanzcuoobcuvbydoaq.jpg
+      image: /images/cases/gb-karte/1000_f_328826348_mzaaxsslbfipjeaanzcuoobcuvbydoaq.jpg
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: Blick nach vorn: mehr Funktionen, mehr Abos, mehr
@@ -87,5 +87,5 @@ testimonials:
 
 
       <!--EndFragment-->
-    portrait: /images/cases/divers-leinwände-querformat-.png
+    portrait: /images/cases/gb-karte/divers-leinwände-querformat-.png
 ---
