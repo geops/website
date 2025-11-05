@@ -37,7 +37,7 @@ content:
 
 
         For the growing importance of night connections, there is also a separate map with our Darkstyle base map in the background.
-      image: /images/cases/international-connections/int1.png
+      image: /images/cases/international-connections/int1_transp_klein.png
     - imagePosition: bottom
       highlight: false
       title: "Flexible, precise and automated: user-friendly data updating"
@@ -56,7 +56,7 @@ content:
 
 
         This allows editors to add new connections or edit existing ones with minimal effort. By maintaining the routes in Cartaro, they have maximum flexibility with their entries and at the same time benefit from the automated generation of the map at the touch of a button.
-      image: /images/cases/international-connections/desktop-mobile.png
+      image: /images/cases/international-connections/int2_transp_klein.png
     - imagePosition: right
       highlight: true
       title: "Looking ahead: even more service for rail passengers"

@@ -50,7 +50,7 @@ content:
 
 
         Für die wachsende Bedeutung der Nachtverbindungen gibt es zudem eine [separate Karte](https://www.sbb.ch/de/freizeit-ferien/europa/nachtzug.html) mit unserer Darkstyle-Basiskarte im Hintergrund.
-      image: /images/cases/international-connections/int1.png
+      image: /images/cases/international-connections/int1_transp_klein.png
     - imagePosition: bottom
       highlight: false
       title: "Flexibel, präzise und automatisiert: Nutzerfreundliche
@@ -70,7 +70,7 @@ content:
 
 
         Die Bearbeiter:innen können so mit wenig Aufwand neue Verbindungen erfassen oder bestehende Verbindungen bearbeiten. Durch die Pflege der Strecken in Cartaro haben sie maximale Flexibilität bei den Einträgen und profitieren gleichzeitig von der automatisierten Generierung der Karte auf Knopfdruck.
-      image: /images/cases/international-connections/desktop-mobile.png
+      image: /images/cases/international-connections/int2_transp_klein.png
     - imagePosition: right
       highlight: true
       title: "Blick nach vorn: noch mehr Service für Bahnreisende"
