@@ -76,7 +76,7 @@ content:
     Die Lösung liefert Updates in Sekundenbruchteilen und macht Informationen
     mobil nutzbar, entweder in der Navigator App, direkt auf der Karte oder über
     einen Liniennetzplan.* "
-testimonialsOnTop: true
+testimonialsOnTop: false
 testimonials:
   - name: Carola Bertsch
     position: Fahrgastinformation QS und Projekte, DB Regio AG (2025)
