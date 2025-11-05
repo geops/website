@@ -73,7 +73,7 @@ content:
         alternative Routen bei Bauarbeiten. Sie bildet eine solide Grundlage für
         zukünftige Erweiterungen, beispielsweise zur Ausweitung auf andere Netze
         oder zusätzliche Mobilitätsformen.
-testimonialsOnTop: true
+testimonialsOnTop: false
 testimonials:
   - position: Fahrgastinformation QS und Projekte, DB Regio AG (2025)
     name: Carola Bertsch
