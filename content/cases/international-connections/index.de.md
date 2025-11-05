@@ -1,5 +1,5 @@
 ---
-title: Internationale Verbindungen
+title: "Direktverbindungen nach Europa: ein interaktiver Liniennetzplan "
 summary: "Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in
   Berlin? Viele europäische Ziele sind von der Schweiz aus bequem und
   umweltfreundlich per Zug erreichbar. "
