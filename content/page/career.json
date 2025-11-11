@@ -77,6 +77,12 @@
         "author": "Daniel Marsh-Hunn",
         "position": "Software Engineer",
         "image": "testimonial_danielmh.png"
+      },
+      {
+        "quote": "Good teamwork, modern technologies and exciting projects make working at geOps something special for me. Here I have the feeling of doing something meaningful.",
+        "author": "Friedjoff Trautwein",
+        "position": "Software Engineer",
+        "image": "testimonial_friedjoff.png"
       }
     ]
   },
@@ -158,6 +164,12 @@
         "author": "Daniel Marsh-Hunn",
         "position": "Software Engineer",
         "image": "testimonial_danielmh.png"
+      },
+      {
+        "quote": "Gutes Teamwork, moderne Technologien und spannende Projekte machen die Arbeit bei geOps für mich zu etwas Besonderem. Hier habe ich das Gefühl, etwas Sinnvolles zu tun.",
+        "author": "Friedjoff Trautwein",
+        "position": "Software Engineer",
+        "image": "testimonial_friedjoff.png"
       }
     ]
   }
