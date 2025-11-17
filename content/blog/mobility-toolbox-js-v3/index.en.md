@@ -1,13 +1,8 @@
 ---
 title: mobility-toolbox-js 3.0.0
 summary: >-
-  All developments at geOps are based on open source software. Besides using
-  existing mapping libraries  OpenLayers and MapLibre GL JS, we also create our
-  own software packages, such as mobility-toolbox-js.  
-
-
-  mobility-toolbox-js is meant to be the front door to build geospatial web applications using our  geOps in-house APIs.
-
+  mobility-toolbox-js is meant to be the front door to build geospatial web
+  applications using our  geOps in-house APIs.
 
   If this project exists for years now, the version 3 brings  a massive  improvement in terms of ease of development and integration into existing applications.
 author: "Daniel Marsh-Hunn,  Olivier Terral "
