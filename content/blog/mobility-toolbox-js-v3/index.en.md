@@ -10,7 +10,7 @@ summary: >-
 
 
   If this project exists for years now, the version 3 brings  a massive  improvement in terms of ease of development and integration into existing applications.
-author: "Daniel Marsh-Hunn & Olivier Terral "
+author: "Daniel Marsh-Hunn,  Olivier Terral "
 cover: /images/blog/mobility-toolbox-js-3-0-0/cover-image.png
 created: 2025-11-17
 slug: mobility-toolbox-js-v3
@@ -25,20 +25,6 @@ frontpage: true
 frontpageImage: /images/blog/mobility-toolbox-js-3-0-0/cover-image.png
 published: true
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 All developments at dsd**[geOps](https://geops.com)** are based on open source software. Besides using existing mapping libraries  [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/), we also create our own software packages, such as **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)**.  
 
 **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)** is meant to be the front door to build geospatial web applications using our **[geOps in-house APIs](https://developer.geops.io/).**  
@@ -60,24 +46,16 @@ Finally we get something that **simply works**, something that **can be used in 
 
 As an example, in your existing OpenLayers application, you can display realtime data  using our geOps Realtime API. simply like this:
 
-![Example of code how to add realtime layer](/images/blog/mobility-toolbox-js-3-0-0/code-example.png "Example of code how to add realtime layer")
-
-
-
-
+![Example of code how to add geOps Realtime  API data](/images/blog/mobility-toolbox-js-3-0-0/code-example.png "Example of code how to add geOps Realtime  API data")
 
 You can find this example and  and  many more on [the official website](https://mobility-toolbox-js.geops.io/examples) . You can also check the [documentation](https://mobility-toolbox-js.geops.io/doc) who has  received a major shake-up for this new version.
 
 We use this library as basis for all our applications, like our [mobility-web-component](http://mobility-web-component) , a web component  that encapsulate all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action in our [RVF client website](https://www.rvf.de/fahrtinfo/netzplan):
 
-![RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/rvf-site.png "RVF Netzplan")
-
-
+![geOps application:  RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/rvf-site.png "geOps application:  RVF Netzplan")
 
 Our  famous live map for S-Bahn münchen also uses mobility-toolbox-js:
 
-![S-Bahn München Live Map](/images/blog/mobility-toolbox-js-3-0-0/tralis-live-map.png "S-Bahn München Live Map")
-
-
+![geOps application: S-Bahn München Live Map](/images/blog/mobility-toolbox-js-3-0-0/tralis-live-map.png "geOps application: S-Bahn München Live Map")
 
 We hope our efforts are making life easier for spatial web developers and improving the overall quality of spatial web applications.
