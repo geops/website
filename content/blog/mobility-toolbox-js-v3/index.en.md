@@ -35,7 +35,7 @@ We build the version 3 with the motive  **DO NOT REINVENT THE WHEEL**:
 
 **mobility-toolbox-js** version 3 has been refactored be as close to the other mapping libraries as possible.
 
-This makes development with mobility-toolbox-js feel very familiar for developers who alread y knows [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/)
+This makes development with mobility-toolbox-js feel very familiar for developers who already knows [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/)
 
 Finally we get something that **simply works**, something that **can be used in every context**, something that **do not need extra API knowledge**.
 
