@@ -11,7 +11,7 @@ tags:
   - environment
   - maps
 frontpage: false
-frontpageImage: /images/solution/umwelt-software/alma-bild-geops-projekte4x.jpg
+frontpageImage: /images/solution/umwelt-software/alma-bild-geops-projekte-1x-1.jpg
 color: "#1A6A70"
 gridImage: /images/solution/umwelt-software/treeapp.png
 ---
