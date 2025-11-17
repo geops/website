@@ -20,7 +20,7 @@ frontpage: true
 frontpageImage: /images/blog/mobility-toolbox-js-3-0-0/cover-image.png
 published: true
 ---
-All developments at dsd**[geOps](https://geops.com)** are based on open source software. Besides using existing mapping libraries  [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/), we also create our own software packages, such as **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)**.  
+All developments at **[geOps](https://geops.com)** are based on open source software. Besides using existing mapping libraries  [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/), we also create our own software packages, such as **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)**.  
 
 **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)** is meant to be the front door to build geospatial web applications using our **[geOps in-house APIs](https://developer.geops.io/).**  
 
