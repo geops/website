@@ -1,10 +1,11 @@
 ---
 title: mobility-toolbox-js 3.0.0
 summary: >-
-  mobility-toolbox-js is meant to be the front door to build geospatial web
-  applications using our  geOps in-house APIs.
+  mobility-toolbox-js serves as the primary gateway for developing geospatial
+  web applications using our geOps in-house APIs.
 
-  If this project exists for years now, the version 3 brings  a massive  improvement in terms of ease of development and integration into existing applications.
+
+  This project has existed for years, but version 3 brings massive improvements in terms of development experience, ease of use and integration into existing applications.
 author: "Daniel Marsh-Hunn,  Olivier Terral "
 cover: /images/blog/mobility-toolbox-js-3-0-0/cover-image.png
 created: 2025-11-17
@@ -22,34 +23,32 @@ published: true
 ---
 All developments at **[geOps](https://geops.com)** are based on open source software. Besides using existing mapping libraries  [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/), we also create our own software packages, such as **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)**.  
 
-**[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)** is meant to be the front door to build geospatial web applications using our **[geOps in-house APIs](https://developer.geops.io/).**  
+**[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)** serves as the primary gateway for developing geospatial web applications using our **[geOps in-house APIs](https://developer.geops.io/).**  
 
-If this project exists for years now, the version 3 brings  a massive  improvement in terms of ease of development and integration into existing applications.
+This project has existed for years, but version 3 brings massive improvements in terms of development experience, ease of use and integration into existing applications.
 
-We build the version 3 with the motive  **DO NOT REINVENT THE WHEEL**:
+The code overhaul for version 3 was done under the motto  **DO NOT REINVENT THE WHEEL**:
 
-* Exit all the application specific code that polute the code and makes the library unmaintanable 
-* Exit fancy code that are architecturally good but that nobody understands
-* Exit the unintelligible documentation.
-* Exit custom  API that can be done using [OpenLayers](https://openlayers.org/), [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) or other OpenSource project like [geoblocks/ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer)
+* Remove all application specific code that pollutes the codebase and makes the library unmaintainable
+* Remove fancy code that’s architecturally good but nobody understands
+* Remove the unintelligible or cumbersome documentation
+* Remove custom APIs that can be done using [OpenLayers](https://openlayers.org/), [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) or other open source project like [geoblocks/ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer)
 
-**mobility-toolbox-js** version 3 has been refactored be as close to the other mapping libraries as possible.
+**mobility-toolbox-js** version 3 has been refactored to be as close to other mapping libraries as possible. This makes development with mobility-toolbox-js feel very familiar for developers who use very popular open source libraries, such as [OpenLayers](https://openlayers.org/) or [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/)
 
-This makes development with mobility-toolbox-js feel very familiar for developers who already knows [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/)
+The result is a product that **simply works**, that can be **used in every context** and for which **no extra API knowledge is necessary**.
 
-Finally we get something that **simply works**, something that **can be used in every context**, something that **do not need extra API knowledge**.
-
-As an example, in your existing OpenLayers application, you can display realtime data  using our geOps Realtime API. simply like this:
+The following example demonstrates the simplicity of adding realtime data using our [geOps Realtime API](https://geops.com/de/solution/livemap) in an existing OpenLayers application:
 
 ![Example of code how to add geOps Realtime  API data](/images/blog/mobility-toolbox-js-3-0-0/code-example.png "Example of code how to add geOps Realtime  API data")
 
-You can find this example and  and  many more on [the official website](https://mobility-toolbox-js.geops.io/examples) . You can also check the [documentation](https://mobility-toolbox-js.geops.io/doc) who has  received a major shake-up for this new version.
+You can find this example and along with several others on [the official website](https://mobility-toolbox-js.geops.io/examples) . Also check out the [documentation](https://mobility-toolbox-js.geops.io/doc) which also received a major shake-up for this new version.
 
-We use this library as basis for all our applications, like our [mobility-web-component](http://mobility-web-component) , a web component  that encapsulate all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action in our [RVF client website](https://www.rvf.de/fahrtinfo/netzplan):
+We use **mobility-toolbox-js** in all our applications. A great example is our [mobility-web-component](https://mobility-web-component.geops.io/geops-mobility) , a web component  that encapsulates all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action in our [RVF website](https://www.rvf.de/fahrtinfo/netzplan):
 
 ![geOps application:  RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/rvf-site.png "geOps application:  RVF Netzplan")
 
-Our  famous live map for S-Bahn münchen also uses mobility-toolbox-js:
+Our  famous [live map for S-Bahn münchen](https://www.s-bahn-muenchen.de/de/fahren/live-map) also uses **mobility-toolbox-js**:
 
 ![geOps application: S-Bahn München Live Map](/images/blog/mobility-toolbox-js-3-0-0/tralis-live-map.png "geOps application: S-Bahn München Live Map")
 
