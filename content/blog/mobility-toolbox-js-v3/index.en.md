@@ -34,7 +34,7 @@ The code overhaul for version 3 was done under the motto  **DO NOT REINVENT THE
 * Remove the unintelligible or cumbersome documentation
 * Remove custom APIs that can be done using [OpenLayers](https://openlayers.org/), [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) or other open source project like [geoblocks/ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer)
 
-**mobility-toolbox-js** version 3 has been refactored to be as close to other mapping libraries as possible. This makes development with mobility-toolbox-js feel very familiar for developers who use very popular open source libraries, such as [OpenLayers](https://openlayers.org/) or [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/)
+**mobility-toolbox-js** version 3 has been refactored to be as close to other mapping libraries as possible. This makes development with mobility-toolbox-js feel very familiar for developers who use very popular open source libraries, such as [OpenLayers](https://openlayers.org/) or [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/).
 
 The result is a product that **simply works**, that can be **used in every context** and for which **no extra API knowledge is necessary**.
 
@@ -48,7 +48,7 @@ We use **mobility-toolbox-js** in all our applications. A great example is our [
 
 ![geOps application:  RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/geops-rvf-site.jpeg "geOps application:  RVF Netzplan")
 
-Our  famous [live map for S-Bahn münchen](https://www.s-bahn-muenchen.de/de/fahren/live-map) also uses **mobility-toolbox-js**:
+Our famous [live map for S-Bahn münchen](https://www.s-bahn-muenchen.de/de/fahren/live-map) also uses **mobility-toolbox-js**:
 
 ![geOps application: S-Bahn München Live Map](/images/blog/mobility-toolbox-js-3-0-0/tralis-live-map.png "geOps application: S-Bahn München Live Map")
 
