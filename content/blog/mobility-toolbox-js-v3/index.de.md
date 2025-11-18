@@ -17,7 +17,7 @@ Dieses Projekt gibt es schon seit Jahren, aber Version 3 bringt massive Verbesse
 Die Code-Überarbeitung für Version 3 erfolgte unter dem Motto **Das Rad nicht neu erfinden**:
 
 * Entfernung der gesamten anwendungsspezifischen Code, der die Codebasis verschmutzt und die Bibliothek unwartbar macht.
-* Entfernung von ausgefallenem Code, der architektonisch gut ist, aber niemand versteht
+* Entfernung von ausgefallenem Code, der architektonisch gut ist, aber niemand versteht.
 * Entfernung von unverständlicher oder umständlicher Dokumentation.
 * Entfernung von benutzerdefinierten APIs, die mit [OpenLayers](https://openlayers.org/), [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/) oder anderen Open-Source-Projekten wie [geoblocks/ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) realisiert werden können.
 
@@ -33,8 +33,10 @@ Dieses Beispiel und mehrere andere finden Sie auf [der offiziellen Website](http
 
 Wir verwenden **mobility-toolbox-js** in allen unseren Anwendungen. Ein gutes Beispiel ist unsere [mobility-web-component](https://mobility-web-component.geops.io/geops-mobility) eine Webkomponente, die alle [geOps APIs](https://developer.geops.io/) in einem HTML-Element zusammenfasst, das durch Attribute konfigurierbar ist. Sie können sie live auf der [RVF- Website](https://www.rvf.de/fahrtinfo/netzplan) in Aktion sehen:
 
-Auch unsere bekannte [Live-Karte für die S-Bahn München](https://www.s-bahn-muenchen.de/de/fahren/live-map) nutzt **mobility-toolbox-js**:
 
+![geOps application:  RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/geops-rvf-site.jpeg "geOps application:  RVF Netzplan")
+
+Auch unsere bekannte [Live-Karte für die S-Bahn München](https://www.s-bahn-muenchen.de/de/fahren/live-map) nutzt **mobility-toolbox-js**:
 
 ![geOps application: S-Bahn München Live Map](/images/blog/mobility-toolbox-js-3-0-0/tralis-live-map.png "geOps application: S-Bahn München Live Map")
 
