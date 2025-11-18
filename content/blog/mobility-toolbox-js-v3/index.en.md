@@ -21,7 +21,7 @@ frontpage: true
 frontpageImage: /images/blog/mobility-toolbox-js-3-0-0/cover-image.png
 published: true
 ---
-All developments at **[geOps](https://geops.com)** are based on open source software. Besides using existing mapping libraries  [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/), we also create our own software packages, such as **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)**.  
+All developments at **[geOps](https://geops.com)** are based on open source software. Besides using existing mapping libraries [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/), we also create our own software packages, such as **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)**.  
 
 **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)** serves as the primary gateway for developing geospatial web applications using our **[geOps in-house APIs](https://developer.geops.io/).**  
 
@@ -42,7 +42,7 @@ The following example demonstrates the simplicity of adding realtime data using 
 
 ![Example of code how to add geOps Realtime  API data](/images/blog/mobility-toolbox-js-3-0-0/geops-realtime-api-code-example.jpeg "Example of code how to add geOps Realtime  API data")
 
-You can find this example and along with several others on [the official website](https://mobility-toolbox-js.geops.io/examples) . Also check out the [documentation](https://mobility-toolbox-js.geops.io/doc) which also received a major shake-up for this new version.
+You can find this example and along with several others on [the official website](https://mobility-toolbox-js.geops.io/examples). Also check out the [documentation](https://mobility-toolbox-js.geops.io/doc) which also received a major shake-up for this new version.
 
 We use **mobility-toolbox-js** in all our applications. A great example is our [mobility-web-component](https://mobility-web-component.geops.io/geops-mobility) , a web component  that encapsulates all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action in our [RVF website](https://www.rvf.de/fahrtinfo/netzplan):
 
