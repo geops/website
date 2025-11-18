@@ -23,7 +23,7 @@ published: true
 ---
 All developments at **[geOps](https://geops.com)** are based on open source software. Besides using existing mapping libraries [OpenLayers](https://openlayers.org/) and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/), we also create our own software packages, such as **[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)**.  
 
-**[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)** serves as the primary gateway for developing geospatial web applications using our **[geOps in-house APIs](https://developer.geops.io/).**  
+**[mobility-toolbox-js](https://mobility-toolbox-js.geops.io/)** serves as the primary gateway for developing geospatial web applications using our **[geOps in-house APIs](https://developer.geops.io/)**. 
 
 This project has existed for years, but version 3 brings massive improvements in terms of development experience, ease of use and integration into existing applications.
 
@@ -32,7 +32,7 @@ The code overhaul for version 3 was done under the motto  **DO NOT REINVENT THE
 * Remove all application specific code that pollutes the codebase and makes the library unmaintainable.
 * Remove fancy code that’s architecturally good but nobody understands.
 * Remove the unintelligible or cumbersome documentation.
-* Remove custom APIs that can be done using OpenLayers, MapLibre GL JS or other open source project like [geoblocks/ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) .
+* Remove custom APIs that can be done using OpenLayers, MapLibre GL JS or other open source project like [geoblocks/ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer).
 
 **mobility-toolbox-js** version 3 has been refactored to be as close to other mapping libraries as possible. This makes development with mobility-toolbox-js feel very familiar for developers who use very popular open source libraries, such as [OpenLayers](https://openlayers.org/) or [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/)
 
@@ -41,7 +41,7 @@ The result is a product that **simply works**, that can be **used in every conte
 The following example demonstrates the simplicity of adding realtime data using our [geOps Realtime API](https://geops.com/de/solution/livemap) in an existing OpenLayers application:
 
 ```javascript
-// Creates the Realtime layer
+// Create the Realtime layer
 const realtime = new RealtimeLayer({
   apiKey: "yourApiKey"
 });
