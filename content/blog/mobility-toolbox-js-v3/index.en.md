@@ -40,12 +40,10 @@ The result is a product that **simply works**, that can be **used in every conte
 
 The following example demonstrates the simplicity of adding realtime data using our [geOps Realtime API](https://geops.com/de/solution/livemap) in an existing OpenLayers application:
 
-
-
 ```javascript
 // Creates the Realtime layer
 const realtime = new RealtimeLayer({
-  apiKey: "yourApiKey2"
+  apiKey: "yourApiKey"
 });
 
 // Add the Realtime layer
