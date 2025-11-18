@@ -30,7 +30,7 @@ Das folgende Beispiel zeigt, wie einfach es ist, Echtzeitdaten mit unserer [geOp
 ```javascript
 // Erstellen Sie die Realtime-Layer
 const realtime = new RealtimeLayer({
-  apiKey: "yourApiKey2"
+  apiKey: "yourApiKey"
 });
 
 // Fügen Sie die Realtime-Layer hinzu.
