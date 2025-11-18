@@ -40,7 +40,25 @@ The result is a product that **simply works**, that can be **used in every conte
 
 The following example demonstrates the simplicity of adding realtime data using our [geOps Realtime API](https://geops.com/de/solution/livemap) in an existing OpenLayers application:
 
-![Example of code how to add geOps Realtime  API data](/images/blog/mobility-toolbox-js-3-0-0/geops-realtime-api-code-example.jpeg "Example of code how to add geOps Realtime  API data")
+
+
+```javascript
+// Creates the Realtime layer
+const realtime = new RealtimeLayer({
+  apiKey: "yourApiKey2"
+});
+
+// Add the Realtime layer
+map.addLayer(realtime)
+
+// Get information about realtime data on click
+map.on('singleclick', (evt) => {
+  const [feature] = map.getFeaturesAtPixel(evt.pixel, {
+    hitTolerance: 5,
+    layerFilter: (layer) => layer === realtime,
+  });
+});
+```
 
 You can find this example and along with several others on [the official website](https://mobility-toolbox-js.geops.io/examples). Also check out the [documentation](https://mobility-toolbox-js.geops.io/doc) which also received a major shake-up for this new version.
 
