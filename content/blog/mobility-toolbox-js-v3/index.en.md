@@ -46,7 +46,7 @@ You can find this example and along with several others on [the official website
 
 We use **mobility-toolbox-js** in all our applications. A great example is our [mobility-web-component](https://mobility-web-component.geops.io/geops-mobility) , a web component  that encapsulates all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action in our [RVF website](https://www.rvf.de/fahrtinfo/netzplan):
 
-![geOps application:  RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/rvf-site.png "geOps application:  RVF Netzplan")
+![geOps application:  RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/geops-rvf-site.jpeg "geOps application:  RVF Netzplan")
 
 Our  famous [live map for S-Bahn münchen](https://www.s-bahn-muenchen.de/de/fahren/live-map) also uses **mobility-toolbox-js**:
 
