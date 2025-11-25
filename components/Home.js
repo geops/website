@@ -3,6 +3,7 @@
 import Button from "./Button";
 import CareerTeaser from "./CareerTeaser.js";
 import Carousel from "./Carousel.js";
+import CustomerLogoCarousel from "./CustomerLogoCarousel.js";
 import Hero from "./Hero.js";
 import Layout from "./Layout.js";
 import NewsletterTeaser from "./NewsletterTeaser.js";
@@ -10,7 +11,7 @@ import OpenSourceTeaser from "./OpenSourceTeaser.js";
 import FrontpageList from "./FrontpageList.js";
 import { useI18n } from "../lib/i18n";
 
-export default function Frontpage({ items, slides }) {
+export default function Frontpage({ customers, items, slides }) {
   const { t } = useI18n();
   return (
     <Layout
@@ -27,6 +28,10 @@ export default function Frontpage({ items, slides }) {
         <OpenSourceTeaser />
         <CareerTeaser />
         <NewsletterTeaser />
+        <h2 className="break-words text-5xl text-center mt-8">
+          {t("frontpage.customers")}
+        </h2>
+        <CustomerLogoCarousel customers={customers} />
       </div>
     </Layout>
   );
