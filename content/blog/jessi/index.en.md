@@ -6,7 +6,7 @@ summary: "In our new interview series “Faces of geOps”, we introduce you to
 cover: /images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-5-.png
 created: 2025-06-11
 slug: jessi
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-5-.png
 frontpageWeight: 1
 published: true
