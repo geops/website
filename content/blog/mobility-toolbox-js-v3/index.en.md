@@ -7,7 +7,7 @@ summary: >-
 
   This project has existed for years, but version 3 brings massive improvements in terms of development experience, ease of use and integration into existing applications.
 author: "Daniel Marsh-Hunn,  Olivier Terral "
-cover: /images/blog/mobility-toolbox-js-3-0-0/cover-image.png
+cover: /images/blog/mobility-toolbox-js-v3/geops_mobility_toolbox_js_cover_blog.png
 created: 2025-11-17
 slug: mobility-toolbox-js-v3
 tags:
@@ -60,7 +60,7 @@ map.on('singleclick', (evt) => {
 
 You can find this example and along with several others on [the official website](https://mobility-toolbox-js.geops.io/examples). Also check out the [documentation](https://mobility-toolbox-js.geops.io/doc) which also received a major shake-up for this new version.
 
-We use **mobility-toolbox-js** in all our applications. A great example is our [mobility-web-component](https://mobility-web-component.geops.io/geops-mobility) , a web component  that encapsulates all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action in RVF website:
+We use **mobility-toolbox-js** in all our applications. A great example is our [mobility-web-component](https://mobility-web-component.geops.io/geops-mobility) , a web component  that encapsulates all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action on [RVF website](https://www.rvf.de/fahrtinfo/netzplan):
 
 ![geOps application:  RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/geops-rvf-site.jpeg "geOps application:  RVF Netzplan")
 
