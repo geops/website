@@ -60,7 +60,7 @@ map.on('singleclick', (evt) => {
 
 You can find this example and along with several others on [the official website](https://mobility-toolbox-js.geops.io/examples). Also check out the [documentation](https://mobility-toolbox-js.geops.io/doc) which also received a major shake-up for this new version.
 
-We use **mobility-toolbox-js** in all our applications. A great example is our [mobility-web-component](https://mobility-web-component.geops.io/geops-mobility) , a web component  that encapsulates all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action in our [RVF website](https://www.rvf.de/fahrtinfo/netzplan):
+We use **mobility-toolbox-js** in all our applications. A great example is our [mobility-web-component](https://mobility-web-component.geops.io/geops-mobility) , a web component  that encapsulates all the [geOps APIs](https://developer.geops.io/) in one HTML element configurable by attributes. You can see it live in action in RVF website:
 
 ![geOps application:  RVF Netzplan](/images/blog/mobility-toolbox-js-3-0-0/geops-rvf-site.jpeg "geOps application:  RVF Netzplan")
 
