@@ -12,7 +12,7 @@ tags:
   - passengerinformation
   - mobility
 frontpage: true
-frontpageWeight: 0
+frontpageWeight: 1
 published: true
 ---
 Thanks to automation, open data and intelligent logic, a previously complex process is now handled quickly, reliably and transparently.
