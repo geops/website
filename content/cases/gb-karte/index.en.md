@@ -1,6 +1,6 @@
 ---
-title: Wo gilt welches ÖV-Abo? Unsere Lösung visualisiert es
-  zuverlässig.  Schweizweit und automatisiert.
+title: Wo gilt welches ÖV-Abo? Unsere Lösung visualisiert es zuverlässig.
+  Schweizweit und automatisiert.
 summary: Gemeinsam mit Alliance SwissPass haben wir eine vollautomatisierte
   Kartenlösung entwickelt, die schweizweit die Geltungsbereiche von
   ÖV-Abonnementen über sämtliche Linien und Verkehrsunternehmen präzise, aktuell
