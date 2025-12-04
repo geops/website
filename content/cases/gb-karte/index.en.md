@@ -1,14 +1,14 @@
 ---
-title: Wo gilt welches ÖV-Abo? Unsere Lösung visualisiert es
-  zuverlässig.  Schweizweit und automatisiert.
+title: Wo gilt welches ÖV-Abo? Unsere Lösung visualisiert es zuverlässig.
+  Schweizweit und automatisiert.
 summary: Gemeinsam mit Alliance SwissPass haben wir eine vollautomatisierte
   Kartenlösung entwickelt, die schweizweit die Geltungsbereiche von
   ÖV-Abonnementen über sämtliche Linien und Verkehrsunternehmen präzise, aktuell
   und bedienungsfreundlich visualisiert.
 slug: gb-karte
-gridImage: /images/cases/gb-karte/gb-karte.png
+gridImage: /images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb_uebersicht.png
 cover: /images/cases/gb-karte/screenshot-2025-09-03-141917.png
-customer: SBB
+customer: SBB CFF FFS
 service: Automatisierte Kartenlösung, Datenintegration, UX/UI-Konzeption,
   Responsives Frontend
 timeline: laufend seit 2022
@@ -76,19 +76,15 @@ content:
     <!--EndFragment-->
 
 
-    ![](/images/cases/gb-karte/gb3.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
+    ![](/images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb-karte.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
 testimonialsOnTop: true
 testimonials:
   - name: Karin Fankhauser
     position: Nationales Pricing
-    text: >-
-      <!--StartFragment-->
-
-
-      *Ich schätze die kundenorientierte Zusammenarbeit. Unsere Anliegen werden stets ernst genommen, zeitnah geprüft und abgeklärt sowie mit einem klaren und lösungsorientierten Vorschlag beantwortet. Die Umsetzung erfolgt unkompliziert und immer im Sinne des Bestellers.*
-
-
-      <!--EndFragment-->
+    text: "*Ich schätze die kundenorientierte Zusammenarbeit. Unsere Anliegen werden
+      stets ernst genommen, zeitnah geprüft und abgeklärt sowie mit einem klaren
+      und lösungsorientierten Vorschlag beantwortet. Die Umsetzung erfolgt
+      unkompliziert und immer im Sinne des Bestellers.*"
     portrait: /images/cases/gb-karte/gb-karte7divers-leinwände-querformat-.png
 tags:
   - maps
