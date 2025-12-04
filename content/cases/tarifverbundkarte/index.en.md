@@ -65,7 +65,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/tarifverbundkarte/1000_f_1356199167_apar6prdhjpivjzzzg4lyazj1ubcwrwn.jpg
+      image: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/adobestock_1356199167_editorial_use_only.jpeg
   title: Mit der Tarifverbundkarte der Schweiz Abo-Verbunde sichtbar machen.
   lead: >-
     Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und

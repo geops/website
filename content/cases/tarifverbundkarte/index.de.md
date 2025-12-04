@@ -74,5 +74,5 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/tarifverbundkarte/1000_f_1356199167_apar6prdhjpivjzzzg4lyazj1ubcwrwn.jpg
+      image: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/adobestock_1356199167_editorial_use_only.jpeg
 ---
