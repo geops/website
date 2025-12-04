@@ -4,6 +4,7 @@ summary: "Boden4Web ist eine moderne Anwendung zur Datenerfassung und
   Geschäftskontrolle, die im Kanton Fribourg für die Sicherung des Bodenschutzes
   bei Bauvorhaben eingesetzt wird. "
 slug: boden4web
+customer: State of Fribourg
 published: true
 content:
   lead: >-
