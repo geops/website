@@ -79,13 +79,9 @@ testimonialsOnTop: true
 testimonials:
   - name: Karin Fankhauser
     position: Nationales Pricing
-    text: >-
-      <!--StartFragment-->
-
-
-      *Ich schätze die kundenorientierte Zusammenarbeit. Unsere Anliegen werden stets ernst genommen, zeitnah geprüft und abgeklärt sowie mit einem klaren und lösungsorientierten Vorschlag beantwortet. Die Umsetzung erfolgt unkompliziert und immer im Sinne des Bestellers.*
-
-
-      <!--EndFragment-->
+    text: "*Ich schätze die kundenorientierte Zusammenarbeit. Unsere Anliegen werden
+      stets ernst genommen, zeitnah geprüft und abgeklärt sowie mit einem klaren
+      und lösungsorientierten Vorschlag beantwortet. Die Umsetzung erfolgt
+      unkompliziert und immer im Sinne des Bestellers.*"
     portrait: /images/cases/gb-karte/divers-leinwände-querformat-.png
 ---
