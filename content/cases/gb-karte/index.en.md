@@ -8,6 +8,7 @@ summary: Gemeinsam mit Alliance SwissPass haben wir eine vollautomatisierte
 slug: gb-karte
 gridImage: /images/cases/gb-karte/gb_uebersicht.png
 gridWidthFull: true
+weight: 1
 cover: /images/cases/gb-karte/screenshot-2025-09-03-141917.png
 customer: SBB CFF FFS
 service: Automatisierte Kartenlösung, Datenintegration, UX/UI-Konzeption,
