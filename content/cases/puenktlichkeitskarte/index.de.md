@@ -4,6 +4,7 @@ summary: Live Maps werden als eine wertvolle Informationsquelle für Reisende
   eingesetzt. Sie können aber auch als Übersicht für den aktuellen Zustand des
   öV-Betriebs genutzt werden.
 slug: puenktlichkeitskarte
+customer: SBB CFF FFS
 service: Entwicklung und Betrieb
 timeline: laufend seit 2022
 published: true
