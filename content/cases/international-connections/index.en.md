@@ -11,7 +11,7 @@ summary: A city break in Venice or an important business meeting in Berlin?
 slug: international-connections
 gridImage: /images/cases/international-connections/grid-image_int-verb.png
 gridWidthFull: true
-weight: 3
+weight: 4
 cover: /images/cases/international-connections/cover.png
 customer: SBB CFF FFS
 service: Data collection, automated calculation of route network plans, map
