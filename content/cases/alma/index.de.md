@@ -5,6 +5,7 @@ summary: Mit alma steht Kantonen und Bundesämtern eine moderne
   effizient, sicher und nachhaltig zu führen.
 slug: alma
 gridWidthFull: true
+customer: FOCA
 service: Open-Source-Software, UX/UI-Design,
 timeline: laufend seit 2025
 published: true
