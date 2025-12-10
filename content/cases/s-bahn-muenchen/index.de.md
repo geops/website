@@ -36,7 +36,7 @@ content:
         den S-Bahnen für die Anzeige der Zugpositionen auf einer Karte und für
         die Erstellung von Abfahrtsprognosen genutzt.
       image: /images/cases/s-bahn-muenchen/9.png
-    - imagePosition: right
+    - imagePosition: bottom
       highlight: false
       title: So machen wir bei geOps Echtzeit sichtbar
       text: In Spitzenzeiten verkehren rund 100 S-Bahnen gleichzeitig im Münchner

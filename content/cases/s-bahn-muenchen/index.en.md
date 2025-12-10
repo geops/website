@@ -6,7 +6,7 @@ summary: "Mit der Livemap für die Münchner S-Bahn zeigen wir, wie moderne
   Sekundenbruchteilen und macht Informationen mobil nutzbar, entweder in der
   Navigator App, direkt auf der Karte oder über einen Liniennetzplan. "
 slug: s-bahn-muenchen
-gridImage: /images/cases/s-bahn-muenchen/uebersichtsbild.png
+gridImage: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/screenshot-2025-09-04-083027.png
 gridWidthFull: true
 cover: /images/cases/s-bahn-muenchen/screenshot-2025-09-04-083027.png
 customer: DB Regio AG
@@ -30,7 +30,7 @@ content:
         den S-Bahnen für die Anzeige der Zugpositionen auf einer Karte und für
         die Erstellung von Abfahrtsprognosen genutzt.
       image: /images/cases/s-bahn-muenchen/9.png
-    - imagePosition: right
+    - imagePosition: bottom
       highlight: false
       title: So machen wir bei geOps Echtzeit sichtbar
       text: In Spitzenzeiten verkehren rund 100 S-Bahnen gleichzeitig im Münchner
