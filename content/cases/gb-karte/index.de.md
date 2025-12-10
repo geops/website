@@ -6,7 +6,8 @@ summary: Gemeinsam mit Alliance SwissPass haben wir eine vollautomatisierte
   ÖV-Abonnementen über sämtliche Linien und Verkehrsunternehmen präzise, aktuell
   und bedienungsfreundlich visualisiert.
 slug: gb-karte
-customer: SBB
+gridWidthFull: true
+customer: SBB CFF FFS
 service: Automatisierte Kartenlösung, Datenintegration, UX/UI-Konzeption,
   Responsives Frontend
 timeline: laufend seit 2022
