@@ -6,6 +6,7 @@ summary: "Mit propCMS hat geOps für SBB Immobilien eine zentrale Plattform
 slug: propcms
 gridImage: /images/cases/effiziente-liegenschaftsverwaltung-für-sbb-immobilien/prop_uebersicht-2.png
 gridWidthFull: false
+weight: 5
 cover: /images/cases/propcms/header.png
 customer: SBB Real Estate
 service: Content-DB mit Geodaten-Bearbeitung und vielen Export-Schnittstellen –
