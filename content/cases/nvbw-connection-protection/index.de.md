@@ -12,7 +12,7 @@ timeline: "2025"
 published: true
 content:
   lead: >-
-    ![](/images/cases/connection-fuse-for-the-nvbw/divers-1-.png)
+    ![](/images/cases/connection-fuse-for-the-nvbw/bild-1_nvbw.png)
 
 
     Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das Herzstück einer erfolgreichen Verkehrswende. Neben der Pünktlichkeit von Zügen und Bussen ist die Gewährleistung der vorgesehenen Anschlüsse  ein ganz wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
@@ -43,7 +43,7 @@ content:
 
 
         Im Hintergrund verarbeitet das System Fahrplan-Solldaten und Echtzeitdaten. Aus den Solldaten werden die vorgesehenen Anschlüsse hergeleitet, wobei auch die Umsteigezeiten zwischen zwei Fahrten berücksichtigt werden. Mit den Echtzeitdaten werden dann die Hinweise erstellt, wie lange auf Zubringer gewartet werden soll. Die Web-Anwendung informiert die Leitstelle sehr detailliert darüber, welche Anschlüsse gesichert werden oder welche wegen zu grossen zeitlichen Differenzen gebrochen werden müssen. In der App für die Fahrzeugführer:innen werden die Wartezeiten ohne weitere Details gezeigt, um jegliche unnötige Ablenkung zu vermeiden.
-      image: /images/cases/nvbw-connection-protection/nvbw-mobile.png
+      image: /images/cases/connection-fuse-for-the-nvbw/mockup.jpg
     - title: "Die technische Basis: TRALIS als Datendrehscheibe"
       text: Für die Verarbeitung und Analyse von Soll- und Echtzeitdaten kommt unsere
         Datendrehscheibe TRALIS zum Einsatz. TRALIS ist optimiert dafür, auch
