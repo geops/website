@@ -5,6 +5,7 @@ summary: Live Maps werden als eine wertvolle Informationsquelle für Reisende
   öV-Betriebs genutzt werden.
 slug: puenktlichkeitskarte
 gridImage: /images/cases/puenktlichkeitskarte/puenktlichkeitskarte_übersicht.png
+weight: 5
 cover: /images/cases/puenktlichkeitskarte/screenshot-2025-09-04-140246.png
 customer: SBB CFF FFS
 service: Entwicklung und Betrieb
