@@ -4,8 +4,8 @@ summary: Live Maps werden als eine wertvolle Informationsquelle für Reisende
   eingesetzt. Sie können aber auch als Übersicht für den aktuellen Zustand des
   öV-Betriebs genutzt werden.
 slug: puenktlichkeitskarte
-gridImage: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/puenktlichkeitskarte_übersicht.png
-cover: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/screenshot-2025-09-04-140246.png
+gridImage: /images/cases/puenktlichkeitskarte/puenktlichkeitskarte_übersicht.png
+cover: /images/cases/puenktlichkeitskarte/screenshot-2025-09-04-140246.png
 customer: SBB CFF FFS
 service: Entwicklung und Betrieb
 timeline: laufend seit 2022
@@ -28,7 +28,7 @@ content:
         schauen.
 
 
-        ![](/images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/20210125_vbz_flockdown.jpg)
+        ![](/images/cases/puenktlichkeitskarte/20210125_vbz_flockdown.jpg)
     - imagePosition: bottom
       highlight: false
       title: "Die technische Basis: TRALIS als Datendrehscheibe und
@@ -48,7 +48,7 @@ content:
         Anwendungen wie etwa die Anschlusssicherung der NVBW im Einsatz. Die
         Soll- und Ist-Daten, die TRALIS für die Pünktlichkeitskarte verarbeitet,
         werden als GTFS und GTFS-RT von opentransportdata.swiss bezogen.
-      image: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/punkt.png
+      image: /images/cases/puenktlichkeitskarte/punkt.png
   title: "Die Pünktlichkeitskarte: Pünktlichkeit, Verspätungen und Ausfälle auf
     einen Blick"
   lead: "*Live Maps werden als eine wertvolle Informationsquelle für Reisende

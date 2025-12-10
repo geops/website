@@ -31,7 +31,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/digitale-bodenüberwachung-neu-gedacht/boden4web.png
+      image: /images/cases/boden4web/boden4web.png
     - imagePosition: bottom
       highlight: false
       title: Nahtloser Datenaustausch und Integration
@@ -65,5 +65,5 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/digitale-bodenüberwachung-neu-gedacht/pexels-scottwebb-1048039.jpg
+      image: /images/cases/boden4web/pexels-scottwebb-1048039.jpg
 ---

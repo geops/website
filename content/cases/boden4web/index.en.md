@@ -4,8 +4,8 @@ summary: "Boden4Web ist eine moderne Anwendung zur Datenerfassung und
   Geschäftskontrolle, die im Kanton Fribourg für die Sicherung des Bodenschutzes
   bei Bauvorhaben eingesetzt wird. "
 slug: boden4web
-gridImage: /images/cases/digitale-bodenüberwachung-neu-gedacht/boden4web_uebersicht.png
-cover: /images/cases/digitale-bodenüberwachung-neu-gedacht/header.png
+gridImage: /images/cases/boden4web/boden4web_uebersicht.png
+cover: /images/cases/boden4web/header.png
 customer: State of Fribourg
 service: Geschäftslösung mit integrierter Geodaten-Bearbeitung – Konzeption,
   Entwicklung und Betrieb
@@ -27,7 +27,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/digitale-bodenüberwachung-neu-gedacht/boden4web.png
+      image: /images/cases/boden4web/boden4web.png
     - imagePosition: bottom
       highlight: false
       title: Nahtloser Datenaustausch und Integration
@@ -61,7 +61,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/digitale-bodenüberwachung-neu-gedacht/pexels-scottwebb-1048039.jpg
+      image: /images/cases/boden4web/pexels-scottwebb-1048039.jpg
   title: Boden4Web - Digitale Bodenüberwachung neu gedacht.
   lead: >-
     <!--StartFragment-->

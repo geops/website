@@ -4,9 +4,9 @@ summary: "Mit propCMS hat geOps für SBB Immobilien eine zentrale Plattform
   entwickelt, die Projektdaten, Medien und Kommunikation in einem System
   effizient und konsistent vereint und einfach zu pflegen ist. "
 slug: propcms
-gridImage: /images/cases/effiziente-liegenschaftsverwaltung-für-sbb-immobilien/procms_uebersicht.png
+gridImage: /images/cases/propcms/procms_uebersicht.png
 gridWidthFull: true
-cover: /images/cases/effiziente-liegenschaftsverwaltung-für-sbb-immobilien/header.png
+cover: /images/cases/propcms/header.png
 customer: SBB Real Estate
 service: Content-DB mit Geodaten-Bearbeitung und vielen Export-Schnittstellen –
   UX-Konzeption, Entwicklung und Betrieb
@@ -28,7 +28,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/effiziente-liegenschaftsverwaltung-für-sbb-immobilien/propcms_-.png
+      image: /images/cases/propcms/propcms_-.png
     - imagePosition: bottom
       highlight: false
       title: "Alles an einem Ort: Inhalte, Medien und Kontakte"
@@ -47,7 +47,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/effiziente-liegenschaftsverwaltung-für-sbb-immobilien/image-2025-8-21_15-16-26-1-1-.png
+      image: /images/cases/propcms/image-2025-8-21_15-16-26-1-1-.png
     - imagePosition: bottom
       highlight: false
       title: "Daten, die weiterdenken: API und Automatisierung"
@@ -74,7 +74,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/effiziente-liegenschaftsverwaltung-für-sbb-immobilien/1000_f_353198333_xo0bysvxihty85bajeggqtpspztp6eyt-1-.jpg
+      image: /images/cases/propcms/1000_f_353198333_xo0bysvxihty85bajeggqtpspztp6eyt-1-.jpg
   title: "propCMS: Projektdatenbank für SBB Immobilien"
   lead: >-
     <!--StartFragment-->
@@ -95,5 +95,5 @@ testimonials:
 
       <!--EndFragment-->
     name: Dominik Mosimann
-    portrait: /images/cases/effiziente-liegenschaftsverwaltung-für-sbb-immobilien/divers-leinwände-querformat-.png
+    portrait: /images/cases/propcms/divers-leinwände-querformat-.png
 ---

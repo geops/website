@@ -6,7 +6,7 @@ summary: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
   doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle Verbunde der
   Schweiz und schaffen die Möglichkeit, die Orientierung zu behalten.
 slug: tarifverbundkarte
-gridImage: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/verbund_uebersicht.png
+gridImage: /images/cases/tarifverbundkarte/verbund_uebersicht.png
 cover: /images/cases/tarifverbundkarte/tarifverbundkarte_01.webp
 customer: SBB
 service: xy
@@ -65,7 +65,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/digital-interaktiv-und-aktuell-die-tarifverbundkarte-der-schweiz/adobestock_1356199167_editorial_use_only.jpeg
+      image: /images/cases/tarifverbundkarte/adobestock_1356199167_editorial_use_only.jpeg
   title: Mit der Tarifverbundkarte der Schweiz Abo-Verbunde sichtbar machen.
   lead: >-
     Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und

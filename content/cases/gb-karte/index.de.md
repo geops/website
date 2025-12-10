@@ -23,7 +23,7 @@ content:
     <!--EndFragment-->
 
 
-    ![](/images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb-karte.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
+    ![](/images/cases/gb-karte/gb-karte.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
   sections:
     - imagePosition: bottom
       highlight: false

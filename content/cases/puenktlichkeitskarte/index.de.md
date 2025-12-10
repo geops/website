@@ -31,7 +31,7 @@ content:
         schauen.
 
 
-        ![](/images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/20210125_vbz_flockdown.jpg)
+        ![](/images/cases/puenktlichkeitskarte/20210125_vbz_flockdown.jpg)
     - imagePosition: bottom
       highlight: false
       title: "Die technische Basis: TRALIS als Datendrehscheibe und
@@ -51,5 +51,5 @@ content:
         Anwendungen wie etwa die Anschlusssicherung der NVBW im Einsatz. Die
         Soll- und Ist-Daten, die TRALIS für die Pünktlichkeitskarte verarbeitet,
         werden als GTFS und GTFS-RT von opentransportdata.swiss bezogen.
-      image: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/punkt.png
+      image: /images/cases/puenktlichkeitskarte/punkt.png
 ---
