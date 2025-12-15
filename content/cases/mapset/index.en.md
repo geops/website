@@ -7,9 +7,9 @@ summary: "mapset ist unsere Saas-Lösung für Transportunternehmen, die Fahrgäs
   ÖV-Karten. Das Tool wird im Abo-Modell vertrieben, ist weltweit nutzbar und
   wird bereits von rund 20 Transportunternehmen eingesetzt. "
 slug: mapset
-gridImage: /images/cases/mapset_uebersicht.png
+gridImage: /images/cases/mapset/mapset_uebersicht.png
 weight: 10
-cover: /images/cases/screenshot-2025-09-04-101808.png
+cover: /images/cases/mapset/screenshot-2025-09-04-101808.png
 customer: SOB
 service: >-
   Anbindung an offizielle Haltestellenverzeichnisse (atlas in der Schweiz und
@@ -46,7 +46,7 @@ content:
         bietet zudem Skalierbarkeit: Vom kleinen Regionalbetrieb bis zum grossen
         Netz lassen sich Pläne konsistent, aktuell und professionell
         bereitstellen."
-      image: /images/cases/mapset_1.png
+      image: /images/cases/mapset/mapset_1.png
     - imagePosition: bottom
       highlight: false
       title: Viele Vorteile in einem Werkzeug
@@ -110,5 +110,5 @@ testimonials:
     text: "*Wir arbeiten gerne mit mapset, weil das Individualisieren von Plänen
       ohne zusätzliche Grafik-Programme möglich ist. Das Tool hilft uns, eine
       einheitliche Kommunikation zu gewährleisten. Wir sind sehr zufrieden.*"
-    portrait: /images/cases/miro_bertozzi.jpg
+    portrait: /images/cases/mapset/miro_bertozzi.jpg
 ---

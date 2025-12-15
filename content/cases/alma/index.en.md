@@ -4,10 +4,10 @@ summary: Mit alma steht Kantonen und Bundesämtern eine moderne
   Open-Source-Software zur Verfügung, um den Kataster belasteter Standorte (KbS)
   effizient, sicher und nachhaltig zu führen.
 slug: alma
-gridImage: /images/cases/alma-ubersicht.png
+gridImage: /images/cases/alma/alma-ubersicht.png
 gridWidthFull: true
 weight: 8
-cover: /images/cases/header.webp
+cover: /images/cases/alma/header.webp
 customer: FOCA
 service: Open-Source-Software, UX/UI-Design,
 timeline: laufend seit 2025
@@ -32,7 +32,7 @@ content:
         zur Sanierung und bindet diese eng an die Standortdaten. Automatisierte
         Reports, Schnittstellen zu Geoportalen und ÖREB sowie hohe
         Sicherheitsstandards runden die Lösung ab.
-      image: /images/cases/schnellsuche-global-v2-closed.png
+      image: /images/cases/alma/schnellsuche-global-v2-closed.png
     - imagePosition: bottom
       highlight: false
       title: Gemeinsam entwickelt, offen zugänglich
@@ -55,7 +55,7 @@ content:
         * Transparenz durch offene Standards und nachvollziehbare Prozesse
 
         * Nachhaltigkeit durch gemeinschaftliche Entwicklung und Open Source
-      image: /images/cases/alma-2.png
+      image: /images/cases/alma/alma-2.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: gemeinsam weiterentwickeln"
@@ -74,5 +74,5 @@ content:
     und nachhaltig zu führen.*
 
 
-    ![](/images/cases/alma-1.png)
+    ![](/images/cases/alma/alma-1.png)
 ---

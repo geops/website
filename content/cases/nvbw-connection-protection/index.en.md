@@ -5,10 +5,10 @@ summary: A powerful, attractive and reliable public transport system is at the
   trains and buses, ensuring that connections run as scheduled is a very
   important factor in shaping passengers' confidence in public transport.
 slug: nvbw-connection-protection
-gridImage: /images/cases/connection-fuse-for-the-nvbw/nvbw_übersicht.png
+gridImage: /images/cases/nvbw-connection-protection/nvbw_übersicht.png
 gridWidthFull: false
 weight: 2
-cover: /images/cases/connection-fuse-for-the-nvbw/header.png
+cover: /images/cases/nvbw-connection-protection/header.png
 customer: NVBW
 service: Automated timetable evaluation
 timeline: "2025"
@@ -40,7 +40,7 @@ content:
 
 
         In the background, the system processes scheduled data and real-time data. The scheduled connections are derived from the scheduled data, taking into account the transfer times between two journeys. The real-time data is then used to generate information on how long to wait for feeder services. The web application provides the control centre with very detailed information about which connections are guaranteed and which have to be broken due to excessive time differences. The app for drivers shows the waiting times without further details in order to avoid any unnecessary distractions.
-      image: /images/cases/connection-fuse-for-the-nvbw/mockup.jpg
+      image: /images/cases/nvbw-connection-protection/mockup.jpg
       imagePosition: null
     - title: "The technical basis: TRALIS as a data hub"
       text: Our TRALIS data hub is used to process and analyse target and real-time
@@ -65,7 +65,7 @@ content:
         travellers as possible to reach their destinations quickly and safely.
       highlight: true
   lead: >-
-    ![](/images/cases/connection-fuse-for-the-nvbw/bild-1_nvbw.png)
+    ![](/images/cases/nvbw-connection-protection/bild-1_nvbw.png)
 
 
     A powerful, attractive and reliable public transport system is at the heart of a successful transport revolution. In addition to the punctuality of trains and buses, ensuring that connections run as scheduled is a very important factor in shaping passengers' confidence in public transport.

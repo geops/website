@@ -7,9 +7,9 @@ summary: "Mit Inkrafttreten des revidierten Schweizer
   2024 mussten ihre digitalen Angebote barrierefrei sein, auch interaktive
   Karten. Genau hier setzt unser Projekt mit der SBB an."
 slug: amo-karte
-gridImage: /images/cases/screenshot-2025-09-04-141533.png
+gridImage: /images/cases/amo-karte/screenshot-2025-09-04-141533.png
 weight: 9
-cover: /images/cases/screenshot-2025-09-04-141533.png
+cover: /images/cases/amo-karte/screenshot-2025-09-04-141533.png
 customer: SBB CFF FFS
 service: Digitale Kartenlösung, UX/UI-Design / Frontend
 timeline: "2024"
@@ -39,7 +39,7 @@ content:
 
 
         Die Karte zeigt den Barrierefreiheits-Status sämtlicher Bahnhöfe und ist nichtv nur auf der SBB-Webseite eingebunden, sondern wird auch von anderen Transportunternehmen wie den Appenzeller Bahnen oder der SOB genutzt. So können Reisende mit Einschränkungen ihre Wege planen, beispielsweise um Unterstützung durch Assistenz oder Shuttleservice anzufordern. Gleichzeitig dient die Karte auch dem SBB Contact Center in Brig, um gezielt Auskünfte zu geben.
-      image: /images/cases/amo1_1.png
+      image: /images/cases/amo-karte/amo1_1.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: digitale Inklusion weiterdenken "
@@ -49,7 +49,7 @@ content:
         mobilitätseingeschränkte Reisende oder noch engerer Integration in
         bestehende Apps und Services. Unser Ziel: digitale Inklusion für alle
         Nutzer:innengruppen."
-      image: /images/cases/1000_f_1521628631_ea4u7jquuafagnmr7stbmscjfruiepde.jpg
+      image: /images/cases/amo-karte/1000_f_1521628631_ea4u7jquuafagnmr7stbmscjfruiepde.jpg
   title: Inklusiv navigieren durch unsere barrierefreie Karte
   lead: >-
     *Mit Inkrafttreten des revidierten Schweizer
@@ -60,5 +60,5 @@ content:
     Karten. Genau hier setzt unser Projekt mit der SBB an.*
 
 
-    ![](/images/cases/amo2_2.png)
+    ![](/images/cases/amo-karte/amo2_2.png)
 ---

@@ -6,7 +6,7 @@ summary: "Mit der Livemap für die Münchner S-Bahn zeigen wir, wie moderne
   Sekundenbruchteilen und macht Informationen mobil nutzbar, entweder in der
   Navigator App, direkt auf der Karte oder über einen Liniennetzplan. "
 slug: s-bahn-muenchen
-gridImage: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/screenshot-2025-09-04-083027.png
+gridImage: /images/cases/s-bahn-muenchen/screenshot-2025-09-04-083027.png
 gridWidthFull: true
 weight: 7
 cover: /images/cases/s-bahn-muenchen/screenshot-2025-09-04-083027.png

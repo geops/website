@@ -18,7 +18,7 @@ content:
     und nachhaltig zu führen.*
 
 
-    ![](/images/cases/alma-1.png)
+    ![](/images/cases/alma/alma-1.png)
   sections:
     - imagePosition: bottom
       highlight: false
@@ -38,7 +38,7 @@ content:
         zur Sanierung und bindet diese eng an die Standortdaten. Automatisierte
         Reports, Schnittstellen zu Geoportalen und ÖREB sowie hohe
         Sicherheitsstandards runden die Lösung ab.
-      image: /images/cases/schnellsuche-global-v2-closed.png
+      image: /images/cases/alma/schnellsuche-global-v2-closed.png
     - imagePosition: bottom
       highlight: false
       title: Gemeinsam entwickelt, offen zugänglich
@@ -60,7 +60,7 @@ content:
         * Transparenz durch offene Standards und nachvollziehbare Prozesse
 
         * Nachhaltigkeit durch gemeinschaftliche Entwicklung und Open Source
-      image: /images/cases/alma-2.png
+      image: /images/cases/alma/alma-2.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: gemeinsam weiterentwickeln"

@@ -41,7 +41,7 @@ content:
         Anbietern wie Google Maps oder Mapbox, insbesondere, wenn es um
         Hosting-Standorte, Lizenzmodelle oder die Verwertung sensibler Daten
         geht.
-      image: /images/cases/mapset_1.png
+      image: /images/cases/mapset/mapset_1.png
     - imagePosition: bottom
       highlight: false
       title: Mehrwert für Verkehrsunternehmen und Fahrgäste
@@ -107,5 +107,5 @@ testimonials:
     text: "*Wir arbeiten gerne mit mapset, weil das Individualisieren von Plänen
       ohne zusätzliche Grafik-Programme möglich ist. Das Tool hilft uns, eine
       einheitliche Kommunikation zu gewährleisten. Wir sind sehr zufrieden.*"
-    portrait: /images/cases/miro_bertozzi.jpg
+    portrait: /images/cases/mapset/miro_bertozzi.jpg
 ---
