@@ -10,7 +10,7 @@ tags:
   - team
 frontpage: true
 frontpageImage: /images/blog/image00031.jpeg
-frontpageWeight: ""
+frontpageWeight: -1
 published: true
 ---
 Last Friday, we deliberately brought the year to a close at geOps. Before the calendar finally quietened down, we took some time in the office for a short workshop and our annual review. What were the challenges? What were the highlights? What are we looking forward to next year?
