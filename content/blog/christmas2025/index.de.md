@@ -8,7 +8,7 @@ slug: weihnachten2025
 frontpage: true
 published: true
 ---
-Letzten Freitag haben wir bei geOps das Jahr bewusst ausklingen lassen. Bevor der Kalender endgültig leiser wird, haben wir uns im Office Zeit genommen: für einen kurzen Workshop, für unseren jährlichen Rückblick. Was waren die Herausforderungen?  Was waren die Highlights? Worauf freuen wir uns im nächsten Jahr?
+Letzten Freitag haben wir bei geOps das Jahr bewusst ausklingen lassen. Bevor der Kalender endgültig leiser wird, haben wir uns im Office Zeit genommen: für einen kurzen Workshop und für unseren jährlichen Rückblick. Was waren die Herausforderungen?  Was waren die Highlights? Worauf freuen wir uns im nächsten Jahr?
 
 ![](/images/blog/eating-together-watching-together-we-wish-you-happy-holidays/image00001.jpeg)
 
