@@ -9,7 +9,7 @@ slug: christmas2025
 tags:
   - team
 frontpage: true
-frontpageImage: /images/blog/image00031.jpeg
+frontpageImage: /images/blog/eating-together-watching-together-we-wish-you-happy-holidays/image00031.jpeg
 frontpageWeight: -1
 published: true
 ---
