@@ -25,7 +25,7 @@ Afterwards, we continued on to [Esswerkstatt](https://rausch-familienwerkstatt.d
 
 Moments like these sharpen our focus: stability is valuable. Safety and health cannot be taken for granted. This becomes particularly apparent when sitting together at the table.
 
-That's why taking responsibility is also part of our agenda this year. Quietly, consistently, and with conviction. We have once again supported Doctors Without Borders with a donation. Without fanfare, but with a clear stance.
+That's why taking responsibility is also part of our agenda this year. Quietly, consistently, and with conviction. We have once again supported **[Médecins Sans Frontières](https://www.aerzte-ohne-grenzen.de/)** with a donation. Without fanfare, but with a clear stance.
 
 ![](/images/blog/eating-together-watching-together-we-wish-you-happy-holidays/rzte_ohne_grenzen_logo.webp)
 

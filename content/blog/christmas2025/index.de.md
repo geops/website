@@ -20,7 +20,7 @@ Danach ging es mit Glühwein weiter Richtung [Esswerkstatt](https://rausch-famil
 
 Solche Momente schärfen den Blick: Stabilität ist wertvoll. Sicherheit und Gesundheit sind nicht selbstverständlich. Gerade wenn man gemeinsam am Tisch sitzt, wird das spürbar.
 
-Deshalb gehört für uns auch in diesem Jahr dazu, Verantwortung zu übernehmen. Leise, konsequent und aus Überzeugung. Wir haben erneut Ärzte ohne Grenzen mit einer Spende unterstützt. Ohne grosse Bühne, aber mit klarer Haltung.
+Deshalb gehört für uns auch in diesem Jahr dazu, Verantwortung zu übernehmen. Leise, konsequent und aus Überzeugung. Wir haben erneut **[Ärzte ohne Grenzen ](https://www.aerzte-ohne-grenzen.de/)**mit einer Spende unterstützt. Ohne grosse Bühne, aber mit klarer Haltung.
 
 ![](/images/blog/eating-together-watching-together-we-wish-you-happy-holidays/rzte_ohne_grenzen_logo.webp)
 
