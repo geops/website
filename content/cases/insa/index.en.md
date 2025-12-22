@@ -68,12 +68,12 @@ content:
         Bedürfnissen der Nutzer:innen zu vernetzen.
   title: "INSA: Bahnhöfe digital managen"
   lead: >-
-    *Mit INSA (Indoor Station Application) haben wir im Auftrag der SBB ein
+    Mit INSA (Indoor Station Application) haben wir im Auftrag der SBB ein
     leistungsfähiges Content-Management-System entwickelt, das die [Ausstattung
     und Angebote von
     Bahnhöfen](https://www.sbb.ch/de/reiseinformationen/bahnhoefe/bahnhof-finden/bahnhof-baselsbb.html) verwaltbar
     macht und den Nutzenden eine Vielzahl an intuitiv bedienbaren Funktionen
-    bietet.*
+    bietet.
 
 
     ![](/images/cases/insa-–-indoor-station-application/ihr-partner-für-smarte-mobilitätslösungen.png)
