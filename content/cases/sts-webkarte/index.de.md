@@ -7,6 +7,7 @@ summary: Der Swiss Travel Pass ist für Gäste aus dem Ausland der Schlüssel zu
   nahtlose Orientierung, inklusive Panoramarouten, Points of Interest und der
   durchgängigen Mobilität mit Bahn, Bus, Schiff und Bergbahnen.
 slug: sts-webkarte
+customer: Swiss Travel System AG
 service: xx
 timeline: laufend seit
 published: true
