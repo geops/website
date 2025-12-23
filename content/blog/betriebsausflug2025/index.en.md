@@ -3,6 +3,7 @@ title: "From signal box to wine glass: our company excursion in 2025"
 summary: "Two days out and about between model railroads, timetables and
   vineyards: our company excursion this year combined technology, team spirit
   and enjoyment in a perfectly timed manner."
+author: Selina Moser
 cover: /images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00025.jpeg
 created: 2025-07-01
 slug: companyexcursion2025
