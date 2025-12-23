@@ -18,7 +18,7 @@ tags:
   - maps
   - realtime
 frontpage: true
-frontpageImage: /images/blog/mobility-toolbox-js-3-0-0/cover-image.png
+frontpageImage: /images/blog/mobility-toolbox-js-v3/geops_mobility_toolbox_js_cover_blog.png
 frontpageWeight: 1
 published: true
 ---
