@@ -6,6 +6,7 @@ summary: Mit Trafimage betreibt die SBB eines der umfassendsten Kartensysteme im
   Spezialkarten entstehen.
 slug: trafimage
 gridWidthFull: true
+customer: SBB CFF FFS
 service: Automatisierte Integration von verschiedenen Daten,
   Kartenveröffentlichung mit Tileserver, Echtzeit- und Störungsdaten,
   Frontend-SDK
