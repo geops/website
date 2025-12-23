@@ -6,6 +6,7 @@ summary: Die Eidgenössische Forschungsanstalt WSL stellt mit der Tree-App eine
   umgesetzt. Die App ist wissenschaftlich fundiert, intuitiv nutzbar und direkt
   im Wald einsetzbar.
 slug: treeapp
+customer: WSL
 service: xy
 timeline: laufend seit 2021
 published: true
