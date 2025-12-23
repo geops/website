@@ -3,6 +3,7 @@ title: Eating together, watching together. We wish you happy holidays!
 summary: We deliberately chose to end the year at geOps with a workshop, a
   review of the year, and a joint cooking evening. It was a time for exchange,
   good food, and looking back and forward together.
+author: Selina Moser
 cover: /images/blog/eating-together-watching-together-we-wish-you-happy-holidays/image00031.jpeg
 created: 2025-12-22
 slug: christmas2025
@@ -17,7 +18,7 @@ Last Friday, we deliberately brought the year to a close at geOps. Before the ca
 
 ![](/images/blog/eating-together-watching-together-we-wish-you-happy-holidays/image00001.jpeg)
 
-Afterwards, we continued on to [Esswerkstatt](https://rausch-familienwerkstatt.de/esswerkstatt/) with mulled wine. There, we cooked a three-course meal together, chopped, laughed, and finally ate together. No big fuss, just the kind of evening that reminds us why collaboration is more than just deadlines and to-do lists. 
+Afterwards, we continued on to [Esswerkstatt](https://rausch-familienwerkstatt.de/esswerkstatt/) with mulled wine. There, we cooked a delicious three-course meal together, chopped, laughed, and finally ate together. No big fuss, just the kind of evening that reminds us why collaboration is more than just deadlines and to-do lists. 
 
 ![](/images/blog/eating-together-watching-together-we-wish-you-happy-holidays/image00006.jpeg)
 
