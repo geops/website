@@ -80,12 +80,12 @@ function CasesArticleBody({ case: caseItem }) {
                   <h2 className={highlight ? "text-green" : ""}>{title}</h2>
                   <Markdown options={{ forceBlock: true }}>{text}</Markdown>
                 </div>
-                {image && (
+                {image && imageSizes[image]?.width && (
                   <Image
                     src={image}
                     alt={title || ""}
-                    width={imageSizes[image].width}
-                    height={imageSizes[image].height}
+                    width={imageSizes[image]?.width}
+                    height={imageSizes[image]?.height}
                     className={imageClass}
                   />
                 )}
