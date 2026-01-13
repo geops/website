@@ -6,7 +6,7 @@
     "applicationTeaser": {
       "action": "more information",
       "title": "Jobs",
-      "text": "Then apply now!",
+      "text": "Apply now!",
       "altTitle": "Didn't find a suitable position?",
       "altText": "Then do not hesitate to send us an unsolicited application. We are always interested in exciting applications.",
       "altAction": "apply proactively"
@@ -112,7 +112,7 @@
     "applicationTeaser": {
       "action": "weitere Informationen",
       "title": "Offene Stellen",
-      "text": "Dann bewirb dich jetzt!",
+      "text": "Bewirb dich jetzt!",
       "altTitle": "Keine passende Stelle gefunden?",
       "altText": "Dann zögere nicht, dich initiativ bei uns zu bewerben. Wir sind immer an spannenden Bewerbungen interessiert.",
       "altAction": "initiativ bewerben"

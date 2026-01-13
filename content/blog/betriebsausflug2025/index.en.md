@@ -3,6 +3,7 @@ title: "From signal box to wine glass: our company excursion in 2025"
 summary: "Two days out and about between model railroads, timetables and
   vineyards: our company excursion this year combined technology, team spirit
   and enjoyment in a perfectly timed manner."
+author: Selina Moser
 cover: /images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00025.jpeg
 created: 2025-07-01
 slug: companyexcursion2025
@@ -11,6 +12,7 @@ tags:
   - team
 frontpage: true
 frontpageImage: /images/blog/from-signal-box-to-wine-glass-our-company-excursion-in-2025/image00025.jpeg
+frontpageWeight: 5
 published: false
 ---
 It was that time again at the end of June: our annual company excursion was on the agenda - and as every year, an exciting, well-coordinated experience awaited the geOps team. This time, the journey took us from the world of signals and timetables to the idyllic vineyards of Klettgau. A trip that was made for us, who develop digital solutions for public transport every day - and who are also passionate about coordination, team spirit and good connections outside the office.

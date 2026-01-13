@@ -3,10 +3,11 @@ title: "Faces of geOps: a portrait of Jessi"
 summary: "In our new interview series “Faces of geOps”, we introduce you to
   colleagues from the geOps team. Today: Jessi, software engineer with a career
   change background."
+author: Selina Moser
 cover: /images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-5-.png
 created: 2025-06-11
 slug: jessi
-frontpage: true
+frontpage: false
 frontpageImage: /images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-5-.png
 frontpageWeight: 1
 published: true

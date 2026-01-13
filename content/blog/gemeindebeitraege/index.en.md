@@ -12,7 +12,7 @@ tags:
   - passengerinformation
   - mobility
 frontpage: true
-frontpageWeight: 0
+frontpageWeight: 2
 published: true
 ---
 Thanks to automation, open data and intelligent logic, a previously complex process is now handled quickly, reliably and transparently.
@@ -48,7 +48,7 @@ What used to take many hours of manual work is now largely automated. Fast, reli
 
 > *Manually processing around 140 Excel files is now a thing of the past. Thanks to geOps' automated timetable evaluation, we save time, reduce errors and gain noticeable efficiency – not only for us, but also for the transport companies.*
 
-*— Sylvie Gernet, Public Transport Finance Specialist at VVL*
+*— Silvie Gernet, Public Transport Finance Specialist at VVL*
 
 Thanks to our experience and the use of standardised data formats, the project was completed with minimal effort – to the customer's complete satisfaction.
 

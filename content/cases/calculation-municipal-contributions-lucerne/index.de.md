@@ -96,5 +96,5 @@ testimonials:
       sparen wir Zeit, reduzieren Fehler und gewinnen spürbar an Effizienz –
       nicht nur bei uns, sondern auch bei den Transportunternehmen.
     position: Fachspezialistin Finanzen öV, VVL
-    name: Sylvie Gernet
+    name: Silvie Gernet
 ---
