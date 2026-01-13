@@ -144,7 +144,6 @@ collections:
     create: true
     i18n: true
     extension: "json"
-    required: false
     fields:
       - label: "Name"
         name: "name"
@@ -715,6 +714,7 @@ collections:
         name: "customer"
         widget: "relation"
         collection: "customer"
+        required: false
         search_fields: ["name", "fullName"]
         value_field: "name"
       - label: "Service"
