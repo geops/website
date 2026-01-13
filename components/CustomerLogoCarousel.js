@@ -27,8 +27,8 @@ export default function CustomerLogoCarousel({ customers = [] }) {
         infinite
         isPlaying
         lockOnWindowScroll
-        naturalSlideWidth={100}
-        naturalSlideHeight={100}
+        naturalSlideWidth={300}
+        naturalSlideHeight={300}
         totalSlides={customers.length}
       >
         <Slider
@@ -41,13 +41,14 @@ export default function CustomerLogoCarousel({ customers = [] }) {
             .map((customer) => (
               <Slide
                 key={customer.name}
-                innerClassName="items-center justify-center flex"
+                innerClassName="items-center justify-center flex p-6"
               >
                 <Image
                   alt={customer.name}
-                  width="100"
-                  height="100"
+                  width="300"
+                  height="300"
                   src={customer.logo}
+                  objectFit="contain"
                 />
               </Slide>
             ))}
