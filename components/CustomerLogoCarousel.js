@@ -22,7 +22,7 @@ export default function CustomerLogoCarousel({ customers = [] }) {
   return (
     <div className="">
       <CarouselProvider
-        visibleSlides={Math.max(Math.floor(width / 200), 1)}
+        visibleSlides={Math.max(Math.floor(width / 300), 1)}
         interval={3000}
         infinite
         isPlaying
@@ -48,7 +48,6 @@ export default function CustomerLogoCarousel({ customers = [] }) {
                   width="300"
                   height="300"
                   src={customer.logo}
-                  objectFit="contain"
                 />
               </Slide>
             ))}
