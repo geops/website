@@ -6,7 +6,7 @@ summary: Gemeinsam mit Alliance SwissPass haben wir eine vollautomatisierte
   ÖV-Abonnementen über sämtliche Linien und Verkehrsunternehmen präzise, aktuell
   und bedienungsfreundlich visualisiert.
 slug: gb-karte
-gridImage: /images/cases/gb-karte/gb_uebersicht.png
+gridImage: /images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb-karte_grid.png
 gridWidthFull: true
 weight: 1
 cover: /images/cases/gb-karte/screenshot-2025-09-03-141917.png
