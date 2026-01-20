@@ -8,7 +8,7 @@ summary: "Mit Inkrafttreten des revidierten Schweizer
   Karten. Genau hier setzt unser Projekt mit der SBB an."
 slug: amo-karte
 gridImage: /images/cases/barrierefrei-und-karten-geht-das-ja-das-geht/amo_grid.png
-weight: 9
+weight: 6
 cover: /images/cases/amo-karte/screenshot-2025-09-04-141533.png
 customer: SBB CFF FFS
 service: Digitale Kartenlösung, UX/UI-Design / Frontend
