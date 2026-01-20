@@ -7,6 +7,7 @@ summary: "Mit Inkrafttreten des revidierten Schweizer
   2024 mussten ihre digitalen Angebote barrierefrei sein, auch interaktive
   Karten. Genau hier setzt unser Projekt mit der SBB an."
 slug: amo-karte
+customer: SBB CFF FFS
 service: Digitale Kartenlösung, UX/UI-Design / Frontend
 timeline: "2024"
 published: true
