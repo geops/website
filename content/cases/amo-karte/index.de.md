@@ -57,5 +57,5 @@ content:
         mobilitätseingeschränkte Reisende oder noch engerer Integration in
         bestehende Apps und Services. Unser Ziel: digitale Inklusion für alle
         Nutzer:innengruppen."
-      image: /images/cases/amo-karte/1000_f_1521628631_ea4u7jquuafagnmr7stbmscjfruiepde.jpg
+      image: /images/cases/barrierefrei-und-karten-geht-das-ja-das-geht/adobestock_1521628631.jpeg
 ---
