@@ -104,7 +104,7 @@ content:
 
 
     ![](/images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb_uebersicht.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
-testimonialsOnTop: false
+testimonialsOnTop: true
 testimonials:
   - name: Karin Fankhauser
     position: Nationales Pricing
@@ -112,7 +112,7 @@ testimonials:
       stets ernst genommen, zeitnah geprüft und abgeklärt sowie mit einem klaren
       und lösungsorientierten Vorschlag beantwortet. Die Umsetzung erfolgt
       unkompliziert und immer im Sinne des Bestellers.*"
-    portrait: /images/cases/gb-karte/gb-karte7divers-leinwände-querformat-.png
+    portrait: ""
 tags:
   - maps
 ---
