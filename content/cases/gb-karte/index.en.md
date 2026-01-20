@@ -31,7 +31,7 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/gb-karte/gb2.png
+      image: ""
     - imagePosition: bottom
       highlight: false
       title: NOVA-Daten als Fundament für eine neue Kartenlösung
@@ -43,30 +43,55 @@ content:
 
 
         <!--EndFragment-->
-    - imagePosition: right
+    - imagePosition: bottom
       highlight: false
       title: Datenintelligenz trifft Kartografie
       text: >-
-        <!--StartFragment-->
+        Damit die komplexen Abo-Gültigkeitsinformationen aus NOVA für alle
+        verständlich und nutzbar werden, verbindet geOps Datenkompetenz mit
+        präziser Kartografie. Herzstück ist unser topologisch korrektes
+        ÖV-Streckennetz mit detaillierten Linienverläufen und Haltestellen in
+        verschiedenen Generalisierungsstufen. Aus den in NOVA hinterlegten
+        Tarifkanten – definiert durch Start- und Endhaltestellen – erzeugen wir
+        mithilfe unserer eigens entwickelten Routing-Engine präzise
+        Linienführungen. Ergänzend kommen Heuristiken zum Einsatz, um
+        Sonderfälle wie unterschiedliche Stationsnummern, Flughafenbusse oder
+        grenzüberschreitende Verbindungen korrekt darzustellen. So können auch
+        Detailunterschiede, etwa im Jungfrauraum oder bei touristischen
+        Bergbahnen, zuverlässig abgebildet werden. Für besonders komplexe Fälle,
+        wie saisonale Sportbusse oder Richtungseinschränkungen auf dem Bodensee,
+        weist die Karte bewusst neutrale Darstellungen mit entsprechenden
+        Hinweisen aus. Das Ergebnis ist eine intelligente Verschmelzung von
+        Datenmodellierung und Kartengestaltung, die selbst komplizierte
+        Tarifszenarien übersichtlich visualisiert. Die Datenintegration und
+        Publikation als Vector Tiles ist mit Pipelines komplett automatisiert,
+        so dass sie mehrmals jährlich aktualisiert werden kann. 
 
 
-        Damit die komplexen Abo-Gültigkeitsinformationen aus NOVA für alle verständlich und nutzbar werden, verbindet geOps Datenkompetenz mit präziser Kartografie. Herzstück ist unser topologisch korrektes ÖV-Streckennetz mit detaillierten Linienverläufen und Haltestellen in verschiedenen Generalisierungsstufen. Aus den in NOVA hinterlegten Tarifkanten – definiert durch Start- und Endhaltestellen – erzeugen wir mithilfe unserer eigens entwickelten Routing-Engine präzise Linienführungen. Ergänzend kommen Heuristiken zum Einsatz, um Sonderfälle wie unterschiedliche Stationsnummern, Flughafenbusse oder grenzüberschreitende Verbindungen korrekt darzustellen. So können auch Detailunterschiede, etwa im Jungfrauraum oder bei touristischen Bergbahnen, zuverlässig abgebildet werden. Für besonders komplexe Fälle, wie saisonale Sportbusse oder Richtungseinschränkungen auf dem Bodensee, weist die Karte bewusst neutrale Darstellungen mit entsprechenden Hinweisen aus. Das Ergebnis ist eine intelligente Verschmelzung von Datenmodellierung und Kartengestaltung, die selbst komplizierte Tarifszenarien übersichtlich visualisiert. Die Datenintegration und Publikation als Vector Tiles ist mit Pipelines komplett automatisiert, so dass sie mehrmals jährlich aktualisiert werden kann. 
-
-
-        <!--EndFragment-->
-      image: /images/cases/gb-karte/1000_f_328826348_mzaaxsslbfipjeaanzcuoobcuvbydoaq.jpg
+        ![](/images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb1.webp "Die Geltungsbereichskarte der Jungfraubahnen veranschaulicht übersichtlich, wo das GA ganz, teilweise oder nicht gilt.")
+      image: ""
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: Blick nach vorn: mehr Funktionen, mehr Abos, mehr
         Klarheit"
-      text: >-
-        <!--StartFragment-->
-
-
-        Die Lösung ist produktiv im Einsatz und kann laufend um weitere Aboarten, Regionen oder Funktionen ergänzt werden. Sie schafft eine transparente Grundlage für Auskunfts- und Verkaufssysteme sowie für Endkund:innen. Gleichzeitig zeigt das Projekt, wie sich komplexe Datenstrukturen mit intelligenter Technologie und sorgfältiger Modellierung verständlich aufbereiten lassen. Das ist ein Ansatz, der auch für andere Märkte und Systeme übertragbar ist. Bei der SBB ist die Karte an mehreren Stellen in den [Webauftritt](https://www.sbb.ch/de/abos-billette/abonnemente/ga/ga-geltungsbereich.html) integriert. Im [Webkartenportal von Trafimage](https://maps.trafimage.ch/ch.sbb.geltungsbereiche) ist die Karte eigenständig verfügbar. Bei dieser Variante ist die Funktion zur Suche nach Haltestellen und anderen Orten besonders praktisch. Andere Transportunternehmen, die die Karte auf ihrer Website nutzten wollen, können dazu die [hier dokumentierte](https://jsdoc.maps.trafimage.ch/) Programmierschnittstelle verwenden. 
-
-
-        <!--EndFragment-->
+      text: Die Lösung ist produktiv im Einsatz und kann laufend um weitere Aboarten,
+        Regionen oder Funktionen ergänzt werden. Sie schafft eine transparente
+        Grundlage für Auskunfts- und Verkaufssysteme sowie für Endkund:innen.
+        Gleichzeitig zeigt das Projekt, wie sich komplexe Datenstrukturen mit
+        intelligenter Technologie und sorgfältiger Modellierung verständlich
+        aufbereiten lassen. Das ist ein Ansatz, der auch für andere Märkte und
+        Systeme übertragbar ist. Bei der SBB ist die Karte an mehreren Stellen
+        in
+        den [Webauftritt](https://www.sbb.ch/de/abos-billette/abonnemente/ga/ga-geltungsbereich.html) integriert.
+        Im [Webkartenportal von
+        Trafimage](https://maps.trafimage.ch/ch.sbb.geltungsbereiche) ist die
+        Karte eigenständig verfügbar. Bei dieser Variante ist die Funktion zur
+        Suche nach Haltestellen und anderen Orten besonders praktisch. Andere
+        Transportunternehmen, die die Karte auf ihrer Website nutzten wollen,
+        können dazu die [hier
+        dokumentierte](https://jsdoc.maps.trafimage.ch/) Programmierschnittstelle
+        verwenden.
+      image: /images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/adobestock_867166537.jpeg
   title: Schweizweit klar sehen mit der automatisierten Geltungsbereichskarte
   lead: >-
     <!--StartFragment-->
@@ -78,8 +103,8 @@ content:
     <!--EndFragment-->
 
 
-    ![](/images/cases/gb-karte/gb-karte.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
-testimonialsOnTop: true
+    ![](/images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb_uebersicht.png "Im Bereich der Jungfraubahnen zeigt die Geltungsbereichskarte sehr detailliert, wo das GA ganz, teilweise oder gar nicht gültig ist.")
+testimonialsOnTop: false
 testimonials:
   - name: Karin Fankhauser
     position: Nationales Pricing
