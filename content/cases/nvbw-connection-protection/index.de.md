@@ -12,7 +12,7 @@ timeline: "2025"
 published: true
 content:
   lead: >-
-    ![](/images/cases/nvbw-connection-protection/bild-1_nvbw.png)
+    ![](/images/cases/connection-fuse-for-the-nvbw/neu.png)
 
 
     Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das Herzstück einer erfolgreichen Verkehrswende. Neben der Pünktlichkeit von Zügen und Bussen ist die Gewährleistung der vorgesehenen Anschlüsse  ein ganz wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
