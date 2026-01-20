@@ -8,7 +8,7 @@ slug: nvbw-connection-protection
 gridImage: /images/cases/nvbw-connection-protection/nvbw_übersicht.png
 gridWidthFull: false
 weight: 2
-cover: /images/cases/nvbw-connection-protection/header.png
+cover: /images/cases/connection-fuse-for-the-nvbw/nvbw_header.png
 customer: NVBW
 service: Automated timetable evaluation
 timeline: "2025"
