@@ -24,7 +24,7 @@ content:
     <!--EndFragment-->
 
 
-    ![](/images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb_uebersicht_2.png)
+    ![](/images/cases/wo-gilt-welches-öv-abo-unsere-lösung-visualisiert-es-zuverlässig-schweizweit-und-automatisiert/gb_uebersicht-kopie.png)
   sections:
     - imagePosition: bottom
       highlight: false
