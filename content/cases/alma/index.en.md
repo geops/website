@@ -8,7 +8,7 @@ gridImage: /images/cases/alma/alma-ubersicht.png
 gridWidthFull: true
 weight: 8
 cover: /images/cases/alma/header.webp
-customer: FOCA
+customer: ""
 service: Open-Source-Software, UX/UI-Design,
 timeline: laufend seit 2025
 published: true
