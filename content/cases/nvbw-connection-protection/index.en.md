@@ -8,7 +8,7 @@ slug: nvbw-connection-protection
 gridImage: /images/cases/nvbw-connection-protection/nvbw_übersicht.png
 gridWidthFull: false
 weight: 2
-cover: /images/cases/nvbw-connection-protection/header.png
+cover: /images/cases/connection-fuse-for-the-nvbw/nvbw_header.png
 customer: NVBW
 service: Automated timetable evaluation
 timeline: "2025"
@@ -65,10 +65,13 @@ content:
         travellers as possible to reach their destinations quickly and safely.
       highlight: true
   lead: >-
-    ![](/images/cases/nvbw-connection-protection/bild-1_nvbw.png)
+    A powerful, attractive and reliable public transport system is at the heart
+    of a successful transport revolution. In addition to the punctuality of
+    trains and buses, ensuring that connections run as scheduled is a very
+    important factor in shaping passengers' confidence in public transport.
 
 
-    A powerful, attractive and reliable public transport system is at the heart of a successful transport revolution. In addition to the punctuality of trains and buses, ensuring that connections run as scheduled is a very important factor in shaping passengers' confidence in public transport.
+    ![](/images/cases/connection-fuse-for-the-nvbw/neu.png)
   title: Connection guarantees as an important component for quality in public
     transport
 testimonials:
