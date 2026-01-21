@@ -157,7 +157,7 @@ collections:
         i18n: true
       - label: "Logo"
         name: "logo"
-        description: "Logo des Kunden, wird im Karussell auf der Startseite angezeigt. Muss ein Width größer als 192px oder ein Height größer als 125px sein."
+        hint: "Logo des Kunden, wird im Karussell auf der Startseite angezeigt. Muss ein Width größer als 192px oder ein Height größer als 125px sein."
         widget: "image"
         required: false
   - label: "Job"
