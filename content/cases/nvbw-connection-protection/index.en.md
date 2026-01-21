@@ -71,7 +71,7 @@ content:
     important factor in shaping passengers' confidence in public transport.
 
 
-    ![](/images/cases/connection-fuse-for-the-nvbw/neu.png)
+    ![](/images/cases/connection-fuse-for-the-nvbw/neu_kompri.png)
   title: Connection guarantees as an important component for quality in public
     transport
 testimonials:

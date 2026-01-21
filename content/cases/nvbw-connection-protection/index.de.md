@@ -18,7 +18,7 @@ content:
     ganz wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
 
 
-    ![](/images/cases/connection-fuse-for-the-nvbw/neu.png)
+    ![](/images/cases/connection-fuse-for-the-nvbw/neu_kompri.png)
   title: Anschlusssicherung als wichtiger Baustein für Qualität im ÖPNV
   sections:
     - title: Knappe Ressourcen – ein Hindernis für verlässliche Reisendeninformation
