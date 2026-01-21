@@ -18,7 +18,7 @@ content:
     ganz wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
 
 
-    ![](/images/cases/connection-fuse-for-the-nvbw/neu.png)
+    ![](/images/cases/connection-fuse-for-the-nvbw/neu_kompri.png)
   title: Anschlusssicherung als wichtiger Baustein für Qualität im ÖPNV
   sections:
     - title: Knappe Ressourcen – ein Hindernis für verlässliche Reisendeninformation
@@ -46,7 +46,8 @@ content:
 
 
         Im Hintergrund verarbeitet das System Fahrplan-Solldaten und Echtzeitdaten. Aus den Solldaten werden die vorgesehenen Anschlüsse hergeleitet, wobei auch die Umsteigezeiten zwischen zwei Fahrten berücksichtigt werden. Mit den Echtzeitdaten werden dann die Hinweise erstellt, wie lange auf Zubringer gewartet werden soll. Die Web-Anwendung informiert die Leitstelle sehr detailliert darüber, welche Anschlüsse gesichert werden oder welche wegen zu grossen zeitlichen Differenzen gebrochen werden müssen. In der App für die Fahrzeugführer:innen werden die Wartezeiten ohne weitere Details gezeigt, um jegliche unnötige Ablenkung zu vermeiden.
-      image: /images/cases/nvbw-connection-protection/mockup.jpg
+      image: /images/cases/connection-fuse-for-the-nvbw/mobile-mockup.png
+      imagePosition: right
     - title: "Die technische Basis: TRALIS als Datendrehscheibe"
       text: Für die Verarbeitung und Analyse von Soll- und Echtzeitdaten kommt unsere
         Datendrehscheibe TRALIS zum Einsatz. TRALIS ist optimiert dafür, auch
