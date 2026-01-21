@@ -41,7 +41,7 @@ content:
         Anbietern wie Google Maps oder Mapbox, insbesondere, wenn es um
         Hosting-Standorte, Lizenzmodelle oder die Verwertung sensibler Daten
         geht.
-      image: /images/cases/mapset/mapset_1.png
+      image: /images/cases/vbz-setzt-auf-mapset-digitale-pläne-für-klare-fahrgastinformation/mapset.png
     - imagePosition: bottom
       highlight: false
       title: Mehrwert für Verkehrsunternehmen und Fahrgäste
@@ -80,7 +80,7 @@ content:
 
 
         Die Lösung ist modular aufgebaut und lässt sich in bestehende Websites, Kundensysteme oder öffentliche Informationsportale nahtlos einbinden.
-    - imagePosition: bottom
+    - imagePosition: left
       highlight: false
       title: Starke Visualisierung am Beispiel der VBZ
       text: Die Verkehrsbetriebe Stadt Zürich (VBZ) setzen mapset seit mehreren Jahren
@@ -91,6 +91,7 @@ content:
         PDF-Dokumenten oder als Bild für beispielsweise Social Media
         veröffentlicht und bieten Fahrgästen jederzeit verständliche
         Informationen.
+      image: /images/cases/vbz-setzt-auf-mapset-digitale-pläne-für-klare-fahrgastinformation/vbz_kilchberrg-kirche.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: Situationspläne für alle"
