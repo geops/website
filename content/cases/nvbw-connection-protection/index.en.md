@@ -65,10 +65,13 @@ content:
         travellers as possible to reach their destinations quickly and safely.
       highlight: true
   lead: >-
+    A powerful, attractive and reliable public transport system is at the heart
+    of a successful transport revolution. In addition to the punctuality of
+    trains and buses, ensuring that connections run as scheduled is a very
+    important factor in shaping passengers' confidence in public transport.
+
+
     ![](/images/cases/connection-fuse-for-the-nvbw/neu.png)
-
-
-    A powerful, attractive and reliable public transport system is at the heart of a successful transport revolution. In addition to the punctuality of trains and buses, ensuring that connections run as scheduled is a very important factor in shaping passengers' confidence in public transport.
   title: Connection guarantees as an important component for quality in public
     transport
 testimonials:

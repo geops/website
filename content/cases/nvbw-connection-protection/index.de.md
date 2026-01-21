@@ -12,10 +12,13 @@ timeline: "2025"
 published: true
 content:
   lead: >-
+    Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das
+    Herzstück einer erfolgreichen Verkehrswende. Neben der Pünktlichkeit von
+    Zügen und Bussen ist die Gewährleistung der vorgesehenen Anschlüsse  ein
+    ganz wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
+
+
     ![](/images/cases/connection-fuse-for-the-nvbw/neu.png)
-
-
-    Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das Herzstück einer erfolgreichen Verkehrswende. Neben der Pünktlichkeit von Zügen und Bussen ist die Gewährleistung der vorgesehenen Anschlüsse  ein ganz wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
   title: Anschlusssicherung als wichtiger Baustein für Qualität im ÖPNV
   sections:
     - title: Knappe Ressourcen – ein Hindernis für verlässliche Reisendeninformation
