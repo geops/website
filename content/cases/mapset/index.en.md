@@ -1,5 +1,5 @@
 ---
-title: "VBZ setzt auf mapset: digitale Pläne für klare Fahrgastinformation"
+title: Digitale Pläne für klare Fahrgastinformation
 summary: "mapset ist unsere Saas-Lösung für Transportunternehmen, die Fahrgästen
   schnell und zuverlässig visuelle Orientierung geben wollen. Ob Baustellen,
   Ersatzverkehr oder Events, mit mapset lassen sich Situationspläne in wenigen
@@ -7,7 +7,7 @@ summary: "mapset ist unsere Saas-Lösung für Transportunternehmen, die Fahrgäs
   ÖV-Karten. Das Tool wird im Abo-Modell vertrieben, ist weltweit nutzbar und
   wird bereits von rund 20 Transportunternehmen eingesetzt. "
 slug: mapset
-gridImage: /images/cases/mapset/mapset_uebersicht.png
+gridImage: /images/cases/vbz-setzt-auf-mapset-digitale-pläne-für-klare-fahrgastinformation/mapset-grid.png
 weight: 10
 cover: /images/cases/mapset/screenshot-2025-09-04-101808.png
 customer: SOB
@@ -36,6 +36,7 @@ content:
         Anbietern wie Google Maps oder Mapbox, insbesondere, wenn es um
         Hosting-Standorte, Lizenzmodelle oder die Verwertung sensibler Daten
         geht.
+      image: /images/cases/vbz-setzt-auf-mapset-digitale-pläne-für-klare-fahrgastinformation/mapset.png
     - imagePosition: bottom
       highlight: false
       title: Mehrwert für Verkehrsunternehmen und Fahrgäste
@@ -75,7 +76,7 @@ content:
 
 
         Die Lösung ist modular aufgebaut und lässt sich in bestehende Websites, Kundensysteme oder öffentliche Informationsportale nahtlos einbinden.
-    - imagePosition: bottom
+    - imagePosition: left
       highlight: false
       title: Starke Visualisierung am Beispiel der VBZ
       text: Die Verkehrsbetriebe Stadt Zürich (VBZ) setzen mapset seit mehreren Jahren
@@ -86,6 +87,7 @@ content:
         PDF-Dokumenten oder als Bild für beispielsweise Social Media
         veröffentlicht und bieten Fahrgästen jederzeit verständliche
         Informationen.
+      image: /images/cases/vbz-setzt-auf-mapset-digitale-pläne-für-klare-fahrgastinformation/vbz_kilchberrg-kirche.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: Situationspläne für alle"
@@ -111,4 +113,15 @@ testimonials:
       ohne zusätzliche Grafik-Programme möglich ist. Das Tool hilft uns, eine
       einheitliche Kommunikation zu gewährleisten. Wir sind sehr zufrieden.*"
     portrait: /images/cases/mapset/miro_bertozzi.jpg
+  - name: Brigitte Rotowski
+    position: Fachverantwortliche Entwicklung & Digitalisierung, BERNMOBIL
+    text: M﻿it mapset hat BERNMOBIL ein zuverlässiges, einfach bedienbares Tool
+      eingeführt. Änderungen setzen wir in wenigen Schritten um und erhalten
+      klare, einheitliche Pläne. Der Support von geOps unterstützt uns bei
+      Bedarf unkompliziert. So stellen wir unseren Mitarbeitenden präzises,
+      digitales Kartenmaterial zur Verfügung.
+    portrait: /images/cases/digitale-pläne-für-klare-fahrgastinformation/brigitte-rotowski_bernmobil.jpg
+tags:
+  - maps
+  - mapset
 ---
