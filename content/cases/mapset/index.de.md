@@ -1,5 +1,5 @@
 ---
-title: "VBZ setzt auf mapset: digitale Pläne für klare Fahrgastinformation"
+title: Digitale Pläne für klare Fahrgastinformation
 summary: "mapset ist unsere Saas-Lösung für Transportunternehmen, die Fahrgästen
   schnell und zuverlässig visuelle Orientierung geben wollen. Ob Baustellen,
   Ersatzverkehr oder Events, mit mapset lassen sich Situationspläne in wenigen
@@ -109,4 +109,12 @@ testimonials:
       ohne zusätzliche Grafik-Programme möglich ist. Das Tool hilft uns, eine
       einheitliche Kommunikation zu gewährleisten. Wir sind sehr zufrieden.*"
     portrait: /images/cases/mapset/miro_bertozzi.jpg
+  - name: Brigitte Rotowski
+    position: Fachverantwortliche Entwicklung & Digitalisierung, BERNMOBIL
+    text: M﻿it mapset hat BERNMOBIL ein zuverlässiges, einfach bedienbares Tool
+      eingeführt. Änderungen setzen wir in wenigen Schritten um und erhalten
+      klare, einheitliche Pläne. Der Support von geOps unterstützt uns bei
+      Bedarf unkompliziert. So stellen wir unseren Mitarbeitenden präzises,
+      digitales Kartenmaterial zur Verfügung.
+    portrait: /images/cases/digitale-pläne-für-klare-fahrgastinformation/brigitte-rotowski_bernmobil.jpg
 ---
