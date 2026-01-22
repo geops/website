@@ -5,7 +5,7 @@ summary: Mit INSA (Indoor Station Application) haben wir im Auftrag der SBB ein
   Angebote von Bahnhöfen verwaltbar macht und den Nutzenden eine Vielzahl an
   intuitiv bedienbaren Funktionen bietet.
 slug: insa
-gridImage: /images/cases/insa-–-indoor-station-application/ihr-partner-für-smarte-mobilitätslösungen.png
+gridImage: /images/cases/insa-–-indoor-station-application/insa_grid.png
 cover: /images/cases/insa-–-indoor-station-application/image-2025-8-21_15-3-16.png
 customer: SBB Real Estate
 service: UX/UI basierend auf Design Vorgaben der SBB für eine intuitive
