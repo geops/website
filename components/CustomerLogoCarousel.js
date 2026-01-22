@@ -37,6 +37,12 @@ export default function CustomerLogoCarousel({ customers = [] }) {
         >
           {customers
             .filter((c) => c.logo)
+            // Shuffle logos
+            .map((customer) => {
+              customer.sortWeight = Math.random();
+              return customer;
+            })
+            .sort((a, b) => a.sortWeight - b.sortWeight)
             .map((customer) => {
               console.log("customer logo:", customer);
               return (
