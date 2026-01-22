@@ -38,7 +38,7 @@ function CasesArticleBody({ case: caseItem }) {
       <PageHeader src={cover} srcMobile={cover} titleDown />
       <article className="container prose prose-xl mx-auto mb-16 max-w-screen-lg break-words px-8 pt-8 lg:pt-0">
         <div>
-          <p>{caseItem.customer.fullName}</p>
+          <p>{caseItem.customer?.fullName}</p>
           <h1 className="!leading-snug text-balance text-green">{title}</h1>
           <Markdown
             options={{

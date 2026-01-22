@@ -27,7 +27,7 @@ function CasesGridItem({
             width={imageSizes[gridImage]?.width}
           />
           <div className="absolute bottom-4 right-4 text-right font-bold text-shadow text-white">
-            {customer.name}
+            {customer?.name}
           </div>
         </div>
       )}
