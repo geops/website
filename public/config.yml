@@ -133,6 +133,33 @@ collections:
         hint: 'Text für den Artikel. Bitte H2 für die erste und H3 für weitere Überschriften verwenden. Bilder die auf Desktop oder Mobil (Bildschirm kleiner 1024 Pixel) unterschiedlich dargestellt werden sollen, können mit **<ResponsiveImage alt="..." desktop="/images/blog/..." mobile="/images/blog/..." />** eingebunden werden.'
         widget: "markdown"
         i18n: true
+  - label: "Customer"
+    name: "customer"
+    description: "Kunden werden mit Cases verlinkt und unter geops.com/cases aufgelistet."
+    folder: "content/customer"
+    path: "{{name}}"
+    identifier_field: "name"
+    media_folder: "/public/images/customer"
+    public_folder: "/images/customer"
+    create: true
+    i18n: true
+    extension: "json"
+    fields:
+      - label: "Name"
+        name: "name"
+        hint: "Kurzer Name des Kunden"
+        widget: "string"
+        i18n: true
+      - label: "Full Name"
+        name: "fullName"
+        hint: "Vollständiger Name des Kunden"
+        widget: "string"
+        i18n: true
+      - label: "Logo"
+        name: "logo"
+        hint: "Logo des Kunden, wird im Karussell auf der Startseite angezeigt. Muss ein Width größer als 192px oder ein Height größer als 125px sein."
+        widget: "image"
+        required: false
   - label: "Job"
     name: "job"
     description: "Ausschreibungen für Jobs, werden unter geops.com/karriere aufgelistet."
