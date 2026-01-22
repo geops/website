@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { CarouselProvider, Slider, Slide } from "pure-react-carousel";
 import React, { useLayoutEffect, useState } from "react";
 
@@ -22,35 +21,38 @@ export default function CustomerLogoCarousel({ customers = [] }) {
   return (
     <div className="">
       <CarouselProvider
-        visibleSlides={Math.max(Math.floor(width / 200), 1)}
+        visibleSlides={Math.max(Math.floor(width / 250), 1)}
         interval={3000}
         infinite
         isPlaying
         lockOnWindowScroll
-        naturalSlideWidth={100}
-        naturalSlideHeight={100}
+        naturalSlideWidth={250}
+        naturalSlideHeight={250}
         totalSlides={customers.length}
       >
         <Slider
           aria-label="Slider"
           className="overflow-hidden"
-          classNameAnimation="transition ease-in-out duration-1000 h-32"
+          classNameAnimation="transition ease-in-out duration-1000 h-32 w-auto"
         >
           {customers
             .filter((c) => c.logo)
-            .map((customer) => (
-              <Slide
-                key={customer.name}
-                innerClassName="items-center justify-center flex"
-              >
-                <Image
-                  alt={customer.name}
-                  width="100"
-                  height="100"
-                  src={customer.logo}
-                />
-              </Slide>
-            ))}
+            .map((customer) => {
+              console.log("customer logo:", customer);
+              return (
+                <Slide
+                  key={customer.name}
+                  innerClassName="items-center justify-center flex p-6"
+                >
+                  {/* we do not use th next/image because sizing is peinlich */}
+                  <img
+                    alt={customer.name}
+                    src={customer.logo}
+                    className="max-w-[192px] max-h-[125px]"
+                  />
+                </Slide>
+              );
+            })}
         </Slider>
       </CarouselProvider>
     </div>
