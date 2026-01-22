@@ -33,7 +33,7 @@ export default function CustomerLogoCarousel({ customers = [] }) {
         <Slider
           aria-label="Slider"
           className="overflow-hidden"
-          classNameAnimation="transition ease-in-out duration-1000 h-32"
+          classNameAnimation="transition ease-in-out duration-1000 h-32 w-auto"
         >
           {customers
             .filter((c) => c.logo)
