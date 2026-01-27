@@ -1,17 +1,15 @@
 ---
-title: NVBW connection protection
+title: Connection fuse for the NVBW
 summary: A powerful, attractive and reliable public transport system is at the
   heart of a successful transport revolution. In addition to the punctuality of
   trains and buses, ensuring that connections run as scheduled is a very
   important factor in shaping passengers' confidence in public transport.
 slug: nvbw-connection-protection
-gridImage: /images/cases/nvbw-connection-protection/fuehrerstand.png
+gridImage: /images/cases/nvbw-connection-protection/nvbw_übersicht.png
 gridWidthFull: false
 weight: 2
-cover: /images/cases/nvbw-connection-protection/nvbw-cover.png
-customer: |-
-  NVBW - Local Transport Company
-  Baden-Württemberg mbH
+cover: /images/cases/connection-fuse-for-the-nvbw/nvbw_header.png
+customer: NVBW
 service: Automated timetable evaluation
 timeline: "2025"
 published: true
@@ -30,6 +28,7 @@ content:
         connections are often no longer guaranteed today, and the needs of
         passengers are increasingly being overlooked.
       title: Scarce resources – an obstacle to reliable travel information
+      image: ""
     - title: Digital assistants to support staff
       text: >-
         The NVBW, as a service company of the Baden-Württemberg Ministry of
@@ -41,8 +40,8 @@ content:
 
 
         In the background, the system processes scheduled data and real-time data. The scheduled connections are derived from the scheduled data, taking into account the transfer times between two journeys. The real-time data is then used to generate information on how long to wait for feeder services. The web application provides the control centre with very detailed information about which connections are guaranteed and which have to be broken due to excessive time differences. The app for drivers shows the waiting times without further details in order to avoid any unnecessary distractions.
-      image: /images/cases/nvbw-connection-protection/nvbw-mobile.png
-      imagePosition: null
+      image: /images/cases/connection-fuse-for-the-nvbw/mobile-mockup.png
+      imagePosition: right
     - title: "The technical basis: TRALIS as a data hub"
       text: Our TRALIS data hub is used to process and analyse target and real-time
         data. TRALIS is optimised to integrate even large amounts of data,
@@ -72,9 +71,7 @@ content:
     important factor in shaping passengers' confidence in public transport.
 
 
-    <iframe src="https://plans.trafimage.ch/zuerich-hb?disabled=header,footer" width="100%" height="600" title="interactive train station map" class="block-desktop border-gray-lighter border-2" />
-
-    <ResponsiveImage mobile="/images/solution/webkarten-und-bahnhofplaene/bahnhofplan.png" alt="interactive train station map" />
+    ![](/images/cases/connection-fuse-for-the-nvbw/neu_kompri.png)
   title: Connection guarantees as an important component for quality in public
     transport
 testimonials:

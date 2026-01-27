@@ -9,7 +9,7 @@ slug: calculation-municipal-contributions-lucerne
 gridImage: /images/cases/calculation-municipal-contributions-lucerne/bahnhofplatz_luzern.webp
 weight: 3
 cover: /images/cases/calculation-municipal-contributions-lucerne/2023_linie10-e-bus-eveline-beerkircher.jpg
-customer: Lucerne Transport Network VVL
+customer: Verkehrsverbund Luzern VVL
 service: Automated timetable evaluation
 timeline: Since 2023
 published: true

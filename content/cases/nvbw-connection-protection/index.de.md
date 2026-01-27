@@ -1,21 +1,24 @@
 ---
-title: NVBW Anschlusssicherung
+title: Anschlusssicherung für die NVBW
 summary: Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das
   Herzstück einer erfolgreichen Verkehrswende. Neben der Pünktlichkeit von Zügen
   und Bussen ist die Gewährleistung der vorgesehenen Anschlüsse  ein ganz
   wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
 slug: nvbw-anschlusssicherung
 gridWidthFull: false
-customer: |-
-  NVBW - Nahverkehrsgesellschaft
-  Baden-Württemberg mbH
+customer: NVBW
 service: "Automatisierte Fahrplanauswertung\t"
+timeline: "2025"
 published: true
 content:
-  lead: Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das
+  lead: >-
+    Ein leistungsstarker, attraktiver und zuverlässiger ÖPNV bildet das
     Herzstück einer erfolgreichen Verkehrswende. Neben der Pünktlichkeit von
     Zügen und Bussen ist die Gewährleistung der vorgesehenen Anschlüsse  ein
     ganz wichtiger Punkt, der das Vertrauen der Reisenden in den ÖPNV prägt.
+
+
+    ![](/images/cases/connection-fuse-for-the-nvbw/neu_kompri.png)
   title: Anschlusssicherung als wichtiger Baustein für Qualität im ÖPNV
   sections:
     - title: Knappe Ressourcen – ein Hindernis für verlässliche Reisendeninformation
@@ -43,7 +46,8 @@ content:
 
 
         Im Hintergrund verarbeitet das System Fahrplan-Solldaten und Echtzeitdaten. Aus den Solldaten werden die vorgesehenen Anschlüsse hergeleitet, wobei auch die Umsteigezeiten zwischen zwei Fahrten berücksichtigt werden. Mit den Echtzeitdaten werden dann die Hinweise erstellt, wie lange auf Zubringer gewartet werden soll. Die Web-Anwendung informiert die Leitstelle sehr detailliert darüber, welche Anschlüsse gesichert werden oder welche wegen zu grossen zeitlichen Differenzen gebrochen werden müssen. In der App für die Fahrzeugführer:innen werden die Wartezeiten ohne weitere Details gezeigt, um jegliche unnötige Ablenkung zu vermeiden.
-      image: /images/cases/nvbw-connection-protection/nvbw-mobile.png
+      image: /images/cases/connection-fuse-for-the-nvbw/mobile-mockup.png
+      imagePosition: right
     - title: "Die technische Basis: TRALIS als Datendrehscheibe"
       text: Für die Verarbeitung und Analyse von Soll- und Echtzeitdaten kommt unsere
         Datendrehscheibe TRALIS zum Einsatz. TRALIS ist optimiert dafür, auch
@@ -68,6 +72,7 @@ content:
         Simulationen verschiedener Szenarien ergänzt werden, um für möglichst
         viele Reisende das schnelle und sichere Erreichen ihrer Ziele zu
         ermöglichen.
+      highlight: true
 testimonials:
   - text: Mit den beiden Anwendungen können wir den Personalen sowohl in den
       Leitstellen als auch auf den Zügen zielgerichtet die nötigen Informationen
