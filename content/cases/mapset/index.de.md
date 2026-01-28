@@ -1,5 +1,5 @@
 ---
-title: Digitale Pläne für klare Fahrgastinformation
+title: Digitale Pläne zum selber machen
 summary: "mapset ist unsere Saas-Lösung für Transportunternehmen, die Fahrgästen
   schnell und zuverlässig visuelle Orientierung geben wollen. Ob Baustellen,
   Ersatzverkehr oder Events, mit mapset lassen sich Situationspläne in wenigen

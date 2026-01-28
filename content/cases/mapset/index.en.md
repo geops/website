@@ -1,5 +1,5 @@
 ---
-title: Digitale Pläne für klare Fahrgastinformation
+title: Digitale Pläne zum, selber machen
 summary: "mapset ist unsere Saas-Lösung für Transportunternehmen, die Fahrgästen
   schnell und zuverlässig visuelle Orientierung geben wollen. Ob Baustellen,
   Ersatzverkehr oder Events, mit mapset lassen sich Situationspläne in wenigen
@@ -10,7 +10,7 @@ slug: mapset
 gridImage: /images/cases/vbz-setzt-auf-mapset-digitale-pläne-für-klare-fahrgastinformation/mapset-grid.png
 weight: 10
 cover: /images/cases/mapset/screenshot-2025-09-04-101808.png
-customer: SOB
+customer: ""
 service: >-
   Anbindung an offizielle Haltestellenverzeichnisse (atlas in der Schweiz und
   Delfi in Deutschland)
