@@ -71,7 +71,7 @@ content:
 
         Die Bearbeiter:innen können so mit wenig Aufwand neue Verbindungen erfassen oder bestehende Verbindungen bearbeiten. Durch die Pflege der Strecken in Cartaro haben sie maximale Flexibilität bei den Einträgen und profitieren gleichzeitig von der automatisierten Generierung der Karte auf Knopfdruck.
       image: /images/cases/international-connections/int2_transp_klein.png
-    - imagePosition: right
+    - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: noch mehr Service für Bahnreisende"
       text: >-
@@ -87,6 +87,6 @@ content:
 
 
         Aber auch für andere Anwendungsfälle bieten Liniennetzpläne eine gute Übersicht. Nebst einer Erfassung in Cartaro bieten wir für Pläne mit mehr Linien auch die Möglichkeit, die Streckennetze automatisiert anhand von Fahrplandaten zu berechnen.
-      image: /images/cases/international-connections/speed.png
+      image: /images/cases/direct-connections-to-europe-an-interactive-route-map/adobestock_1117504631_editorial_use_only.jpeg
 testimonialsOnTop: true
 ---
