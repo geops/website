@@ -35,7 +35,7 @@ content:
         eines Echtzeitinformationssystems beauftragt. Dabei werden GPS-Daten aus
         den S-Bahnen für die Anzeige der Zugpositionen auf einer Karte und für
         die Erstellung von Abfahrtsprognosen genutzt.
-      image: /images/cases/s-bahn-muenchen/9.png
+      image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/12.png
     - imagePosition: bottom
       highlight: false
       title: So machen wir bei geOps Echtzeit sichtbar
@@ -50,7 +50,7 @@ content:
         der S-Bahn von teils unter 1 Minute angebracht ist, zielen die
         Vorhersagen darauf ab, dem Fahrgast die nächsten Fahrmöglichkeiten
         präzise und optisch übersichtlich anzuzeigen.
-      image: /images/cases/s-bahn-muenchen/8.png
+      image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/11.png
     - imagePosition: bottom
       highlight: false
       title: Skalierbarkeit und Präzision im Sekundentakt
@@ -73,6 +73,7 @@ content:
         alternative Routen bei Bauarbeiten. Sie bildet eine solide Grundlage für
         zukünftige Erweiterungen, beispielsweise zur Ausweitung auf andere Netze
         oder zusätzliche Mobilitätsformen.
+      image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/adobestock_581571846_editorial_use_only.jpeg
 testimonialsOnTop: false
 testimonials:
   - position: Fahrgastinformation QS und Projekte, DB Regio AG (2025)

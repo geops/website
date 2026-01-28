@@ -6,7 +6,7 @@ summary: "Mit der Livemap für die Münchner S-Bahn zeigen wir, wie moderne
   Sekundenbruchteilen und macht Informationen mobil nutzbar, entweder in der
   Navigator App, direkt auf der Karte oder über einen Liniennetzplan. "
 slug: s-bahn-muenchen
-gridImage: /images/cases/s-bahn-muenchen/screenshot-2025-09-04-083027.png
+gridImage: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/screenshot-2025-09-04-083027_neu.jpg
 gridWidthFull: true
 weight: 7
 cover: /images/cases/s-bahn-muenchen/screenshot-2025-09-04-083027.png
@@ -30,7 +30,7 @@ content:
         eines Echtzeitinformationssystems beauftragt. Dabei werden GPS-Daten aus
         den S-Bahnen für die Anzeige der Zugpositionen auf einer Karte und für
         die Erstellung von Abfahrtsprognosen genutzt.
-      image: /images/cases/s-bahn-muenchen/9.png
+      image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/12.png
     - imagePosition: bottom
       highlight: false
       title: So machen wir bei geOps Echtzeit sichtbar
@@ -45,7 +45,7 @@ content:
         der S-Bahn von teils unter 1 Minute angebracht ist, zielen die
         Vorhersagen darauf ab, dem Fahrgast die nächsten Fahrmöglichkeiten
         präzise und optisch übersichtlich anzuzeigen.
-      image: /images/cases/s-bahn-muenchen/8.png
+      image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/11.png
     - imagePosition: bottom
       highlight: false
       title: Skalierbarkeit und Präzision im Sekundentakt
@@ -68,7 +68,7 @@ content:
         alternative Routen bei Bauarbeiten. Sie bildet eine solide Grundlage für
         zukünftige Erweiterungen, beispielsweise zur Ausweitung auf andere Netze
         oder zusätzliche Mobilitätsformen.
-      image: /images/cases/s-bahn-muenchen/1000_f_581571846_lydnu3piqzi4k6ho90xthwet5l02ykcb.jpg
+      image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/adobestock_581571846_editorial_use_only.jpeg
   title: S-Bahn München in Echtzeit mit unserem Echtzeitinformationssystem
   lead: "*Mit der [Livemap für die Münchner
     S-Bahn](https://s-bahn-muenchen-live.de/?mode=schematic&x=2285725&y=1746650\
