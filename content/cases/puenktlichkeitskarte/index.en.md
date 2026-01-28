@@ -4,7 +4,7 @@ summary: Live Maps werden als eine wertvolle Informationsquelle für Reisende
   eingesetzt. Sie können aber auch als Übersicht für den aktuellen Zustand des
   öV-Betriebs genutzt werden.
 slug: puenktlichkeitskarte
-gridImage: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/adobestock_310709156_editorial_use_only.jpeg
+gridImage: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/adobestock_310709156_editorial_use_only_2.jpeg
 weight: 7
 cover: /images/cases/puenktlichkeitskarte/screenshot-2025-09-04-140246.png
 customer: SBB CFF FFS
