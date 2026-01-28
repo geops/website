@@ -7,6 +7,7 @@ summary: Die Eidgenössische Forschungsanstalt WSL stellt mit der Tree-App eine
   im Wald einsetzbar.
 slug: treeapp
 gridImage: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/treeapp_grid.png
+weight: 14
 cover: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/screenshot-2025-09-10-143044.png
 customer: WSL
 service: xy
