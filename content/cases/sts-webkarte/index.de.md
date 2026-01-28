@@ -23,26 +23,29 @@ content:
     - imagePosition: bottom
       highlight: false
       title: Karte mit Panoramarouten und POIs
-      text: >-
-        <!--StartFragment-->
-
-
-        Die Swiss Travel Pass-Karte auf [swisstravelpass.com](https://swisstravelpass.com/) basiert auf der bewährten Trafimage-Systematik. Sie zeigt das Schweizer Bahn-, Bus und Schifffahrtsnetz in einer klaren, kartografisch konsistenden Darstellung. Besondere Aufmerksamkeit liegt auf den bekannten Panroamarouten wie Glacier Express und Bernina Express, auf panoramareichen Bergausflügen wie die Rigi oder das Schilthorn und auf der Grand Train Tour of Switzerland. Für jede Route ist auf einen Blick erkennbar, ob sie im Swiss Travel Pass enthalten ist oder ob ein Zuschlag erforderlich ist. Ergänzend integriert die Karte Points of Interest wie Sehenswürdigkeiten, Museen oder Aussichtspunkte und macht so die Reiseplanung inspirierend, erlebnisreicher und interaktiv.
-
-
-        <!--EndFragment-->
-      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/11.png
+      text: Die Swiss Travel Pass-Karte
+        auf [swisstravelpass.com](https://swisstravelpass.com/) basiert auf der
+        bewährten Trafimage-Systematik. Sie zeigt das Schweizer Bahn-, Bus und
+        Schifffahrtsnetz in einer klaren, kartografisch konsistenden
+        Darstellung. Besondere Aufmerksamkeit liegt auf den bekannten
+        Panroamarouten wie Glacier Express und Bernina Express, auf
+        panoramareichen Bergausflügen wie die Rigi oder das Schilthorn und auf
+        der Grand Train Tour of Switzerland. Für jede Route ist auf einen Blick
+        erkennbar, ob sie im Swiss Travel Pass enthalten ist oder ob ein
+        Zuschlag erforderlich ist. Ergänzend integriert die Karte Points of
+        Interest wie Sehenswürdigkeiten, Museen oder Aussichtspunkte und macht
+        so die Reiseplanung inspirierend, erlebnisreicher und interaktiv.
+      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/sts.png
     - imagePosition: left
       highlight: false
       title: Orientierung auf einen Blick
-      text: >-
-        <!--StartFragment-->
-
-
-        Für Inhaber:innen des Swiss Travel Pass ist die Karte ein unverzichtbares Werkzeug. Sie zeigt jederzeit, welche Verbindungen und Angebote im Ticket enthalten sind und liefert gleichzeitig Ideen für spannende Ausflüge unterwegs. Anstatt auf gedruckte Pläne oder verstreute Informationen angewiesen zu sein, haben Reisende alle relevanten Daten übersichtlich und zuverlässig mobil verfügbar. 
-
-
-        <!--EndFragment-->
+      text: Für Inhaber:innen des Swiss Travel Pass ist die Karte ein unverzichtbares
+        Werkzeug. Sie zeigt jederzeit, welche Verbindungen und Angebote im
+        Ticket enthalten sind und liefert gleichzeitig Ideen für spannende
+        Ausflüge unterwegs. Anstatt auf gedruckte Pläne oder verstreute
+        Informationen angewiesen zu sein, haben Reisende alle relevanten Daten
+        übersichtlich und zuverlässig mobil verfügbar.
+      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/design-ohne-titel-7-.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: digitale Reisebegleitung weiterdenken"
@@ -54,5 +57,5 @@ content:
 
 
         <!--EndFragment-->
-      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_867166537.jpeg
+      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
 ---
