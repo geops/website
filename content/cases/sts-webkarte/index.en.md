@@ -31,7 +31,7 @@ content:
         Interest wie Sehenswürdigkeiten, Museen oder Aussichtspunkte und macht
         so die Reiseplanung inspirierend, erlebnisreicher und interaktiv.
       image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/sts.png
-    - imagePosition: left
+    - imagePosition: right
       highlight: false
       title: Orientierung auf einen Blick
       text: Für Inhaber:innen des Swiss Travel Pass ist die Karte ein unverzichtbares
@@ -44,14 +44,10 @@ content:
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: digitale Reisebegleitung weiterdenken"
-      text: >-
-        <!--StartFragment-->
-
-
-        Die Swiss Travel Pass-Karte zeigt, wie wir interaktive Kartenlösungen für internationale Reisende erschliessen. In Zukunft könnte die Karte durch mobile Integration, personalisierte Tourvorschläge oder dynamische Zusatzinfos weiterentwickelt werden.
-
-
-        <!--EndFragment-->
+      text: Die Swiss Travel Pass-Karte zeigt, wie wir interaktive Kartenlösungen für
+        internationale Reisende erschliessen. In Zukunft könnte die Karte durch
+        mobile Integration, personalisierte Tourvorschläge oder dynamische
+        Zusatzinfos weiterentwickelt werden.
       image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
   title: Interaktive Karte für Reisen mit dem Swiss Travel Pass
   lead: Der Swiss Travel Pass ist für Gäste aus dem Ausland der Schlüssel zum
