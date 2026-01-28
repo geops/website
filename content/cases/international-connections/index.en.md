@@ -57,7 +57,7 @@ content:
 
         This allows editors to add new connections or edit existing ones with minimal effort. By maintaining the routes in Cartaro, they have maximum flexibility with their entries and at the same time benefit from the automated generation of the map at the touch of a button.
       image: /images/cases/international-connections/int2_transp_klein.png
-    - imagePosition: right
+    - imagePosition: bottom
       highlight: true
       title: "Looking ahead: even more service for rail passengers"
       text: >-
@@ -69,7 +69,7 @@ content:
 
 
         Line network maps also provide a good overview for other applications. In addition to recording them in Cartaro, we also offer the option of automatically calculating route networks for maps with more lines based on timetable data.
-      image: /images/cases/international-connections/speed.png
+      image: /images/cases/direct-connections-to-europe-an-interactive-route-map/adobestock_1117504631_editorial_use_only.jpeg
   title: "Europe at a glance: our route map for direct connectionsmap for direct
     connections"
   lead: >-
