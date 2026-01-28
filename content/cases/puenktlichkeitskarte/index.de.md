@@ -15,7 +15,7 @@ content:
     eingesetzt. Sie können aber auch als Übersicht für den aktuellen Zustand des
     ÖV-Betriebs genutzt werden.*"
   sections:
-    - imagePosition: left
+    - imagePosition: bottom
       highlight: false
       title: Starke Visualisierung in Extremsituationen
       text: >-
@@ -31,7 +31,8 @@ content:
         schauen.
 
 
-        ![](/images/cases/puenktlichkeitskarte/20210125_vbz_flockdown.jpg)
+        ![]()
+      image: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/20210125_vbz_flockdown.jpg
     - imagePosition: bottom
       highlight: false
       title: "Die technische Basis: TRALIS als Datendrehscheibe und
