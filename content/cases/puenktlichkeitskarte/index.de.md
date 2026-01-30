@@ -3,7 +3,7 @@ title: Kommt mein Zug denn auch wirklich pünktlich?
 summary: Live Maps werden als eine wertvolle Informationsquelle für Reisende
   eingesetzt. Sie können aber auch als Übersicht für den aktuellen Zustand des
   öV-Betriebs genutzt werden.
-slug: puenktlichkeitskarte
+slug: punctualitymap
 customer: SBB CFF FFS
 service: Entwicklung und Betrieb
 timeline: laufend seit 2022
@@ -11,9 +11,9 @@ published: true
 content:
   title: "Die Pünktlichkeitskarte: Pünktlichkeit, Verspätungen und Ausfälle auf
     einen Blick"
-  lead: "*Live Maps werden als eine wertvolle Informationsquelle für Reisende
+  lead: Live Maps werden als eine wertvolle Informationsquelle für Reisende
     eingesetzt. Sie können aber auch als Übersicht für den aktuellen Zustand des
-    ÖV-Betriebs genutzt werden.*"
+    ÖV-Betriebs genutzt werden.
   sections:
     - imagePosition: bottom
       highlight: false
