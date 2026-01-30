@@ -9,69 +9,77 @@ gridWidthFull: true
 weight: 8
 cover: /images/cases/alma/header.webp
 customer: ""
-service: Open-Source-Software, UX/UI-Design,
-timeline: laufend seit 2025
+service: Open-source software, UX/UI design, business control software, and
+  geodata management
+timeline: ongoing since 2025
 published: true
 content:
   sections:
     - imagePosition: bottom
       highlight: false
-      title: Komplexe Anforderungen an den KbS
-      text: Das Umweltschutzgesetzt verpflichtet Kantone und Bundesstellen, einen
-        Kataster belasteter Standorte zu führen. Die Aufgabe ist komplex,
-        langfristig und stark reguliert. Mit alma haben wir bei geOps die
-        Nachfolgelösung von Altlast4Web entwickelt, die seit 2025 im Einsatz ist
-        und heute bereits von 18 Ämtern genutzt wird.
+      title: Complex requirements for the KbS
+      text: The Federal Act on Environmental Protection requires Swiss cantons and
+        federal agencies to create a publicly accessible register of
+        contaminated sites (KbS). geOps has been developing software for the
+        creation and management of the KbS in Switzerland for over 20 years.
+        Since 2011, Altlast4Web has been the standard for managing the KbS.
+        Since 2025, alma has been a modern software solution that supports all
+        tasks in this area.
     - imagePosition: bottom
       highlight: false
-      title: Mehr als nur Standortverwaltung
-      text: alma vereint Datenmanagement, Geodatenbearbeitung und Prozesssteuerung in
-        einem System. Standortperimeter lassen sich direkt digitalisieren und
-        kartografisch darstellen, ohne externe GIS-Software. Gleichzeitig
-        unterstützt alma individuelle Geschäftsprozesse von der Beurteilung bis
-        zur Sanierung und bindet diese eng an die Standortdaten. Automatisierte
-        Reports, Schnittstellen zu Geoportalen und ÖREB sowie hohe
-        Sicherheitsstandards runden die Lösung ab.
+      title: More than just site management
+      text: alma combines data management, geodata processing, and process control in
+        one system. Site perimeters can be digitized and mapped directly. At the
+        same time, alma supports individual business processes from assessment
+        to remediation and links them closely to the site data. Automated
+        reports, interfaces to geoportals and ÖREB, and high security standards
+        round off the solution.
       image: /images/cases/alma/schnellsuche-global-v2-closed.png
     - imagePosition: bottom
       highlight: false
-      title: Gemeinsam entwickelt, offen zugänglich
-      text: alma ist Open Source und wurde von Kantonen, Bundesämtern und dem
-        Fürstentum Lichtenstein gemeinsam finanziert und entwickelt. Das
-        reduziert Kosten, schafft Synergien und sorgt für eine nachhaltige
-        Weiterentwicklung. Für die Verwaltungen bedeutet das digitale
-        Souveränität und langfristige Investitionssicherheit.
+      title: Jointly developed, openly accessible
+      text: alma is open source and was jointly financed and developed by around 20
+        cantons, federal offices, and the Principality of Liechtenstein. This
+        reduces costs, creates synergies, and ensures sustainable further
+        development. For administrations, this means digital sovereignty and
+        long-term investment security.
       image: ""
     - imagePosition: bottom
       highlight: false
-      title: Effizient, transparent und nachhaltig
+      title: Efficient, transparent, and sustainable
       text: >-
-        Mit alma stehen den zuständigen Ämtern ein zukunftsfähiges Werkzeug und
-        klare Vorteile zur Verfügung:
+        alma provides the relevant authorities with a future-proof tool and
+        clear advantages:
 
 
-        * Effizienz durch Automatisierung und integrierte Geodatenbearbeitung
+        * Efficiency through automation and integrated geodata processing
 
-        * Transparenz durch offene Standards und nachvollziehbare Prozesse
+        * Transparency through open standards and traceable processes
 
-        * Nachhaltigkeit durch gemeinschaftliche Entwicklung und Open Source
+        * Sustainability through collaborative development and open source
       image: /images/cases/alma/alma-2.png
-    - imagePosition: bottom
+    - imagePosition: null
       highlight: true
-      title: "Blick nach vorn: gemeinsam weiterentwickeln"
-      text: Mit alma haben Kantone und Bundesämter ein starkes Fundament für das
-        Management belasteter Standorte geschaffen. Die Open-Source-Lösung
-        wächst kontinuierlich weiter. Neue Funktionen, Schnittstellen und
-        Automatisierung werden gemeinsam mit den Nutzer:innen entwickelt. So
-        bleibt alma nicht nur technologisch aktuell, sondern entwickelt sich
-        Schritt für Schritt zu einem umfassenden Werkzeug für ein noch
-        effizienteres, transparenteres und nachhaltigeres Umweltmanagement.
-  title: alma – die Software zur langfristigen Führung des Katasters belasteter
-    Standorte
+      title: "Looking ahead: continuing to develop together"
+      text: With alma, cantons and federal offices have created a strong foundation
+        for managing contaminated sites. The open-source solution continues to
+        grow steadily. New functions, interfaces, and automation are developed
+        in collaboration with users. This ensures that alma not only remains
+        technologically up to date, but also develops step by step into a
+        comprehensive tool for even more efficient, transparent, and sustainable
+        environmental management.
+    - imagePosition: bottom
+      highlight: false
+      text: Further information on using the alma software and the community of public
+        authorities and geOps can be found at
+        [alma-os.ch](https://alma-os.ch/de).
+      title: More information
+  title: alma – the software for long-term management of the register of
+    contaminated sites
   lead: >-
-    *Mit alma steht Kantonen und Bundesämtern eine moderne Open-Source-Software
-    zur Verfügung, um den Kataster belasteter Standorte (KbS) effizient, sicher
-    und nachhaltig zu führen.*
+    alma provides cantons and federal offices with modern open-source software
+    for managing the register of contaminated sites (KbS) efficiently, securely,
+    and sustainably.
 
 
     ![](/images/cases/alma/alma-1.png)
