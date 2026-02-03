@@ -16,7 +16,7 @@ Wer steckt hinter den Projekten von geOps? Unsere Interviewreihe „Faces of geO
 
 #### **Was bedeutet es für dich persönlich, an Projekten mit Umweltbezug zu arbeiten?**
 
-Nachhaltigkeit ist mir persönlich sehr wichtig. Ich bin froh, Teil eines Unternehmens zu sein, dessen Projekte den nachhaltigen Gedanken unterstützen und fördern. In meiner Freizeit bin ich gerne im Wald unterwegs. Deshalb macht mich die Tree-App als Unterstützung für den zukunftsorientierten Waldbau besonders stolz. Mit Technologie ein nachhaltigeres Leben zu vereinfachen und für alle zugänglich zu machen, ist mir ein echtes Anliegen.
+Nachhaltigkeit ist mir persönlich sehr wichtig. Ich bin froh, Teil eines Unternehmens zu sein, dessen Projekte den nachhaltigen Gedanken unterstützen und fördern. In meiner Freizeit bin ich gerne im Wald unterwegs. Deshalb macht mich die [Tree App](https://www.tree-app.ch/) als Unterstützung für den zukunftsorientierten Waldbau besonders stolz. Mit Technologie ein nachhaltigeres Leben zu vereinfachen und für alle zugänglich zu machen, ist mir ein echtes Anliegen.
 
 #### A**n welchem Projekt arbeitest du gerade, das dich besonders begeistert?**
 
