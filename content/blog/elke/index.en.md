@@ -9,6 +9,7 @@ created: 2026-02-03
 slug: elke
 frontpage: true
 frontpageImage: /images/blog/faces-of-geops-a-portrait-of-elke/7.png
+frontpageWeight: 1
 published: true
 ---
 ## **A look behind the scenes at geOps**
