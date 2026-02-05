@@ -11,6 +11,7 @@ tags:
   - altlast4web
   - environment
   - geops
+frontpageImage: /images/blog/alma-future-oriented-management-of-contaminated-sites/alma_logo.png
 published: true
 ---
 **Discover *alma* – our brand-new next-generation solution for managing contaminated sites!**\
