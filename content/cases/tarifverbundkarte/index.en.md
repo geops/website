@@ -7,6 +7,7 @@ summary: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
   Schweiz und schaffen die Möglichkeit, die Orientierung zu behalten.
 slug: tarifverbundkarte
 gridImage: /images/cases/tarifverbundkarte/verbund_uebersicht.png
+weight: 13
 cover: /images/cases/tarifverbundkarte/tarifverbundkarte_01.webp
 customer: SBB
 service: xy
