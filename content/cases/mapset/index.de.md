@@ -80,7 +80,7 @@ content:
 
 
         Die Lösung ist modular aufgebaut und lässt sich in bestehende Websites, Kundensysteme oder öffentliche Informationsportale nahtlos einbinden.
-    - imagePosition: left
+    - imagePosition: bottom
       highlight: false
       title: Starke Visualisierung am Beispiel der VBZ
       text: >-
@@ -94,7 +94,7 @@ content:
         Informationen.
 
 
-        ![](/images/cases/digitale-pläne-zum-selber-machen/fpw_2025_stadt_p.jpg)
+        ![]()
       image: /images/cases/digitale-pläne-zum-selber-machen/fpw_a3_2025_stadt_m_2ex.jpg
     - imagePosition: bottom
       highlight: true
