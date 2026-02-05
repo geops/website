@@ -83,15 +83,19 @@ content:
     - imagePosition: left
       highlight: false
       title: Starke Visualisierung am Beispiel der VBZ
-      text: Die Verkehrsbetriebe Stadt Zürich (VBZ) setzen mapset seit mehreren Jahren
-        erfolgreich ein, um lokale Änderungen wie Bauarbeiten oder Umleitungen
-        klar zu kommunizieren. Statt auf externe Grafiklösungen zurückzugreifen,
-        erstellt die VBZ ihre Pläne schnell und effizient in ihrem Corporate
-        Design direkt im Browser. Die Pläne werden auf Webseite, in
-        PDF-Dokumenten oder als Bild für beispielsweise Social Media
+      text: >-
+        Die Verkehrsbetriebe Stadt Zürich (VBZ) setzen mapset seit mehreren
+        Jahren erfolgreich ein, um lokale Änderungen wie Bauarbeiten oder
+        Umleitungen klar zu kommunizieren. Statt auf externe Grafiklösungen
+        zurückzugreifen, erstellt die VBZ ihre Pläne schnell und effizient in
+        ihrem Corporate Design direkt im Browser. Die Pläne werden auf Webseite,
+        in PDF-Dokumenten oder als Bild für beispielsweise Social Media
         veröffentlicht und bieten Fahrgästen jederzeit verständliche
         Informationen.
-      image: /images/cases/vbz-setzt-auf-mapset-digitale-pläne-für-klare-fahrgastinformation/vbz_kilchberrg-kirche.png
+
+
+        ![](/images/cases/digitale-pläne-zum-selber-machen/fpw_2025_stadt_p.jpg)
+      image: /images/cases/digitale-pläne-zum-selber-machen/fpw_a3_2025_stadt_m_2ex.jpg
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: Situationspläne für alle"
