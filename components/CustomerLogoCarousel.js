@@ -44,7 +44,6 @@ export default function CustomerLogoCarousel({ customers = [] }) {
             })
             .sort((a, b) => a.sortWeight - b.sortWeight)
             .map((customer) => {
-              console.log("customer logo:", customer);
               return (
                 <Slide
                   key={customer.name}
