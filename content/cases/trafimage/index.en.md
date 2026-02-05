@@ -7,6 +7,7 @@ summary: Mit Trafimage betreibt die SBB eines der umfassendsten Kartensysteme im
 slug: trafimage
 gridImage: /images/cases/karten-des-öffentlichen-verkehrs-für-die-schweizerischen-bundesbahnen-sbb/trafimage_grid.png
 gridWidthFull: true
+weight: 15
 cover: /images/cases/karten-des-öffentlichen-verkehrs-für-die-schweizerischen-bundesbahnen-sbb/screenshot-2025-09-12-094036.png
 customer: SBB CFF FFS
 service: Automatisierte Integration von verschiedenen Daten,
