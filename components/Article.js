@@ -5,7 +5,7 @@ import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { useI18n } from "../lib/i18n";
 import namedCodesToUnicode from "../lib/namedCodesToUnicode";
 
-function CodeBlock({ className, children }) {
+export function CodeBlock({ className, children }) {
   let lang = "text"; // default monospaced text
   if (className && className.startsWith("lang-")) {
     lang = className.replace("lang-", "");
@@ -13,14 +13,14 @@ function CodeBlock({ className, children }) {
   return <SyntaxHighlighter language={lang}>{children}</SyntaxHighlighter>;
 }
 
-function PreBlock({ children, ...rest }) {
+export function PreBlock({ children, ...rest }) {
   if ("type" in children && children["type"] === "code") {
     return CodeBlock(children["props"]);
   }
   return <pre {...rest}>{children}</pre>;
 }
 
-function ArticleImage({ alt, imageSizes, src, title }) {
+export function ArticleImage({ alt, imageSizes, src, title }) {
   const { height, width } = imageSizes[src] || {};
   if (!height || !width) {
     return `Fehler: Bildgröße für ${src} konnte nicht ermittelt werden.`;
@@ -31,7 +31,7 @@ function ArticleImage({ alt, imageSizes, src, title }) {
   );
 }
 
-function ResponsiveImage({ alt, desktop, mobile, imageSizes, title }) {
+export function ResponsiveImage({ alt, desktop, mobile, imageSizes, title }) {
   return (
     <>
       {desktop && (

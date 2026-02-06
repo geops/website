@@ -1,8 +1,8 @@
 backend:
   name: github
   repo: geops/website
-  branch: main
-  base_url: https://geops.com/
+  branch: staging
+  base_url: https://stag.geops.com/
   auth_endpoint: api/auth
   # name: test-repo
 
@@ -711,14 +711,20 @@ collections:
         name: "cover"
         widget: "image"
       - label: "Customer"
+        hint: "Kunde"
         name: "customer"
-        widget: "text"
-        i18n: true
+        widget: "relation"
+        collection: "customer"
+        required: false
+        search_fields: ["name", "fullName"]
+        value_field: "name"
       - label: "Service"
+        hint: "Dienstleistung"
         name: "service"
         widget: "text"
         i18n: true
       - label: "Timeline"
+        hint: "Zeitraum"
         name: "timeline"
         widget: "string"
         i18n: true
@@ -742,7 +748,7 @@ collections:
             i18n: true
           - name: sections
             label: Sections
-            label_singular: 'Section'
+            label_singular: "Section"
             widget: list
             i18n: true
             required: false
@@ -777,6 +783,11 @@ collections:
                 required: false
                 default: false
                 hint: "Hebt die Section mit einem farbigen Hintergrund hervor."
+      - name: "testimonialsOnTop"
+        label: "Testimonials on Top"
+        widget: "boolean"
+        required: false
+        hint: "Testimonials werden oberhalb von den Sections angezeigt."
       - name: testimonials
         label: Testimonials
         required: false
@@ -784,10 +795,26 @@ collections:
         widget: list
         i18n: true
         fields:
-          - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
-          - { label: "Position", name: "position", widget: "string", required: false }
+          - {
+              label: "Name",
+              name: "name",
+              widget: "string",
+              hint: "First and Last",
+            }
+          - {
+              label: "Position",
+              name: "position",
+              widget: "string",
+              required: false,
+            }
           - { label: "Text", name: "text", widget: "markdown", i18n: true }
-          - { label: "Portrait", name: "portrait", widget: "image", required: false, hint: "compressed JPEG, 400px wide, 400px high" }
+          - {
+              label: "Portrait",
+              name: "portrait",
+              widget: "image",
+              required: false,
+              hint: "compressed JPEG, 400px wide, 400px high",
+            }
       - label: "Tags"
         name: "tags"
         hint: "Tags um passende Inhalte im Block *Mehr zum Thema* unter jedem Referenzprojekt-, Blog- und Solution-Artikel anzuzeigen, siehe auch [GEOPSWEB-120](https://jira.geops.ch/browse/GEOPSWEB-120)."

@@ -43,6 +43,7 @@ export default function Header({ pathByLocale }) {
   ];
   const menu = [
     { href: "/solution", title: t("solution.title") },
+    { href: "/cases", title: t("cases.title") },
     { href: "/about", title: t("about.title") },
     { href: "/blog", title: "Blog" },
     { href: t("career.path"), title: t("career.title") },

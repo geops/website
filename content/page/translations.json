@@ -95,6 +95,14 @@
       "translationPath": "/karriere",
       "title": "Career",
       "header": "Join us in the border triangle in Freiburg (D) or Olten (CH) and develop excellent solutions for transport companies, public administration and renowned international companies. You can expect an interdisciplinary, 20-person team that is a pleasure to work with."
+    },
+    "cases": {
+      "customer": "Customer",
+      "service": "Service",
+      "timeline": "Timeline",
+      "title": "Cases",
+      "header": "Explore our reference cases",
+      "description": "Data, design, code and expertise. With an eye on reality and the pulse of mobility. That is what drives us to create digital solutions that move people. The proof? Our projects. Live, scalable and in use worldwide."
     }
   },
   "de": {
@@ -189,6 +197,14 @@
       "translationPath": "/career",
       "title": "Karriere",
       "header": "Komm zu uns ins Dreiländereck nach Freiburg (D) oder Olten (CH) und entwickle mit uns exzellente Lösungen für Transportbetriebe, die öffentliche Verwaltung und nam­hafte internationale Unternehmen. Dich erwartet ein interdisziplinäres, 20-köpfiges Team, mit dem das Arbeiten Freude macht."
+    },
+    "cases": {
+      "customer": "Kunde",
+      "service": "Dienstleistung",
+      "timeline": "Zeitraum",
+      "title": "Arbeiten",
+      "header": "Entdecken Sie unsere Referenzprojekte",
+      "description": "Daten, Design, Code und Know-how. Mit Blick auf die Realität und dem Puls der Mobilität. Das ist unser Antrieb für digitale Lösungen, die bewegen. Der Beweis? Unsere Projekte. Live, skalierbar und weltweit im Einsatz."
     }
   }
 }
