@@ -25,6 +25,7 @@ export default function CustomerLogoCarousel({ customers = [] }) {
         visibleSlides={Math.max(Math.floor(width / 250), 1)}
         interval={3000}
         isPlaying
+        infinite
         lockOnWindowScroll
         naturalSlideWidth={250}
         naturalSlideHeight={250}
