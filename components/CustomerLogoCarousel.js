@@ -18,25 +18,24 @@ function useWindowSize() {
 
 export default function CustomerLogoCarousel({ customers = [] }) {
   const [width] = useWindowSize();
+  const customersWithLogos = customers.filter((c) => c.logo);
   return (
     <div className="">
       <CarouselProvider
         visibleSlides={Math.max(Math.floor(width / 250), 1)}
         interval={3000}
-        infinite
         isPlaying
         lockOnWindowScroll
         naturalSlideWidth={250}
         naturalSlideHeight={250}
-        totalSlides={customers.length}
+        totalSlides={customersWithLogos.length}
       >
         <Slider
           aria-label="Slider"
           className="overflow-hidden"
           classNameAnimation="transition ease-in-out duration-1000 h-32 w-auto"
         >
-          {customers
-            .filter((c) => c.logo)
+          {customersWithLogos
             // Shuffle logos
             .map((customer) => {
               customer.sortWeight = Math.random();
@@ -44,7 +43,6 @@ export default function CustomerLogoCarousel({ customers = [] }) {
             })
             .sort((a, b) => a.sortWeight - b.sortWeight)
             .map((customer) => {
-              console.log("customer logo:", customer);
               return (
                 <Slide
                   key={customer.name}
