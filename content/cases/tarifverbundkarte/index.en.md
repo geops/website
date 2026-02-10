@@ -32,7 +32,7 @@ content:
 
         Die neue Tarifverbundkarte basiert nicht länger auf manuell gezeichneten Inhalten, sondern nutzt stattdessen die Tarifdatenbank NOVA, das Herzstück des künftigen Preissystem ÖV Schweiz (ZPS), als zentrale Grundlage. Diese Datenbank enthält alle Informationen zur Gültigkeit von Abonnements pro Verbindung («Kanten») und Betreiber und wird routinemässig zum Fahrplanwechsel aktualisiert.
       image: /images/cases/tarifverbundkarte/divers.png
-    - imagePosition: left
+    - imagePosition: null
       highlight: false
       title: Komplexe Tarifdaten verständlich machen
       text: >-
