@@ -17,9 +17,8 @@ timeline: 2023 – 2024
 published: true
 content:
   title: "Europa auf einen Blick: unser Liniennetzplan für Direktverbindungen"
-  lead: >-
-    Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in Berlin? Ab
-    verschiedenen Schweizer Bahnhöfen bestehen direkte Tag- und
+  lead: Ein Städtetrip nach Venedig oder ein wichtiges Businessmeeting in Berlin?
+    Ab verschiedenen Schweizer Bahnhöfen bestehen direkte Tag- und
     Nachtverbindungen in europäische Grossstädte. Der Trend umweltbewusster zu
     reisen und auch auf längeren Strecken den Zug zu wählen, weckte bei der SBB
     das Bedürfnis nach einer Übersichtskarte über die direkten Zugverbindungen
@@ -28,9 +27,6 @@ content:
     Europa»](https://www.sbb.ch/de/freizeit-ferien/destinationen/staedte-laender-europa.html)
     zeigt die SBB ihren Kund:innen auf der Website nun alle wichtigen
     internationalen Verbindungen auf einen Blick.
-
-
-    <iframe src="https://maps2.trafimage.ch/ch.sbb.infrastruktur?disabled=header,footer,menu" width="100%" height="600" title="Traifmage Webkartenportal" class="block-desktop border-gray-lighter border-2" />
   sections:
     - imagePosition: bottom
       highlight: false

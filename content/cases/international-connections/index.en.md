@@ -72,19 +72,15 @@ content:
       image: /images/cases/direct-connections-to-europe-an-interactive-route-map/adobestock_1117504631_editorial_use_only.jpeg
   title: "Europe at a glance: our route map for direct connectionsmap for direct
     connections"
-  lead: >-
-    A city break in Venice or an important business meeting in Berlin? There are
-    direct day and night connections to major European cities from various Swiss
-    railway stations. The trend towards more environmentally conscious travel
-    and choosing the train even for longer journeys prompted SBB to create an
-    overview map of direct train connections to European destinations. With our
-    route map [“Direct connections to
+  lead: A city break in Venice or an important business meeting in Berlin? There
+    are direct day and night connections to major European cities from various
+    Swiss railway stations. The trend towards more environmentally conscious
+    travel and choosing the train even for longer journeys prompted SBB to
+    create an overview map of direct train connections to European destinations.
+    With our route map [“Direct connections to
     Europe”](https://www.sbb.ch/de/freizeit-ferien/destinationen/staedte-laender-europa.html),
     SBB now shows its customers all important international connections at a
     glance on its website.
-
-
-    <iframe src="https://maps2.trafimage.ch/ch.sbb.infrastruktur?disabled=header,footer,menu" width="100%" height="600" title="Traifmage Webkartenportal" class="block-desktop border-gray-lighter border-2" />
 testimonialsOnTop: true
 testimonials: []
 tags:
