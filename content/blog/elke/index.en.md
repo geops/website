@@ -1,5 +1,5 @@
 ---
-title: Faces of geOps:a portrait of Elke
+title: "Faces of geOps: a portrait of Elke"
 summary: "Elke's short interview provides exciting insights into our
   environmental projects and shows how important sustainability is to her and to
   geOps. "
