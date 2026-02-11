@@ -26,4 +26,4 @@ Aktuell haben wir das älteste Projekt von geOps, das über zehn Jahre im Einsat
 
  Ich sehe mich in den Unternehmenszielen wieder und schätze das moderne Arbeiten mit einem flexiblen Arbeitsplatz sehr. Arbeit und Privatleben lassen sich gut nach den eigenen Bedürfnissen gestalten. Dazu kommt die tolle Teamatmosphäre mit supernetten Kolleg:innen. Besonders schön finde ich, dass man die Zusammenarbeit aktiv mitgestalten kann und eigene Ideen willkommen sind.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/6.png)
+![](/images/blog/faces-of-geops-a-portrait-of-elke/unbenannt-5.png)
