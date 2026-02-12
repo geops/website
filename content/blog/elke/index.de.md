@@ -26,4 +26,6 @@ Aktuell haben wir das älteste Projekt von geOps, das über zehn Jahre im Einsat
 
  Ich sehe mich in den Unternehmenszielen wieder und schätze das moderne Arbeiten mit einem flexiblen Arbeitsplatz sehr. Arbeit und Privatleben lassen sich gut nach den eigenen Bedürfnissen gestalten. Dazu kommt die tolle Teamatmosphäre mit supernetten Kolleg:innen. Besonders schön finde ich, dass man die Zusammenarbeit aktiv mitgestalten kann und eigene Ideen willkommen sind.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/testimonial-5000-x-5000-px-.png)
+![](/images/blog/faces-of-geops-a-portrait-of-elke/elke.png)
+
+\*﻿ Das MobilSiegel ist eine Anerkennung und Auszeichnung für Unternehmen und Organisationen, die sich aktiv für klimafreundliche und nachhaltige Mobilität engagieren. Dabei geht es vor allem darum, wie betriebliche Mobilität, also etwa der Arbeitsweg von Mitarbeitenden oder dienstliche Fahrten, umweltfreundlicher gestaltet wird.

@@ -1,5 +1,5 @@
 ---
-title: Faces of geOps:a portrait of Elke
+title: "Faces of geOps: a portrait of Elke"
 summary: "Elke's short interview provides exciting insights into our
   environmental projects and shows how important sustainability is to her and to
   geOps. "
@@ -30,4 +30,6 @@ We have completely rebuilt geOps' oldest project, which has been in use for over
 
  I identify with the company's goals and really appreciate the modern working environment with a flexible workplace. It's easy to balance work and private life according to your own needs. Added to this is the great team atmosphere with super-friendly colleagues. I particularly like the fact that you can actively shape the way we work together and that your own ideas are welcome.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/testimonial-5000-x-5000-px-.png)
+![](/images/blog/faces-of-geops-a-portrait-of-elke/elke.png)
+
+\*﻿ The MobilSiegel is a recognition and award for companies and organisations that are actively committed to climate-friendly and sustainable mobility. The main focus is on how to make business mobility, such as employees' commutes or business trips, more environmentally friendly.
