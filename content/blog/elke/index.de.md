@@ -31,5 +31,3 @@ Aktuell haben wir das älteste Projekt von geOps, das über zehn Jahre im Einsat
 ![](/images/blog/faces-of-geops-a-portrait-of-elke/testimonial-5000-x-5000-px-.png)
 
 \*﻿ Das MobilSiegel ist eine Anerkennung und Auszeichnung für Unternehmen und Organisationen, die sich aktiv für klimafreundliche und nachhaltige Mobilität engagieren. Dabei geht es vor allem darum, wie betriebliche Mobilität, also etwa der Arbeitsweg von Mitarbeitenden oder dienstliche Fahrten, umweltfreundlicher gestaltet wird.
-
-<!--EndFragment-->
