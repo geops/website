@@ -18,7 +18,7 @@ Wer steckt hinter den Projekten von geOps? Unsere Interviewreihe „Faces of geO
 
 Nachhaltigkeit ist mir persönlich sehr wichtig. Ich bin froh, Teil eines Unternehmens zu sein, dessen Projekte den nachhaltigen Gedanken unterstützen und fördern. In meiner Freizeit bin ich gerne im Wald unterwegs. Deshalb macht mich die [Tree App](https://www.tree-app.ch/) als Unterstützung für den zukunftsorientierten Waldbau besonders stolz. Mit Technologie ein nachhaltigeres Leben zu vereinfachen und für alle zugänglich zu machen, ist mir ein echtes Anliegen.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg "Elke (Mitte): Im Jahr 2023 erhielten wir das MobilSiegel für nachhaltige betriebliche Mobilität.")
+![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg "Elke (Mitte) nahm 2023 das MobilSiegel für nachhaltige betriebliche Mobilität für geOps entgegen.")
 
 #### A**n welchem Projekt arbeitest du gerade, das dich besonders begeistert?**
 
