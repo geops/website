@@ -22,8 +22,6 @@ Who is behind the geOps projects? Our interview series “Faces of geOps” prov
 
 Sustainability is very important to me personally. I am happy to be part of a company whose projects support and promote sustainable thinking. In my free time, I enjoy spending time in the forest. That's why I'm particularly proud of the [Tree App](https://www.tree-app.ch/), which supports future-oriented forestry. Using technology to make sustainable living easier and accessible to everyone is something I feel very strongly about.
 
-![Elke accepts the MobilSiegel 2023 award for geOps](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg)
-
 #### **What project are you currently working on that you're particularly excited about?**
 
 We have completely rebuilt geOps' oldest project, which has been in use for over ten years and which I have been involved with for quite some time. Enabling almost 20 customers to switch to the latest technology is super exciting. The work is extremely varied. It covers everything from layout and user experience to customer communication, technical implementation, data management, and logic.
@@ -32,6 +30,6 @@ We have completely rebuilt geOps' oldest project, which has been in use for over
 
  I identify with the company's goals and really appreciate the modern working environment with a flexible workplace. It's easy to balance work and private life according to your own needs. Added to this is the great team atmosphere with super-friendly colleagues. I particularly like the fact that you can actively shape the way we work together and that your own ideas are welcome.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/testimonial-5000-x-5000-px-.png)
+![](/images/blog/faces-of-geops-a-portrait-of-elke/elke.png)
 
 \*﻿ The MobilSiegel is a recognition and award for companies and organisations that are actively committed to climate-friendly and sustainable mobility. The main focus is on how to make business mobility, such as employees' commutes or business trips, more environmentally friendly.

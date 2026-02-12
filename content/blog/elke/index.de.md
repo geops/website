@@ -18,8 +18,6 @@ Wer steckt hinter den Projekten von geOps? Unsere Interviewreihe „Faces of geO
 
 Nachhaltigkeit ist mir persönlich sehr wichtig. Ich bin froh, Teil eines Unternehmens zu sein, dessen Projekte den nachhaltigen Gedanken unterstützen und fördern. In meiner Freizeit bin ich gerne im Wald unterwegs. Deshalb macht mich die [Tree App](https://www.tree-app.ch/) als Unterstützung für den zukunftsorientierten Waldbau besonders stolz. Mit Technologie ein nachhaltigeres Leben zu vereinfachen und für alle zugänglich zu machen, ist mir ein echtes Anliegen.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg "2023 nimmt Elke das MobilSiegel 2023 für geOps entgegen. Das MobilSiegel ist eine Anerkennung und Auszeichnung für Unternehmen und Organisationen, die sich aktiv für klimafreundliche und nachhaltige Mobilität engagieren. Dabei geht es vor allem darum, wie betriebliche Mobilität, also etwa der Arbeitsweg von Mitarbeitenden oder dienstliche Fahrten, umweltfreundlicher gestaltet wird.")
-
 #### A**n welchem Projekt arbeitest du gerade, das dich besonders begeistert?**
 
 Aktuell haben wir das älteste Projekt von geOps, das über zehn Jahre im Einsatz war und ich schon länger begleite, komplett neu aufgebaut. Für fast 20 Kund:innen nun die Umstellung auf die neueste Technologie zu ermöglichen, ist superspannend. Die Arbeit ist extrem abwechslungsreich, von Layout und User Experience über Kundenkommunikation bis hin zu technischer Umsetzung, Datenmanagement und Logik ist alles dabei. 
@@ -28,6 +26,6 @@ Aktuell haben wir das älteste Projekt von geOps, das über zehn Jahre im Einsat
 
  Ich sehe mich in den Unternehmenszielen wieder und schätze das moderne Arbeiten mit einem flexiblen Arbeitsplatz sehr. Arbeit und Privatleben lassen sich gut nach den eigenen Bedürfnissen gestalten. Dazu kommt die tolle Teamatmosphäre mit supernetten Kolleg:innen. Besonders schön finde ich, dass man die Zusammenarbeit aktiv mitgestalten kann und eigene Ideen willkommen sind.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/testimonial-5000-x-5000-px-.png)
+![](/images/blog/faces-of-geops-a-portrait-of-elke/elke.png)
 
 \*﻿ Das MobilSiegel ist eine Anerkennung und Auszeichnung für Unternehmen und Organisationen, die sich aktiv für klimafreundliche und nachhaltige Mobilität engagieren. Dabei geht es vor allem darum, wie betriebliche Mobilität, also etwa der Arbeitsweg von Mitarbeitenden oder dienstliche Fahrten, umweltfreundlicher gestaltet wird.
