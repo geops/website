@@ -26,6 +26,6 @@ Aktuell haben wir das älteste Projekt von geOps, das über zehn Jahre im Einsat
 
  Ich sehe mich in den Unternehmenszielen wieder und schätze das moderne Arbeiten mit einem flexiblen Arbeitsplatz sehr. Arbeit und Privatleben lassen sich gut nach den eigenen Bedürfnissen gestalten. Dazu kommt die tolle Teamatmosphäre mit supernetten Kolleg:innen. Besonders schön finde ich, dass man die Zusammenarbeit aktiv mitgestalten kann und eigene Ideen willkommen sind.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg "Elke (Mitte) und Uli (rechts): Im Jahr 2023 erhielten wir das MobilSiegel für nachhaltige betriebliche Mobilität.")
+![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg "Elke (Mitte): Im Jahr 2023 erhielten wir das MobilSiegel für nachhaltige betriebliche Mobilität.")
 
 ![](/images/blog/faces-of-geops-a-portrait-of-elke/testimonial-5000-x-5000-px-.png)
