@@ -5,7 +5,7 @@ summary: A city break in Venice or an important business meeting in Berlin?
   various Swiss railway stations. The trend towards more environmentally
   conscious travel and choosing the train even for longer distances prompted SBB
   to create an overview map of direct train connections to European
-  destinations. With our route map ‘Direct connections to Europe’, SBB now shows
+  destinations. With our route map "Direct connections to Europe", SBB now shows
   its customers all important international connections at a glance on its
   website.
 slug: international-connections
@@ -37,7 +37,7 @@ content:
 
 
         For the growing importance of night connections, there is also a separate map with our Darkstyle base map in the background.
-      image: /images/cases/international-connections/int1_transp_klein.png
+      image: /images/cases/direct-connections-to-europe-an-interactive-route-map/int_verbind.jpg
     - imagePosition: bottom
       highlight: false
       title: "Flexible, precise and automated: user-friendly data updating"
