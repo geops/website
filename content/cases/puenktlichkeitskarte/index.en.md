@@ -1,9 +1,9 @@
 ---
-title: Kommt mein Zug denn auch wirklich pünktlich?
-summary: Live Maps werden als eine wertvolle Informationsquelle für Reisende
-  eingesetzt. Sie können aber auch als Übersicht für den aktuellen Zustand des
-  öV-Betriebs genutzt werden.
-slug: puenktlichkeitskarte
+title: Will my train really be on time?
+summary: Live maps are used as a valuable source of information for travelers.
+  However, they can also be used to provide an overview of the current status of
+  public transport operations.
+slug: punctualitymap
 gridImage: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/adobestock_310709156_editorial_use_only_2.jpeg
 weight: 7
 cover: /images/cases/puenktlichkeitskarte/screenshot-2025-09-04-140246.png
