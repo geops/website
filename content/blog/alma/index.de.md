@@ -15,6 +15,8 @@ N﻿ach längerer Vorbereitungszeit und mehr als einem Jahr Programmieren hatten
 
 *Altlast4Web* war seit mehr als 15 Jahren bei zahlreichen kantonalen Ämtern, Bundesbehörden und dem Fürstentum Liechtenstein als die zentrale Software-Lösung für das Management des Katasters belasteter Standorte KbS im Einsatz. Wir hatten zwar ständig Updates ausgeführt, ein weitgehendes Refactoring hatte aber nie stattgefunden. Dass 15 Jahre alte Frontend-Technologien überhaupt noch funktionierten, war daher schon ein kleines Wunder. Allerdings wurde die Wartung der Software auch immer aufwändiger, so dass irgendwann der Punkt kam, an dem wir vor allem regelmässige sicherheitsrelevante Updates nicht mehr guten Gewissens versprechen konnten. 
 
+![](/images/blog/alma-future-oriented-management-of-contaminated-sites/divers-leinwände-querformat-1-.png)
+
 ## Gemeinsam konzipiert
 
 So begann anfangs 2023 die Konzeption für eine komplett neue Anwendung. Der Fokus lag dabei auf neuen Technologien, einem moderneren UX und der Berücksichtigung aktueller Sicherheitsanforderungen. Die Kernfunktionen von *Altlast4Web* hatten sich dagegen so gut bewährt, dass sie – in modernisierter Form, im Prinzip aber unverändert – übernommen werden sollten. Während der Konzeption wie auch bei der nachfolgenden Entwicklung legten wir immer grossen Wert auf eine enge Zusammenarbeit mit allen beteiligten Ämtern. So erfolgte die gesamte Anforderungsspezifikation kollaborativ in einem Wiki, auf das alle Beteiligten Zugriff hatten. Im Rahmen regelmässiger Treffen einer Kerngruppe und gelegentlicher Treffen aller Beteiligten konnten wir sicherstellen, dass die meisten Erwartungen an die Software Berücksichtigung fanden. Im gleichen Rahmen konnten wir auch schnell und effizient die Finanzierung des gesamten Projektes entwickeln.
@@ -31,7 +33,3 @@ Weitere Informationen zu *alma* sind auf der [eigenständigen Website](https://
 
 > «*Wir schätzen die Zusammenarbeit mit geOps im Zuge der Implementierung der Anwendung zur Verwaltung der belasteten Standorte des Kantons sehr. Unsere Anliegen und Anforderungen wurden dabei dank der konstruktiven und unkomplizierten Kommunikation immer schnell umgesetzt.*»  \
 > – Eva Braxmaier, Kanton Fribourg
->
->
->
-> <!--EndFragment-->

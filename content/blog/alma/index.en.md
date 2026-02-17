@@ -11,7 +11,7 @@ tags:
   - environment
   - geops
 frontpage: true
-frontpageImage: /images/blog/alma-future-oriented-management-of-contaminated-sites/alma_logo.png
+frontpageImage: /images/blog/alma-future-oriented-management-of-contaminated-sites/intelligente-anschlusssteuerung.png
 frontpageWeight: 1
 published: true
 ---
