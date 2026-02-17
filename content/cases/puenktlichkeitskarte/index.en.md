@@ -16,8 +16,7 @@ content:
     - imagePosition: bottom
       highlight: false
       title: Strong visualization in extreme situations
-      text: >-
-        A good example of this application is the [punctuality map for
+      text: A good example of this application is the [punctuality map for
         Switzerland](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=953651.78&y=5998579.74&z=11.049958158687245).
         It shows exactly which vehicles are running on schedule, which are on
         time, and which are canceled. This provides a comprehensive overview of
@@ -25,9 +24,6 @@ content:
         circumstances, such as the snowfall on January 15, 2021, the full extent
         of the disruption is visible. We know of several CEOs at transport
         companies who check this map first thing every morning.
-
-
-        ![]()
       image: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/20210125_vbz_flockdown.jpg
     - imagePosition: bottom
       highlight: false
