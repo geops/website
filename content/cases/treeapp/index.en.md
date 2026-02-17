@@ -25,7 +25,7 @@ content:
         und Standorttypen analysiert. Daraus werden gestützt auf aktuelle
         Forschung und Zukunftsszenarien Baumartenempfehlungen abgeleitet.
       image: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-leinwände-querformat-1-.png
-    - imagePosition: right
+    - imagePosition: null
       highlight: false
       title: Empfehlungen auf einen Blick
       text: "Die App klassifiziert Baumarten in drei Kategorien: empfohlen, bedingt
@@ -33,7 +33,7 @@ content:
         auch Faktoren wie heimisches Vorkommen oder Krankheitsrisiken. So
         erhalten Waldbewirtschaftende eine fundierte, leicht verständliche
         Grundlage für langfristige Entscheidungen."
-      image: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/tree-app.png
+      image: ""
     - imagePosition: bottom
       highlight: false
       title: Mobiler Einsatz in der Praxis
