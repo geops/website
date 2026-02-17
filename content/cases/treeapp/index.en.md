@@ -6,7 +6,7 @@ summary: Die Eidgenössische Forschungsanstalt WSL stellt mit der Tree-App eine
   umgesetzt. Die App ist wissenschaftlich fundiert, intuitiv nutzbar und direkt
   im Wald einsetzbar.
 slug: treeapp
-gridImage: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/treeapp_grid.png
+gridImage: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-leinwände-querformat-800-x-800-px-.png
 weight: 14
 cover: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/screenshot-2025-09-10-143044.png
 customer: WSL
@@ -24,8 +24,8 @@ content:
         Standort bestimmen, worauf die App klimatische Bedingungen, Höhenlage
         und Standorttypen analysiert. Daraus werden gestützt auf aktuelle
         Forschung und Zukunftsszenarien Baumartenempfehlungen abgeleitet.
-      image: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-3-.png
-    - imagePosition: right
+      image: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-leinwände-querformat-1-.png
+    - imagePosition: null
       highlight: false
       title: Empfehlungen auf einen Blick
       text: "Die App klassifiziert Baumarten in drei Kategorien: empfohlen, bedingt
@@ -33,7 +33,7 @@ content:
         auch Faktoren wie heimisches Vorkommen oder Krankheitsrisiken. So
         erhalten Waldbewirtschaftende eine fundierte, leicht verständliche
         Grundlage für langfristige Entscheidungen."
-      image: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/tree-app.png
+      image: ""
     - imagePosition: bottom
       highlight: false
       title: Mobiler Einsatz in der Praxis
@@ -45,10 +45,8 @@ content:
         erkennt die App den Standorttyp automatisch."
       image: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/tree-app_gespeicherte_nutzerdaten-3-.webp
   title: Tree-App - eine mobil nutzbare Webapplikation für die Waldbewirtschaftenden
-  lead: >-
-    
-
-    ![](/images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-2-.png)
+  lead: "![](/images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder\
+    /divers-leinwände-querformat-2-.png)"
 tags:
   - boden4web
   - environment
