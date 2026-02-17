@@ -46,7 +46,7 @@ content:
 
 
         Für die wachsende Bedeutung der Nachtverbindungen gibt es zudem eine [separate Karte](https://www.sbb.ch/de/freizeit-ferien/europa/nachtzug.html) mit unserer Darkstyle-Basiskarte im Hintergrund.
-      image: /images/cases/international-connections/int1_transp_klein.png
+      image: /images/cases/direct-connections-to-europe-an-interactive-route-map/int_verbind.jpg
     - imagePosition: bottom
       highlight: false
       title: "Flexibel, präzise und automatisiert: Nutzerfreundliche

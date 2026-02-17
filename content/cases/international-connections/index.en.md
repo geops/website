@@ -37,7 +37,7 @@ content:
 
 
         For the growing importance of night connections, there is also a separate map with our Darkstyle base map in the background.
-      image: /images/cases/international-connections/int1_transp_klein.png
+      image: /images/cases/direct-connections-to-europe-an-interactive-route-map/int_verbind.jpg
     - imagePosition: bottom
       highlight: false
       title: "Flexible, precise and automated: user-friendly data updating"
