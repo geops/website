@@ -37,6 +37,7 @@ Du musst nicht alles können. Aber das hier sollte dich ansprechen:
 * Freude an durchdachten Lösungen statt schnellen Workarounds
 * Teamfähigkeit, klare Kommunikation und eine zuverlässige, strukturierte Arbeitsweise
 * Interesse an Themen wie öffentlicher Verkehr, Mobilität, Geodaten oder Umwelt
+* Du verfügst über sehr gute Deutschkenntnisse in Wort und Schrift, Englischkenntnisse sind von Vorteil
 
 ## Warum du gerne bei uns arbeiten wirst
 
