@@ -56,7 +56,7 @@ content:
     Pass can use geOps' interactive map for seamless orientation, including
     panoramic routes, points of interest and continuous mobility by train, bus,
     boat and mountain railways.
-testimonialsOnTop: true
+testimonialsOnTop: false
 testimonials:
   - text: For our digital map solution, it was crucial to implement a technically
       sound, future-proof and low-maintenance solution. In geOps, we found the
