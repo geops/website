@@ -21,7 +21,7 @@ content:
     direkt im Wald einsetzbar.
 
 
-    ![](/images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-2-.png)
+    ![](/images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-leinwände-querformat-2-.png)
   sections:
     - imagePosition: bottom
       highlight: false
@@ -32,7 +32,7 @@ content:
         Standort bestimmen, worauf die App klimatische Bedingungen, Höhenlage
         und Standorttypen analysiert. Daraus werden gestützt auf aktuelle
         Forschung und Zukunftsszenarien Baumartenempfehlungen abgeleitet.
-      image: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-3-.png
+      image: /images/cases/digitale-entscheidungshilfe-für-klimaangepasste-wälder/divers-leinwände-querformat-1-.png
     - imagePosition: right
       highlight: false
       title: Empfehlungen auf einen Blick
