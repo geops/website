@@ -38,8 +38,6 @@ Du musst nicht alles können. Aber das hier sollte dich ansprechen:
 * Teamfähigkeit, klare Kommunikation und eine zuverlässige, strukturierte Arbeitsweise
 * Interesse an Themen wie öffentlicher Verkehr, Mobilität, Geodaten oder Umwelt
 
-
-
 ## Warum du gerne bei uns arbeiten wirst
 
 * Sicherer Arbeitsplatz in einem stetig wachsenden Unternehmen
@@ -52,10 +50,7 @@ Du musst nicht alles können. Aber das hier sollte dich ansprechen:
 * Gute Verdienstmöglichkeiten und attraktive Zusatzleistungen
 * Bio-Obst, Kaffee und regelmässige Team-Events
 
-
-
 ## Das klingt nach deinem Setup?
 
 Perfekt. Danke freuen wir uns auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com). Optional freuen wir uns ausserdem über Arbeitsproben oder Codebeispiele, die uns aufzeigen, wie du arbeitest. \
-\
 Wenn du noch Fragen hast, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
