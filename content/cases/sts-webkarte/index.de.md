@@ -20,7 +20,7 @@ content:
     nahtlose Orientierung, inklusive Panoramarouten, Points of Interest und der
     durchgängigen Mobilität mit Bahn, Bus, Schiff und Bergbahnen.
   sections:
-    - imagePosition: bottom
+    - imagePosition: top
       highlight: false
       title: Karte mit Panoramarouten und POIs
       text: Die Swiss Travel Pass-Karte

@@ -16,7 +16,7 @@ timeline: Ongoing since
 published: true
 content:
   sections:
-    - imagePosition: bottom
+    - imagePosition: top
       highlight: false
       title: Map with panoramic routes and points of interest
       text: The Swiss Travel Pass map on
