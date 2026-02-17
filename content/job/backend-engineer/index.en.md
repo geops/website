@@ -52,4 +52,4 @@ Du musst nicht alles können. Aber das hier sollte dich ansprechen:
 
 ## Das klingt nach deinem Setup?
 
-Perfekt. Danke freuen wir uns auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com). Optional freuen wir uns ausserdem über Arbeitsproben oder Codebeispiele, die uns aufzeigen, wie du arbeitest.
+Perfekt. Dann freuen wir uns auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com). Optional freuen wir uns ausserdem über Arbeitsproben oder Codebeispiele, die uns aufzeigen, wie du arbeitest.
