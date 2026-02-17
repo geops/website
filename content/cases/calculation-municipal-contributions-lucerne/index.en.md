@@ -98,6 +98,7 @@ testimonials:
       transport companies.
     position: Public transport finance specialist, VVL
     name: Silvie Gernet
+    portrait: /images/cases/greater-efficiency-through-digitalisation-calculation-of-municipal-contributions-to-public-transport-in-the-canton-of-lucerne/divers-leinwände-querformat-.png
 tags:
   - processes
 ---
