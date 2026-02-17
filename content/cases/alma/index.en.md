@@ -1,8 +1,8 @@
 ---
-title: Die digitale Lösung für belastete Standorte in der Schweiz.
-summary: Mit alma steht Kantonen und Bundesämtern eine moderne
-  Open-Source-Software zur Verfügung, um den Kataster belasteter Standorte (KbS)
-  effizient, sicher und nachhaltig zu führen.
+title: The digital solution for contaminated sites in Switzerland.
+summary: alma provides cantons and federal offices with modern open-source
+  software for managing the register of contaminated sites (KbS) efficiently,
+  securely, and sustainably.
 slug: alma
 gridImage: /images/cases/alma/alma-ubersicht.png
 gridWidthFull: true
