@@ -9,7 +9,7 @@ slug: tarifverbundkarte
 gridImage: /images/cases/tarifverbundkarte/verbund_uebersicht.png
 weight: 13
 cover: /images/cases/tarifverbundkarte/tarifverbundkarte_01.webp
-customer: SBB
+customer: SBB CFF FFC (PTM)
 service: xy
 timeline: "2025"
 published: true
