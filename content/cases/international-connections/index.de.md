@@ -66,7 +66,7 @@ content:
 
 
         Die Bearbeiter:innen können so mit wenig Aufwand neue Verbindungen erfassen oder bestehende Verbindungen bearbeiten. Durch die Pflege der Strecken in Cartaro haben sie maximale Flexibilität bei den Einträgen und profitieren gleichzeitig von der automatisierten Generierung der Karte auf Knopfdruck.
-      image: /images/cases/international-connections/int2_transp_klein.png
+      image: /images/cases/direct-connections-to-europe-an-interactive-route-map/int_v.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: noch mehr Service für Bahnreisende"

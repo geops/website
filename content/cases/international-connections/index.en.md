@@ -56,7 +56,7 @@ content:
 
 
         This allows editors to add new connections or edit existing ones with minimal effort. By maintaining the routes in Cartaro, they have maximum flexibility with their entries and at the same time benefit from the automated generation of the map at the touch of a button.
-      image: /images/cases/international-connections/int2_transp_klein.png
+      image: /images/cases/direct-connections-to-europe-an-interactive-route-map/int_v.png
     - imagePosition: bottom
       highlight: true
       title: "Looking ahead: even more service for rail passengers"
