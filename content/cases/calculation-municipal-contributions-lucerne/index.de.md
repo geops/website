@@ -97,4 +97,5 @@ testimonials:
       nicht nur bei uns, sondern auch bei den Transportunternehmen.
     position: Fachspezialistin Finanzen öV, VVL
     name: Silvie Gernet
+    portrait: /images/cases/greater-efficiency-through-digitalisation-calculation-of-municipal-contributions-to-public-transport-in-the-canton-of-lucerne/divers-leinwände-querformat-.png
 ---
