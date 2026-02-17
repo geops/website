@@ -81,12 +81,12 @@ testimonialsOnTop: true
 testimonials:
   - name: Dominik Mosimann
     position: SBB (2025)
-    text: "*Wir schätzen die langjährige und konstruktive Zusammenarbeit sowie die
+    text: Wir schätzen die langjährige und konstruktive Zusammenarbeit sowie die
       schnelle Reaktionszeit und Flexibilität der geOps AG. Die zuständigen
       Personen denken mit und hinterfragen die gewünschten Anforderungen und
       deren Umsetzung auf eine lösungsorientierte Weise. Dadurch arbeiten wir
       täglich mit qualitativ hochwertigen Produkten von geOps. Die Betreuung ist
       stets verlässlich und die Zusammenarbeit ist in allen Belangen angenehm
-      und unkompliziert.*"
+      und unkompliziert.
     portrait: /images/cases/insa-–-indoor-station-application/divers-leinwände-querformat-.png
 ---
