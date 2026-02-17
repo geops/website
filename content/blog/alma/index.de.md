@@ -1,39 +1,37 @@
 ---
 title: "alma: zukunftsweisendes Management belasteter Standorte"
-summary: alma ist eine moderne, webbasierte Open-Source-Software für das
-  Management belasteter Standorte. Sie vereint zentrale Datenverwaltung,
-  integrierte Geodaten-Bearbeitung, flexible Geschäftsprozesse, automatisierte
-  Reports und Schnittstellen. Gemeinsam von Ämtern entwickelt, bietet alma
-  Effizienz, Sicherheit und digitale Souveränität.
+summary: "Nach längerer Vorbereitungszeit und mehr als einem Jahr Programmieren
+  hatten wir es im September2025 geschafft. Mit dem Kanton Schwyz konnten wir
+  das erste Amt auf die neue Software alma als Nachfolgelösung von Altlast4Web
+  umstellen. "
 created: 2026-02-05
 slug: alma
 frontpage: true
 published: true
 ---
-***alma* – unser brandneues Nachfolgeprodukt für das Kataster belasteter Standorte**
+N﻿ach längerer Vorbereitungszeit und mehr als einem Jahr Programmieren hatten wir es im September 2025 geschafft. Mit dem Kanton Schwyz konnten wir das erste Amt auf die neue Software ***alma*** als Nachfolgelösung von *Altlast4Web* umstellen.
 
-Nach jahrelanger Erfahrung mit Altlasten-Software haben wir *alma* komplett neu entwickelt: moderner, effizienter und noch intuitiver. Behörden profitieren nun von einer webbasierten Lösung, die Daten, Geodaten, Prozesse und Reports an einem Ort vereint und das als Open-Source-Projekt gemeinsam mit Partnern aus Bund und Kantonen.
+## B﻿ewährtes neu gedacht
 
-## Zentrale Datenverwaltung und Geodaten-Bearbeitung
+*Altlast4Web* war seit mehr als 15 Jahren bei zahlreichen kantonalen Ämtern, Bundesbehörden und dem Fürstentum Liechtenstein als die zentrale Software-Lösung für das Management des Katasters belasteter Standorte KbS im Einsatz. Wir hatten zwar ständig Updates ausgeführt, ein weitgehendes Refactoring hatte aber nie stattgefunden. Dass 15 Jahre alte Frontend-Technologien überhaupt noch funktionierten, war daher schon ein kleines Wunder. Allerdings wurde die Wartung der Software auch immer aufwändiger, so dass irgendwann der Punkt kam, an dem wir vor allem regelmässige sicherheitsrelevante Updates nicht mehr guten Gewissens versprechen konnten. 
 
-*alma* erlaubt die vollständige Erfassung aller relevanten Sachdaten eines Standorts: Grunddaten, Schutzgüter, Umweltdaten und historische Einträge. Dank der integrierten Geodaten-Bearbeitung lassen sich Standorte ohne externe GIS-Software direkt digitalisieren, Geometrien bearbeiten und auf Karten visualisieren. Tools wie Snapping, Tracing, Verschieben oder Import/Export von Geodateien ermöglichen präzises Arbeiten und automatisierte Qualitätssicherung.
+## Gemeinsam konzipiert
 
-## Effiziente Geschäftsprozesse und Aufgabensteuerung
+So begann anfangs 2023 die Konzeption für eine komplett neue Anwendung. Der Fokus lag dabei auf neuen Technologien, einem moderneren UX und der Berücksichtigung aktueller Sicherheitsanforderungen. Die Kernfunktionen von *Altlast4Web* hatten sich dagegen so gut bewährt, dass sie – in modernisierter Form, im Prinzip aber unverändert – übernommen werden sollten. Während der Konzeption wie auch bei der nachfolgenden Entwicklung legten wir immer grossen Wert auf eine enge Zusammenarbeit mit allen beteiligten Ämtern. So erfolgte die gesamte Anforderungsspezifikation kollaborativ in einem Wiki, auf das alle Beteiligten Zugriff hatten. Im Rahmen regelmässiger Treffen einer Kerngruppe und gelegentlicher Treffen aller Beteiligten konnten wir sicherstellen, dass die meisten Erwartungen an die Software Berücksichtigung fanden. Im gleichen Rahmen konnten wir auch schnell und effizient die Finanzierung des gesamten Projektes entwickeln.
 
-Die Software bietet eine flexible Geschäftskontrolle, die Aufgaben und Prozesse strukturiert abbildet. Ob Fristen, Zuständigkeiten, Dokumentenverknüpfungen oder Serienbriefe: Alle Schritte lassen sich individuell steuern und eng mit den Standortdaten verknüpfen. Auch komplexe Prozesse wie Bewertung, Sanierung oder Inhaberorientierung können automatisiert ablaufen.
+## Stetig ausgerollt
 
-## Berichte und Schnittstellen
+Nach dem Go Live beim Amt für Umwelt des Kanton Schwyz im September 2025 wird *alma* derzeit bei weiteren Ämtern ausgerollt. Der Umstieg von *Altlast4Web* auf *alma* ist relativ einfach machbar und erfordert sowohl bei geOps wie auch bei den Fachpersonen im Amt wenig Aufwand. Erfreulicherweise sind mit der Entwicklung von *alma* noch weitere Kantone zur Community dazugestossen. Diese von unterschiedlichsten Bestands-Lösungen auf *alma* zu migrieren, ist unter Umständen dann schon wesentlich aufwändiger. Gemäss der aktuellen Planung sollen bis Ende 2026 alle derzeit 18 Ämter auf die neue Lösung migriert sein.
 
-*alma* generiert Reporte und Datenblätter direkt aus der Datenbank. Über Schnittstellen können Daten automatisiert exportiert, an GIS-Systeme übergeben oder gesetzlich geforderte Formate wie INTERLIS (MGDM, ÖREB) bereitgestellt werden. Die Anbindung an das Bundesamt für Umwelt (BAFU) oder öffentliche Geoportale ist nahtlos möglich. 
+## Allseits zufrieden
 
-## Sicherheit und Benutzerverwaltung
+Die Umsetzung von *alma* stellt für alle Beteiligten eine Win-Win-Situation dar. Die gemeinsamen Erfahrungen mit der Vorgängerlösung *Altlast4Web* in Kombination mit dem kollaborativen Ansatz bei der Spezifikation der neuen Lösung führten zu einer abgestimmten Liste an Features, die für alle notwendig und sinnvoll waren. Die Gesamtinvestition in das Projekt konnte so optimal aufgeteilt werden und alle Beteiligten konnten eine optimierte Lösung zu einem Bruchteil der Kosten einer Individualentwicklung erwarten. Auch bei den administrativen Aufgaben, die bei jedem Amt bei der Beschaffung einer Software-Lösung anfallen, konnten Synergien genutzt werden. Möglich war dieser ungewöhnliche Ansatz einerseits, weil *alma* von vornherein als Open-Source-Lösung mit dem Versprechen konzipiert war, dass alle Entwicklungen allen Beteiligten zur Verfügung stehen werden. Andererseits wäre das Projekt kaum möglich gewesen, wenn wir von geOps nicht über viele Jahre hinweg durch unsere engagierte, effiziente und transparente Zusammenarbeit die Basis für den einen oder anderen Vertrauensvorschuss geschaffen hätten. Somit möchten wir diesen Beitrag mit einem Dank an alle Beteiligten von *alma* abschliessen. Nur gemeinsam war es möglich, dieses Leuchtturmprojekt für digitale Souveränität und Nachhaltigkeit in der öffentlichen Verwaltung zu realisieren.
 
-*alma* erfüllt höchste IT-Sicherheitsstandards und Datenschutzrichtlinien. Benutzerkonten und Berechtigungen lassen sich flexibel verwalten, SSO-Anbindungen sind möglich. Automatisierte Security-Scans und optionale Audits garantieren eine sichere Nutzung.
+Weitere Informationen zu *alma* sind auf der [eigenständigen Website](https://alma-os.ch/ "https\://alma-os.ch/") zu finden.
 
-## Gemeinsam entwickelt und Open Source
-
-*alma* wird **gemeinschaftlich von Kantonen, Bundesbehörden und dem Fürstentum Liechtenstein entwickelt**. Als Open-Source-Software sorgt sie für Transparenz, reduziert Abhängigkeiten von Lieferanten und fördert digitale Souveränität und Nachhaltigkeit. Neue Partner sind jederzeit willkommen – die Weiterentwicklung erfolgt transparent und nach gemeinsamen Prioritäten.
-
-**Fazit:** alma ist nicht nur ein Werkzeug zur Verwaltung belasteter Standorte, sondern eine **zukunftsorientierte, effiziente und sichere Lösung**, die Behörden bei der Umsetzung gesetzlicher Vorgaben unterstützt.
-
-Hier gehts zur [Demo](https://demo.alma-os.ch/auth/realms/alma/protocol/openid-connect/auth?response_type=code&client_id=alma-backend&redirect_uri=https%3A%2F%2Fdemo.alma-os.ch%2Fapi%2Fauth%2Fcallback%2F&username=test@alma-os.ch&password=demo2024) oder der [Projektwebseite](https://alma-os.ch/de).
+> «*Wir schätzen die Zusammenarbeit mit geOps im Zuge der Implementierung der Anwendung zur Verwaltung der belasteten Standorte des Kantons sehr. Unsere Anliegen und Anforderungen wurden dabei dank der konstruktiven und unkomplizierten Kommunikation immer schnell umgesetzt.*»  \
+> – Eva Braxmaier, Kanton Fribourg
+>
+>
+>
+> <!--EndFragment-->
