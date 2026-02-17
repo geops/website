@@ -54,7 +54,7 @@ content:
         mobile Integration, personalisierte Tourvorschläge oder dynamische
         Zusatzinfos weiterentwickelt werden.
       image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
-testimonialsOnTop: true
+testimonialsOnTop: false
 testimonials:
   - text: Für unsere digitale Kartenlösung war es entscheidend, eine technisch
       saubere, zukunftsfähige und wartungsarme Lösung umzusetzen. Mit geOps
