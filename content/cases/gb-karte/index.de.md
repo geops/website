@@ -7,7 +7,7 @@ summary: Gemeinsam mit Alliance SwissPass haben wir eine vollautomatisierte
   und bedienungsfreundlich visualisiert.
 slug: gb-karte
 gridWidthFull: true
-customer: SBB CFF FFS
+customer: Allianz Swiss Pass
 service: Automatisierte Kartenlösung, Datenintegration, UX/UI-Konzeption,
   Responsives Frontend
 timeline: laufend seit 2022
