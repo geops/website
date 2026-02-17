@@ -1,92 +1,119 @@
 ---
-title: Smarte Live-Infos für S-Bahn-Fahrgäste in München.
-summary: "Mit der Livemap für die Münchner S-Bahn zeigen wir, wie moderne
-  GPS-Daten in Echtzeit zu präzisen Abfahrsinformationen und einer intuitiven
-  Kartenansicht kombiniert werden. Die Lösung liefert Updates in
-  Sekundenbruchteilen und macht Informationen mobil nutzbar, entweder in der
-  Navigator App, direkt auf der Karte oder über einen Liniennetzplan. "
+title: Smart live information for S-Bahn passengers in Munich.
+summary: With the live map for Munich's S-Bahn, we show how modern GPS data can
+  be combined with real-time, accurate departure information and an intuitive
+  map view. The solution provides updates in a fraction of a second and makes
+  information available on the go, either in the Navigator app, directly on the
+  map, or via a route network plan.
 slug: s-bahn-muenchen
 gridImage: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/screenshot-2025-09-04-083027_neu.jpg
 gridWidthFull: true
 weight: 7
 cover: /images/cases/s-bahn-muenchen/screenshot-2025-09-04-083027.png
 customer: DB Regio AG
-service: Livemap, Schnittstelle für Fahrplan und Echtzeitdaten,
-  Störungsinformationen, Datendrehscheibe
-timeline: laufend seit 2017
+service: Livemap, interface for timetables and real-time data, disruption
+  information, data hub
+timeline: ongoing since 2017
 published: true
 content:
   sections:
     - imagePosition: bottom
       highlight: false
-      title: Dichtester Verkehr auf zwei Gleisen
-      text: Die Münchner S-Bahn-Stammstrecke zählt mit 1000 Zügen pro Tag zu den am
-        stärksten frequentierten Bahnlinien Europas. Gleichzeitig läuft sie an
-        ihrer Kapazitätsgrenze. Mit der im Bau befindlichen 2. Stammstrecke wird
-        München den lang ersehnten Bypass für die bestehende West- Ost-Querung
-        bekommen. Parallel dazu arbeiten die Betreiber intensiv an der
-        Verbesserung der Kunden­infor­mation. Zur besseren Information über die
-        aktuelle Betriebssituation hat die Deutsche Bahn geOps mit dem Aufbau
-        eines Echtzeitinformationssystems beauftragt. Dabei werden GPS-Daten aus
-        den S-Bahnen für die Anzeige der Zugpositionen auf einer Karte und für
-        die Erstellung von Abfahrtsprognosen genutzt.
+      title: Heaviest traffic on two tracks
+      text: "Nowhere else in Europe is there more traffic on two tracks: with around
+        1,000 trains per day, the Munich S-Bahn trunk line has the highest
+        traffic volume. At the same time, it is operating at full capacity. With
+        the second trunk line currently under construction, Munich will finally
+        get the long-awaited bypass for the existing west-east crossing. At the
+        same time, operators are continuously optimizing the information
+        provided to customers. To provide better information about the current
+        operating situation, DB Regio has commissioned geOps to set up a
+        real-time information system. GPS data from the S-Bahn trains will be
+        used to display train positions on a map and to generate departure
+        forecasts."
       image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/12.png
     - imagePosition: bottom
       highlight: false
-      title: So machen wir bei geOps Echtzeit sichtbar
-      text: In Spitzenzeiten verkehren rund 100 S-Bahnen gleichzeitig im Münchner
-        Netz. Jede davon sendet etwa alle zehn Sekunden ein GPS-Signal, das
-        neben der Position auch Informationen zum aktuellen Zuglauf und zum
-        Status des Zuges enthält. Das von geOps entwickelte System liest
-        einerseits die GPS-Daten der Züge und andererseits aktuelle
-        Informationen zu Ausfällen und Verspätungen aus dem Fahrplan. Beide
-        Quellen werden miteinander verschnitten, um die Fahrplandaten zu
-        validieren und genauere Prognosen zu erstellen. Wie es beim engen Takt
-        der S-Bahn von teils unter 1 Minute angebracht ist, zielen die
-        Vorhersagen darauf ab, dem Fahrgast die nächsten Fahrmöglichkeiten
-        präzise und optisch übersichtlich anzuzeigen.
+      title: This is how we make real time visible at geOps
+      text: >-
+        During peak times, around 100 suburban trains operate simultaneously on
+        the Munich network. Each of them sends a GPS signal approximately every
+        ten seconds, which contains information about the train's current
+        formation and status in addition to its position. The system developed
+        by geOps reads the trains' GPS data on the one hand and the timetable
+        and real-time data on cancellations and delays on the other. All sources
+        are combined to validate the timetable data and make more accurate
+        forecasts. As is appropriate for the S-Bahn's tight schedule of less
+        than 1 minute in some cases, the forecasts aim to show passengers the
+        next available connections precisely and clearly. 
+
+
+        The Live Maps system is operated via a separate website that is integrated into both the [Munich S-Bahn website](https://s-bahn-muenchen-live.de/?mode=schematic&x=2406279&y=1722649&z=5.5) and the official information app, the Munich Navigator.
       image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/11.png
     - imagePosition: bottom
       highlight: false
-      title: Skalierbarkeit und Präzision im Sekundentakt
-      text: Pro Minute werden bis zu 900 Signale aus den Zügen verarbeitet und mittels
-        ausgefeilter Heuristiken analysiert. Nur zwei Sekunden nach dem Senden
-        jedes Signals aus dem Zug sind die Daten im System von geOps verarbeitet
-        und werden an die Client-Geräte weitergeleitet. Auf Client-Seite sieht
-        der Reisende die Informationen auf einer Karte oder einem Liniennetzplan
-        und einem Abfahrtsanzeiger. Auf der Karte lassen sich die Stationen
-        auswählen, worauf die Abfahrten an der gewählten Station gezeigt werden.
-        Diese Automatisierung gewährleistet eine hohe Performance auch bei stark
-        schwankender Nutzerzahl, etwa bei Störungen oder
-        Spitzenlastensituationen.
+      title: Precision every second
+      text: Up to 900 signals from trains are processed per minute and analyzed using
+        sophisticated heuristics. Just two seconds after each signal is sent
+        from the train, the data is processed in the geOps system and forwarded
+        to the client devices. On the client side, passengers can view the
+        information on a map or route network plan, as well as in the string of
+        pearls and on a departure display. Stations can be selected on the map,
+        whereupon all departures are displayed.
+    - imagePosition: bottom
+      highlight: false
+      title: "The technical basis: TRALIS as a data hub, MOCO for fault reports"
+      text: Die Basis der Pünktlichkeitskarte ist die gleiche wie auch für unseren
+        weltweiten Zugtracker. Für die Verarbeitung und Analyse von Soll- und
+        Echtzeitdaten kommt TRALIS, unsere Datendrehscheibe, zum Einsatz. TRALIS
+        ist optimiert dafür, auch grosse Datenmengen zu integrieren, zu
+        analysieren und mit minimalen Latenzen wieder an die Abnehmersysteme
+        auszugeben. Für die Live Map der S-Bahn München wurden die
+        Standardfunktionen zur Verarbeitung von Soll- und Echtzeitdaten
+        erweitert, um zusätzlich GPS-Daten zu analysieren. Die tatsächliche
+        Position des Zuges, die der GPS-Sender liefert, wird zur Überprüfung und
+        Anpassung der Echtzeitprognosen aus den Leitstellen der Bahn verwendet.
+        Für die Darstellung von Meldungen zu Bauarbeiten, Haltausfällen,
+        Unterbrüchen oder Ersatzverkehren kommt MOCO zum Einsatz, das
+        Redaktionstool für Störungsmeldungen. MOCO nutzt über eine Schnittstelle
+        die Meldungen aus den Leitsystemen der Bahn. Vollautomatisch werden mit
+        MOCO die Meldungen auf Linien oder Haltestellen zur Darstellung im
+        Netzplan abgebildet. Nach Bedarf können einzelne Meldungen in MOCO mit
+        weiteren Informationen einschliesslich Links, Fotos und Grafiken ergänzt
+        werden.
     - imagePosition: bottom
       highlight: true
-      title: "Blick nach vorn: Livemaps für mehr Infos und Sicherheit"
-      text: Die Einbindung der Livemap in die Navigator-App sowie als Webkarte zeigt
-        wie aus GPS-Daten echte Assistance für Reisende wird. Die Technologie
-        eignet sich auch für Zusatzfunktionen wie Störungsanzeigen oder
-        alternative Routen bei Bauarbeiten. Sie bildet eine solide Grundlage für
-        zukünftige Erweiterungen, beispielsweise zur Ausweitung auf andere Netze
-        oder zusätzliche Mobilitätsformen.
+      title: "Looking ahead: Live maps for more information and safety"
+      text: The live map has become very popular with Munich S-Bahn customers.
+        Especially when there are service disruptions, up to 300,000 people
+        access the service at the same time. Numerous comments describe the live
+        map as the most reliable source of information for the Munich S-Bahn.
+        Due to the positive response, the system has been extended to other
+        S-Bahn systems in Germany and to replacement transport services. With
+        the ongoing integration of further information, Live Maps is developing
+        into a comprehensive source of information for travelers. In addition to
+        the actual real-time data, particularly important additions include
+        disruption information, which is displayed both in text form and as
+        route markings on the map, and details of alternative routes.
       image: /images/cases/smarte-live-infos-für-s-bahn-fahrgäste-in-münchen/adobestock_581571846_editorial_use_only.jpeg
-  title: S-Bahn München in Echtzeit mit unserem Echtzeitinformationssystem
-  lead: "*Mit der [Livemap für die Münchner
-    S-Bahn](https://s-bahn-muenchen-live.de/?mode=schematic&x=2285725&y=1746650\
-    &z=5.82) zeigen wir, wie moderne GPS-Daten in Echtzeit zu präzisen
-    Abfahrsinformationen und einer intuitiven Kartenansicht kombiniert werden.
-    Die Lösung liefert Updates in Sekundenbruchteilen und macht Informationen
-    mobil nutzbar, entweder in der Navigator App, direkt auf der Karte oder über
-    einen Liniennetzplan.* "
+  title: Munich S-Bahn in real time with our real-time information system
+  lead: With the [Livemap for Munich's
+    S-Bahn](https://s-bahn-muenchen-live.de/?mode=schematic&x=2285725&y=1746650&z=5.82),
+    we show how modern GPS data can be combined with real-time, accurate
+    departure information and an intuitive map view. The solution provides
+    updates in a fraction of a second and makes information available on the go,
+    either in the Navigator app, directly on the map, or via a route network
+    plan.
 testimonialsOnTop: false
 testimonials:
   - name: Carola Bertsch
-    position: Fahrgastinformation QS und Projekte, DB Regio AG (2025)
-    text: Die Zusammenarbeit mit geOps seit mittlerweile 5 Jahren ist hervorragend.
-      Weiterentwicklungen werden professionell, kreativ und umsetzungsorientiert
-      gemeinsam besprochen, angegangen und zielgerichtet umgesetzt. Auch bei
-      Qualitätssicherungsthemen ist die Zusammenarbeit immer äusserst
-      zuverlässig und fokussiert. Auf dem Niveau macht das gemeinsame Erreichen
-      von Zielen Spass.
+    position: Passenger information QS and projects, DB Regio AG (2025)
+    text: Our collaboration with geOps has been outstanding for five years now.
+      Further developments are discussed, approached, and implemented in a
+      professional, creative, and implementation-oriented manner. When it comes
+      to quality assurance issues, the collaboration is always extremely
+      reliable and focused. At this level, achieving goals together is
+      enjoyable.
     portrait: /images/cases/s-bahn-muenchen/divers-leinwände-querformat-.png
 tags:
   - maps
