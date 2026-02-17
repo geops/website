@@ -25,9 +25,7 @@ Mit Leidenschaft entwickeln wir seit über 20 Jahren umfassende IT-Lösungen, vo
 * Mitgestaltung unserer DevOps- und CI/CD-Pipelines (GitLab CI, Docker, Containerisierung)
 * Eine professionelle Code-Verwaltung mit Git sowie GitHub und GitLab, in der Reviews, Merge-Requests und saubere Versionierung gelebter Bestandteil unseres Entwicklungsalltags sind
 
-## \
-
-Das bringst du mit
+## Das bringst du mit
 
 Du musst nicht alles können. Aber das hier sollte dich ansprechen:
 
@@ -40,9 +38,7 @@ Du musst nicht alles können. Aber das hier sollte dich ansprechen:
 * Teamfähigkeit, klare Kommunikation und eine zuverlässige, strukturierte Arbeitsweise
 * Interesse an Themen wie öffentlicher Verkehr, Mobilität, Geodaten oder Umwelt
 
-## \
-
-Warum du gerne bei uns arbeiten wirst
+## Warum du gerne bei uns arbeiten wirst
 
 * Sicherer Arbeitsplatz in einem stetig wachsenden Unternehmen
 * Anspruchsvolle Projekte für namhafte Kunden im Mobilitäts- und Umweltbereich
