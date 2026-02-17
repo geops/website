@@ -18,8 +18,7 @@ content:
     - imagePosition: bottom
       highlight: false
       title: Starke Visualisierung in Extremsituationen
-      text: >-
-        Ein schönes Beispiel für diesen Anwendungsfall ist
+      text: Ein schönes Beispiel für diesen Anwendungsfall ist
         die [Pünktlichkeitskarte für die
         Schweiz](https://maps2.trafimage.ch/ch.sbb.netzkarte?baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&layers=ch.sbb.puenktlichkeit-all&x=953651.78&y=5998579.74&z=11.049958158687245).
         Sie zeigt genau, welche Fahrzeuge planmässig verkehren, welche pünktlich
@@ -29,9 +28,6 @@ content:
         Ausmass der Beeinträchtigung sichtbar. Wir wissen von einigen CEOs bei
         Transportunternehmen, die jeden Morgen als Erstes auf diese Karte
         schauen.
-
-
-        ![]()
       image: /images/cases/kommt-mein-zug-denn-auch-wirklich-pünktlich/20210125_vbz_flockdown.jpg
     - imagePosition: bottom
       highlight: false
