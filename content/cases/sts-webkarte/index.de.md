@@ -54,4 +54,19 @@ content:
         mobile Integration, personalisierte Tourvorschläge oder dynamische
         Zusatzinfos weiterentwickelt werden.
       image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
+testimonialsOnTop: true
+testimonials:
+  - text: Für unsere digitale Kartenlösung war es entscheidend, eine technisch
+      saubere, zukunftsfähige und wartungsarme Lösung umzusetzen. Mit geOps
+      haben wir dafür den idealen Partner gefunden. Besonders überzeugt hat uns
+      die strukturierte Integration der STS-Geltungsbereiche aus der
+      NOVA-Datenbank. Durch die direkte Datenübernahme und die gezielte
+      Anpassung der Datenstruktur konnten wir unseren internen Pflegeaufwand
+      deutlich reduzieren und gleichzeitig die Datenqualität nachhaltig sichern.
+      Wir schätzen die professionelle Umsetzung, die transparente Projektführung
+      sowie die jederzeit zuverlässige und lösungsorientierte Zusammenarbeit mit
+      geOps sehr.
+    position: Project Manager Marketing Production, Swiss Travel System AG
+    name: Gianluca Rossi
+    portrait: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts-ma-portraits-0340_hr.jpg
 ---
