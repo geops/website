@@ -12,7 +12,7 @@ customer: SBB Real Estate
 service: Content-DB mit Geodaten-Bearbeitung und vielen Export-Schnittstellen –
   UX-Konzeption, Entwicklung und Betrieb
 timeline: laufend seit 2022
-published: true
+published: false
 content:
   sections:
     - imagePosition: bottom

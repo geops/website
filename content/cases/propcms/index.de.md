@@ -9,7 +9,7 @@ customer: SBB Real Estate
 service: Content-DB mit Geodaten-Bearbeitung und vielen Export-Schnittstellen –
   UX-Konzeption, Entwicklung und Betrieb
 timeline: laufend seit 2022
-published: true
+published: false
 content:
   title: "propCMS: Projektdatenbank für SBB Immobilien"
   lead: >-
