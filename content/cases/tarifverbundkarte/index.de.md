@@ -1,78 +1,81 @@
 ---
 title: "Digital, interaktiv und aktuell: die Tarifverbundkarte der Schweiz."
-summary: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
-  Verkehrsverbunde. Auf welcher Strecke gilt welcher Verbund-Fahrausweis? Und
-  behält er seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht es
-  doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle Verbunde der
-  Schweiz und schaffen die Möglichkeit, die Orientierung zu behalten.
+summary: "Die Schweiz verfügt über eine Vielzahl von Tarif- und
+  Verkehrsverbunden, mit unterschiedlichen Gültigkeiten, teils über
+  Kantonsgrenzen hinweg. Die Tarifverbundkarte schafft hier Übersicht: Sie zeigt
+  alle Verbunde der Schweiz auf einen Blick und hilft dabei, schnell zu
+  erkennen, welcher Fahrausweis auf welcher Strecke gilt."
 slug: tarifverbundkarte
-customer: SBB
-service: xy
-timeline: "2025"
+customer: SBB CFF FFC (PTM)
+service: Automatisierte Kartenlösung, Datenintegration, Print-on-demand, Geo-Routing
+timeline: laufend seit 2021
 published: true
 content:
   title: Mit der Tarifverbundkarte der Schweiz Abo-Verbunde sichtbar machen.
-  lead: >-
-    Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
-    Verkehrsverbunde. Auf welcher Strecke gilt welcher Verbund-Fahrausweis? Und
-    behält er seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht
-    es doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle
-    Verbunde der Schweiz und schaffen die Möglichkeit, die Orientierung zu
-    behalten.
-
-
-    ![](/images/cases/tarifverbundkarte/verbund.png)
+  lead: "![](/images/cases/digital-interactive-and-up-to-date-the-swiss-fare-netw\
+    orks-map/verbund.png)"
   sections:
+    - imagePosition: null
+      highlight: false
+      title: Die Tarifverbundkarte der Schweiz
+      text: "Die Schweiz verfügt über eine Vielzahl von Tarif- und Verkehrsverbunden,
+        mit unterschiedlichen Gültigkeiten, teils über Kantonsgrenzen hinweg.
+        Die Tarifverbundkarte schafft hier Übersicht: Sie zeigt alle Verbunde
+        der Schweiz auf einen Blick und hilft dabei, schnell zu erkennen,
+        welcher Fahrausweis auf welcher Strecke gilt."
     - imagePosition: bottom
       highlight: false
-      title: "NOVA als Datenbasis: automatisiert und konsistent"
-      text: >-
-        Im Rahmen der [Trafimage-Systematik der
-        SBB](https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/karten-bahnhofplaene.html) wurde
-        schon seit mehr als zehn Jahren die [Übersicht der
-        Tarifverbunde](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public) als
-        Karte publiziert und jedes Jahr manuell aktualisiert. Anfang 2021
-        erhielt die bisherige Karte ein umfassendes Update: Neben einem sanften
-        Facelift sind es vor allem technische Neuerungen, die das Datenupdate
-        automatisieren, Web- und Printversion der Karte vereinheitlichen und den
-        Informationsgehalt der Webversion erhöhen.
-
-
-        Die neue Tarifverbundkarte basiert nicht länger auf manuell gezeichneten Inhalten, sondern nutzt stattdessen die Tarifdatenbank NOVA, das Herzstück des künftigen Preissystem ÖV Schweiz (ZPS), als zentrale Grundlage. Diese Datenbank enthält alle Informationen zur Gültigkeit von Abonnements pro Verbindung («Kanten») und Betreiber und wird routinemässig zum Fahrplanwechsel aktualisiert.
+      title: Automatisiert, aktuell und einheitlich
+      text: Die Tarifverbundkarte wurde Anfang 2021 grundlegend erneuert. Neben einer
+        visuellen Überarbeitung stand vor allem die technische Modernisierung im
+        Fokus. Die bisher manuell gepflegte Karte wurde durch einen
+        automatisierten Prozess ersetzt, der Web- und Printversion
+        vereinheitlicht und den Informationsgehalt der interaktiven Webkarte
+        deutlich erweitert.
       image: /images/cases/tarifverbundkarte/divers.png
     - imagePosition: null
       highlight: false
-      title: Komplexe Tarifdaten verständlich machen
-      text: >-
-        <!--StartFragment-->
-
-
-        Unsere Karte veranschaulicht die Gültigkeitsbereiche auf Gemeindeebene. Eine Generalisierung, die Übersichtlichkeit bei landesweiter Darstellung garantiert. Alle Schritte, von der Zuordnung der Tarifkanten aus NOVA, über die räumliche Präzisierung mittels Routing-Dienste bis hin zur Darstellung von Sonderfällen (z. B. Zahnradbahn nach Les Pléiades, Grenzfälle), werden automatisiert durch einen speziell entwickelten Algorithmus umgesetzt. Überlappende Verbunde werden mit farbigen Schraffuren visualisiert. Zum Einsatz kommt die moderne Technologie MapBox Vector Tiles, die hochauflösende Darstellungen und weitreichende Interaktivität mit der Karte ermöglicht und gleichzeitig die Datenmenge, die der Webbrowser über das Internet laden muss, gering hält.
-
-
-        <!--EndFragment-->
+      title: NOVA als Datenbasis
+      text: Grundlage der neuen Karte ist die zentrale Tarifdatenbank NOVA, die im
+        Rahmen des «Zukünftigen Preissystems öV Schweiz» entwickelt wurde. NOVA
+        enthält detaillierte Informationen zur Gültigkeit von Abonnementen und
+        Fahrausweisen und wird bereits seit Jahren für Anwendungen wie die
+        Verkaufsapplikation CASA genutzt. Diese stets aktuellen Daten dienen nun
+        auch als Basis für die Tarifverbundkarte.
       image: ""
     - imagePosition: bottom
       highlight: false
-      title: Flexible und effiziente Integration in Web und Print
-      text: >-
-        <!--StartFragment-->
-
-
-        Dank der neuen Datenpipeline lässt sich die Karte sowohl online interaktiv nutzen als auch als PDF im Format bis A0 drucken, inklusive automatischer Legende. Damit wird der digitale und gedruckte Einsatz erstmals aus einer Quelle heraus ermöglicht.
-
-
-        <!--EndFragment-->
+      title: Intelligente Kartenerstellung
+      text: Die Ausdehnung der Verbunde wird auf Gemeindeebene dargestellt – eine
+        bewusste Generalisierung zugunsten der Übersichtlichkeit. Ein speziell
+        entwickelter Algorithmus verarbeitet die NOVA-Daten, berechnet
+        geografisch exakte Streckenverläufe, berücksichtigt definierte Ausnahmen
+        innerhalb von Gemeinden und kennzeichnet Überlappungen zwischen
+        Verbunden visuell. Die fertigen Daten werden als moderne Vector Tiles
+        für die Webdarstellung aufbereitet und ermöglichen eine performante,
+        interaktive Nutzung.
     - imagePosition: bottom
       highlight: true
-      title: "Blick nach vorn: kontinuierlich innovativ"
-      text: >-
-        <!--StartFragment-->
-
-
-        Mit der automatisierten Produktionskette sparen wir Kosten, verbessern Aktualität und minimieren Fehler. Zukünftige Erweiterungen können auf die Gültigkeit übergreifender Produkte wie GA oder Halbtax streckenweise differenziert visualisieren. 
-
-
-        <!--EndFragment-->
-      image: /images/cases/tarifverbundkarte/adobestock_1356199167_editorial_use_only.jpeg
+      title: Web und Print aus einer Quelle
+      text: Die Webkarte bietet detaillierte Informationen per Klick, etwa zu
+        zuständigen Verbunden und Tarifzonen. Gleichzeitig bildet sie die
+        Grundlage für hochwertige Druckversionen bis Format A0. PDFs mit Legende
+        lassen sich direkt aus der Webkarte erzeugen – Web und Print sind damit
+        kein Widerspruch mehr, sondern Teil derselben Lösung.
+      image: ""
+    - imagePosition: bottom
+      highlight: true
+      title: "Blick nach vorn: zukunftssicher und erweiterbar"
+      text: Die neue Tarifverbundkarte ist technisch auf dem neuesten Stand, reduziert
+        manuellen Aufwand und erhöht die Aktualität sowie die Datenqualität. Mti
+        der gleichen Datenbasis und einem vergleichbaren Workflow erstellen wir
+        auch die Übersichten der Gültigkeit übergreifender Produkte wie GA oder
+        Halbtax. So sorgt die Lösung auch künftig für Orientierung im komplexen
+        öV-Tarifsystem der Schweiz.
+      image: /images/cases/digital-interactive-and-up-to-date-the-swiss-fare-networks-map/adobestock_1356199167_editorial_use_only.jpeg
+testimonials:
+  - name: Tobias Hauser
+    position: Product Owner, SBB
+    text: .﻿..
+    portrait: /images/cases/digital-interactive-and-up-to-date-the-swiss-fare-networks-map/divers-leinwände-querformat-.png
 ---

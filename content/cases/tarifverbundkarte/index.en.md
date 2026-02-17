@@ -1,81 +1,83 @@
 ---
-title: "Digital, interaktiv und aktuell: die Tarifverbundkarte der Schweiz."
-summary: Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
-  Verkehrsverbunde. Auf welcher Strecke gilt welcher Verbund-Fahrausweis? Und
-  behält er seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht es
-  doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle Verbunde der
-  Schweiz und schaffen die Möglichkeit, die Orientierung zu behalten.
-slug: tarifverbundkarte
+title: "Digital, interactive and up to date: the Swiss fare networks map"
+summary: Switzerland has a large number of fare and transport associations with
+  different areas of validity, some of which extend beyond cantonal borders. The
+  fare networks map provides an overview of these, showing all associations in
+  Switzerland at a glance and helping you to quickly identify which ticket is
+  valid on which route.
+slug: farenetworksmap
 gridImage: /images/cases/tarifverbundkarte/verbund_uebersicht.png
 weight: 13
 cover: /images/cases/tarifverbundkarte/tarifverbundkarte_01.webp
-customer: SBB
-service: xy
-timeline: "2025"
+customer: SBB CFF FFC (PTM)
+service: Automated map solution, data integration, print-on-demand, geo-routing
+timeline: ongoing since 2021
 published: true
 content:
   sections:
+    - imagePosition: null
+      highlight: false
+      title: The Swiss fare network map
+      text: Switzerland has a large number of fare and transport associations with
+        different areas of validity, some of which extend beyond cantonal
+        borders. The fare network map provides an overview of these, showing all
+        associations in Switzerland at a glance and helping you to quickly
+        identify which ticket is valid on which route.
     - imagePosition: bottom
       highlight: false
-      title: "NOVA als Datenbasis: automatisiert und konsistent"
-      text: >-
-        Im Rahmen der [Trafimage-Systematik der
-        SBB](https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/karten-bahnhofplaene.html) wurde
-        schon seit mehr als zehn Jahren die [Übersicht der
-        Tarifverbunde](https://maps.trafimage.ch/ch.sbb.tarifverbundkarte.public) als
-        Karte publiziert und jedes Jahr manuell aktualisiert. Anfang 2021
-        erhielt die bisherige Karte ein umfassendes Update: Neben einem sanften
-        Facelift sind es vor allem technische Neuerungen, die das Datenupdate
-        automatisieren, Web- und Printversion der Karte vereinheitlichen und den
-        Informationsgehalt der Webversion erhöhen.
-
-
-        Die neue Tarifverbundkarte basiert nicht länger auf manuell gezeichneten Inhalten, sondern nutzt stattdessen die Tarifdatenbank NOVA, das Herzstück des künftigen Preissystem ÖV Schweiz (ZPS), als zentrale Grundlage. Diese Datenbank enthält alle Informationen zur Gültigkeit von Abonnements pro Verbindung («Kanten») und Betreiber und wird routinemässig zum Fahrplanwechsel aktualisiert.
+      title: Automated, up-to-date, and consistent
+      text: The fare network map was completely revamped at the beginning of 2021. In
+        addition to a visual overhaul, the focus was primarily on technical
+        modernization. The map, which had previously been maintained manually,
+        was replaced by an automated process that standardized the web and print
+        versions and significantly expanded the information content of the
+        interactive web map.
       image: /images/cases/tarifverbundkarte/divers.png
     - imagePosition: null
       highlight: false
-      title: Komplexe Tarifdaten verständlich machen
-      text: >-
-        <!--StartFragment-->
-
-
-        Unsere Karte veranschaulicht die Gültigkeitsbereiche auf Gemeindeebene. Eine Generalisierung, die Übersichtlichkeit bei landesweiter Darstellung garantiert. Alle Schritte, von der Zuordnung der Tarifkanten aus NOVA, über die räumliche Präzisierung mittels Routing-Dienste bis hin zur Darstellung von Sonderfällen (z. B. Zahnradbahn nach Les Pléiades, Grenzfälle), werden automatisiert durch einen speziell entwickelten Algorithmus umgesetzt. Überlappende Verbunde werden mit farbigen Schraffuren visualisiert. Zum Einsatz kommt die moderne Technologie MapBox Vector Tiles, die hochauflösende Darstellungen und weitreichende Interaktivität mit der Karte ermöglicht und gleichzeitig die Datenmenge, die der Webbrowser über das Internet laden muss, gering hält.
-
-
-        <!--EndFragment-->
+      title: NOVA as a database
+      text: The new map is based on the central fare database NOVA, which was
+        developed as part of the “Future Swiss Public Transport Pricing System.”
+        NOVA contains detailed information on the validity of season tickets and
+        travel passes and has been used for years in applications such as the
+        CASA sales application. This constantly updated data now also serves as
+        the basis for the fare network map.
       image: ""
     - imagePosition: bottom
       highlight: false
-      title: Flexible und effiziente Integration in Web und Print
-      text: >-
-        <!--StartFragment-->
-
-
-        Dank der neuen Datenpipeline lässt sich die Karte sowohl online interaktiv nutzen als auch als PDF im Format bis A0 drucken, inklusive automatischer Legende. Damit wird der digitale und gedruckte Einsatz erstmals aus einer Quelle heraus ermöglicht.
-
-
-        <!--EndFragment-->
+      title: Intelligent map creation
+      text: The extent of the networks is shown at the municipal level – a deliberate
+        generalization for the sake of clarity. A specially developed algorithm
+        processes the NOVA data, calculates geographically accurate routes,
+        takes into account defined exceptions within municipalities, and
+        visually highlights overlaps between networks. The finished data is
+        prepared as modern vector tiles for web display and enables
+        high-performance, interactive use.
     - imagePosition: bottom
       highlight: true
-      title: "Blick nach vorn: kontinuierlich innovativ"
-      text: >-
-        <!--StartFragment-->
-
-
-        Mit der automatisierten Produktionskette sparen wir Kosten, verbessern Aktualität und minimieren Fehler. Zukünftige Erweiterungen können auf die Gültigkeit übergreifender Produkte wie GA oder Halbtax streckenweise differenziert visualisieren. 
-
-
-        <!--EndFragment-->
-      image: /images/cases/tarifverbundkarte/adobestock_1356199167_editorial_use_only.jpeg
-  title: Mit der Tarifverbundkarte der Schweiz Abo-Verbunde sichtbar machen.
-  lead: >-
-    Die Schweiz bildet eine komplexe Landschaft vieler Tarif- und
-    Verkehrsverbunde. Auf welcher Strecke gilt welcher Verbund-Fahrausweis? Und
-    behält er seine Gültigkeit auch über die Kantonsgrenze hinaus? Oder braucht
-    es doch ein Einzelbillett? Mit der Tarifverbundkarte zeigen wir alle
-    Verbunde der Schweiz und schaffen die Möglichkeit, die Orientierung zu
-    behalten.
-
-
-    ![](/images/cases/tarifverbundkarte/verbund.png)
+      title: Web and print from a single source
+      text: The web map provides detailed information at the click of a button, such
+        as the relevant networks and fare zones. At the same time, it forms the
+        basis for high-quality print versions up to A0 format. PDFs with legends
+        can be generated directly from the web map – web and print are no longer
+        a contradiction, but part of the same solution.
+      image: ""
+    - imagePosition: bottom
+      highlight: true
+      text: The new fare network map is state-of-the-art, reduces manual effort, and
+        increases data quality and timeliness. Using the same database and a
+        comparable workflow, we also create overviews of the validity of
+        comprehensive products such as GA or Halbtax. This solution will
+        continue to provide guidance in Switzerland's complex public transport
+        fare system in the future.
+      title: "Looking ahead: future-proof and expandable"
+      image: /images/cases/digital-interactive-and-up-to-date-the-swiss-fare-networks-map/adobestock_1356199167_editorial_use_only.jpeg
+  title: Making subscription networks visible with the Swiss fare network map.
+  lead: "![](/images/cases/digital-interactive-and-up-to-date-the-swiss-fare-netw\
+    orks-map/verbund.png)"
+testimonials:
+  - name: Tobias Hauser
+    position: Product Owner, SBB
+    text: .﻿..
+    portrait: /images/cases/digital-interactive-and-up-to-date-the-swiss-fare-networks-map/divers-leinwände-querformat-.png
 ---
