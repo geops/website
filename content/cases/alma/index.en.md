@@ -6,7 +6,7 @@ summary: Mit alma steht Kantonen und Bundesämtern eine moderne
 slug: alma
 gridImage: /images/cases/alma/alma-ubersicht.png
 gridWidthFull: true
-weight: 8
+weight: 5
 cover: /images/cases/alma/header.webp
 customer: ""
 service: Open-source software, UX/UI design, business control software, and
