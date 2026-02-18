@@ -30,7 +30,7 @@ content:
         Travel Pass or whether a supplement is required. The map also includes
         points of interest such as sights, museums and viewpoints, making travel
         planning inspiring, eventful and interactive.
-      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/sts.png
+      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts_screen.png
     - imagePosition: right
       highlight: false
       title: Orientation at a glance
