@@ -47,7 +47,7 @@ content:
         only an information medium for travellers but also enhance the positive
         experience and memories of a trip. Our credo is therefore that
         interactive maps cannot be overrated in tourism.
-      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
+      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/intelligente-anschlusssteuerung-2-.png
   title: Interactive map for travelling with the Swiss Travel Pass
   lead: The Swiss Travel Pass is the key to Switzerland's public transport network
     for visitors from abroad. With a single ticket, travellers can explore the

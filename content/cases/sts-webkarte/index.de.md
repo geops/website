@@ -55,7 +55,7 @@ content:
         sondern stärken das positive Erleben und die Erinnerung an eine Reise.
         Unser Credo ist daher, dass die interaktive Karte im Tourismus nicht
         hoch genug aufgehängt werden kann.
-      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
+      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/intelligente-anschlusssteuerung-2-.png
 testimonialsOnTop: false
 testimonials:
   - text: Für unsere digitale Kartenlösung war es entscheidend, eine technisch
