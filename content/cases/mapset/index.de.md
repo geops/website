@@ -19,13 +19,13 @@ timeline: laufend seit 2020
 published: true
 content:
   title: mapset – Situationspläne für den öffentlichen Verkehr zum selber machen
-  lead: "*[mapset](https://www.mapset.ch/de) ist unsere Saas-Lösung für
+  lead: "[mapset](https://www.mapset.ch/de) ist unsere Saas-Lösung für
     Transportunternehmen, die Fahrgästen schnell und zuverlässig visuelle
     Orientierung geben wollen. Ob Baustellen, Ersatzverkehr oder Events, mit
     mapset lassen sich Situationspläne in wenigen Schritten erstellen, im
     passenden Corporate-Design und auf Basis aktueller ÖV-Karten. Das Tool wird
     im Abo-Modell vertrieben, ist weltweit nutzbar und wird bereits von rund 20
-    Transportunternehmen eingesetzt.*"
+    Transportunternehmen eingesetzt."
   sections:
     - imagePosition: bottom
       highlight: false

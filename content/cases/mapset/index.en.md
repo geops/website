@@ -99,13 +99,13 @@ content:
         Anforderungen und macht die Fahrgastinformation weltweit verständlicher
         und effizienter.
   title: mapset – Situationspläne für den öffentlichen Verkehr zum selber machen
-  lead: "*[mapset](https://www.mapset.ch/de) ist unsere Saas-Lösung für
+  lead: "[mapset](https://www.mapset.ch/de) ist unsere Saas-Lösung für
     Transportunternehmen, die Fahrgästen schnell und zuverlässig visuelle
     Orientierung geben wollen. Ob Baustellen, Ersatzverkehr oder Events, mit
     mapset lassen sich Situationspläne in wenigen Schritten erstellen, im
     passenden Corporate-Design und auf Basis aktueller ÖV-Karten. Das Tool wird
     im Abo-Modell vertrieben, ist weltweit nutzbar und wird bereits von rund 20
-    Transportunternehmen eingesetzt.*"
+    Transportunternehmen eingesetzt."
 testimonials:
   - name: Miro Bertozzi
     position: Sachbearbeiter Fahrgastinformation, Verkehrsbetriebe Stadt Zürich VBZ
