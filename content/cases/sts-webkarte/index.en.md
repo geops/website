@@ -28,7 +28,7 @@ content:
         and direct rail connections from Europe to Switzerland. For each route,
         it is clear at a glance whether it is included in the Swiss Travel Pass
         or whether a supplement is required.
-      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts_screen.png
+      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/image.png
     - imagePosition: right
       highlight: false
       title: Orientation at a glance
