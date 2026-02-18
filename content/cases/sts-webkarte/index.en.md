@@ -22,15 +22,12 @@ content:
       title: Map showing Grand Train Tour and direct connections from Europe
       text: The Swiss Travel Pass map on
         [swisstravelpass.com](https://swisstravelpass.com/) is based on the
-        tried-and-tested Trafimage system. It shows the Swiss rail, bus and boat
-        network in a clear, cartographically consistent representation. Special
-        attention is given to well-known panoramic routes such as the Glacier
-        Express and Bernina Express, panoramic mountain excursions such as the
-        Rigi or the Schilthorn, and the Grand Train Tour of Switzerland. For
-        each route, it is clear at a glance whether it is included in the Swiss
-        Travel Pass or whether a supplement is required. The map also includes
-        points of interest such as sights, museums and viewpoints, making travel
-        planning inspiring, eventful and interactive.
+        proven Trafimage system. It shows the Swiss rail, bus and boat network
+        in a clear, cartographically consistent layout. Special attention is
+        given to the well-known stages of the Grand Train Tour of Switzerland
+        and direct rail connections from Europe to Switzerland. For each route,
+        it is clear at a glance whether it is included in the Swiss Travel Pass
+        or whether a supplement is required.
       image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts_screen.png
     - imagePosition: right
       highlight: false
@@ -50,7 +47,7 @@ content:
         only an information medium for travellers but also enhance the positive
         experience and memories of a trip. Our credo is therefore that
         interactive maps cannot be overrated in tourism.
-      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
+      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/intelligente-anschlusssteuerung-2-.png
   title: Interactive map for travelling with the Swiss Travel Pass
   lead: The Swiss Travel Pass is the key to Switzerland's public transport network
     for visitors from abroad. With a single ticket, travellers can explore the

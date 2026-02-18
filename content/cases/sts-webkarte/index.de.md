@@ -29,15 +29,12 @@ content:
       text: Die Swiss Travel Pass-Karte
         auf [swisstravelpass.com](https://swisstravelpass.com/) basiert auf der
         bewährten Trafimage-Systematik. Sie zeigt das Schweizer Bahn-, Bus und
-        Schifffahrtsnetz in einer klaren, kartografisch konsistenden
-        Darstellung. Besondere Aufmerksamkeit liegt auf den bekannten
-        Panroamarouten wie Glacier Express und Bernina Express, auf
-        panoramareichen Bergausflügen wie die Rigi oder das Schilthorn und auf
-        der Grand Train Tour of Switzerland. Für jede Route ist auf einen Blick
-        erkennbar, ob sie im Swiss Travel Pass enthalten ist oder ob ein
-        Zuschlag erforderlich ist. Ergänzend integriert die Karte Points of
-        Interest wie Sehenswürdigkeiten, Museen oder Aussichtspunkte und macht
-        so die Reiseplanung inspirierend, erlebnisreicher und interaktiv.
+        Schifffahrtsnetz in einer klaren, kartografisch konsistenten
+        Darstellung. Besondere Aufmerksamkeit liegt auf den bekannten Etappen
+        der Grand Train Tour of Switzerland und den direkten Bahnverbindungen
+        aus Europa in die Schweiz. Für jede Route ist auf einen Blick erkennbar,
+        ob sie im Swiss Travel Pass enthalten ist oder ob ein Zuschlag
+        erforderlich ist.
       image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts_screen.png
     - imagePosition: right
       highlight: false
@@ -58,7 +55,7 @@ content:
         sondern stärken das positive Erleben und die Erinnerung an eine Reise.
         Unser Credo ist daher, dass die interaktive Karte im Tourismus nicht
         hoch genug aufgehängt werden kann.
-      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
+      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/intelligente-anschlusssteuerung-2-.png
 testimonialsOnTop: false
 testimonials:
   - text: Für unsere digitale Kartenlösung war es entscheidend, eine technisch
