@@ -79,19 +79,15 @@ content:
     - imagePosition: bottom
       highlight: false
       title: Starke Visualisierung am Beispiel der VBZ
-      text: >-
-        Die Verkehrsbetriebe Stadt Zürich (VBZ) setzen mapset seit mehreren
-        Jahren erfolgreich ein, um lokale Änderungen wie Bauarbeiten oder
-        Umleitungen klar zu kommunizieren. Statt auf externe Grafiklösungen
-        zurückzugreifen, erstellt die VBZ ihre Pläne schnell und effizient in
-        ihrem Corporate Design direkt im Browser. Die Pläne werden auf Webseite,
-        in PDF-Dokumenten oder als Bild für beispielsweise Social Media
+      text: Die Verkehrsbetriebe Stadt Zürich (VBZ) setzen mapset seit mehreren Jahren
+        erfolgreich ein, um lokale Änderungen wie Bauarbeiten oder Umleitungen
+        klar zu kommunizieren. Statt auf externe Grafiklösungen zurückzugreifen,
+        erstellt die VBZ ihre Pläne schnell und effizient in ihrem Corporate
+        Design direkt im Browser. Die Pläne werden auf Webseite, in
+        PDF-Dokumenten oder als Bild für beispielsweise Social Media
         veröffentlicht und bieten Fahrgästen jederzeit verständliche
         Informationen.
-
-
-        ![]()
-      image: /images/cases/digitale-pläne-zum-selber-machen/fpw_a3_2025_stadt_m_2ex.jpg
+      image: /images/cases/digitale-pläne-zum-selber-machen/screens-mapset.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: Situationspläne für alle"
@@ -103,13 +99,13 @@ content:
         Anforderungen und macht die Fahrgastinformation weltweit verständlicher
         und effizienter.
   title: mapset – Situationspläne für den öffentlichen Verkehr zum selber machen
-  lead: "*[mapset](https://www.mapset.ch/de) ist unsere Saas-Lösung für
+  lead: "[mapset](https://www.mapset.ch/de) ist unsere Saas-Lösung für
     Transportunternehmen, die Fahrgästen schnell und zuverlässig visuelle
     Orientierung geben wollen. Ob Baustellen, Ersatzverkehr oder Events, mit
     mapset lassen sich Situationspläne in wenigen Schritten erstellen, im
     passenden Corporate-Design und auf Basis aktueller ÖV-Karten. Das Tool wird
     im Abo-Modell vertrieben, ist weltweit nutzbar und wird bereits von rund 20
-    Transportunternehmen eingesetzt.*"
+    Transportunternehmen eingesetzt."
 testimonials:
   - name: Miro Bertozzi
     position: Sachbearbeiter Fahrgastinformation, Verkehrsbetriebe Stadt Zürich VBZ
