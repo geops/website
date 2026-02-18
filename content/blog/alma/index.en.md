@@ -1,5 +1,5 @@
 ---
-title: "alma: Future-Oriented Management of Contaminated Sites"
+title: "alma: future-oriented management of contaminated sites"
 summary: "After a lengthy preparation period and more than a year of
   programming, we finally succeeded in September 2025. Together with the canton
   of Schwyz, we were able to migrate the first office to the new alma software
