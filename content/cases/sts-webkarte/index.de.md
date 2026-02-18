@@ -3,9 +3,10 @@ title: "Die Schweiz entdecken: digitale ÖV-Karte für internationale Gäste"
 summary: Der Swiss Travel Pass ist für Gäste aus dem Ausland der Schlüssel zum
   öffentlichen Verkehrsnetz der Schweiz. Mit einem einzigen Fahrausweis können
   Reisende die ganze Schweiz mit Bahn, Bus und Schiff erkunden. Tourist:innen
-  mit einem Swiss Travel Pass erhalten mit geOps’ interaktiver Karte eine
-  nahtlose Orientierung, inklusive Panoramarouten, Points of Interest und der
-  durchgängigen Mobilität mit Bahn, Bus, Schiff und Bergbahnen.
+  mit einem Swiss Travel Pass erhalten mit der interaktiven Karte eine nahtlose
+  Orientierung, inklusive der Grand Train Tour of Switzerland sowie der
+  komfortablen Direktverbindungen aus Europa in die Schweiz und profitieren von
+  der durchgängigen Mobilität mit Bahn, Bus, Schiff und Bergbahnen.
 slug: sts-webkarte
 customer: Swiss Travel System AG
 service: xx
@@ -16,13 +17,15 @@ content:
   lead: Der Swiss Travel Pass ist für Gäste aus dem Ausland der Schlüssel zum
     öffentlichen Verkehrsnetz der Schweiz. Mit einem einzigen Fahrausweis können
     Reisende die ganze Schweiz mit Bahn, Bus und Schiff erkunden. Tourist:innen
-    mit einem Swiss Travel Pass erhalten mit geOps’ interaktiver Karte eine
-    nahtlose Orientierung, inklusive Panoramarouten, Points of Interest und der
-    durchgängigen Mobilität mit Bahn, Bus, Schiff und Bergbahnen.
+    mit einem Swiss Travel Pass erhalten mit der interaktiven Karte eine
+    nahtlose Orientierung, inklusive der Grand Train Tour of Switzerland sowie
+    der komfortablen Direktverbindungen aus Europa in die Schweiz und
+    profitieren von der durchgängigen Mobilität mit Bahn, Bus, Schiff und
+    Bergbahnen.
   sections:
     - imagePosition: top
       highlight: false
-      title: Karte mit Panoramarouten und POIs
+      title: Karte mit Grand Train Tour und Direktverbindungen aus Europa
       text: Die Swiss Travel Pass-Karte
         auf [swisstravelpass.com](https://swisstravelpass.com/) basiert auf der
         bewährten Trafimage-Systematik. Sie zeigt das Schweizer Bahn-, Bus und
@@ -41,18 +44,20 @@ content:
       title: Orientierung auf einen Blick
       text: Für Inhaber:innen des Swiss Travel Pass ist die Karte ein unverzichtbares
         Werkzeug. Sie zeigt jederzeit, welche Verbindungen und Angebote im
-        Ticket enthalten sind und liefert gleichzeitig Ideen für spannende
-        Ausflüge unterwegs. Anstatt auf gedruckte Pläne oder verstreute
+        Ticket enthalten sind. Anstatt auf gedruckte Pläne oder verstreute
         Informationen angewiesen zu sein, haben Reisende alle relevanten Daten
         übersichtlich und zuverlässig mobil verfügbar.
       image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/design-ohne-titel-7-.png
     - imagePosition: bottom
       highlight: true
       title: "Blick nach vorn: digitale Reisebegleitung weiterdenken"
-      text: Die Swiss Travel Pass-Karte zeigt, wie wir interaktive Kartenlösungen für
-        internationale Reisende erschliessen. In Zukunft könnte die Karte durch
-        mobile Integration, personalisierte Tourvorschläge oder dynamische
-        Zusatzinfos weiterentwickelt werden.
+      text: Attraktives und zugleich übersichtliches Kartenmaterial ist ein wichtiges
+        Instrument im Tourismusmarketing. Unsere Kartengrundlagen erfüllen genau
+        diese Anforderung. Kombiniert mit wichtigen über die Karte abrufbaren
+        Informationen sind sie nicht nur Informationsmedium für die Reisenden
+        sondern stärken das positive Erleben und die Erinnerung an eine Reise.
+        Unser Credo ist daher, dass die interaktive Karte im Tourismus nicht
+        hoch genug aufgehängt werden kann.
       image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/adobestock_409803855.jpeg
 testimonialsOnTop: false
 testimonials:
