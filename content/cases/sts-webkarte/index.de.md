@@ -68,5 +68,5 @@ testimonials:
       geOps sehr.
     position: Project Manager Marketing Production, Swiss Travel System AG
     name: Gianluca Rossi
-    portrait: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts-ma-portraits-0340_hr.jpg
+    portrait: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/gianluca.png
 ---
