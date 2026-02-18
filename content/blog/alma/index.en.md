@@ -28,7 +28,7 @@ For more than 15 years, *Altlast4Web* had been used by numerous cantonal offices
 
 So, at the beginning of 2023, the design process for a completely new application began. The focus was on new technologies, a more modern UX and taking current security requirements into account. The core functions of *Altlast4Web*, on the other hand, had proven themselves so well that they were to be adopted in a modernised form, but essentially unchanged. During the design phase and subsequent development, we always placed great importance on close cooperation with all the authorities involved. The entire requirements specification was collaboratively developed in a wiki that was accessible to all participants. Through regular meetings of a core group and occasional meetings of all participants, we were able to ensure that most expectations for the software were taken into account. Within the same framework, we were also able to quickly and efficiently develop the financing for the entire project.
 
-![](/images/blog/alma-future-oriented-management-of-contaminated-sites/divers-leinwände-querformat-2-.png)
+![](/images/blog/alma-future-oriented-management-of-contaminated-sites/intelligente-anschlusssteuerung-1-.png)
 
 ## Steady rollout
 

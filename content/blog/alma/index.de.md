@@ -21,7 +21,7 @@ N﻿ach längerer Vorbereitungszeit und mehr als einem Jahr Programmieren hatten
 
 So begann anfangs 2023 die Konzeption für eine komplett neue Anwendung. Der Fokus lag dabei auf neuen Technologien, einem moderneren UX und der Berücksichtigung aktueller Sicherheitsanforderungen. Die Kernfunktionen von *Altlast4Web* hatten sich dagegen so gut bewährt, dass sie – in modernisierter Form, im Prinzip aber unverändert – übernommen werden sollten. Während der Konzeption wie auch bei der nachfolgenden Entwicklung legten wir immer grossen Wert auf eine enge Zusammenarbeit mit allen beteiligten Ämtern. So erfolgte die gesamte Anforderungsspezifikation kollaborativ in einem Wiki, auf das alle Beteiligten Zugriff hatten. Im Rahmen regelmässiger Treffen einer Kerngruppe und gelegentlicher Treffen aller Beteiligten konnten wir sicherstellen, dass die meisten Erwartungen an die Software Berücksichtigung fanden. Im gleichen Rahmen konnten wir auch schnell und effizient die Finanzierung des gesamten Projektes entwickeln.
 
-![](/images/blog/alma-future-oriented-management-of-contaminated-sites/divers-leinwände-querformat-2-.png)
+![](/images/blog/alma-future-oriented-management-of-contaminated-sites/intelligente-anschlusssteuerung-1-.png)
 
 ## Stetig ausgerollt
 
