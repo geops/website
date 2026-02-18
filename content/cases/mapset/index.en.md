@@ -124,7 +124,7 @@ testimonials:
       klare, einheitliche Pläne. Der Support von geOps unterstützt uns bei
       Bedarf unkompliziert. So stellen wir unseren Mitarbeitenden präzises,
       digitales Kartenmaterial zur Verfügung.
-    portrait: /images/cases/digitale-pläne-für-klare-fahrgastinformation/brigitte-rotowski_bernmobil.jpg
+    portrait: /images/cases/digitale-pläne-zum-selber-machen/brigitte.png
 tags:
   - maps
   - mapset
