@@ -69,7 +69,7 @@ testimonials:
       solution-oriented cooperation with geOps at all times.
     name: Gianluca Rossi
     position: Project Manager Marketing Production, Swiss Travel System AG
-    portrait: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts-ma-portraits-0340_hr.jpg
+    portrait: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/gianluca.png
 tags:
   - maps
   - passengerinformation
