@@ -35,7 +35,7 @@ content:
         Zuschlag erforderlich ist. Ergänzend integriert die Karte Points of
         Interest wie Sehenswürdigkeiten, Museen oder Aussichtspunkte und macht
         so die Reiseplanung inspirierend, erlebnisreicher und interaktiv.
-      image: /images/cases/die-schweiz-entdecken-digitale-öv-karte-für-internationale-gäste/sts.png
+      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts_screen.png
     - imagePosition: right
       highlight: false
       title: Orientierung auf einen Blick
