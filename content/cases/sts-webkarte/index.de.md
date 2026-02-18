@@ -35,7 +35,7 @@ content:
         aus Europa in die Schweiz. Für jede Route ist auf einen Blick erkennbar,
         ob sie im Swiss Travel Pass enthalten ist oder ob ein Zuschlag
         erforderlich ist.
-      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/sts_screen.png
+      image: /images/cases/discover-switzerland-digital-public-transport-card-for-international-visitors/image.png
     - imagePosition: right
       highlight: false
       title: Orientierung auf einen Blick
