@@ -15,7 +15,7 @@ N﻿ach längerer Vorbereitungszeit und mehr als einem Jahr Programmieren hatten
 
 *Altlast4Web* war seit mehr als 15 Jahren bei zahlreichen kantonalen Ämtern, Bundesbehörden und dem Fürstentum Liechtenstein als die zentrale Software-Lösung für das Management des Katasters belasteter Standorte KbS im Einsatz. Wir hatten zwar ständig Updates ausgeführt, ein weitgehendes Refactoring hatte aber nie stattgefunden. Dass 15 Jahre alte Frontend-Technologien überhaupt noch funktionierten, war daher schon ein kleines Wunder. Allerdings wurde die Wartung der Software auch immer aufwändiger, so dass irgendwann der Punkt kam, an dem wir vor allem regelmässige sicherheitsrelevante Updates nicht mehr guten Gewissens versprechen konnten. 
 
-![](/images/blog/alma-future-oriented-management-of-contaminated-sites/alma_2.png)
+![](/images/blog/alma-future-oriented-management-of-contaminated-sites/alma_.png)
 
 ## Gemeinsam konzipiert
 
