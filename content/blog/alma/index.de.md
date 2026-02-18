@@ -1,5 +1,5 @@
 ---
-title: "alma: zukunftsweisendes Management belasteter Standorte"
+title: Startschuss für alma
 summary: "Nach längerer Vorbereitungszeit und mehr als einem Jahr Programmieren
   hatten wir es im September2025 geschafft. Mit dem Kanton Schwyz konnten wir
   das erste Amt auf die neue Software alma als Nachfolgelösung von Altlast4Web
