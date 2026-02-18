@@ -40,5 +40,5 @@ The implementation of *alma* represents a win-win situation for everyone involve
 Further information about *alma* can be found on its [dedicated website](https://alma-os.ch/).
 
 > *We greatly appreciate our collaboration with geOps in implementing the application for managing contaminated sites in the canton. Thanks to constructive and straightforward communication, our concerns and requirements were always addressed quickly.*
->
-> *–*﻿ Eva Braxmaier, Canton of Friboourg
+
+*–﻿ Eva Braxmaier, Canton of Fribourg*

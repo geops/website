@@ -34,5 +34,5 @@ Die Umsetzung von *alma* stellt für alle Beteiligten eine Win-Win-Situation dar
 Weitere Informationen zu *alma* sind auf der [eigenständigen Website](https://alma-os.ch/ "https\://alma-os.ch/") zu finden.
 
 > *Wir schätzen die Zusammenarbeit mit geOps im Zuge der Implementierung der Anwendung zur Verwaltung der belasteten Standorte des Kantons sehr. Unsere Anliegen und Anforderungen wurden dabei dank der konstruktiven und unkomplizierten Kommunikation immer schnell umgesetzt.*  
->
-> – Eva Braxmaier, Kanton Fribourg
+
+*– Eva Braxmaier, Kanton Fribourg*
