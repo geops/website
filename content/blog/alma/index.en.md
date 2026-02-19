@@ -4,6 +4,7 @@ summary: "After a lengthy preparation period and more than a year of
   programming, we finally succeeded in September 2025. Together with the canton
   of Schwyz, we were able to migrate the first office to the new alma software
   as a successor solution to Altlast4Web. "
+author: Uli Müller
 cover: /images/blog/alma-future-oriented-management-of-contaminated-sites/alma_cover.png
 created: 2026-02-05
 slug: alma
@@ -40,8 +41,8 @@ Following its go-live at the Office for the Environment of the Canton of Schwyz 
 
 The implementation of *alma* represents a win-win situation for everyone involved. The shared experience with the previous solution, *Altlast4Web*, combined with the collaborative approach to specifying the new solution, resulted in a coordinated list of features that were necessary and useful for everyone. The total investment in the project could thus be optimally distributed, and all parties involved could expect an optimised solution at a fraction of the cost of individual development. Synergies could also be exploited in the administrative tasks that arise in every office when procuring a software solution. This unusual approach was possible on the one hand because *alma* was designed from the outset as an open-source solution with the promise that all developments would be made available to all parties involved. On the other hand, the project would hardly have been possible if we at geOps had not laid the foundation for mutual trust over many years through our committed, efficient and transparent cooperation. We would therefore like to conclude this article by thanking everyone involved in *alma*. Only by working together was it possible to realise this flagship project for digital sovereignty and sustainability in public administration.
 
-Further information about *alma* can be found on its [dedicated website](https://alma-os.ch/).
-
 > *We greatly appreciate our collaboration with geOps in implementing the application for managing contaminated sites in the canton. Thanks to constructive and straightforward communication, our concerns and requirements were always addressed quickly.*
 
 *–﻿ Eva Braxmaier, Canton of Fribourg*
+
+Further information about *alma* can be found on its [dedicated website](https://alma-os.ch/).
