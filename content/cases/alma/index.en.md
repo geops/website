@@ -83,4 +83,22 @@ content:
 
 
     ![](/images/cases/alma/alma-1.png)
+testimonials:
+  - text: We greatly appreciate our collaboration with geOps in implementing the
+      application for managing contaminated sites in the canton. Thanks to
+      constructive and straightforward communication, our concerns and
+      requirements were always addressed quickly.
+    name: Eva Braxmaier
+    position: Canton of Fribourg
+  - text: geOps AG has developed modern and reliable software for us to process the
+      contaminated sites register. The application is clearly structured, stable
+      and well tailored to our technical processes. Support and further
+      developments are always provided quickly and precisely.
+    position: Office for Environment and Energy, Canton of Schwyz
+    name: Kilian Aregger
+tags:
+  - altlast4web
+  - boden4web
+  - environment
+  - geops
 ---
