@@ -80,4 +80,17 @@ content:
       text: Z﻿um Nutzen der Software alma wie auch zur Community aus den Ämtern und
         von geOps gibt es weitere Informationen unter
         [alma-os.ch](https://alma-os.ch/de)
+testimonials:
+  - name: Eva Braxmaier
+    position: Kanton Fribourg
+    text: Wir schätzen die Zusammenarbeit mit geOps im Zuge der Implementierung der
+      Anwendung zur Verwaltung der belasteten Standorte des Kantons sehr. Unsere
+      Anliegen und Anforderungen wurden dabei dank der konstruktiven und
+      unkomplizierten Kommunikation immer schnell umgesetzt.
+  - text: Die geOps AG hat für uns eine moderne und zuverlässige Software für die
+      Bearbeitung des Altlastenkatasters erstellt. Die Anwendung ist klar
+      aufgebaut, stabil und gut auf unsere fachlichen Abläufe abgestimmt.
+      Support und Weiterentwicklungen erfolgen stets schnell und präzise.
+    name: Kilian Aregger
+    position: Amt für Umwelt und Energie, Kanton Schwyz
 ---
