@@ -43,7 +43,7 @@ content:
         reduces costs, creates synergies, and ensures sustainable further
         development. For administrations, this means digital sovereignty and
         long-term investment security.
-      image: ""
+      image: /images/cases/the-digital-solution-for-contaminated-sites-in-switzerland/alma_partner.png
     - imagePosition: bottom
       highlight: false
       title: Efficient, transparent, and sustainable
