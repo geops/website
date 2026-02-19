@@ -33,8 +33,8 @@ Nach dem Go Live beim Amt für Umwelt des Kanton Schwyz im September 2025 wird *
 
 Die Umsetzung von *alma* stellt für alle Beteiligten eine Win-Win-Situation dar. Die gemeinsamen Erfahrungen mit der Vorgängerlösung *Altlast4Web* in Kombination mit dem kollaborativen Ansatz bei der Spezifikation der neuen Lösung führten zu einer abgestimmten Liste an Features, die für alle notwendig und sinnvoll waren. Die Gesamtinvestition in das Projekt konnte so optimal aufgeteilt werden und alle Beteiligten konnten eine optimierte Lösung zu einem Bruchteil der Kosten einer Individualentwicklung erwarten. Auch bei den administrativen Aufgaben, die bei jedem Amt bei der Beschaffung einer Software-Lösung anfallen, konnten Synergien genutzt werden. Möglich war dieser ungewöhnliche Ansatz einerseits, weil *alma* von vornherein als Open-Source-Lösung mit dem Versprechen konzipiert war, dass alle Entwicklungen allen Beteiligten zur Verfügung stehen werden. Andererseits wäre das Projekt kaum möglich gewesen, wenn wir von geOps nicht über viele Jahre hinweg durch unsere engagierte, effiziente und transparente Zusammenarbeit die Basis für den einen oder anderen Vertrauensvorschuss geschaffen hätten. Somit möchten wir diesen Beitrag mit einem Dank an alle Beteiligten von *alma* abschliessen. Nur gemeinsam war es möglich, dieses Leuchtturmprojekt für digitale Souveränität und Nachhaltigkeit in der öffentlichen Verwaltung zu realisieren.
 
-Weitere Informationen zu *alma* sind auf der [eigenständigen Website](https://alma-os.ch/ "https\://alma-os.ch/") zu finden.
-
 > *Wir schätzen die Zusammenarbeit mit geOps im Zuge der Implementierung der Anwendung zur Verwaltung der belasteten Standorte des Kantons sehr. Unsere Anliegen und Anforderungen wurden dabei dank der konstruktiven und unkomplizierten Kommunikation immer schnell umgesetzt.*  
 
 *– Eva Braxmaier, Kanton Fribourg*
+
+Weitere Informationen zu *alma* sind auf der [eigenständigen Website](https://alma-os.ch/ "https\://alma-os.ch/") zu finden.
