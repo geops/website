@@ -29,7 +29,7 @@ content:
         Standorte (KbS) zu erstellen. geOps entwickelt seit über 20 Jahren
         Software für die Erstellung und Führung des KbS in der Schweiz. Seit
         2011 war Altlast4Web der Standard für das Management des KbS. Seit 2025
-        ist alma moderne Software-Lösung, die sämtliche Aufgaben in diesem
+        ist alma die moderne Software-Lösung, die sämtliche Aufgaben in diesem
         Bereich unterstützt.
     - imagePosition: bottom
       highlight: false
@@ -41,7 +41,7 @@ content:
         eng an die Standortdaten. Automatisierte Reports, Schnittstellen zu
         Geoportalen und ÖREB sowie hohe Sicherheitsstandards runden die Lösung
         ab.
-      image: /images/cases/alma/schnellsuche-global-v2-closed.png
+      image: /images/cases/the-digital-solution-for-contaminated-sites-in-switzerland/alma-screens.png
     - imagePosition: bottom
       highlight: false
       title: Gemeinsam entwickelt, offen zugänglich

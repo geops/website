@@ -23,7 +23,7 @@ content:
         contaminated sites (KbS). geOps has been developing software for the
         creation and management of the KbS in Switzerland for over 20 years.
         Since 2011, Altlast4Web has been the standard for managing the KbS.
-        Since 2025, alma has been a modern software solution that supports all
+        Since 2025, alma has been the modern software solution that supports all
         tasks in this area.
     - imagePosition: bottom
       highlight: false
@@ -34,7 +34,7 @@ content:
         to remediation and links them closely to the site data. Automated
         reports, interfaces to geoportals and ÖREB, and high security standards
         round off the solution.
-      image: /images/cases/alma/schnellsuche-global-v2-closed.png
+      image: /images/cases/the-digital-solution-for-contaminated-sites-in-switzerland/alma-screens.png
     - imagePosition: bottom
       highlight: false
       title: Jointly developed, openly accessible
