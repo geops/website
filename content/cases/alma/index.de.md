@@ -50,6 +50,7 @@ content:
         reduziert Kosten, schafft Synergien und sorgt für eine nachhaltige
         Weiterentwicklung. Für die Verwaltungen bedeutet das digitale
         Souveränität und langfristige Investitionssicherheit.
+      image: /images/cases/the-digital-solution-for-contaminated-sites-in-switzerland/alma_partner.png
     - imagePosition: bottom
       highlight: false
       title: Effizient, transparent und nachhaltig
