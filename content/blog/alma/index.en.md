@@ -21,7 +21,7 @@ After a long period of preparation and more than a year of programming, we final
 
 ## Proven technology reimagined
 
-For more than 15 years, *Altlast4Web* had been used by numerous cantonal offices, federal authorities and the Principality of Liechtenstein as the central software solution for managing the cadastre of contaminated sites (KbS). Although we had carried out constant updates, extensive refactoring had never taken place. The fact that 15-year-old front-end technologies were still working at all was therefore something of a minor miracle. However, maintenance of the software was becoming increasingly complex, so that at some point we reached a stage where we could no longer promise regular security-related updates with a clear conscience.
+For more than 15 years, *Altlast4Web* had been used by numerous cantonal offices, federal authorities and the Principality of Liechtenstein as the central software solution for managing the cadastre of contaminated sites. Although we had carried out constant updates, extensive refactoring had never taken place. The fact that 15-year-old front-end technologies were still working at all was therefore something of a minor miracle. However, maintenance of the software was becoming increasingly complex, so that at some point we reached a stage where we could no longer promise regular security-related updates with a clear conscience.
 
 ![](/images/blog/alma-future-oriented-management-of-contaminated-sites/alma-screens.png)
 
