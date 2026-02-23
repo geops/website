@@ -24,7 +24,7 @@ Sustainability is very important to me personally. I am happy to be part of a co
 
 ![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg)
 
-*I﻿mage:In 2023, Elke, together with Uli Müller (right) will receive the MobilSiegel award for geOps. This award recognises companies and organisations that actively promote climate-friendly and sustainable mobility, particularly through environmentally friendly design of operational mobility such as commuting and business travel.*
+*I﻿mage: In 2023, Elke, together with Uli Müller (right) will receive the MobilSiegel award for geOps. This award recognises companies and organisations that actively promote climate-friendly and sustainable mobility, particularly through environmentally friendly design of operational mobility such as commuting and business travel.*
 
 #### **What project are you currently working on that you're particularly excited about?**
 
