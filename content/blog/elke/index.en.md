@@ -22,7 +22,9 @@ Who is behind the geOps projects? Our interview series “Faces of geOps” prov
 
 Sustainability is very important to me personally. I am happy to be part of a company whose projects support and promote sustainable thinking. In my free time, I enjoy spending time in the forest. That's why I'm particularly proud of the [Tree App](https://www.tree-app.ch/), which supports future-oriented forestry. Using technology to make sustainable living easier and accessible to everyone is something I feel very strongly about.
 
-![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg "In 2023, Elke, together with Uli Müller, right, will receive the MobilSiegel award for geOps. This award recognises companies and organisations that actively promote climate-friendly and sustainable mobility, particularly through environmentally friendly design of operational mobility such as commuting and business travel.")
+![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg)
+
+*I﻿mage:In 2023, Elke, together with Uli Müller, right, will receive the MobilSiegel award for geOps. This award recognises companies and organisations that actively promote climate-friendly and sustainable mobility, particularly through environmentally friendly design of operational mobility such as commuting and business travel.*
 
 #### **What project are you currently working on that you're particularly excited about?**
 

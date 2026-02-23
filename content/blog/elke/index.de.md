@@ -20,6 +20,8 @@ Nachhaltigkeit ist mir persönlich sehr wichtig. Ich bin froh, Teil eines Untern
 
 ![](/images/blog/faces-of-geops-a-portrait-of-elke/20231019frbpse130.jpg "2023 nimmt Elke gemeinsam mit Uli Müller, rechts, das MobilSiegel für geOps entgegen. Es ist eine Auszeichnung für Unternehmen und Organisationen, die sich aktiv für klimafreundliche und nachhaltige Mobilität einsetzen, insbesondere durch eine umweltfreundliche Gestaltung der betrieblichen Mobilität wie Arbeitswege und Dienstfahrten.")
 
+*B﻿ild: 2023 nimmt Elke gemeinsam mit Uli Müller, rechts, das MobilSiegel für geOps entgegen. Es ist eine Auszeichnung für Unternehmen und Organisationen, die sich aktiv für klimafreundliche und nachhaltige Mobilität einsetzen, insbesondere durch eine umweltfreundliche Gestaltung der betrieblichen Mobilität wie Arbeitswege und Dienstfahrten.*
+
 #### A**n welchem Projekt arbeitest du gerade, das dich besonders begeistert?**
 
 Aktuell haben wir das älteste Projekt von geOps, das über zehn Jahre im Einsatz war und ich schon länger begleite, komplett neu aufgebaut. Für fast 20 Kund:innen nun die Umstellung auf die neueste Technologie zu ermöglichen, ist superspannend. Die Arbeit ist extrem abwechslungsreich, von Layout und User Experience über Kundenkommunikation bis hin zu technischer Umsetzung, Datenmanagement und Logik ist alles dabei. 
