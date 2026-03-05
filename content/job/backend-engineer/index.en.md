@@ -1,5 +1,5 @@
 ---
-title: Senior Backend Engineer Python (m/w/d)
+title: Senior Python Backend Engineer (m/w/d)
 summary: >-
   Du entwickelst leidenschaftlich mit Python und fühlst dich im Backend zuhause?
 
@@ -11,7 +11,7 @@ Moderne und herausragende IT-Lösungen sind genau dein Ding? Du fühlst dich in 
 
 **Dann sollten wir uns kennenlernen.**
 
-Mit Leidenschaft entwickeln wir seit über 20 Jahren umfassende IT-Lösungen, vorwiegend in den Bereichen Umwelt und Öffentlicher Verkehr. Für unseren Standort in Freiburg (DE) suchen wir ab sofort eine:n **Senior Backend Engineer Python (80–100 %)** zur Verstärkung unserer Teams.
+Mit Leidenschaft entwickeln wir seit über 20 Jahren umfassende IT-Lösungen, vorwiegend in den Bereichen Umwelt und Öffentlicher Verkehr. Für unseren Standort in Freiburg (DE) suchen wir ab sofort eine:n **Senior  Python Backend Engineer (80–100 %)** zur Verstärkung unserer Teams.
 
 ![](/images/job/senior-backend-engineer-python-m-w-d/senior-backend-engineer.png)
 
