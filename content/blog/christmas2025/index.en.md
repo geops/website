@@ -11,7 +11,7 @@ tags:
   - team
 frontpage: true
 frontpageImage: /images/blog/eating-together-watching-together-we-wish-you-happy-holidays/image00031.jpeg
-frontpageWeight: -1
+frontpageWeight: 3
 published: true
 ---
 Last Friday, we deliberately brought the year to a close at geOps. Before the calendar finally quietened down, we took some time in the office for a short workshop and our annual review. What were the challenges? What were the highlights? What are we looking forward to next year?
