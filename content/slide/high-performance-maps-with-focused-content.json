@@ -1,5 +1,13 @@
 {
   "en": {
+    "en": {
+      "title": "High performance maps with focused content",
+      "image": "/images/slide/high-performance-maps-with-focused-content/1.png",
+      "weight": 1
+    },
+    "de": {
+      "title": "Performante Karten mit relevanten Inhalten"
+    },
     "title": "High performance maps with focused content",
     "image": "/images/slide/high-performance-maps-with-focused-content/1.png",
     "weight": 1
