@@ -14,7 +14,7 @@ Als Office Manager:in bist du eine zentrale Drehscheibe in unserem Unternehmen: 
 
 Mit Leidenschaft entwickeln wir seit über 20 Jahren umfassende IT-Lösungen, vorwiegend in den Bereichen Umwelt und öffentlicher Verkehr. Für unseren Standort in Olten suchen wir eine:n Office Manager:in 20% zur Verstärkung unseres Teams. 
 
-![](/images/job/office-manager-in-20-in-olten-ab-november/kopie-von-project-manager_linkedin.png)
+![](/images/job/office-manager-in-20-in-olten-ab-november/office-manager.png)
 
 ## Das ist dein Wirkungsbereich
 
