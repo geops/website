@@ -33,12 +33,9 @@ Mit Leidenschaft entwickeln wir seit über 20 Jahren umfassende IT-Lösungen, vo
 * Strukturierte, selbstständige und zuverlässige Arbeitsweise
 * Freude an Zahlen sowie ein gutes Verständnis für betriebswirtschaftliche Zusammenhänge
 * Sicherer Umgang mit MS Office und digitalen Tools (ERP-Erfahrung von Vorteil)
-* *Erfahrung mit Atlassian-Tools (z. B. Jira, Confluence) von Vorteil*
 * Sehr gute Deutschkenntnisse in Wort und Schrift
 * Diskretion, Verantwortungsbewusstsein und Organisationsstärke
 * Teamgeist, Flexibilität und eine proaktive Denkweise
-
-
 
 ## Warum du gerne bei uns arbeiten wirst
 
