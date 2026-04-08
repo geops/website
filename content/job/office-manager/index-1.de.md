@@ -49,10 +49,6 @@ Mit Leidenschaft entwickeln wir seit über 20 Jahren umfassende IT-Lösungen, vo
 * Attraktive Anstellungsbedingungen und Zusatzleistungen
 * Regelmässige Team-Events
 
-<!--StartFragment-->
-
-<!-- x-tinymce/html -->
-
 ## Das klingt nach deinem Job?
 
 Prima! Dann freuen wir uns auf deine Bewerbung.\
