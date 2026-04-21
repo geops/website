@@ -43,7 +43,7 @@ content:
 
 
         Der Schwerpunkt von INSA liegt auf Informationen im und um den Bahnhof, die für Reisende relevant sind. Nebst allen SBB Bahnhöfen sind auch die Stationen weiterer Transportunternehmen in der Schweiz in INSA enthalten. Jedem Bahnhof ist in INSA ein eigener Bereich gewidmet, in welchem die Autoren Einträge erfassen und verändern können. Dazu gehören Service- und Shoppingangebote, Öffnungszeiten, Flächen, Zugänge sowie Auf- und Abgänge und Halteorte.
-      image: /images/cases/insa-–-indoor-station-application/screenshot-2025-09-03-130651.png
+      image: ""
     - imagePosition: right
       highlight: false
       title: Mehrwert für Reisende und Betreiber
@@ -76,7 +76,7 @@ content:
     bietet.
 
 
-    ![](/images/cases/insa-–-indoor-station-application/ihr-partner-für-smarte-mobilitätslösungen.png)
+    ![](/images/cases/insa-–-indoor-station-application/insa_2.png)
 testimonialsOnTop: true
 testimonials:
   - name: Dominik Mosimann
