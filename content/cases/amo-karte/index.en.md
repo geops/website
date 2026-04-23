@@ -52,12 +52,12 @@ content:
       image: /images/cases/barrierefrei-und-karten-geht-das-ja-das-geht/adobestock_1521628631.jpeg
   title: Inklusiv navigieren durch unsere barrierefreie Karte
   lead: >-
-    *Mit Inkrafttreten des revidierten Schweizer
+    Mit Inkrafttreten des revidierten Schweizer
     Behindertengleichstellungsgesetzes (BehiG) und der Verordnung über die
     Barrierefreiheit der Angebote des öffentlichen Verkehrs (VböV) standen
     öffentliche Stellen in der Schweiz vor einer grossen Aufgabe: Bis spätestens
     2024 mussten ihre digitalen Angebote barrierefrei sein, auch interaktive
-    Karten. Genau hier setzt unser Projekt mit der SBB an.*
+    Karten. Genau hier setzt unser Projekt mit der SBB an.
 
 
     ![](/images/cases/amo-karte/amo2_2.png)
