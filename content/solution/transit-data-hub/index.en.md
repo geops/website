@@ -2,8 +2,8 @@
 title: TRALIS – hub for timetable and real-time data
 summary: Data integrator and data supplier, analysis pot, con­verter - the data
   hub is the basis for these and more functions
-cover: /images/solution/transit-data-hub/datendrehscheibe.png
-pageCover: /images/solution/transit-data-hub/datendrehscheibe.png
+cover: /images/solution/transit-data-hub/adobestock_1931845027.jpeg
+pageCover: /images/solution/transit-data-hub/adobestock_1931845027.jpeg
 pageCoverMobile: /images/solution/transit-data-hub/train_mobile.png
 slug: transit-data-hub
 contactSubtitle: The list of possible applications only contains examples of the
