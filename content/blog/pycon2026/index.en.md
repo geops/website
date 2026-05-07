@@ -16,7 +16,7 @@ In April, our developer Tobias attended PyCon DE & PyData 2026 in Darmstadt. Bet
 
 The conference venue, the “darmstadtium”, even felt a bit like a trip back to university days. The lecture halls are named after chemical elements, which immediately reminded Tobias of materials science lectures from his mechanical engineering studies. After all, Darmstadt is widely regarded as one of Germany’s leading hubs for materials science, while KIT, where Tobias himself studied, remains the eternal runner-up.
 
-![](/images/blog/impressions-from-pycon-de-pydata-2026-in-darmstadt/1777024891340.jpg)
+![](/images/blog/impressions-from-pycon-de-pydata-2026-in-darmstadt/dein-abschnittstext-2-.png)
 
 ## AI Agents Everywhere
 
@@ -36,7 +36,7 @@ Mistakes when using AI tools often happen unintentionally and almost casually: s
 
 One question kept surfacing repeatedly:
 
-> *“Who can I actually trust?”*
+> *Who can I actually trust?*
 
 Not only the tools themselves, but also their generated results need to be critically evaluated. Trust is becoming less of a default assumption and more of a conscious decision within the development process.
 

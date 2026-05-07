@@ -13,7 +13,7 @@ Im April war unser Entwickler Tobias an der PyCon DE & PyData 2026 in Darmstadt 
 
 Das Konferenzzentrum „Darmstadtium“ fühlte sich für Tobias dabei fast wie eine kleine Zeitreise zurück ins Studium an. Die Säle tragen Namen chemischer Elemente und erinnerten ihn direkt an Vorlesungen in Werkstoffkunde. Darmstadt gilt schliesslich als eine der wichtigsten Adressen für Materialwissenschaften in Deutschland, während das KIT, wo Tobias selbst studiert hat, ewiger Zweiter ist.
 
-![](/images/blog/impressions-from-pycon-de-pydata-2026-in-darmstadt/1777024891340.jpg)
+![](/images/blog/impressions-from-pycon-de-pydata-2026-in-darmstadt/dein-abschnittstext-2-.png)
 
 ## AI-Agents überall
 
@@ -33,7 +33,7 @@ Im Umgang mit AI-Tools passieren Fehler oft nicht absichtlich, sondern eher nebe
 
 Eine Frage tauchte dabei immer wieder auf:
 
-> *„Wem kann ich eigentlich vertrauen?“*
+> *Wem kann ich eigentlich vertrauen?*
 
 Nicht nur die verwendeten Tools müssen kritisch hinterfragt werden, sondern auch deren Ergebnisse. Vertrauen wird damit weniger selbstverständlich und mehr zu einer bewussten Entscheidung im Entwicklungsprozess.
 
