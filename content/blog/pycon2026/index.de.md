@@ -9,9 +9,9 @@ slug: pycon2026
 frontpage: true
 published: true
 ---
-Im April war unser Entwickler Tobias an der PyCon DE & PyData 2026 in Darmstadt unterwegs. Zwischen Talks, Diskussionen und spontanen Gesprächen in der Mittagspause wurde schnell klar: Das Thema AI-Agents ist endgültig im Entwickleralltag angekommen.
+Im April war unser Entwickler Tobias an der PyCon DE & PyData 2026 in Darmstadt unterwegs. Zwischen Talks, Diskussionen und spontanen Gesprächen in der Mittagspause wurde schnell klar: Das Thema AI-Agents ist endgültig im Entwickler:innenalltag angekommen. 
 
-Das Konferenzzentrum „Darmstadtium“ fühlte sich für Tobias dabei fast wie eine kleine Zeitreise zurück ins Studium an. Die Säle tragen Namen chemischer Elemente und erinnerten ihn direkt an Vorlesungen in Werkstoffkunde. Darmstadt gilt schliesslich als eine der wichtigsten Adressen für Materialwissenschaften in Deutschland, während das KIT, wo Tobias selbst studiert hat, ewiger Zweiter ist.
+ Als studierter Maschinenbauer fühlte sich Tobias im Konferenzgebäude "Darmstadtium" an Vorlesungen von "Werkstoffkunde" erinnert. Die Konferenzsäle sind nämlich nach chemischen Elementen benannt. Darmstadt gilt gemeinhin als die zentrale Anlaufstelle für Studien im Bereich Materialwissenschaften, während das KIT, wo Tobias selbst studiert hat, ewiger Zweiter ist.   
 
 ![](/images/blog/impressions-from-pycon-de-pydata-2026-in-darmstadt/dein-abschnittstext-2-.png)
 
@@ -19,29 +19,29 @@ Das Konferenzzentrum „Darmstadtium“ fühlte sich für Tobias dabei fast wie 
 
 Ein Thema zog sich durch fast alle Vorträge und Panels: AI-Agents verändern die Art, wie Software entwickelt wird.
 
-Besonders spannend war ein Panel, in dem verschiedene Entwickler:innen und Tech-Leads offen darüber diskutierten, wie sie KI heute bereits in ihren Arbeitsalltag integrieren und welche Chancen und Risiken sie dabei sehen.
+Besonders spannend war ein Panel-Talk, in dem verschiedene Entwickler:innen und Tech-Leads offen darüber diskutierten, wie sie KI heute bereits in ihren Arbeitsalltag integrieren und welche Chancen und Risiken sie dabei in Zukunft sehen.
 
-Dabei wurde schnell deutlich: Einen etablierten Standard-Workflow gibt es aktuell noch nicht. Teams experimentieren, testen unterschiedliche Tools und suchen ihren eigenen Umgang mit AI-gestützter Entwicklung. Gerade bei datenintensiven oder komplexen Aufgaben setzen viele weiterhin bewusst auf manuelle Implementierung.
+Was besonders auffiel: Einen klaren, einheitlichenWorkflow gibt es aktuell noch nicht. Teams experimentieren, testen unterschiedliche Tools und suchen ihren eigenen Umgang mit AI-gestützter Entwicklung. Gerade bei datenintensiven oder komplexen Aufgaben setzen viele weiterhin bewusst auf manuelle Implementierung.
 
-Interessant war auch die Beobachtung, dass Anforderungen zunehmend direkt in Markdown formuliert werden. Anforderungen und Entwicklung rücken dadurch näher zusammen. Genau diese Entwicklung beobachten wir aktuell auch bei geOps und passen unsere Prozesse entsprechend an.
+Interessant war auch die Beobachtung, dass Anforderungen zunehmend direkt in Markdown formuliert werden. Dadurch rücken Anforderungen und Entwicklung näher zusammen. Das haben wir auch bereits bei geOps festgestellt und sind dabei, unsere Prozesse dahingehend umzustellen.
 
-## Zwischen Produktivität und Sicherheitsfragen
+## Zwischen Produktivität und Datenschutz
 
 Neben den vielen Möglichkeiten war auch Sicherheit ein grosses Thema der Konferenz.
 
 Im Umgang mit AI-Tools passieren Fehler oft nicht absichtlich, sondern eher nebenbei: Sensible Daten landen in Prompts, werden extern verarbeitet oder unbeabsichtigt gespeichert. Gleichzeitig entstehen durch generierten Code neue potenzielle Sicherheitslücken, wenn Ergebnisse ungeprüft übernommen werden.
 
-Eine Frage tauchte dabei immer wieder auf:
+Eine zentrale Frage tauchte dabei immer wieder auf:
 
 > *Wem kann ich eigentlich vertrauen?*
 
-Nicht nur die verwendeten Tools müssen kritisch hinterfragt werden, sondern auch deren Ergebnisse. Vertrauen wird damit weniger selbstverständlich und mehr zu einer bewussten Entscheidung im Entwicklungsprozess.
+Nicht nur die verwendeten Tools müssen kritisch hinterfragt werden, sondern auch deren Ergebnisse. Nicht nur Tools, sondern auch generierte Ergebnisse müssen kritisch hinterfragt werden. Vertrauen wird weniger selbstverständlich und mehr zu einer bewussten Entscheidung.
 
-Besonders präsent war ausserdem die Erkenntnis, dass heute praktisch jedes Unternehmen potenzielles Ziel automatisierter Angriffe sein kann. Der Satz „Für uns interessiert sich doch sowieso niemand“ gilt längst nicht mehr. Automatisierte Angriffe skalieren problemlos und unterscheiden nicht zwischen Konzernen, Start-ups oder kleinen Projekten.
+Besonders präsent war ausserdem die Erkenntnis, dass heute praktisch jedes Unternehmen potenzielles Ziel automatisierter Angriffe sein kann. Der Satz „Für uns interessiert sich doch sowieso niemand“ gilt längst nicht mehr. Automatisierte Angriffe skalieren problemlos und unterscheiden nicht zwischen grossem Konzern und kleinem Projekt.
 
 ## Sicherheit bleibt menschlich
 
-Ein weiterer Talk beschäftigte sich speziell mit Security im Zeitalter von Coding Agents.
+In einem weiteren Talk ging es um Sicherheit in Zeiten von Coding Agents. 
 
 AI kann helfen, Schwachstellen schneller zu erkennen, Code effizienter zu analysieren und Tests automatisiert zu erstellen. Gerade im Bereich Testing sehen viele Teams grosses Potenzial, weil sich damit Qualitätssicherung deutlich beschleunigen lässt.
 
@@ -49,7 +49,7 @@ Trotzdem blieb ein Punkt unbestritten: Entscheidend ist nicht nur, *dass* getest
 
 ## Gespräche zwischen Versicherung und Industrie
 
-Besonders spannend waren auch die Gespräche abseits der offiziellen Vorträge. In einer Mittagspause tauschte sich Tobias mit Entwickler:innen aus der Versicherungsbranche und der industriellen Produktion aus.
+Besonders spannend waren auch die Gespräche in der Mittagspause. Tobias tauschte mit Entwickler:innen aus der Versicherungsbranche und der industriellen Produktion aus. 
 
 Alle nutzten bereits KI in ihrem Alltag, allerdings sehr unterschiedlich. Während einige hauptsächlich auf intelligente Tab-Completion setzen, lassen andere bereits grosse Teile ihres Codes von Coding Agents generieren.
 
@@ -61,6 +61,6 @@ Der Konsens: Vor allem bei Greenfield-Projekten mit wenigen bestehenden Schnitts
 
 ## Zurück mit vielen Ideen
 
-Mit vielen neuen Eindrücken und reichlich Motivation ging es anschliessend zurück nach Hause und direkt weiter in unseren eigenen AI-Hackday.
+Inspiriert und voller Tatendrang für unseren anstehenden AI-Hackday letzte Woche, ging es für Tobias wieder nach Hause. 
 
 Eine letzte Frage blieb Tobias dabei allerdings noch im Kopf: Hätte KI wohl auch bei der Entdeckung des Elements „Darmstadtium“ geholfen?
