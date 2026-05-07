@@ -63,6 +63,4 @@ Der Konsens: Vor allem bei Greenfield-Projekten mit wenigen bestehenden Schnitts
 
 Mit vielen neuen Eindrücken und reichlich Motivation ging es anschliessend zurück nach Hause und direkt weiter in unseren eigenen AI-Hackday.
 
-Eine letzte Frage blieb Tobias dabei allerdings noch im Kopf:
-
-Hätte KI wohl auch bei der Entdeckung des Elements „Darmstadtium“ geholfen?
+Eine letzte Frage blieb Tobias dabei allerdings noch im Kopf: Hätte KI wohl auch bei der Entdeckung des Elements „Darmstadtium“ geholfen?

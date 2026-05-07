@@ -66,6 +66,4 @@ The general consensus was: primarily for greenfield projects with relatively few
 
 Inspired and full of new ideas, Tobias headed back home and straight into preparation for our own AI Hackday.
 
-One final question, however, stayed with him:
-
-Would AI have helped discover the element “Darmstadtium” as well?
+One final question, however, stayed with him: Would AI have helped discover the element “Darmstadtium” as well?
