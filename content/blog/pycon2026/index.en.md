@@ -4,6 +4,7 @@ summary: Our developer Tobias attended PyCon DE & PyData 2026 in Darmstadt and
   returned with plenty of insights on AI agents, security, and modern
   development workflows.
 author: Tobias Kronauer
+cover: /images/blog/impressions-from-pycon-de-pydata-2026-in-darmstadt/dein-abschnittstext-2-.png
 created: 2026-05-07
 slug: pycon2026
 frontpage: true
