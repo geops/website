@@ -12,9 +12,9 @@ frontpageImage: /images/blog/impressions-from-pycon-de-pydata-2026-in-darmstadt/
 frontpageWeight: 1
 published: true
 ---
-In April, our developer Tobias attended PyCon DE & PyData 2026 in Darmstadt. Between talks, discussions, and spontaneous conversations during lunch breaks, one thing quickly became clear: AI agents have officially arrived in everyday software development.
+In April, I, Tobias, attended PyCon DE & PyData 2026 in Darmstadt. Between talks, discussions, and spontaneous conversations during lunch breaks, one thing quickly became clear: AI agents have officially arrived in everyday software development.
 
-The conference venue, the “darmstadtium”, even felt a bit like a trip back to university days. The lecture halls are named after chemical elements, which immediately reminded Tobias of materials science lectures from his mechanical engineering studies. After all, Darmstadt is widely regarded as one of Germany’s leading hubs for materials science, while KIT, where Tobias himself studied, remains the eternal runner-up.
+As someone with a background in mechanical engineering, the conference venue “darmstadtium” immediately reminded me of materials science lectures from university. The conference halls are named after chemical elements, which made the atmosphere feel oddly familiar. After all, Darmstadt is widely regarded as one of Germany’s leading hubs for materials science, while KIT, where I studied myself, remains the eternal runner-up.
 
 ![](/images/blog/impressions-from-pycon-de-pydata-2026-in-darmstadt/dein-abschnittstext-2-.png)
 
@@ -22,9 +22,9 @@ The conference venue, the “darmstadtium”, even felt a bit like a trip back t
 
 One topic appeared throughout almost every talk and panel discussion: AI agents are changing the way software is built.
 
-One particularly interesting panel focused on how developers and tech leads are already integrating AI into their daily workflows, as well as the opportunities and risks they see for the future.
+One particularly interesting panel featured developers and tech leads openly discussing how they already integrate AI into their daily workflows and what opportunities and risks they see for the future.
 
-What stood out most was that there is still no universally established workflow. Teams are experimenting, testing different tools, and figuring out their own approaches to AI-assisted development. Especially for data-intensive or highly complex tasks, many developers still intentionally prefer manual implementation.
+What stood out most was that there is still no clear, standardized workflow. Teams are experimenting, testing different tools, and figuring out their own approaches to AI-assisted development. Especially for data-intensive or highly complex tasks, many developers still intentionally prefer manual implementation.
 
 Another interesting trend was the increasing use of Markdown for defining requirements. Requirements and implementation are moving closer together. This is something we have also observed at geOps, and we are currently adapting our own processes accordingly.
 
@@ -40,7 +40,7 @@ One question kept surfacing repeatedly:
 
 Not only the tools themselves, but also their generated results need to be critically evaluated. Trust is becoming less of a default assumption and more of a conscious decision within the development process.
 
-Another strong takeaway was that today, virtually every company can become a target of automated attacks. The old assumption that “nobody would bother attacking us anyway” no longer applies. Automated attacks scale effortlessly and do not differentiate between large enterprises, startups, or small projects.
+Another strong takeaway was that today, virtually every company can become a target of automated attacks. The old assumption that “nobody would bother attacking us anyway” no longer applies. Automated attacks scale effortlessly and do not differentiate between large enterprises and small projects.
 
 ## Security Still Requires Humans
 
@@ -52,9 +52,9 @@ Still, one thing remained undisputed: it is not only important *that* something 
 
 ## Conversations Between Insurance and Industry
 
-Some of the most interesting insights came from conversations outside the official talks. During one lunch break, Tobias exchanged ideas with developers from the insurance sector and industrial manufacturing.
+Some of the most interesting insights for me came from conversations during lunch breaks. I spoke with developers from both the insurance sector and industrial manufacturing.
 
-Everyone was already using AI in some form, but at very different levels of adoption. While some mainly relied on advanced tab completion, others were already generating large portions of their code using coding agents.
+Everyone was already using AI in some form, but at very different levels of adoption. While some mainly relied on intelligent tab completion, others were already generating large portions of their code using coding agents.
 
 This naturally led to an interesting discussion:
 
@@ -64,6 +64,8 @@ The general consensus was: primarily for greenfield projects with relatively few
 
 ## Returning Home with New Ideas
 
-Inspired and full of new ideas, Tobias headed back home and straight into preparation for our own AI Hackday.
+Inspired and full of motivation for our upcoming AI Hackday, I eventually headed back home with plenty of new ideas.
 
-One final question, however, stayed with him: Would AI have helped discover the element “Darmstadtium” as well?
+One final question, however, stayed with me:
+
+Would AI have helped discover the element “Darmstadtium” as well?
