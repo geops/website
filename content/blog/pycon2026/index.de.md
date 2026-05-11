@@ -1,9 +1,8 @@
 ---
 title: Eindrücke von der PyCon DE & PyData 2026 in Darmstadt
-summary: "Im April war unser Entwickler Tobias an der PyCon DE & PyData 2026 in
-  Darmstadt unterwegs. Zwischen Talks, Diskussionen und spontanen Gesprächen in
-  der Mittagspause wurde schnell klar: Das Thema AI-Agents ist endgültig im
-  Entwickler:innenalltag angekommen."
+summary: Unser Entwickler Tobias war an der PyCon DE & PyData 2026 in Darmstadt
+  unterwegs und brachte viele spannende Eindrücke rund um AI-Agents, Security
+  und moderne Entwicklungsworkflows mit zurück.
 created: 2026-05-07
 slug: pycon2026
 frontpage: true

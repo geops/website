@@ -1,9 +1,8 @@
 ---
 title: Impressions from PyCon DE & PyData 2026 in Darmstadt
-summary: "In April, our developer Tobias attended PyCon DE & PyData 2026 in
-  Darmstadt. Between talks, discussions, and spontaneous conversations during
-  lunch breaks, one thing quickly became clear: AI agents have officially
-  arrived in everyday software development."
+summary: Our developer Tobias attended PyCon DE & PyData 2026 in Darmstadt and
+  returned with plenty of insights on AI agents, security, and modern
+  development workflows.
 author: Tobias Kronauer
 created: 2026-05-07
 slug: pycon2026
