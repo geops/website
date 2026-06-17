@@ -9,7 +9,7 @@ created: 2025-06-11
 slug: jessi
 frontpage: false
 frontpageImage: /images/blog/faces-of-geops-a-portrait-of-jessi/testimonial-5-.png
-frontpageWeight: 1
+frontpageWeight: ""
 published: true
 ---
 ## **A look behind the scenes at geOps**
