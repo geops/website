@@ -4,7 +4,7 @@ summary: Du möchtest die Mobilität von morgen mitgestalten und digitale Lösun
   für einen attraktiven öffentlichen Verkehr vorantreiben? Dann übernimm als
   Product Owner / Projektleiter:in Verantwortung für innovative Produkte und
   anspruchsvolle IT-Projekte.
-slug: juli-2026-product-owner
+slug: product-owner
 created: 2026-07-10
 ---
 Du möchtest die Mobilität von morgen mitgestalten und digitale Lösungen für einen attraktiven öffentlichen Verkehr vorantreiben? Dann werde Teil von geOps! Für unser Team in Olten (CH) suchen wir per sofort oder nach Vereinbarung eine:n Product Owner / Projektleiter:in.
@@ -28,7 +28,7 @@ Bei uns übernimmst du Verantwortung für innovative Produkte und herausfordernd
 
 ## Was bieten wir dir?
 
-* Sinnvolle Arbeit mit sichtbarem Impact - Du entwickelst Lösungen für Unternehmen aus öffentlichem Verkehr und Mobilität.
+* Sinnvolle Arbeit mit sichtbarem Impact - du entwickelst Lösungen für Unternehmen aus öffentlichem Verkehr und Mobilität.
 * Wir bieten dir eine attraktive Vergütung mit guten Entwicklungsmöglichkeiten in einem wachsenden, technologiegetriebenen Unternehmen.
 * Freiheit in der Arbeitsausgestaltung und grosse Flexibilität, dann und dort zu arbeiten, wo am produktivsten bist.
 * Kaffee und regelmässige Teamevents in einem modernen Büro mit guter ÖV-Anbindung.
