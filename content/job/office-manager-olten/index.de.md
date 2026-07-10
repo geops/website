@@ -1,54 +1,49 @@
 ---
-title: Office Manager:in (20%) in Olten ab November
+title: Office Manager:in (20%), ab November (Olten, CH)
 summary: Hast du Freude an Zahlen, Organisation und daran, Dinge effizient zu
   strukturieren? Dann werde als Office Manager:in zur zentralen Drehscheibe
   unseres Teams und sorge dafür, dass im Hintergrund alles rund läuft.
 slug: office-manager-olten
 created: 2026-04-14
 ---
-Du behältst auch dann den Überblick, wenn viele Fäden gleichzeitig zusammenlaufen? Du hast Freude an Zahlen, Organisation und daran, Dinge strukturiert und effizient zu gestalten?
+Du behältst auch dann den Überblick, wenn viele Fäden gleichzeitig zusammenlaufen? Du hast Freude an Zahlen, Organisation und daran, Abläufe strukturiert und effizient zu gestalten? Dann werde Teil von geOps! Für unser Team in Olten (CH) suchen wir eine:n Office Manager:in (20 %).
 
-**Dann könntest du perfekt zu uns passen.**
+## Das sind deine Aufgaben
 
-Als Office Manager:in bist du eine zentrale Drehscheibe in unserem Unternehmen: Du sorgst dafür, dass unsere administrativen Prozesse reibungslos funktionieren, unterstützt die Geschäftsführung im Tagesgeschäft und hältst unserem Team den Rücken frei. Dabei arbeitest du eng mit verschiedenen internen und externen Ansprechpartnern zusammen und bringst dich aktiv in die Weiterentwicklung unserer Abläufe ein.
+Als Office Manager:in bist du eine zentrale Drehscheibe in unserem Unternehmen. Du sorgst dafür, dass unsere administrativen Prozesse reibungslos funktionieren, unterstützt die Geschäftsführung im Tagesgeschäft und hältst unserem Team den Rücken frei. Dabei arbeitest du eng mit verschiedenen internen und externen Ansprechpartner:innen zusammen und bringst dich aktiv in die Weiterentwicklung unserer Abläufe ein.
 
-Mit Leidenschaft entwickeln wir seit über 20 Jahren umfassende IT-Lösungen, vorwiegend in den Bereichen Umwelt und öffentlicher Verkehr. Für unseren Standort in Olten suchen wir eine:n Office Manager:in 20% zur Verstärkung unseres Teams.
-
-![](/images/job/office-manager-in-20-in-olten-ab-november/office-manager_olten.png)
-
-## Das ist dein Wirkungsbereich
-
-* Verantwortung für das Controlling und die Bewirtschaftung unseres ERP-Systems
-* Selbstständige Führung der Finanz- und Lohnbuchhaltung in Zusammenarbeit mit unserem Steuerberatungsdienstleister
-* Unterstützung im Personalmanagement (Ein- und Austritte, Verträge, Administration)
-* Assistenz der Geschäftsführung in organisatorischen und administrativen Belangen
-* Kommunikation mit externen Partnern, Behörden und Dienstleistern
-* Sekretariatsaufgaben für Subunternehmen (mapset)
-* Unterstützung bei internen Projekten und Prozessoptimierungen
+* Du verantwortest das Controlling und die Bewirtschaftung unseres ERP-Systems.
+* Du führst selbstständig die Finanz- und Lohnbuchhaltung in Zusammenarbeit mit unserem Steuerberatungsdienstleister.
+* Du unterstützt das Personalmanagement bei Ein- und Austritten, Verträgen und weiteren administrativen Aufgaben.
+* Du unterstützt die Geschäftsführung in organisatorischen und administrativen Belangen.
+* Du kommunizierst mit externen Partner:innen, Behörden und Dienstleistern.
+* Du übernimmst Sekretariatsaufgaben für unser Subunternehmen mapset.
+* Du unterstützt uns bei internen Projekten und der Optimierung unserer Prozesse.
 
 ## Das bringst du mit
 
-* Abgeschlossene kaufmännische Ausbildung oder vergleichbare Qualifikation
-* Mehrjährige Erfahrung im Office Management, in der Buchhaltung oder Administration
-* Strukturierte, selbstständige und zuverlässige Arbeitsweise
-* Freude an Zahlen sowie ein gutes Verständnis für betriebswirtschaftliche Zusammenhänge
-* Sicherer Umgang mit MS Office und digitalen Tools (ERP-Erfahrung von Vorteil)
-* Sehr gute Deutschkenntnisse in Wort und Schrift
-* Diskretion, Verantwortungsbewusstsein und Organisationsstärke
-* Teamgeist, Flexibilität und eine proaktive Denkweise
+* Du verfügst über eine abgeschlossene kaufmännische Ausbildung oder eine vergleichbare Qualifikation.
+* Du bringst mehrjährige Erfahrung im Office Management, in der Buchhaltung oder in der Administration mit.
+* Du arbeitest strukturiert, selbstständig und zuverlässig.
+* Du hast Freude an Zahlen und ein gutes Verständnis für betriebswirtschaftliche Zusammenhänge.
+* Du gehst sicher mit MS Office und digitalen Tools um. Erfahrung mit ERP-Systemen ist von Vorteil.
+* Du beherrschst Deutsch fliessend in Wort und Schrift.
+* Du zeichnest dich durch Diskretion, Verantwortungsbewusstsein und Organisationsstärke aus.
+* Du bist teamorientiert, flexibel und denkst proaktiv.
 
-## Warum du gerne bei uns arbeiten wirst
+## Was bieten wir dir?
 
-* Sicherer Arbeitsplatz in einem stetig wachsenden Unternehmen
-* Anspruchsvolle Projekte für namhafte Kunden im Mobilitäts- und Umweltbereich
-* Viel Gestaltungsspielraum bei Architektur, Technologien und Tools
-* Individuelle Förderung und Weiterbildungsmöglichkeiten
-* Flexibles Arbeitsmodelle (Homeoffice, Teilzeit, Jahresarbeitszeit)
-* Ein kollegiales und motiviertes 20-köpfiges Team mit flachen Hierarchien, mit dem das Arbeiten Spass macht.
-* Moderne Infrastruktur und schöne und modern ausgestattete, gut mit dem ÖV erreichbare Büroräumlichkeiten
-* Attraktive Anstellungsbedingungen und Zusatzleistungen
-* Regelmässige Team-Events
+* Sinnvolle Arbeit mit sichtbarem Impact – Du unterstützt ein Unternehmen, das Lösungen für den öffentlichen Verkehr und den Umweltbereich entwickelt.
+* Wir bieten dir eine attraktive Vergütung mit guten Entwicklungsmöglichkeiten in einem wachsenden, technologiegetriebenen Unternehmen.
+* Freiheit in der Arbeitsausgestaltung und grosse Flexibilität, dann und dort zu arbeiten, wo du am produktivsten bist.
+* Einen sicheren Arbeitsplatz sowie individuelle Förderungs- und Weiterbildungsmöglichkeiten.
+* Flexible Arbeitsmodelle mit Homeoffice, Teilzeit und Jahresarbeitszeit.
+* Kaffee und regelmässige Teamevents in einem modernen Büro mit guter ÖV-Anbindung.
 
-## Das klingt nach deinem Job?
+## Das sind wir
 
-Prima! Dann freuen wir uns auf deine Bewerbung.
+Seit über 20 Jahren entwickeln wir mit Leidenschaft Anwendungen und Datenplattformen mit Fokus auf Umwelt und Mobilität. Wir sind ein kollegiales und motiviertes 20-köpfiges Team mit flachen Hierarchien, in dem Entwickler:innen, UX/UI-Spezialist:innen und Product Owner eng zusammenarbeiten.
+
+## So bewirbst du dich
+
+Das klingt nach deinem Job? Prima! Dann freuen wir uns auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com). Hast du noch Fragen? Schreib uns eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
