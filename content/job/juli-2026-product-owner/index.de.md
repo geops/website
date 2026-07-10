@@ -36,7 +36,3 @@ Bei uns übernimmst du Verantwortung für innovative Produkte und herausfordernd
 ## Das sind wir
 
 Seit über 20 Jahren entwickeln wir mit Leidenschaft Anwendungen und Datenplattformen mit Fokus auf Umwelt und Mobilität. Wir sind ein kollegiales und motiviertes 20-köpfiges Team mit flachen Hierarchien, in dem Entwickler:innen, UX/UI-Spezialist:innen und Product Owner eng zusammenarbeiten.
-
-## So bewirbst du dich
-
-Das klingt nach deinem Job? Prima! Dann freuen wir uns auf deine Bewerbung an [karriere@geops.com.](mailto:karriere@geops.com.) Hast du noch Fragen? Schreib uns eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +41 79 925 15 37 an.
