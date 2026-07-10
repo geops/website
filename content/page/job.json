@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Contact",
-    "subtitle": "**Send your application to <a class='!text-green' href='mailto:karriere@geops.com'>karriere@geops.com</a>.**\n If you have any questions, please feel free to contact our CEO:",
+    "title": "Convinced? Apply now!",
+    "subtitle": "Does this sound like the right job for you? Great! We look forward to receiving your application, including your CV, at **<a class='!text-green' href='mailto:karriere@geops.com'>[karriere@geops.com](mailto:karriere@geops.com)</a>**.\n\nDo you have any questions? Send us an email or call our Managing Director:",
     "contact": {
       "name": "Uli Müller",
       "email": "uli.mueller@geops.ch",
@@ -9,7 +9,7 @@
     }
   },
   "de": {
-    "title": "Kontakt",
-    "subtitle": "**Sende deine Bewerbung an <a class='!text-green' href='mailto:karriere@geops.com'>karriere@geops.com</a>.**\n\nBei Fragen kontaktiere gerne unseren Geschäftsführer:"
+    "title": "Überzeugt? Bewirb dich jetzt!",
+    "subtitle": "Das klingt nach deinem Job? Prima! Dann freuen wir uns auf deine Bewerbung inklusive Lebenslauf an **<a class='!text-green' href='mailto:karriere@geops.com'>karriere@geops.com</a>**. \n\nHast du noch Fragen? Schreib uns eine Mail oder rufe unseren Geschäftsführer an:"
   }
 }
