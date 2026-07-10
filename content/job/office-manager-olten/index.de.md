@@ -8,6 +8,8 @@ created: 2026-04-14
 ---
 Du behältst auch dann den Überblick, wenn viele Fäden gleichzeitig zusammenlaufen? Du hast Freude an Zahlen, Organisation und daran, Abläufe strukturiert und effizient zu gestalten? Dann werde Teil von geOps! Für unser Team in Olten (CH) suchen wir eine:n Office Manager:in (20 %).
 
+![](/images/job/office-manager-in-20-ab-november-olten-ch/office-manager_olten.webp)
+
 ## Das sind deine Aufgaben
 
 Als Office Manager:in bist du eine zentrale Drehscheibe in unserem Unternehmen. Du sorgst dafür, dass unsere administrativen Prozesse reibungslos funktionieren, unterstützt die Geschäftsführung im Tagesgeschäft und hältst unserem Team den Rücken frei. Dabei arbeitest du eng mit verschiedenen internen und externen Ansprechpartner:innen zusammen und bringst dich aktiv in die Weiterentwicklung unserer Abläufe ein.
