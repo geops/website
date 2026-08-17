@@ -1,13 +1,13 @@
 ---
-title: Product Owner / Projektleiter:in 80-100%, ab sofort (Olten, CH)
+title: Product Owner / Projektmanager:in 80-100%, ab sofort (Olten, CH)
 summary: Du möchtest die Mobilität von morgen mitgestalten und digitale Lösungen
   für einen attraktiven öffentlichen Verkehr vorantreiben? Dann übernimm als
-  Product Owner / Projektleiter:in Verantwortung für innovative Produkte und
+  Product Owner / Projektmanager:in Verantwortung für innovative Produkte und
   anspruchsvolle IT-Projekte.
 slug: product-owner
 created: 2026-07-10
 ---
-Du möchtest die Mobilität von morgen mitgestalten und digitale Lösungen für einen attraktiven öffentlichen Verkehr vorantreiben? Dann werde Teil von geOps! Für unser Team in Olten (CH) suchen wir per sofort oder nach Vereinbarung eine:n Product Owner / Projektleiter:in.
+Du möchtest die Mobilität von morgen mitgestalten und digitale Lösungen für einen attraktiven öffentlichen Verkehr vorantreiben? Dann werde Teil von geOps! Für unser Team in Olten (CH) suchen wir per sofort oder nach Vereinbarung eine:n Product Owner / Projektmanager:in.
 
 ## Das sind deine Aufgaben
 
