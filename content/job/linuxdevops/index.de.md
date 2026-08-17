@@ -21,6 +21,8 @@ Ausgeprägte Problemlösungs- und Kommunikationsfähigkeiten zeichnen dich aus. 
 
 Idealerweise, aber nicht zwingend, verfügst du über ein Hochschulstudium in Informatik oder anderen natur- und ingenieur­wissen­schaft­lichen Studien­gängen oder eine Ausbildung zum Fachinformatiker. 
 
+Du sprichst fliessend deutsch und englisch.
+
 ## Was bieten wir dir?
 
 * Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienstmöglichkeiten.

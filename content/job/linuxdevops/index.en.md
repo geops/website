@@ -1,39 +1,41 @@
 ---
 title: Linux Administrator and DevOps-Engineer 80-100%
-summary: Do you manage a mixed server infrastructure in the cloud with ease? You
-  want to use your Linux skills for projects in the fields of public transport
-  and environment?
+summary: "Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
+  links? Du willst dein Linux-Können für Projekte in den Bereichen öffentlicher
+  Verkehr und Umwelt sinnvoll einsetzen? "
 slug: linuxdevops
 created: 2024-02-05
 ---
-With reliability and passion, we operate Linux systems with business applications, data hubs or web services for our customers as weell as modern DevOps environments for our team. If you are as passionate as we are about the administration of Linux servers and the operation and continuous improvement of our development environment, we are looking for you as a Linux Administrator and DevOps for our location in Freiburg (D), full-time or part-time (80-100 %).
+Mit Leidenschaft betreiben wir für unsere Kunden leistungsfähige Linux-Systeme mit Business Applications, Datendrehscheiben oder Webdiensten und moderne DevOps-Umgebungen für unser Team. Wenn du gleich wie wir für die Administration von Linux-Servern und den Betrieb und die laufende Verbesserung unserer Entwicklungsumgebung brennst, suchen wir genau dich als Linux Administrator und DevOps (m/w/d) für unseren Standort in Freiburg (D), in Voll- oder Teilzeit (80-100 %).
 
-## What awaits you
+## Was dich erwartet
 
-You will work in interdisciplinary teams on the development and operation of customer solutions and our own products. For the databases, interfaces, microservices and business applications that are required, you will organize the deploys and monitor operations with comprehensive monitoring. Our systems are top-notch, and yet there is always a lot to improve. You play a decisive role in the conception and implementation of all optimizations. You will also regularly have the opportunity to try out new technologies and evaluate them together with us.
+Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unserer eigenen Produkte. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du Bauen, Testen und Deploy und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top, und doch gibt es immer viel zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
 
-## Qualifications
+## Qualifikationen
 
-You bring extensive experience in Linux administration.
+Du bringst umfassende  Erfahrungen in der Linux-Administration mit.
 
-You are familiar with containerization and orchestration (Docker, Kubernetes), cloud infrastructures (AWS and others), automation tools (especially Ansible) as well as monitoring and logging tools (Prometheus, Grafana, Icinga). You routinely solve special tasks using scripting and programming languages (Python, Bash, SQL and others).
+Du kennst dich aus mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
 
-You have excellent problem solving and communication skills. You feel comfortable in an agile, collaborative environment. You are interested in problem solving and solutions for public transport, forward-looking forms of mobility and the environment.
+Ausgeprägte Problemlösungs- und Kommunikationsfähigkeiten zeichnen dich aus. Du fühlst dich in einer agilen, kollaborativen Umgebung wohl. Du bist interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
 
-Ideally, but not necessarily, you have a university degree in computer science or other natural and engineering sciences or an apprenticeship as an IT specialist. 
+Idealerweise, aber nicht zwingend, verfügst du über ein Hochschulstudium in Informatik oder anderen natur- und ingenieur­wissen­schaft­lichen Studien­gängen oder eine Ausbildung zum Fachinformatiker. 
 
-## What do we offer you?
+Du sprichst fliessend deutsch und englisch.
 
-* Secure job with many development and good earning opportunities.
-* Attractive additional benefits to the fixed salary.
-* Individual promotion and further training.
-* Always enough organic fruit, mineral water and organic coffee.
-* Attractive office on the 9th floor of a new building right next to Freiburg's main train station.
-* Regular team events.
-* Living and working in Freiburg (D) in the tri-boder region of Germany, France, Switzerland.
-* A good work-life balance through flexible working hours (full/part-time and home office).
-* Work processes that have grown over many years of experience and are constantly being optimized to make everyone's job easier.
+## Was bieten wir dir?
 
-## That sounds like your job?
+* Sicherer Arbeitsplatz mit vielen Entfaltungs- und guten Verdienstmöglichkeiten.
+* Attraktive Zusatzleistungen zum Festgehalt.
+* Individuelle Förderung und Weiterbildung.
+* Immer genügend Bio-Obst, Mineralwasser und Bio-Kaffee.
+* Attraktives Büro im 9. Stock eines Neubaus direkt am Freiburger Hauptbahnhof.
+* Regelmässige Team-Events.
+* Leben und Arbeiten in Freiburg (D) im Dreiländereck Deutschland, Frankreich, Schweiz.
+* Eine ausgeglichene Work-Life-Balance durch flexible Arbeitszeiten (Voll-/Teilzeit und Home Office).
+* In langer Erfahrung gewachsene und laufend weiter optimierte Arbeitsprozesse, die allen die Arbeit erleichtern.
 
-Great! We are looking for you as soon as possible or by appointment. We look forward to receiving your application at [karriere@geops.com](mailto:karriere@geops.com). Just send us all documents that describe you well. We would also like to see code samples and samples of your work. Please also let us know when you want to start and to what extent (full or part time). If you have any questions, please send us an email or call our managing director Uli Müller at +49 152 546 198 06.
+## Das klingt nach deinem Job?
+
+Prima! Wir suchen dich zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com) freuen wir uns. Sende uns einfach alle Unterlagen, die dich gut beschreiben. Sehr gerne sehen wir uns auch Code-Beispiele und Arbeitsproben von dir an. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +49 152 546 198 06 an.
