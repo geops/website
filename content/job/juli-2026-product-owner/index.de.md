@@ -1,5 +1,5 @@
 ---
-title: Product Owner / Projektleiter:in 80-100%, ab sofort (Olten, CH)
+title: Product Owner / Projektmanager:in 80-100%, ab sofort (Olten, CH)
 summary: Du möchtest die Mobilität von morgen mitgestalten und digitale Lösungen
   für einen attraktiven öffentlichen Verkehr vorantreiben? Dann übernimm als
   Product Owner / Projektleiter:in Verantwortung für innovative Produkte und
