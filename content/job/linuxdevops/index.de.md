@@ -21,7 +21,7 @@ Ausgeprägte Problemlösungs- und Kommunikationsfähigkeiten zeichnen dich aus. 
 
 Idealerweise, aber nicht zwingend, verfügst du über ein Hochschulstudium in Informatik oder anderen natur- und ingenieur­wissen­schaft­lichen Studien­gängen oder eine Ausbildung zum Fachinformatiker. 
 
-Du sprichst fliessend deutsch und englisch.
+Du kommunizierst adressatengerecht und klar mit Entwickler:innen und Kund:innen. Du beherrschst Deutsch fliessend in Wort und Schrift (C1) sowie Englisch auf gutem Niveau (B2).
 
 ## Was bieten wir dir?
 
