@@ -1,5 +1,5 @@
 ---
-title: Office Manager:in (20%), ab November oder nach Verinabarung (Olten, CH)
+title: Office Manager:in (20%), ab November oder nach Vereinbarung (Olten, CH)
 summary: Hast du Freude an Zahlen, Organisation und daran, Dinge effizient zu
   strukturieren? Dann werde als Office Manager:in zur zentralen Drehscheibe
   unseres Teams und sorge dafür, dass im Hintergrund alles rund läuft.
