@@ -1,5 +1,5 @@
 ---
-title: Office Manager:in (20%), ab November (Olten, CH)
+title: Office Manager:in (20%), ab November oder nach Vereinbarung (Olten, CH)
 summary: Hast du Freude an Zahlen, Organisation und daran, Dinge effizient zu
   strukturieren? Dann werde als Office Manager:in zur zentralen Drehscheibe
   unseres Teams und sorge dafür, dass im Hintergrund alles rund läuft.
@@ -19,7 +19,6 @@ Als Office Manager:in bist du eine zentrale Drehscheibe in unserem Unternehmen. 
 * Du unterstützt das Personalmanagement bei Ein- und Austritten, Verträgen und weiteren administrativen Aufgaben.
 * Du unterstützt die Geschäftsführung in organisatorischen und administrativen Belangen.
 * Du kommunizierst mit externen Partner:innen, Behörden und Dienstleistern.
-* Du übernimmst Sekretariatsaufgaben für unser Subunternehmen mapset.
 * Du unterstützt uns bei internen Projekten und der Optimierung unserer Prozesse.
 
 ## Das bringst du mit
@@ -40,8 +39,8 @@ Als Office Manager:in bist du eine zentrale Drehscheibe in unserem Unternehmen. 
 * Freiheit in der Arbeitsausgestaltung und grosse Flexibilität, dann und dort zu arbeiten, wo du am produktivsten bist.
 * Einen sicheren Arbeitsplatz sowie individuelle Förderungs- und Weiterbildungsmöglichkeiten.
 * Flexible Arbeitsmodelle mit Homeoffice, Teilzeit und Jahresarbeitszeit.
-* Kaffee und regelmässige Teamevents in einem modernen Büro mit guter ÖV-Anbindung.
+* Eine freundliche Arbeitsatmosphäre in einem modernen Büro mit guter ÖV-Anbindung und regelmässige Teame-Events.
 
 ## Das sind wir
 
-Seit über 20 Jahren entwickeln wir mit Leidenschaft Anwendungen und Datenplattformen mit Fokus auf Umwelt und Mobilität. Wir sind ein kollegiales und motiviertes 20-köpfiges Team mit flachen Hierarchien, in dem Entwickler:innen, UX/UI-Spezialist:innen und Product Owner eng zusammenarbeiten.
+Seit über 20 Jahren entwickeln wir mit Leidenschaft Anwendungen und Datenplattformen mit Fokus auf Umwelt und Mobilität. Wir sind ein kollegiales und motiviertes 20-köpfiges Team mit flachen Hierarchien, in dem Entwickler:innen, Projektmanager:innen und das Office eng zusammenarbeiten
