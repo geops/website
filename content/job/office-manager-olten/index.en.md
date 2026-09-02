@@ -36,7 +36,6 @@ Als Office Manager:in bist du eine zentrale Drehscheibe in unserem Unternehmen. 
 
 * Sinnvolle Arbeit mit sichtbarem Impact – Du unterstützt ein Unternehmen, das Lösungen für den öffentlichen Verkehr und den Umweltbereich entwickelt.
 * Wir bieten dir eine attraktive Vergütung mit guten Entwicklungsmöglichkeiten in einem wachsenden, technologiegetriebenen Unternehmen.
-* Freiheit in der Arbeitsausgestaltung und grosse Flexibilität, dann und dort zu arbeiten, wo du am produktivsten bist.
 * Einen sicheren Arbeitsplatz sowie individuelle Förderungs- und Weiterbildungsmöglichkeiten.
 * Flexible Arbeitsmodelle mit Homeoffice, Teilzeit und Jahresarbeitszeit.
 * Eine freundliche Arbeitsatmosphäre in einem modernen Büro mit guter ÖV-Anbindung und regelmässige Teame-Events.
