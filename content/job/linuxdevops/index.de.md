@@ -9,19 +9,15 @@ Mit Leidenschaft betreiben wir für unsere Kunden leistungsfähige Linux-Systeme
 
 ## Was dich erwartet
 
-Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unserer eigenen Produkte. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du Bauen, Testen und Deploy und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top, und doch gibt es immer viel zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
+Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unseren eigenen Produkte. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du Bauen, Testen und Deploy und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top und doch gibt es immer etwas zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
 
-## Qualifikationen
+## Deine Qualifikationen
 
-Du bringst umfassende  Erfahrungen in der Linux-Administration mit.
-
-Du kennst dich aus mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
-
-Ausgeprägte Problemlösungs- und Kommunikationsfähigkeiten zeichnen dich aus. Du fühlst dich in einer agilen, kollaborativen Umgebung wohl. Du bist interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
-
-Idealerweise, aber nicht zwingend, verfügst du über ein Hochschulstudium in Informatik oder anderen natur- und ingenieur­wissen­schaft­lichen Studien­gängen oder eine Ausbildung zum Fachinformatiker. 
-
-Du kommunizierst adressatengerecht und klar mit Entwickler:innen und Kund:innen. Du beherrschst Deutsch fliessend in Wort und Schrift (C1) sowie Englisch auf gutem Niveau (B2).
+* Du bringst umfassende Erfahrungen in der Linux-Administration mit.
+* Du kennst dich aus mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
+* Ausgeprägte Problemlösungs- und Kommunikationsfähigkeiten zeichnen dich aus. Du fühlst dich in einer agilen, kollaborativen Umgebung wohl. Du bist interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
+* Idealerweise, aber nicht zwingend, verfügst du über ein Hochschulstudium in Informatik oder anderen natur- und ingenieur­wissen­schaft­lichen Studien­gängen oder eine Ausbildung zum Fachinformatiker. 
+* Du kommunizierst adressatengerecht und klar mit Entwickler:innen und Kund:innen. Du beherrschst Deutsch fliessend in Wort und Schrift (C1) sowie Englisch auf gutem Niveau (B2).
 
 ## Was bieten wir dir?
 
