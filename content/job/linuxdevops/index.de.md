@@ -9,7 +9,7 @@ Mit Leidenschaft betreiben wir für unsere Kunden leistungsfähige Linux-Systeme
 
 ## Was dich erwartet
 
-Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unseren eigenen Produkte. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du Bauen, Testen und Deploy und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top und doch gibt es immer etwas zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
+Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unseren eigenen Produkten. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du Bauen, Testen und Deploy und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top und doch gibt es immer etwas zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
 
 ## Deine Qualifikationen
 
