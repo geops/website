@@ -42,3 +42,7 @@ Als Office Manager:in bist du eine zentrale Drehscheibe in unserem Unternehmen. 
 ## Das sind wir
 
 Seit über 20 Jahren entwickeln wir mit Leidenschaft Anwendungen und Datenplattformen mit Fokus auf Umwelt und Mobilität. Wir sind ein kollegiales und motiviertes 20-köpfiges Team mit flachen Hierarchien, in dem Entwickler:innen, Projektmanager:innen und das Office eng zusammenarbeiten
+
+
+
+**H﻿inweis für Personalvermittler:innen:** Bitte beachten Sie, dass wir für diese Position keine Dossiers von Personalvermittlungen berücksichtigen. Direktbewerbungen werden bevorzugt.
