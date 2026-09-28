@@ -17,6 +17,6 @@ Im zweiten Vortragsblock verlagerte sich der Fokus auf die Performance von Webka
 
 ![](/images/blog/state-of-the-map-2026/sotm2.jpg)
 
-Weitere Vorträge berichteten über Neuigkeiten und Updates zu verschiedenen Routing-Lösungen auf Basis von OpenStreetMap-Daten, darunter MOTIS, [Transitious](https://www.transitious.org/) und [OSRM](https://www.osrm.org/). Auch Offline-Karten in Zügen und die Erstellung großer Mengen gedruckter Umgebungskarten für Bushaltestellen wurden behandelt.
+Weitere Vorträge berichteten über Neuigkeiten und Updates zu verschiedenen Routing-Lösungen auf Basis von OpenStreetMap-Daten, darunter MOTIS, [Transitious](https://www.transitious.org/) und [OSRM](https://project-osrm.org/). Auch Offline-Karten in Zügen und die Erstellung großer Mengen gedruckter Umgebungskarten für Bushaltestellen wurden behandelt.
 
 Zusammenfassend bot die State of the Map 2026 wertvolle Einblicke in die neuesten Entwicklungen und Trends im OpenStreetMap-Ökosystem. Vielleicht bekommt geOps auf der nächsten Konferenz die Gelegenheit, eigene Lösungen und Beiträge für die Community zu präsentieren.

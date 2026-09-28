@@ -17,6 +17,6 @@ In a second block of talks, the focus shifted towards web map performance and ve
 
 ![](/images/blog/state-of-the-map-2026/sotm2.jpg)
 
-Further talks included news and updates about different routing solutions based on OpenStreetMap data, including MOTIS, [Transitious](https://www.transitious.org/) and [OSRM](https://www.osrm.org/), as well as ensuring offline maps on trains and creating large quantities of printed proximity maps for bus stops.
+Further talks included news and updates about different routing solutions based on OpenStreetMap data, including MOTIS, [Transitious](https://www.transitious.org/) and [OSRM](https://project-osrm.org/), as well as ensuring offline maps on trains and creating large quantities of printed proximity maps for bus stops.
 
 In summary, State of the Map 2026 provided valuable insights into the latest developments and trends in the OpenStreetMap ecosystem. Perhaps geOps will present its own solutions and contributions to the community at the next conference.
