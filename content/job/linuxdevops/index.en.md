@@ -33,13 +33,11 @@ Du kommunizierst adressatengerecht und klar mit Entwickler:innen und Kund:innen.
 * Attraktives Büro im 9. Stock eines Neubaus direkt am Freiburger Hauptbahnhof.
 * Regelmässige Team-Events.
 * Leben und Arbeiten in Freiburg (D) im Dreiländereck Deutschland, Frankreich, Schweiz.
-* Eine ausgeglichene Work-Life-Balance durch flexible Arbeitszeiten (Voll-/Teilzeit und Home Office).
-* In langer Erfahrung gewachsene und laufend weiter optimierte Arbeitsprozesse, die allen die Arbeit erleichtern.
+* Eine ausgeglichene Work-Life-Balance durch flexible Arbeitszeiten (Arbeitszeitkonto, Voll- und Teilzeit) und Home Office.
+* In langer Erfahrung gewachsene und immer weiter optimierte Arbeitsprozesse, die allen die Arbeit erleichtern.
 
 ## Das klingt nach deinem Job?
 
 Prima! Wir suchen dich zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com) freuen wir uns. Sende uns einfach alle Unterlagen, die dich gut beschreiben. Sehr gerne sehen wir uns auch Code-Beispiele und Arbeitsproben von dir an. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +49 152 546 198 06 an.
-
-
 
 **H﻿inweis für Personalvermittler:innen:** Bitte beachten Sie, dass wir für diese Position keine Dossiers von Personalvermittlungen berücksichtigen. Direktbewerbungen werden bevorzugt.
