@@ -1,28 +1,25 @@
 ---
-title: Linux Administrator and DevOps-Engineer 80-100%
-summary: "Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
+title: Linux Administrator and DevOps-Engineer 80-100% (Freiburg im Breisgau)
+summary: Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
   links? Du willst dein Linux-Können für Projekte in den Bereichen öffentlicher
-  Verkehr und Umwelt sinnvoll einsetzen? "
+  Verkehr und Umwelt sinnvoll einsetzen? Dann bewirb dich jetzt als Linux
+  Systemadministrator in Freiburg!
 slug: linuxdevops
 created: 2026-08-01
 ---
 Mit Leidenschaft betreiben wir für unsere Kunden leistungsfähige Linux-Systeme mit Business Applications, Datendrehscheiben oder Webdiensten und moderne DevOps-Umgebungen für unser Team. Wenn du gleich wie wir für die Administration von Linux-Servern und den Betrieb und die laufende Verbesserung unserer Entwicklungsumgebung brennst, suchen wir genau dich als Linux Administrator und DevOps (m/w/d) für unseren Standort in Freiburg (D), in Voll- oder Teilzeit (80-100 %).
 
-## Was dich erwartet
+## Deine Aufgaben als Linux Systemadministrator
 
 Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unseren eigenen Produkte. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du Bauen, Testen und Deploy und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top, und doch gibt es immer viel zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
 
 ## Qualifikationen
 
-Du bringst umfassende  Erfahrungen in der Linux-Administration mit.
-
-Du kennst dich aus mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
-
-Ausgeprägte Problemlösungs- und Kommunikationsfähigkeiten zeichnen dich aus. Du fühlst dich in einer agilen, kollaborativen Umgebung wohl. Du bist interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
-
-Idealerweise, aber nicht zwingend, verfügst du über ein Hochschulstudium in Informatik oder anderen natur- und ingenieur­wissen­schaft­lichen Studien­gängen oder eine Ausbildung zum Fachinformatiker. 
-
-Du kommunizierst adressatengerecht und klar mit Entwickler:innen und Kund:innen. Du beherrschst Deutsch fliessend in Wort und Schrift (C1) sowie Englisch auf gutem Niveau (B2).
+* Du bringst umfassende Erfahrungen in der Linux-Administration mit.
+* Du kennst dich aus mit Containerisierung und Orchestrierung (Docker, Kubernetes), Cloud-Infrastrukturen (AWS und andere), Automatisierungstools (vor allem Ansible) sowie Überwachungs- und Protokollierungstools (Prometheus, Grafana, Icinga). Spezielle Aufgaben löst du routiniert mit Skripting und Programmiersprachen (Python, Bash, SQL und andere).
+* Ausgeprägte Problemlösungs- und Kommunikationsfähigkeiten zeichnen dich aus. Du fühlst dich in einer agilen, kollaborativen Umgebung wohl. Du bist interessiert an Problemstellungen und Lösungen für den öffentlichen Verkehr, zukunftsweisende Mobilitätsformen und die Umwelt.
+* Idealerweise, aber nicht zwingend, verfügst du über ein Hochschulstudium in Informatik oder anderen natur- und ingenieur­wissen­schaft­lichen Studien­gängen oder eine Ausbildung zum Fachinformatiker. 
+* Du kommunizierst adressatengerecht und klar mit Entwickler:innen und Kund:innen. Du beherrschst Deutsch fliessend in Wort und Schrift (C1) sowie Englisch auf gutem Niveau (B2).
 
 ## Was bieten wir dir?
 

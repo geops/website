@@ -1,13 +1,14 @@
 ---
-title: Linux Administrator und DevOps-Engineer (m/w/d) 80-100%
-summary: "Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
+title: Linux Administrator und DevOps-Engineer (m/w/d) 80-100% (Freiburg im Breisgau)
+summary: Du administrierst eine gemischte Server-Infrastruktur in der Cloud mit
   links? Du willst dein Linux-Können für Projekte in den Bereichen öffentlicher
-  Verkehr und Umwelt sinnvoll einsetzen? "
+  Verkehr und Umwelt sinnvoll einsetzen? Dann bewirb dich jetzt als Linux
+  Systemadministrator in Freiburg!
 slug: linuxdevops
 ---
 Mit Leidenschaft betreiben wir für unsere Kunden leistungsfähige Linux-Systeme mit Business Applications, Datendrehscheiben oder Webdiensten und moderne DevOps-Umgebungen für unser Team. Wenn du gleich wie wir für die Administration von Linux-Servern und den Betrieb und die laufende Verbesserung unserer Entwicklungsumgebung brennst, suchen wir genau dich als Linux Administrator und DevOps (m/w/d) für unseren Standort in Freiburg (D), in Voll- oder Teilzeit (80-100 %).
 
-## Was dich erwartet
+## Deine Aufgaben als Linux Systemadministrator
 
 Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von Kundenlösungen und unseren eigenen Produkten. Für die Datenbanken, Schnittstellen, Microservices und Business-Applikationen, die es dazu braucht, organisierst du Bauen, Testen und Deploy und überwachst mit einem umfassenden Monitoring den Betrieb. Unsere Systeme sind top und doch gibt es immer etwas zu verbessern. Bei Konzeption und Umsetzung aller Optimierungen spielst du eine entscheidende Rolle. Regelmässig hast du auch die Möglichkeit, neue Technologien auszuprobieren und gemeinsam mit uns zu evaluieren.
 
@@ -31,7 +32,7 @@ Du arbeitest in interdisziplinären Teams an der Entwicklung und dem Betrieb von
 * Eine ausgeglichene Work-Life-Balance durch flexible Arbeitszeiten (Arbeitszeitkonto, Voll- und Teilzeit) und Home Office.
 * In langer Erfahrung gewachsene und immer weiter optimierte Arbeitsprozesse, die allen die Arbeit erleichtern.
 
-  ## Das klingt nach deinem Job?
+## D﻿as klingt nach deinem Job?
 
 Prima! Wir suchen dich zum nächstmöglichen Zeitpunkt oder nach Vereinbarung. Auf deine Bewerbung an [karriere@geops.com](mailto:karriere@geops.com) freuen wir uns. Sende uns einfach alle Unterlagen, die dich gut beschreiben. Sehr gerne sehen wir uns auch Code-Beispiele und Arbeitsproben von dir an. Teile uns bitte auch mit, ab wann und in welchem Umfang (Voll- oder Teilzeit) du starten willst. Sollten noch Fragen offen sein, schreibe uns bitte eine Mail oder rufe unseren Geschäftsführer Uli Müller unter +49 152 546 198 06 an.
 
